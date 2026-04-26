@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What a nice day !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "yes . How about going out and enjoying the sunshine on the grass ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "great , let's go !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "hey , darling , I think I might have a little heatstroke from being in the sun all day . I was so relaxed . It felt as if I were in another world ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "exactly . You know , the sunshine and wind remind me of our honeymoon . You remember ? The island , the sound of the waves , the salty sea air and the sunshine ..."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "yes , it was wonderful but it's already been a year . How time flies !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "why not go again to celebrate out one-year anniversary ? We can go to the same beach , stay in the same hotel and enjoy a dinner in the same restaurant ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "are you kidding ? Can you afford it ? Do you think we can get a room on such short notice ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "never mind that , I'll take care of it . Are you available next week ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "yeah , I think so ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "ok . I'll make the arrangements . It will be great ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "wonderful ! I'll start packing our suitcases ."
+  }
+]

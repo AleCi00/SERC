@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What ’ s on TV tonight ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not much , that new reality-TV show , Ally McNeal , oooo , Dark Angel ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wait a second . I want to watch Ally McNeal ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , come on . That ’ s such a girl ’ s show ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No it ’ s not . It ’ s just funny ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , if you ’ re a girl ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , you just want to watch Dark Angel because of the hot girl ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That ’ s not true . Dark Angel is a good show ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It ’ s story is just an excuse to get the girl dressed up in different tight outfits ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "O . K . , O . K . Let ’ s forget it . There ’ s a football game on too ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No way . I ’ m watching Ally McNeal . Go to John ’ s to watch the game ."
+  }
+]

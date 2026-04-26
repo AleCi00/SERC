@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I am sorry to have kept all of you waiting . I was delayed by something urgent ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You are not late , Mr . Thomas . There're still 15 minutes to go . Mr . White has just called you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What did he say ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He said there was a traffic jam , but he is coming ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "He shouldn't drive his car . He should come here by bus ."
+  }
+]

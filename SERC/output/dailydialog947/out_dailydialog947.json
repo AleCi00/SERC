@@ -1,0 +1,128 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I know you have a son . How old is he ?",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He's going to turn six next month .",
+    "occurrences": [
+      "turn"
+    ],
+    "word_count": 8,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.133,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.019,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Who is looking after him ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My mother-in - law . She retired last year .",
+    "occurrences": [
+      "mother",
+      "law"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.058,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.412,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0589,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0023,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.25,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1786,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "17%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You really are lucky !",
+    "occurrences": [
+      "lucky"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.442,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.4807,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.078,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3593,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "48%"
+      ],
+      [
+        "surprise",
+        "35%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , I know .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

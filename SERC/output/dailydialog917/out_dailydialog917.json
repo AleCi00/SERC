@@ -1,0 +1,217 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What ’ s the Mountaineering Club doing this weekend ?",
+    "occurrences": [
+      "weekend"
+    ],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.441,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.147,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We are going to climb a cliff on the Colorado River .",
+    "occurrences": [
+      "cliff"
+    ],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How hard is the climb ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It is a very difficult climb because there are not many places to put your hands and feet .",
+    "occurrences": [
+      "difficult"
+    ],
+    "word_count": 19,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0449,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What did you do last week ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We rappelled down the side of 300 - foot cliff . It was very exciting .",
+    "occurrences": [
+      "down",
+      "cliff",
+      "exciting"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0996,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.853,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1066,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0351,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.084,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "surprise",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wow ! That sounds like a lot of fun . I ’ m sorry I missed it .",
+    "occurrences": [
+      "like",
+      "fun"
+    ],
+    "word_count": 17,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0511,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.788,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0716,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.044,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , you should come this weekend . I think you could do the climb .",
+    "occurrences": [
+      "weekend"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.441,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0551,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , I will . See you then !",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "O . K . See you .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

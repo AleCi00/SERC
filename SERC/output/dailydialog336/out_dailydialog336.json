@@ -1,0 +1,419 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What do you think about this store ? I heard it ’ s a posh store that ’ s only got branches in big cities .",
+    "occurrences": [
+      "store",
+      "store"
+    ],
+    "word_count": 26,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.704,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0542,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I love this store . The only problem is that it ’ s extremely expensive .",
+    "occurrences": [
+      "love",
+      "store",
+      "problem"
+    ],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.044,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0333,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1035,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0548,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0948,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don ’ t worry . I ’ Ve decided that for your birthday I ’ m going to take you shopping for a new dress .",
+    "occurrences": [
+      "don",
+      "worry",
+      "birthday",
+      "shopping"
+    ],
+    "word_count": 24,
+    "stop_word_count": 11,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.68,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1292,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0445,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.073,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0825,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0493,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.711,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.57,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "surprise",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Really ? I thought you hated shopping ?",
+    "occurrences": [
+      "thought",
+      "shopping"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.969,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1615,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.382,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0637,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0365,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0495,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "16%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I do , that ’ s why you should appreciate this gift !",
+    "occurrences": [
+      "gift"
+    ],
+    "word_count": 12,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.25,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3125,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2735,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.86,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.215,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "31%"
+      ],
+      [
+        "joy",
+        "27%"
+      ],
+      [
+        "surprise",
+        "21%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . That ’ s really nice of you . Let ’ s go in and try some things on .",
+    "occurrences": [],
+    "word_count": 21,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How about this red dress ? I think it would really suit you .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That ’ s gorgeous ! Do they have it in a size 8 ?",
+    "occurrences": [
+      "gorgeous"
+    ],
+    "word_count": 14,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2083,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "20%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Here you go.On any other day , it would cost me a fortune , but it ’ s on special offer today .",
+    "occurrences": [
+      "fortune",
+      "special"
+    ],
+    "word_count": 21,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0656,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.165,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1165,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0383,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "surprise",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think this color isn ’ t quite right for me . Do they have the same dress in white ?",
+    "occurrences": [],
+    "word_count": 21,
+    "stop_word_count": 12,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let me look . Let ’ s see ... they ’ Ve got one in blue , green , pink , black ... and white . Here you are .",
+    "occurrences": [
+      "blue",
+      "green"
+    ],
+    "word_count": 24,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.137,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0086,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.4,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.025,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0224,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "2%"
+      ],
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "joy",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This is perfect ! What do you think ?",
+    "occurrences": [
+      "perfect"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.89,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2225,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.438,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3595,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.078,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2695,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "35%"
+      ],
+      [
+        "trust",
+        "26%"
+      ],
+      [
+        "anticipation",
+        "22%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think you look fantastic . Happy Birthday !",
+    "occurrences": [
+      "happy"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.11,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.185,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.576,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2627,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.218,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.203,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "26%"
+      ],
+      [
+        "trust",
+        "20%"
+      ],
+      [
+        "anticipation",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m so lucky . You only get a chance like this once in a blue moon ! Thanks honey !",
+    "occurrences": [
+      "lucky",
+      "chance",
+      "like",
+      "blue"
+    ],
+    "word_count": 22,
+    "stop_word_count": 10,
+    "occurrences_count": 4,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.721,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0601,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.8,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0667,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.571,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1309,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0807,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "surprise",
+        "13%"
+      ],
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "sadness",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You're not looking happy . What's the matter ?",
+    "occurrences": [
+      "happy",
+      "matter"
+    ],
+    "word_count": 9,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0793,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.788,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1126,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.086,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1551,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "15%"
+      ],
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , nothing special . I'm just a bit tired .",
+    "occurrences": [
+      "special"
+    ],
+    "word_count": 10,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.574,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0717,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "With the job ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "With everything , with everybody , with all this !",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A good suggestion for you . You need a holiday .",
+    "occurrences": [
+      "good",
+      "holiday"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.055,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1758,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.259,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2098,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0365,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1028,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "20%"
+      ],
+      [
+        "anticipation",
+        "17%"
+      ],
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It wasn't always like this , you know .",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you mean ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I mean . We always do the same thing . There's no variety in our lives .",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You need a holiday . That's what's the matter .",
+    "occurrences": [
+      "holiday",
+      "matter"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.096,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.712,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1017,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0681,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Certainly , perhaps .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

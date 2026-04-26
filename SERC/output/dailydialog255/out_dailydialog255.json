@@ -1,0 +1,375 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What seems to be the trouble , Mr . Brown ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm in pretty bad shape , Dr . Ford .",
+    "occurrences": [
+      "pretty",
+      "bad"
+    ],
+    "word_count": 8,
+    "stop_word_count": 1,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0647,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0591,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0559,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0536,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.067,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0603,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0524,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "anger",
+        "6%"
+      ],
+      [
+        "sadness",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , in what way ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No appetite , always on edge , and I can't sleep well .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Did you lose any weight ?",
+    "occurrences": [
+      "lose",
+      "weight"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.261,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.087,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1563,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1667,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.109,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0363,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.65,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2167,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1667,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0963,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "21%"
+      ],
+      [
+        "fear",
+        "16%"
+      ],
+      [
+        "surprise",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I have lost quite a few pounds since last month .",
+    "occurrences": [
+      "lost"
+    ],
+    "word_count": 11,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0781,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "When was the last time you had a check-up ?",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.129,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "About two month ago .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let me take your blood pressure . You look anemic .",
+    "occurrences": [
+      "blood",
+      "pressure"
+    ],
+    "word_count": 11,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.9,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1125,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , Mr . Brown , I'm happy to say it's nothing serious .",
+    "occurrences": [
+      "happy"
+    ],
+    "word_count": 11,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0694,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.788,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0985,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0761,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You're just a little run-down from overwork .",
+    "occurrences": [
+      "run",
+      "down"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.05,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0562,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "5%"
+      ],
+      [
+        "fear",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What am I supposed to do ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think all you need is just a vacation .",
+    "occurrences": [
+      "vacation"
+    ],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1737,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1368,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "17%"
+      ],
+      [
+        "joy",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Try to get outdoors more and be sure to get more rest .",
+    "occurrences": [
+      "outdoors",
+      "rest"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1027,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you , doctor . I'll do as you say .",
+    "occurrences": [
+      "doctor",
+      "ill"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0555,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.082,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1035,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.099,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1068,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "fear",
+        "10%"
+      ],
+      [
+        "sadness",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

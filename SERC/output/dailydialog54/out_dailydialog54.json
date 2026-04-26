@@ -1,0 +1,54 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Gary . Could you type up this report for me ? I have to take off early this afternoon .",
+    "occurrences": [],
+    "word_count": 20,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . Just leave it to me . I'll finish it .",
+    "occurrences": [
+      "leave",
+      "ill"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0476,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0887,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.922,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1317,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0334,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "13%"
+      ],
+      [
+        "fear",
+        "8%"
+      ],
+      [
+        "disgust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

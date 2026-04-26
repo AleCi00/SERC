@@ -1,0 +1,200 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How are you ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m doing well .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How may I help you ?",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0677,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Could you cancel a check for me ?",
+    "occurrences": [
+      "cancel"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0585,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What ’ s the problem ?",
+    "occurrences": [
+      "problem"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0887,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.146,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "14%"
+      ],
+      [
+        "fear",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I wrote the check out for way too much .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How much ?",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I wrote the check out for $ 150 .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What were you supposed to write it out for ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I was supposed to write the check out for $ 100 .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ ll just cancel it for you right now .",
+    "occurrences": [
+      "cancel"
+    ],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0585,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That ’ s great . You ’ re a lifesaver .",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

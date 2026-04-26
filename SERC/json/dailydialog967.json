@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , Jim . How are you ? I haven ’ t seen you for a while ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m fine . I ’ Ve been out of town . I just got back ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where were you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I was in New York for a wedding ."
+  }
+]

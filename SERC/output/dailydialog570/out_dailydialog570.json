@@ -1,0 +1,496 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "did you watch the Oscars on Sunday night ?",
+    "occurrences": [
+      "watch"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1743,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0627,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "17%"
+      ],
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "no , but I heard about that Angelina Jolie and Brad Pitt didn't attend .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "yes , that was surprising . I heard that they got into a fight and then decided not to go .",
+    "occurrences": [
+      "surprising",
+      "fight"
+    ],
+    "word_count": 20,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.667,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0741,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0799,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.867,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0963,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "surprise-anticipation": 0.867,
+    "surprise-anticipation_computed": 0.0963,
+    "anticipation-surprise": 0.867,
+    "anticipation-surprise_computed": 0.0963,
+    "surprise-trust": 0.867,
+    "surprise-trust_computed": 0.0963,
+    "main_emotion": [
+      [
+        "surprise",
+        "9%"
+      ],
+      [
+        "surprise-anticipation",
+        "9%"
+      ],
+      [
+        "anticipation-surprise",
+        "9%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-surprise",
+        "matched_words": [
+          {
+            "word": "surprising",
+            "score": 0.867
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anticipation",
+        "matched_words": [
+          {
+            "word": "surprising",
+            "score": 0.867
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-trust",
+        "matched_words": [
+          {
+            "word": "surprising",
+            "score": 0.867
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "they must be the most famous celebrity couple in Hollywood .",
+    "occurrences": [
+      "celebrity"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.026,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0052,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1032,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0376,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.342,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0684,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0688,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0546,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ],
+      [
+        "surprise",
+        "6%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "they're also one of the richest couples . They have so many money and they can buy almost anything they want .",
+    "occurrences": [
+      "money"
+    ],
+    "word_count": 22,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.074,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0057,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0451,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0408,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0276,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I also heard that Tom Cruise and Katie Holmes made an appearance at the Oscars .",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "did either one of them win an Oscar this year ?",
+    "occurrences": [
+      "win"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1454,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think Tom might have been nominated for one of his films , but I don't think he won anything .",
+    "occurrences": [],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Tom Cruise may be handsome , but I think he's a bit crazy , don't you ?",
+    "occurrences": [
+      "crazy"
+    ],
+    "word_count": 13,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0556,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.519,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0577,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.368,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0409,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "5%"
+      ],
+      [
+        "anger",
+        "5%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "yes , his marriage to Katie is actually quite scandalous .",
+    "occurrences": [
+      "marriage",
+      "scandalous"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.574,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0957,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1093,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.514,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0857,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1158,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "10%"
+      ],
+      [
+        "anger",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I still think that they only got married to get more publicity for their movies and themselves .",
+    "occurrences": [
+      "movies"
+    ],
+    "word_count": 18,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.393,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0491,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "people in show biz can have such an easy life ; I don't know why they have to make it so complicated .",
+    "occurrences": [
+      "show",
+      "life"
+    ],
+    "word_count": 22,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0398,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.032,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I would never want to be a celebrity because the paparazzi would also be after you .",
+    "occurrences": [
+      "celebrity"
+    ],
+    "word_count": 17,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.026,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0032,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0645,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0235,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.342,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0428,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.043,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0341,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "surprise",
+        "4%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "that's true . I guess it would be difficult to have people taking pictures of you everywhere you go .",
+    "occurrences": [
+      "true",
+      "guess",
+      "difficult"
+    ],
+    "word_count": 20,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0299,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0273,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0332,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.789,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0658,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "thank goodness we're not rich and famous !",
+    "occurrences": [
+      "goodness"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.876,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1752,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.636,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3272,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0656,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.36,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.272,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "32%"
+      ],
+      [
+        "trust",
+        "27%"
+      ],
+      [
+        "anticipation",
+        "17%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "being famous , I can do without , but I wouldn't mind being rich .",
+    "occurrences": [
+      "mind"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0143,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

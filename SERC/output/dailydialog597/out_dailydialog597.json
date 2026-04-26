@@ -1,0 +1,322 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How silly of you to jump out of the window !",
+    "occurrences": [
+      "silly",
+      "jump"
+    ],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.79,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.4475,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "44%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But that was the first thing that came into my mind when I heard the shout earthquake !",
+    "occurrences": [
+      "mind",
+      "shout",
+      "earthquake"
+    ],
+    "word_count": 17,
+    "stop_word_count": 9,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 2.116,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2645,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0215,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.624,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.203,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.468,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1835,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 2.906,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3633,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "surprise",
+        "36%"
+      ],
+      [
+        "anger",
+        "26%"
+      ],
+      [
+        "fear",
+        "20%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why not use staircases ? The terror was not so violent at that time .",
+    "occurrences": [
+      "terror",
+      "violent",
+      "time"
+    ],
+    "word_count": 15,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1206,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0737,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.711,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1016,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.765,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2521,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0926,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "surprise-fear": 0.953,
+    "surprise-fear_computed": 0.1361,
+    "fear-surprise": 0.953,
+    "fear-surprise_computed": 0.1361,
+    "fear-anticipation": 0.953,
+    "fear-anticipation_computed": 0.1361,
+    "fear-sadness": 0.953,
+    "fear-sadness_computed": 0.1361,
+    "trust-fear": 0.953,
+    "trust-fear_computed": 0.1361,
+    "anger-fear": 0.953,
+    "anger-fear_computed": 0.1361,
+    "fear-disgust": 0.953,
+    "fear-disgust_computed": 0.1361,
+    "fear-trust": 0.953,
+    "fear-trust_computed": 0.1361,
+    "fear-anger": 0.953,
+    "fear-anger_computed": 0.1361,
+    "sadness-fear": 0.953,
+    "sadness-fear_computed": 0.1361,
+    "disgust-fear": 0.953,
+    "disgust-fear_computed": 0.1361,
+    "anticipation-fear": 0.953,
+    "anticipation-fear_computed": 0.1361,
+    "main_emotion": [
+      [
+        "fear",
+        "25%"
+      ],
+      [
+        "surprise-fear",
+        "13%"
+      ],
+      [
+        "fear-surprise",
+        "13%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-fear",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-fear",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anger",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anticipation",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "fear-disgust",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "fear-sadness",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "fear-surprise",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "fear-trust",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "sadness-fear",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-fear",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "trust-fear",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That would be too late .",
+    "occurrences": [
+      "late"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Maybe the situation is too urgent .",
+    "occurrences": [
+      "urgent"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1817,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.45,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1125,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1737,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "18%"
+      ],
+      [
+        "surprise",
+        "17%"
+      ],
+      [
+        "fear",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I think I should have jumped in any case .",
+    "occurrences": [
+      "case"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.094,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0188,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.228,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0456,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

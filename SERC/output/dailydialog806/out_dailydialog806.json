@@ -1,0 +1,419 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "hi , darling ! I have a one-month vacation saved up . How about a trip to Europe ?",
+    "occurrences": [
+      "darling",
+      "vacation",
+      "trip"
+    ],
+    "word_count": 18,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0695,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.703,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1703,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0281,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.0,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "17%"
+      ],
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I could go for that . But I'm afraid our budget is a little tight this year .",
+    "occurrences": [
+      "afraid",
+      "budget"
+    ],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0451,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "9%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "oh , but I really need to leave this town for a change . Working day after day has worn me out . Do you have any other suggestions ?",
+    "occurrences": [
+      "leave",
+      "change",
+      "worn"
+    ],
+    "word_count": 28,
+    "stop_word_count": 14,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.198,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0141,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.058,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0167,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "5%"
+      ],
+      [
+        "surprise",
+        "1%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "we should probably think about going somewhere that isn't too far away . How about the countryside ? There must be many interesting places , and we could enjoy the fresh air and the delicious local spec",
+    "occurrences": [
+      "countryside",
+      "enjoy",
+      "delicious"
+    ],
+    "word_count": 36,
+    "stop_word_count": 15,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0275,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.641,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0781,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.023,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "wonderful ! I think that's a great idea . How soon until we can make this happen ? I can't wait !",
+    "occurrences": [
+      "wonderful",
+      "happen",
+      "wait"
+    ],
+    "word_count": 22,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.53,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1093,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.726,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1233,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0647,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.25,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0893,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "10%"
+      ],
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "tomorrow I have an appointment with my dentist . What about next Monday ?",
+    "occurrences": [
+      "tomorrow",
+      "dentist"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.108,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.052,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ],
+      [
+        "fear",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "perfect . I'll start preparing tomorrow . If we're going to drive , I'll need to fill up the tank .",
+    "occurrences": [
+      "perfect",
+      "ill",
+      "start",
+      "tomorrow",
+      "fill"
+    ],
+    "word_count": 20,
+    "stop_word_count": 7,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0256,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.843,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1418,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0378,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0478,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0553,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0457,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0265,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.859,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0661,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "14%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "no need . I think it's still plenty full . Even so , I'd rather travel by bus or train . It would cost much less than driving . Oil prices are soaring nowadays , you know .",
+    "occurrences": [
+      "full",
+      "travel",
+      "less"
+    ],
+    "word_count": 36,
+    "stop_word_count": 11,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.167,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0067,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.784,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0314,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0169,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "trust",
+        "1%"
+      ],
+      [
+        "fear",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "we can take the train , that will be faster . I'll book the tickets tomorrow morning .",
+    "occurrences": [
+      "ill",
+      "tomorrow",
+      "morning"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0333,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0648,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0492,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.025,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0594,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "great ! Oh , one more thing , don't forget to check the weather before we go . I'd hate to get caught in the rain .",
+    "occurrences": [
+      "hate",
+      "rain"
+    ],
+    "word_count": 25,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0487,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0409,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0285,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.819,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0482,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "4%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "disgust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "no problem . I'm really looking forward to the coming week .",
+    "occurrences": [
+      "problem",
+      "coming"
+    ],
+    "word_count": 12,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0296,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0487,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Me , too . Now let's make a list for what we need to take with us .",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

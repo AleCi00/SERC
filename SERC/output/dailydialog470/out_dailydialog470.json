@@ -1,0 +1,286 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , are you Mrs . Green from England ?",
+    "occurrences": [
+      "green"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.137,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0343,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0897,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I am .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm pleased to meet you , Mrs . Green . My name is Myra . I work in Beijing Institute of Technology . I came here to meet you .",
+    "occurrences": [
+      "pleased",
+      "green"
+    ],
+    "word_count": 24,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.862,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0663,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0276,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How do you do ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How do you do ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's kind of you to meet me at the airport .",
+    "occurrences": [
+      "kind",
+      "airport"
+    ],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1552,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1603,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "16%"
+      ],
+      [
+        "joy",
+        "15%"
+      ],
+      [
+        "anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Welcome to Beijing . Is this your first time in China ?",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1032,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , I have visited China several times , but it's my first visit to Beijing and I think it's a great honor to be invited to your beautiful city .",
+    "occurrences": [
+      "honor",
+      "beautiful"
+    ],
+    "word_count": 25,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.781,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0651,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "anticipation-trust": 0.844,
+    "anticipation-trust_computed": 0.0703,
+    "trust-anticipation": 0.844,
+    "trust-anticipation_computed": 0.0703,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation-trust",
+        "7%"
+      ],
+      [
+        "trust-anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "honor",
+            "score": 0.844
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "honor",
+            "score": 0.844
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's our pleasure to have you here . I hope you will have a pleasant stay here .",
+    "occurrences": [
+      "pleasure",
+      "hope",
+      "pleasant"
+    ],
+    "word_count": 18,
+    "stop_word_count": 12,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.296,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.216,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.045,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3408,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1015,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.242,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.207,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "34%"
+      ],
+      [
+        "anticipation",
+        "21%"
+      ],
+      [
+        "trust",
+        "20%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you . I'm sure I will have a wonderful time here .",
+    "occurrences": [
+      "wonderful",
+      "time"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0737,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.863,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1233,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0647,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0893,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ],
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

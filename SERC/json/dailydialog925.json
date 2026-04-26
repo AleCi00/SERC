@@ -1,0 +1,66 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What a beautiful watch . It goes very well with your ring ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is that your wedding ring ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm not married yet . It's my engagement ring ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , congratulations . When is the big date ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "In June ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Did you have the watch before getting the ring ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Actually , we bought the ring together after I got the watch ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You did a fabulous job with the selection . It's gorgeous ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you so much ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What kind of watch is it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's a Tag Heer ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "If you don't mind me asking , how much do they cost ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This one is $ 1500 . But they range from $ 600 to $ 3000 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's why it looks so nice . I should have figured . You always get what you pay for ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah . I would rather get one nice watch instead of 20 mediocre ones ."
+  }
+]

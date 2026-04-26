@@ -1,0 +1,109 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It ’ s really terrible !",
+    "occurrences": [
+      "terrible"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.376,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.344,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.124,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.281,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.297,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.156,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.289,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "34%"
+      ],
+      [
+        "fear",
+        "29%"
+      ],
+      [
+        "sadness",
+        "28%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What are you talking about ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don ’ t you see many parents are forcing there children ’ s hands to learn something they think important to their children . But the children are not interested in it at all .",
+    "occurrences": [
+      "don",
+      "important",
+      "interested"
+    ],
+    "word_count": 35,
+    "stop_word_count": 18,
+    "occurrences_count": 3,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0046,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.114,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0067,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0533,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "sadness",
+        "0%"
+      ],
+      [
+        "disgust",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You said it . Many parents just don ’ t know how to educate their children .",
+    "occurrences": [
+      "don"
+    ],
+    "word_count": 17,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0303,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

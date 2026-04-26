@@ -1,0 +1,329 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Are there any interesting stories in the newspaper today ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "There are a few stories about natural disasters . There is a massive forest fire in Australia . It covers several square kilometers of land has destroyed many more square kilometers .",
+    "occurrences": [
+      "fire",
+      "destroyed"
+    ],
+    "word_count": 31,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.788,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.39,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0772,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "anger",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Was it caused accidentally or naturally ? Sometimes it gets so hot that fires begin naturally in Australia and Africa .",
+    "occurrences": [
+      "accidentally",
+      "hot"
+    ],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.529,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0481,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0611,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "6%"
+      ],
+      [
+        "anger",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Nobody knows at the moment , but it has been very hot there recently . The drought in Africa is causing starvation . Millions of people have migrated to try and find food .",
+    "occurrences": [
+      "hot",
+      "starvation",
+      "food"
+    ],
+    "word_count": 32,
+    "stop_word_count": 15,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.529,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0311,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0423,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0152,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.819,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0482,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.336,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0198,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "fear",
+        "4%"
+      ],
+      [
+        "anger",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What is the international community doing to help ?",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0508,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The European union has sent several plants with relief supplies . Several countries have sent soldiers to distribute food and medical supplies . Refugee camps have been set up across the region .",
+    "occurrences": [
+      "relief",
+      "food",
+      "medical",
+      "refugee"
+    ],
+    "word_count": 32,
+    "stop_word_count": 10,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0199,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0135,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.696,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0316,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0206,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0384,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How many countries have been affected ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Six have been seriously affected , but the refugees are also migrating to several surrounding countries .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I saw on the tv yesterday that there has been another earthquake in iran .",
+    "occurrences": [
+      "earthquake"
+    ],
+    "word_count": 15,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0559,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.116,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.734,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1049,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.116,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "11%"
+      ],
+      [
+        "surprise",
+        "11%"
+      ],
+      [
+        "sadness",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . There have been a few there recently . They say that this one was not a big quake . The Iranians are dealing with it on their own . They have purchased some special equipment to find people buried u",
+    "occurrences": [
+      "quake",
+      "special",
+      "buried"
+    ],
+    "word_count": 41,
+    "stop_word_count": 23,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.343,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0746,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.574,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0319,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0391,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Does the newspaper say anything about casualties ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "So far , less than 20 people have died , but over 100 are in hospital .",
+    "occurrences": [
+      "less",
+      "died",
+      "hospital"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.651,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0814,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.39,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1738,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0664,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "17%"
+      ],
+      [
+        "fear",
+        "8%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

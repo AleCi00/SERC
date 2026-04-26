@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You would be using mainly English in this job . Do you think you could manage ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I am sure I can ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you think you are proficient in both written and spoken English ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I think I am quite proficient in both written and spoken English ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you think you can make yourself understood in English with ease ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I think I can in ordinary circumstances ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you think you can speak English quite fluently ? Tell me about your English education ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I think I speak English quite fluently . I got a high score on TOEFL . I majored in English in college ."
+  }
+]

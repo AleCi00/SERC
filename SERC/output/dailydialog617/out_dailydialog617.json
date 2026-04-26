@@ -1,0 +1,72 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "My granny is such a kind-hearted person . She is willing to help .",
+    "occurrences": [
+      "kind",
+      "help"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0254,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0776,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0801,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "She does have a heart of gold .",
+    "occurrences": [
+      "heart"
+    ],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1823,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You can say that again .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "John , my father isn't there at all . Are you kidding ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Cool , fellow , what's the date today , buddy ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's ... oh it's the 1st April , April Fool's Day ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You forgot all of about it , didn't you ?"
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Thank your for calling World Airline . What can I do for you ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I need to book a plane ticket to London .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Round-trip or one-way ?",
+    "occurrences": [
+      "trip"
+    ],
+    "word_count": 6,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0562,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "One-way .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What date would you like to fly ?",
+    "occurrences": [
+      "date",
+      "like"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0688,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Saturday , July 25 .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How many people will be traveling ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just one adult .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Which class ?",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Economy , please . Economy class is the cheapest , right ?",
+    "occurrences": [
+      "economy",
+      "economy"
+    ],
+    "word_count": 10,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.876,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1095,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Right . Ok , the fare is $ 700 .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

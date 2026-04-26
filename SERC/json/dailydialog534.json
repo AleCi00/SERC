@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I hear you are planning to travel abroad ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I'm going to the Untied States for travel . What places do you recommend ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "In my opinion , there are several places you mustn't miss , like Washington D . C , Las Vegas , New York and Los Angeles ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Someone suggests that I should go to Seattle and Hawaii ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , you may consider those two places also . Seattle , for example , is worth visiting and there's a very famous museum called Museum of Flight ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "And Seattle is the home of Microsoft and Boeing . That must be a great place . I can't miss it ."
+  }
+]

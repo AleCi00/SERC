@@ -1,0 +1,324 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Bessie .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hello , Jack.Happy birthday !",
+    "occurrences": [
+      "birthday"
+    ],
+    "word_count": 4,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.266,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3165,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.382,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3455,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.984,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.246,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "34%"
+      ],
+      [
+        "anticipation",
+        "31%"
+      ],
+      [
+        "surprise",
+        "24%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "My birthday ? I forgot it , Thank you for remembering my birthday .",
+    "occurrences": [
+      "birthday",
+      "birthday"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.266,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.211,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.382,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2303,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.984,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.164,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "23%"
+      ],
+      [
+        "anticipation",
+        "21%"
+      ],
+      [
+        "surprise",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'd like to offer you my congratulations on your birthday and best wishes for your future happiness , good health and continued success . I've asked the Fairy Flowers to send you a bunch of flowers . I hope you'll like them .",
+    "occurrences": [
+      "like",
+      "birthday",
+      "happiness",
+      "good",
+      "health",
+      "success",
+      "flowers",
+      "hope",
+      "youll",
+      "like"
+    ],
+    "word_count": 40,
+    "stop_word_count": 16,
+    "occurrences_count": 10,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 3.032,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1263,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 4.504,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1877,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.078,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0449,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.593,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.108,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "fear-joy": 0.984,
+    "fear-joy_computed": 0.041,
+    "surprise-joy": 0.984,
+    "surprise-joy_computed": 0.041,
+    "anger-joy": 0.984,
+    "anger-joy_computed": 0.041,
+    "anticipation-joy": 0.984,
+    "anticipation-joy_computed": 0.041,
+    "joy-surprise": 0.984,
+    "joy-surprise_computed": 0.041,
+    "trust-joy": 0.984,
+    "trust-joy_computed": 0.041,
+    "disgust-joy": 0.984,
+    "disgust-joy_computed": 0.041,
+    "joy-anger": 0.984,
+    "joy-anger_computed": 0.041,
+    "joy-anticipation": 0.984,
+    "joy-anticipation_computed": 0.041,
+    "joy-trust": 0.984,
+    "joy-trust_computed": 0.041,
+    "joy-fear": 0.984,
+    "joy-fear_computed": 0.041,
+    "joy-disgust": 0.984,
+    "joy-disgust_computed": 0.041,
+    "main_emotion": [
+      [
+        "joy",
+        "18%"
+      ],
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "fear-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anger",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anticipation",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-disgust",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-fear",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-surprise",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-trust",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "trust-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks a lot . I'm so touched .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Now let me sing \" Happy birthday \" for you .",
+    "occurrences": [
+      "sing"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.411,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.137,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.729,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.243,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.017,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0057,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1407,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "24%"
+      ],
+      [
+        "trust",
+        "14%"
+      ],
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you very much .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

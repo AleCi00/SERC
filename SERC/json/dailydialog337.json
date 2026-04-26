@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "The hotel operator . Anything I can do for you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I've been trying to get through to the booking office for the last ten minutes . But the line has been engaged all the time . Why is it taking so long ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry to hear that . I'm afraid it is often the case during the peak hours . Shall I ask them to call you when the line is free ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . Please do so if it is not troublesome ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No trouble at all . May I know your name and room number ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm Du Juan , in Room 312 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I see . Wait in the room , please ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you for your kindness ."
+  }
+]

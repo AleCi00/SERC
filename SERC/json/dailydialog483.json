@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It's your turn now , Helen ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . I'm coming ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "This is your song . I picked it for you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you . You are so considerate ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Push the red button on the mike to turn it on ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . This key is too high for me ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think it's a piece of cake for you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . Let me have a try ..."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well done ! I hope I can sing as well as you one day ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you . I'm sure you will ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I hope so . Thank you for saying so ."
+  }
+]

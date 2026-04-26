@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me . Do you mind if I try this on ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not at all . The changing rooms are just this way ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks . It's a little tight . Do you have any in a larger size ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . I'll give you the next size up . That one is small , right ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . Also , I'm not so sure about the color ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well.It doesn't go with your skirt . I think the color itself is fine though ."
+  }
+]

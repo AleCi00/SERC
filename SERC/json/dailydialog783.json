@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "May I ask a question ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , what's it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What does mph stand for ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's miles per hour ."
+  }
+]

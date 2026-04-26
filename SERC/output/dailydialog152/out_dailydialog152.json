@@ -1,0 +1,76 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Are these the clothes you want to have washed ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . When can I get them back ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , if they are collected right now , you can get them back tonight .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's fine . By the way , please have that suit dry cleaned .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK . Please fill in the form first .",
+    "occurrences": [
+      "fill"
+    ],
+    "word_count": 9,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.32,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0457,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

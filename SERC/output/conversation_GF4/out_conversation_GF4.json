@@ -1,0 +1,233 @@
+[
+  {
+    "speaker": "Giulia",
+    "text": "It makes me nauseous the fact that you literally don't leave me free to decide about my life, it really disgusts me. When I make you promises I do it because I'm sorry you feel bad, so I try to meet you halfway, but every time you come out so calmly with phrases about how normal it is that you can prevent me from doing things, as if you weren't trampling on my freedom and limiting my happiness, it makes me want to take everything back, because you haven't even realized that treating me like this you're doing me wrong, that you're making me feel bad, that you're emotionally blackmailing me. you only think about yourself and what YOU WANT to be done.",
+    "occurrences": [
+      "nauseous",
+      "fact",
+      "leave",
+      "free",
+      "life",
+      "promises",
+      "bad",
+      "time",
+      "prevent",
+      "freedom",
+      "happiness",
+      "like",
+      "bad"
+    ],
+    "word_count": 120,
+    "stop_word_count": 66,
+    "occurrences_count": 13,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0168,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.157,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0214,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.446,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0268,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.25,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0231,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.527,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0468,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.672,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.031,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0043,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.5,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0463,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "fear-joy": 0.984,
+    "fear-joy_computed": 0.0182,
+    "surprise-joy": 0.984,
+    "surprise-joy_computed": 0.0182,
+    "anger-joy": 0.984,
+    "anger-joy_computed": 0.0182,
+    "anticipation-joy": 0.984,
+    "anticipation-joy_computed": 0.0182,
+    "joy-surprise": 0.984,
+    "joy-surprise_computed": 0.0182,
+    "trust-joy": 0.984,
+    "trust-joy_computed": 0.0182,
+    "disgust-joy": 0.984,
+    "disgust-joy_computed": 0.0182,
+    "joy-anger": 0.984,
+    "joy-anger_computed": 0.0182,
+    "joy-anticipation": 0.984,
+    "joy-anticipation_computed": 0.0182,
+    "joy-trust": 0.984,
+    "joy-trust_computed": 0.0182,
+    "joy-fear": 0.984,
+    "joy-fear_computed": 0.0182,
+    "joy-disgust": 0.984,
+    "joy-disgust_computed": 0.0182,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "fear-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anger",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anticipation",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-disgust",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-fear",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-surprise",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-trust",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "trust-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I'VE TOLD YOU A THOUSAND TIMES THAT I KNOW IT MAKES YOU FEEL BAD I KNOW IT AND I'M SORRY. BUT IT MAKES ME FEEL THREE TIMES WORSE BUT I DON'T CHANGE MY MIND THE DISCUSSION ABOUT BEA AND KIKI IS IMMORTAL",
+    "occurrences": [
+      "bad",
+      "worse",
+      "don",
+      "change",
+      "mind"
+    ],
+    "word_count": 38,
+    "stop_word_count": 16,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0412,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.954,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0434,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 2.114,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0961,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.75,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0795,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.546,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0248,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "9%"
+      ],
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "disgust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

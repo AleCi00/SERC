@@ -1,0 +1,261 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Billy , you are late again .",
+    "occurrences": [
+      "late"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm sorry I'm late . I overslept . Is the manager here today ?",
+    "occurrences": [
+      "late",
+      "overslept"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.226,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0251,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0139,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "2%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes he ' s in his office .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I hope he didn't notice me .",
+    "occurrences": [
+      "hope"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1546,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1172,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0734,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.136,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "15%"
+      ],
+      [
+        "trust",
+        "13%"
+      ],
+      [
+        "joy",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don't take any chances . It'd be best if you told him and promised not to be late again . He's already mad at you for last 2 times . Any more and he might fire you .",
+    "occurrences": [
+      "late",
+      "mad",
+      "fire"
+    ],
+    "word_count": 38,
+    "stop_word_count": 18,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0344,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0242,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.183,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0592,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "5%"
+      ],
+      [
+        "anger",
+        "3%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You said it . It won't happen again . Do you really think he'd fire me ?",
+    "occurrences": [
+      "wont",
+      "happen",
+      "fire"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0773,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.636,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0636,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think he might . You'd better go to his office .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You are probably right . I'll go right now and apologize . I try hard not to be late but it is difficult with Beijing traffic .",
+    "occurrences": [
+      "ill",
+      "apologize",
+      "late",
+      "difficult"
+    ],
+    "word_count": 26,
+    "stop_word_count": 12,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0238,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0351,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.98,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.07,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.089,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0778,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0341,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "disgust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Good luck !",
+    "occurrences": [
+      "good",
+      "luck"
+    ],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.954,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.6513,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.062,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.6873,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.454,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.4847,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.234,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.4113,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "68%"
+      ],
+      [
+        "anticipation",
+        "65%"
+      ],
+      [
+        "surprise",
+        "48%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

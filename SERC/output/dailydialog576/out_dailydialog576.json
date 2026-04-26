@@ -1,0 +1,170 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How about going to the cinema tonight ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's great . What's on tonight ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I am not sure about the name of the film , but I know it's a romantic one .",
+    "occurrences": [
+      "romantic"
+    ],
+    "word_count": 17,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0714,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1071,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0714,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Romantic ? I am afraid I like thrillers better .",
+    "occurrences": [
+      "romantic",
+      "afraid",
+      "like"
+    ],
+    "word_count": 9,
+    "stop_word_count": 2,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0714,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1206,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1071,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.984,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1406,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "14%"
+      ],
+      [
+        "fear",
+        "12%"
+      ],
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don't you think it's too bloody ?",
+    "occurrences": [
+      "bloody"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.781,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1953,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1388,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.781,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1953,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.806,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2015,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "20%"
+      ],
+      [
+        "anger",
+        "19%"
+      ],
+      [
+        "fear",
+        "19%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "On the contrary , very exciting .",
+    "occurrences": [
+      "exciting"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2657,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.853,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2843,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.224,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "28%"
+      ],
+      [
+        "anticipation",
+        "26%"
+      ],
+      [
+        "surprise",
+        "22%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

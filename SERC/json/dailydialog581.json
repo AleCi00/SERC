@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Did you pack this bag yourself ? Has it been out of your possession at any time before checking-in ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I packed it myself , and it hasn ’ t been out of my possession ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you bringing in any plants or animal products ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Our sniffer dog seems to disagree . Do you mind if we look in your suitcase ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not at all . Go right ahead ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What ’ s this sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s traditional Chinese Medicine . I mix it with hot water like tea . Sorry . I forgot about it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What are these red things sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh no ! I forgot about those too ! Those are Chinese sausages for my Aunt Lily ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m sorry sir , but you can ’ t take any of this into the country . We will also have to check your carry-on . Please step this way . Don ’ t ’ be nervous ; we ’ ll just look through it briefly and then"
+  }
+]

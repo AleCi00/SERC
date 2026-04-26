@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , sir.Is there a barber near here ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , the nearest one is at the third cross of this road ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm a stranger here.How can I get there , please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just walk down the road for a few minutes , and you'll find it on your right ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you very much ."
+  }
+]

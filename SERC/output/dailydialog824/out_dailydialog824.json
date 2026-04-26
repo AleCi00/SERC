@@ -1,0 +1,73 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Thank you for lending me the book .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . But it's a very difficult one , you need to have a dictionary at your elbow .",
+    "occurrences": [
+      "difficult",
+      "dictionary",
+      "elbow"
+    ],
+    "word_count": 18,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.117,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0146,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0449,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0654,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "fear",
+        "4%"
+      ],
+      [
+        "anger",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But I'm not used to looking up every new word when I'm reading a novel . I only look up the most necessary ones .",
+    "occurrences": [
+      "word"
+    ],
+    "word_count": 25,
+    "stop_word_count": 13,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0398,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

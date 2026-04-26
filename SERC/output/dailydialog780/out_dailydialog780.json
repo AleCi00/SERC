@@ -1,0 +1,79 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "We are just going round the corner for a drink . Won't you join us ?",
+    "occurrences": [
+      "wont"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0321,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I'd like to , but I am not sure I have time .",
+    "occurrences": [
+      "like",
+      "time"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1032,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ],
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , come on ! Just a quick one !",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All right , just a quick one .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

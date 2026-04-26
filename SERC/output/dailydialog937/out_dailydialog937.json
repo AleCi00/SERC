@@ -1,0 +1,355 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you take a bus to and from work ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , everyday . And there ’ s only one choice . All the other buses are going the other direction .",
+    "occurrences": [],
+    "word_count": 21,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hmm . I have the same problem . When I leave work , it ’ s always rush hour . So the buses are always crowded .",
+    "occurrences": [
+      "problem",
+      "leave",
+      "rush"
+    ],
+    "word_count": 25,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0365,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0511,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "5%"
+      ],
+      [
+        "fear",
+        "3%"
+      ],
+      [
+        "surprise",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , yeah , it ’ s terrible . I will tell you the funniest thing I have seen in China . It ’ s when so many people try to get onto one city bus , and the last guy is squeezed in so tight that the door is tightly pressed against his butt .",
+    "occurrences": [
+      "terrible"
+    ],
+    "word_count": 51,
+    "stop_word_count": 23,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0246,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0201,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0212,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0206,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "2%"
+      ],
+      [
+        "fear",
+        "2%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That sounds terrible the way you describe it . But you know , not long ago I really suffered on the bus .",
+    "occurrences": [
+      "terrible",
+      "long"
+    ],
+    "word_count": 21,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0573,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0338,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0468,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0495,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0482,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "5%"
+      ],
+      [
+        "fear",
+        "4%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What happened ? Were you having a hard time getting on a bus ?",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0737,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You just can ’ t imagine ! I waited for the first bus but it was too full , so I waited for the second , and it was still very crowded . Then I decided not to wait for the next one , and got on the second bus . It was so full that I had to stand on one foot ! No kidding !",
+    "occurrences": [
+      "full",
+      "wait",
+      "full"
+    ],
+    "word_count": 61,
+    "stop_word_count": 34,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0194,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.125,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hmm . Good exercise , uh ?",
+    "occurrences": [
+      "good",
+      "exercise"
+    ],
+    "word_count": 6,
+    "stop_word_count": 0,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0638,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.805,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1342,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0365,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1028,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , absolutely !",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "And it ’ s so much fun . One day , the bodies were so tightly packed that some girl ’ s behind was pressed against my front . I was afraid to put my hands down for fear of accidentally groping her .",
+    "occurrences": [
+      "fun",
+      "afraid",
+      "down",
+      "fear",
+      "accidentally"
+    ],
+    "word_count": 43,
+    "stop_word_count": 21,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0227,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0255,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.672,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.076,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.788,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0358,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0128,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0305,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You were so happy , weren ’ t you ?",
+    "occurrences": [
+      "happy"
+    ],
+    "word_count": 9,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.185,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.788,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2627,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.203,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "26%"
+      ],
+      [
+        "trust",
+        "20%"
+      ],
+      [
+        "anticipation",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What do you think ? I ’ m a good boy .",
+    "occurrences": [
+      "good"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0638,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0912,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0365,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1028,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

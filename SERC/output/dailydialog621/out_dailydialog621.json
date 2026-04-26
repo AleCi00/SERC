@@ -1,0 +1,132 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I am so glad I caught you at home . I need your help !",
+    "occurrences": [
+      "glad",
+      "home",
+      "help"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.536,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0766,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.058,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.34,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1914,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "19%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "fear",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What's up , Robert ?",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Cafe au lait , cafe latte , cappuccino , cafe mocha ... I can't keep them all straight !",
+    "occurrences": [
+      "latte"
+    ],
+    "word_count": 15,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0065,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Slow down . What are you talking about ?",
+    "occurrences": [
+      "down"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's about a girl . No , an angel ! I'm going to the coffee shop where she works right now .",
+    "occurrences": [
+      "angel",
+      "coffee"
+    ],
+    "word_count": 21,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.876,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0796,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.521,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1383,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.64,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0582,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.25,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1136,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

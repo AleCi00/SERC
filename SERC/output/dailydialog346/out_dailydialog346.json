@@ -1,0 +1,195 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning . My name is Mr . Brown . I ’ m from Australia . Here is my card .",
+    "occurrences": [
+      "good",
+      "morning"
+    ],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0348,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0725,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0199,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0561,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you . I ’ m pleased to meet you , Mr . Brown . My name is Kathy Pewless , the representative of Green Textile Import and Export Corporation .",
+    "occurrences": [
+      "pleased"
+    ],
+    "word_count": 21,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.725,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0659,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Pleased to meet you too , Ms . Pewless . I travel a lot every year on business , but this is my first visit to your country . I must say I have been much impressed by your friendly people .",
+    "occurrences": [
+      "pleased",
+      "travel",
+      "friendly"
+    ],
+    "word_count": 38,
+    "stop_word_count": 17,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.022,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.712,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0815,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.969,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0461,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you for saying so . Have you seen the exhibition halls ? On display are most of our products , such as silk , woolen knitwear , cotton piece goods , and garments .",
+    "occurrences": [],
+    "word_count": 31,
+    "stop_word_count": 14,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , yes . I had a look yesterday . I found some of the exhibits to be fine in quality and beautiful in design . The exhibition has successfully displayed to me what your corporation handles . I ’ Ve gone over the catalogue and the pamphlets enclosed in your last letter . I ’ Ve got some idea of your exports . I ’ m interested in your silk blouses .",
+    "occurrences": [
+      "found",
+      "beautiful",
+      "corporation",
+      "gone",
+      "letter",
+      "interested"
+    ],
+    "word_count": 70,
+    "stop_word_count": 33,
+    "occurrences_count": 6,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0131,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0021,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.039,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.567,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0153,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0219,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ],
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Our silk is known for its good quality . It is one of our trade - trional exports . Silk blouses are brightly colored and beau - fully designed . They ’ Ve met with great favor overseas and are always in great demand .",
+    "occurrences": [
+      "good",
+      "trade",
+      "fully",
+      "favor",
+      "demand"
+    ],
+    "word_count": 42,
+    "stop_word_count": 15,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.485,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.018,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0142,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.895,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0331,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0081,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.594,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.059,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "anger",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

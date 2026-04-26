@@ -1,0 +1,249 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning , sir . May I see your passport ?",
+    "occurrences": [
+      "good",
+      "morning",
+      "sir"
+    ],
+    "word_count": 9,
+    "stop_word_count": 1,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0479,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0996,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0274,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.062,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1328,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "13%"
+      ],
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , of course . Here it is .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you . Are all these yours ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , some of them are my friend's . Do you want her passport , too ?",
+    "occurrences": [
+      "friends"
+    ],
+    "word_count": 15,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , please . Do you have any carry-on items ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you want me to put it on the belt , too ?",
+    "occurrences": [
+      "belt"
+    ],
+    "word_count": 12,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.364,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.091,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0665,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "9%"
+      ],
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , please . Would you please open this big suitcase ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . Just a moment . It's just some clothes and toiletries .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK . Do you have anything to declare ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think there is nothing .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Any fresh food , live plants , or animals ?",
+    "occurrences": [
+      "food",
+      "live"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.664,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1107,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.336,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.056,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , no . None of that .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you . You may lock up your suitcase . Here are your passports .",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks a lot .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

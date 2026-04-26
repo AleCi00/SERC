@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "Filippo",
+    "total_words": 54,
+    "total_stop_words": 32,
+    "total_matches": 7,
+    "total_entries": 7,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0151,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_sum": 1.18,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0536,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0224,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_sum": 1.346,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0612,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.818,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0372,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_sum": 1.578,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0717,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.234,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0106,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_sum": 1.579,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0718,
+    "main_emotion": [
+      "trust",
+      "sadness",
+      "fear"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "May I help you with something ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I would like to return some books ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ ll take them ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here you go ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "These books were due two weeks ago ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah . I totally forgot they were due ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You will need to pay late fees on these books ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How much are the late fees ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The fee is 25 cents every day ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I have to pay 25 cents a day ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And that ’ s for each book that is late ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That shouldn ’ t be a problem ."
+  }
+]

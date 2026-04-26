@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You are looking really healthy lately . What are you doing differently ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you for noticing ! I've been making a few lifestyle changes over the past year ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Tell me about it . I'm interested ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , it all started when my brother challenged me to quit smoking ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Ha ! That's right . You used to smoke . I forgot !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "When I kicked that habit , I found I had so much more energy . I started exercising ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "At the gym ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No . I like to be outside . I took up hiking and mountain biking ."
+  }
+]

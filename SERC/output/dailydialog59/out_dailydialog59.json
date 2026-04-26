@@ -1,0 +1,379 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I have a cell phone in my car . Now it's probably on the floor on the passenger side.Why don't you get it for me , and then I can call the police ?",
+    "occurrences": [
+      "passenger",
+      "police"
+    ],
+    "word_count": 32,
+    "stop_word_count": 19,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0337,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0252,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0372,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Alright .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It doesn't work . It looks like it's broken . I need to get to a hospital . You should drive me there .",
+    "occurrences": [
+      "like",
+      "broken",
+      "hospital"
+    ],
+    "word_count": 24,
+    "stop_word_count": 11,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0276,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.015,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0781,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.078,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0829,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.015,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0781,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , yeah ? It's better if we make a police report first . Then you can go to the hospital .",
+    "occurrences": [
+      "police",
+      "hospital"
+    ],
+    "word_count": 21,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0677,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.015,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0846,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Damn it ! I'm injured here . We could wait all day for the police .",
+    "occurrences": [
+      "damn",
+      "injured",
+      "wait",
+      "police"
+    ],
+    "word_count": 16,
+    "stop_word_count": 6,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.47,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.147,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0523,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.718,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0718,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.047,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1047,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0609,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0484,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "14%"
+      ],
+      [
+        "fear",
+        "10%"
+      ],
+      [
+        "disgust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , you'll just have to wait . I'm not going to move my car until the police arrive . I'll go into one of those houses over there and use their phone . Don't worry . You'll get to the hospital in time .",
+    "occurrences": [
+      "youll",
+      "wait",
+      "police",
+      "arrive",
+      "ill",
+      "worry",
+      "youll",
+      "hospital",
+      "time"
+    ],
+    "word_count": 44,
+    "stop_word_count": 18,
+    "occurrences_count": 9,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0128,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.125,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0817,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0189,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 2.011,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0773,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.719,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0661,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.671,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0643,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "sadness",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It really hurts .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , maybe it does.But if you're going to drive like you did just now , you will have to get used to a little physical pain . You know what I mean ?",
+    "occurrences": [
+      "like",
+      "pain"
+    ],
+    "word_count": 31,
+    "stop_word_count": 16,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0396,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0479,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0323,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "fear",
+        "3%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "To hell with you . The accident was your fault .",
+    "occurrences": [
+      "hell",
+      "accident",
+      "fault"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.853,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1706,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.136,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.61,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.322,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.622,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3244,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.15,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "32%"
+      ],
+      [
+        "fear",
+        "32%"
+      ],
+      [
+        "anger",
+        "17%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm afraid it wasn't . And when the police get here , you will also see that it wasn't . But enough of this bickering . I'm going to go find a phone.Don ' t move that arm while I'm gone . Alright ?",
+    "occurrences": [
+      "afraid",
+      "police",
+      "bickering",
+      "gone"
+    ],
+    "word_count": 43,
+    "stop_word_count": 18,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0231,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.336,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0134,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.172,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0181,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0194,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "4%"
+      ],
+      [
+        "anger",
+        "2%"
+      ],
+      [
+        "trust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "To hell with you .",
+    "occurrences": [
+      "hell"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.853,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.4265,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.34,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.86,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.43,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.7,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.35,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "43%"
+      ],
+      [
+        "anger",
+        "42%"
+      ],
+      [
+        "sadness",
+        "35%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

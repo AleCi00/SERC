@@ -1,0 +1,269 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm hungry .",
+    "occurrences": [
+      "hungry"
+    ],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1823,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "So am I .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where should we go eat today ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How about we go eat in the cafeteria ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I never bought food from the cafeteria .",
+    "occurrences": [
+      "food"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.336,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0672,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You haven't ? They have a lot of good stuff .",
+    "occurrences": [
+      "good"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0638,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0912,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0365,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1028,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do they have ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They sell everything .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , I want Chinese food .",
+    "occurrences": [
+      "food"
+    ],
+    "word_count": 4,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0645,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.336,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.084,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I've gotten chow mein from there before .",
+    "occurrences": [
+      "chow"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.135,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.027,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I guess we can eat there then .",
+    "occurrences": [
+      "guess"
+    ],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1327,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Trust me , the food isn't half bad .",
+    "occurrences": [
+      "trust",
+      "food",
+      "bad"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0755,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0652,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0652,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.043,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.141,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1902,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "19%"
+      ],
+      [
+        "anger",
+        "7%"
+      ],
+      [
+        "sadness",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "May I help you , ma'ma ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Please , where do I catch the plane for New York ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "First you must check in at Counter No . 4 ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That one there ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's right . Then you will follow the signs to Gate 85 ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you . You ' Ve been very helpful ."
+  }
+]

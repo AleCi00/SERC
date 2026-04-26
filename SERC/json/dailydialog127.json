@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Steven , shall we go shopping tomorrow ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hum ... Why not go shopping the day after tomorrow ? Tomorrow is Saturday . I hate all the hustle and bustle of Saturday shopping ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But Sunday is the same with Saturday . If you don ’ t mind , that's OK ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hum.Maybe it will be better . The most important thing is that I can have a day to relax after a week's work ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I see . We will go the day after tomorrow ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "By the way , what kind of stores do we need to go ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I want to buy some clothes in clothing store . When we are going back , go to the butcher's shop and buy some chicken ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let ’ s also go to the jewelry store to buy a crystal necklace . I want to buy one for you as your birthday present ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you , darling ."
+  }
+]

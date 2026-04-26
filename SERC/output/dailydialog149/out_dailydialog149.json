@@ -1,0 +1,111 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Margaret , I'd like to follow up with the arrangements for our company retreat , to take place next month . We need to book the venue , make arrangements for speakers and door prizes , and set up all the activities and accommodations . Also , very important , we need to determine which of our staff will be eligible and will be available to go . We've got to get a head count in order to make reservations .",
+    "occurrences": [
+      "like",
+      "follow",
+      "important",
+      "count"
+    ],
+    "word_count": 75,
+    "stop_word_count": 34,
+    "occurrences_count": 4,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.024,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0494,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What's the criteria for staff to attend ? Are we only including our management team in this affair ? Or will we be extending invitations to lower level employees to attend ?",
+    "occurrences": [
+      "management",
+      "team",
+      "lower",
+      "level"
+    ],
+    "word_count": 32,
+    "stop_word_count": 15,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.102,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.006,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0119,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.633,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0961,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ],
+      [
+        "anger",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Lower level employees need not attend . The purpose of this retreat is for training , especially for our management team . We want to develop a well-oiled machine on our executive level . In order to get everyone to jell together , we've got to include some fun . That's the reason for the retreat .",
+    "occurrences": [
+      "lower",
+      "level",
+      "purpose",
+      "management",
+      "team",
+      "develop",
+      "machine",
+      "level",
+      "together",
+      "fun"
+    ],
+    "word_count": 56,
+    "stop_word_count": 21,
+    "occurrences_count": 10,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.102,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0029,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.07,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0306,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.53,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0437,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0058,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.375,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0679,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

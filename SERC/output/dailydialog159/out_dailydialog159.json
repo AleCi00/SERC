@@ -1,0 +1,75 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What ’ s the problem ? Things are getting out of hand . You keep sticking your nose where it doesn ’ t belong .",
+    "occurrences": [
+      "problem",
+      "nose"
+    ],
+    "word_count": 25,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0138,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0205,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0337,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "3%"
+      ],
+      [
+        "fear",
+        "2%"
+      ],
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What do you mean ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Now , I am responsible for training new staff , but you keep overriding my authority by trying to pose your methods . I know you are a hotshot college graduate with something to prove . But I don ’ t like your way .",
+    "occurrences": [
+      "responsible",
+      "authority",
+      "don",
+      "like"
+    ],
+    "word_count": 41,
+    "stop_word_count": 19,
+    "occurrences_count": 4,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.21,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1005,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

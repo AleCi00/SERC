@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I need a taxi , please ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We have various transportation services . Would you prefer a private vehicle ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , thanks . A taxi is just fine ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "May I suggest a limo ? It's nice to pamper yourself ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't want anything except a taxi , thank you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I understand . And where will you be going ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Rockefeller Center ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "And what time would you like to be picked up ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The sooner the better ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "A taxi will be here shortly , sir ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Great ! And remember , a taxi , not a limo ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "A taxi it is , sir ."
+  }
+]

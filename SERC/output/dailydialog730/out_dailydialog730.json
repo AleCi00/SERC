@@ -1,0 +1,217 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "have you ever been invited to a Chinese feast ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "sure . Beijingers are distinguished for their warmth and hospitality .",
+    "occurrences": [
+      "warmth"
+    ],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.53,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0757,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "as far as you could see , is dining at a Chinese table a distinct experience ? To what extent does it differ from that in your homeland ?",
+    "occurrences": [
+      "experience"
+    ],
+    "word_count": 27,
+    "stop_word_count": 15,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "to begin with , I have to use chopsticks .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "but you look quite proficient in using them now .",
+    "occurrences": [
+      "proficient"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.664,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1328,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "certainly . After all , I've been here for two years . It's not much uphill work for a foreigner to get used to Chinese dinner utensils . Though , I do feel hazy about how to behave appropriately at a Ch",
+    "occurrences": [
+      "uphill",
+      "foreigner"
+    ],
+    "word_count": 37,
+    "stop_word_count": 18,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0263,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.515,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0271,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "2%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "yes , table etiquette . There are a multitude of rules that foreigners might never know until they were told . Some practices even appear somewhat awkward or rude to Westerners , while they are the norm i",
+    "occurrences": [],
+    "word_count": 35,
+    "stop_word_count": 16,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "anything strang about that ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "maybe you should have placed them horizontally over your bowl or plate . They resemble two incense sticks used at sacrifices . It's very inauspicious , and might enrage all present .",
+    "occurrences": [
+      "incense",
+      "sacrifices",
+      "present"
+    ],
+    "word_count": 31,
+    "stop_word_count": 13,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0364,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0287,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0213,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.675,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0375,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0338,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.32,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0178,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0252,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "anger",
+        "3%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "oh , sorry ! There's a long story even with a mere pair of sticks .",
+    "occurrences": [
+      "long"
+    ],
+    "word_count": 15,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0369,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

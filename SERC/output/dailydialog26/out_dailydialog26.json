@@ -1,0 +1,194 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How are you today ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Great , thanks .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Can I help you ?",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1015,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I would actually like to view the apartment for rent today .",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m sorry , but you won ’ t be able to view it today .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why not ?",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You have to make an appointment first .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , okay . Can I do that right now ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is this Friday okay ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is 6 o ’ clock Friday evening okay ?",
+    "occurrences": [
+      "clock"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I will schedule you for that time .",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.129,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you very much . See you then .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

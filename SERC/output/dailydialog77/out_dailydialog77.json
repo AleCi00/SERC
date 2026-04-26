@@ -1,0 +1,276 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Wow ! Your fruit looks really fresh ! How much are these apples ?",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The apples are 30NT each . How many would you like ?",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0691,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let's see , 30NT is about ... almost a dollar US . What ? ! How about these pineapples ?",
+    "occurrences": [],
+    "word_count": 18,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They're 250NT each , but they're not edible . They're only used for worship .",
+    "occurrences": [
+      "worship"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0191,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.379,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0421,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0617,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hmm , 250NT is ... 8 dollars ? ! ! And you can't even eat them ? You're crazy !",
+    "occurrences": [
+      "crazy"
+    ],
+    "word_count": 18,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.0,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0714,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.038,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0741,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.736,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0526,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "anger",
+        "7%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wait ! Don't go just yet . These bananas are pretty cheap--only 35NT for this bunch .",
+    "occurrences": [
+      "wait",
+      "pretty"
+    ],
+    "word_count": 18,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.46,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1217,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0391,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0306,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Now that's more like it ! Bananas have lots of potassium , too !",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1383,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They're also good for your digestion ! Would you like some kiwis , too ?",
+    "occurrences": [
+      "good",
+      "like"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0851,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1216,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0487,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.718,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1909,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "19%"
+      ],
+      [
+        "joy",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are they from Taiwan ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They're imported from New Zealand . Four for 50NT . Nine for a hundred .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK . I'll take four kiwis .",
+    "occurrences": [
+      "ill"
+    ],
+    "word_count": 7,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0476,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0887,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0849,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "8%"
+      ],
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "disgust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

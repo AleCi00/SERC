@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What can I help you with ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "May I ask you something ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What's your question ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How many hours behind the wheel do I need ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you need to take it for ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm trying to get my license ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You need six hours ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can I do all six hours in one day ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You have to do it in three days ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's all I have to do ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's everything ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , that's a relief ."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How long will you stay in New York ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just tor three days . I won't need these luggages.CouId I put them here ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I am sorry . If you have here more than 24 hours between connecting flights , we can't check your luggage through London ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , maybe I can put them in the airport storage there ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's right . It's over there ."
+  }
+]

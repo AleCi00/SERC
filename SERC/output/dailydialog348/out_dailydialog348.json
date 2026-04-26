@@ -1,0 +1,269 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning . Thank you for the interview .",
+    "occurrences": [
+      "good",
+      "morning",
+      "interview"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0638,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.03,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1328,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0365,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1028,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No problem . Now , do you prefer working with others or flying solo ?",
+    "occurrences": [
+      "problem",
+      "prefer",
+      "flying"
+    ],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0684,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0548,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0586,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Actually , I enjoy both .",
+    "occurrences": [
+      "enjoy"
+    ],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1927,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2707,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1613,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "27%"
+      ],
+      [
+        "anticipation",
+        "19%"
+      ],
+      [
+        "trust",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "So , what is most important to you in a job ? Do you need job security or professional growth and a chance to advance ?",
+    "occurrences": [
+      "important",
+      "professional",
+      "growth",
+      "chance",
+      "advance"
+    ],
+    "word_count": 25,
+    "stop_word_count": 14,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0632,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0171,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0611,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.891,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.081,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.313,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1194,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "surprise",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I need job security .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Would you be able to relocate ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I am open to relocating .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What are your annual salary requirements ?",
+    "occurrences": [
+      "salary"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.129,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0585,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1035,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I need at least 75,000 per year .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ ll keep that in mind . Thank you for coming in today . We ’ ll be in touch .",
+    "occurrences": [
+      "mind",
+      "coming"
+    ],
+    "word_count": 22,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0575,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0078,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "disgust",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

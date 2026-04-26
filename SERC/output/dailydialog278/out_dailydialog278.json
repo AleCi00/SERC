@@ -1,0 +1,302 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Wow , Amy , look at that number .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What's so great about it ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you mean ? It's a scrim .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not to me , I wouldn't be caught dead in that .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I love that kind of stuff .",
+    "occurrences": [
+      "love",
+      "kind"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.449,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3622,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.399,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3498,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "36%"
+      ],
+      [
+        "trust",
+        "34%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , you seem to like those styles .",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure do . I get a kick out of looking punk .",
+    "occurrences": [
+      "kick"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.667,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0953,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This one looks really expensive though .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't care how much it costs . I'm rolling in it .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Lucky you ! I can't buy anything else . I'm flat broke .",
+    "occurrences": [
+      "lucky",
+      "broke"
+    ],
+    "word_count": 13,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0398,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.442,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1311,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.044,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.078,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.098,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "surprise",
+        "9%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I got a replace my party outfit , I trashed it last week .",
+    "occurrences": [
+      "party"
+    ],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.765,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0956,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why did you drag me into this ? I've spent a week salary .",
+    "occurrences": [
+      "salary"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0737,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0334,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0591,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you on the level ? You're the one who called me , remember ?",
+    "occurrences": [
+      "level"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0647,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just joking , Tonia . I've got some wonderful clothes . Let's go and have a close look at your outfit .",
+    "occurrences": [
+      "wonderful"
+    ],
+    "word_count": 20,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.863,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0664,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0348,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0481,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

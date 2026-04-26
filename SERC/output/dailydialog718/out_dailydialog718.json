@@ -1,0 +1,204 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How do you celebrate national day in your country ?",
+    "occurrences": [
+      "celebrate"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1688,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "There are parades in many cities and people fly the national flags from almost every public building .",
+    "occurrences": [
+      "public"
+    ],
+    "word_count": 18,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What kinds of parades are there ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The parades are usually military ones , but sometimes there are procession of people carrying flags and singing patriotic songs . What do you do on national day in your country ?",
+    "occurrences": [
+      "military",
+      "procession",
+      "singing"
+    ],
+    "word_count": 31,
+    "stop_word_count": 14,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0221,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.833,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.049,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.152,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0089,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.227,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0134,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "fear",
+        "2%"
+      ],
+      [
+        "surprise",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We don ’ t have a national day .",
+    "occurrences": [
+      "don"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0683,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Really ? That ’ s unusual .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I guess it is . Most countries have on , but we don ’ t .",
+    "occurrences": [
+      "guess",
+      "don"
+    ],
+    "word_count": 15,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0796,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0546,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "7%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Actually , even though we have parades , most people just use the national day holiday to visit family or go shopping . In the evening , many people watch special TV shows which celebrate national day .",
+    "occurrences": [
+      "holiday",
+      "family",
+      "shopping",
+      "watch",
+      "special",
+      "celebrate"
+    ],
+    "word_count": 35,
+    "stop_word_count": 10,
+    "occurrences_count": 6,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.75,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.07,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0075,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 3.012,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1205,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0088,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0119,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

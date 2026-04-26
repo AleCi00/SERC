@@ -1,0 +1,182 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Miss Wu , This is Dan Robson calling from OTC limited . I'd like to check my last order . When exactly was it sent out ?",
+    "occurrences": [
+      "limited",
+      "like"
+    ],
+    "word_count": 22,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.292,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0209,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.167,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0119,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0346,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anger",
+        "2%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can check that for you right now . Would you mind holding ?",
+    "occurrences": [
+      "mind"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0123,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure . No problem .",
+    "occurrences": [
+      "problem"
+    ],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0665,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1095,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "10%"
+      ],
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Mr . Robson , I'm sorry . Our computer system is down . Could I call you back later ?",
+    "occurrences": [
+      "system",
+      "down"
+    ],
+    "word_count": 18,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0216,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure . Do you have my number ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I have it right here . I'm so sorry about this .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No problem . I'll wait for your call .",
+    "occurrences": [
+      "problem",
+      "ill",
+      "wait"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0872,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.082,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.887,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1478,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.032,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.172,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "17%"
+      ],
+      [
+        "fear",
+        "14%"
+      ],
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

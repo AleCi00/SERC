@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , I need to copy something right now ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Our computer lab on the first floor has a copy machine , sir ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Great ! How much per copy ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sir , one copy is ten cents ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Okay , I'll be down there shortly ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You probably won't have to wait for anyone , sir ."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me sir . May I come in ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Mike , you're late again ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry , but my sister was ill , so I"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you think I believe the story like that ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But it's true ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How can believe it if the same excuse was used twice within a week ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's coincident 。"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ok , hold it . Remember to be punctual next time 。"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I promise I will ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You'd better ."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Ken ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hello , George ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Have you just been to the cinema ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I have ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What ’ s on ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Paris in the Spring ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , I ’ Ve already seen it . I saw it on television last year . It ’ s an old film , but it ’ s very good ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Paris is a beautiful city . I have never been there . Have you ever been there , Ken ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I have . I was there in April ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Paris in the spring , eh ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It was spring , but the weather was awful . It rained all the time ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just like dear old London !"
+  }
+]

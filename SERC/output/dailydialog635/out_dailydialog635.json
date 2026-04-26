@@ -1,0 +1,124 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How about you and Tom ? What time is your wedding ?",
+    "occurrences": [
+      "time",
+      "wedding"
+    ],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.129,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1603,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "16%"
+      ],
+      [
+        "anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Don ’ t be kidding , OK ?",
+    "occurrences": [
+      "don"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0683,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What ’ s the matter ? So angry . I ’ m just playing a joke with you .",
+    "occurrences": [
+      "matter",
+      "angry"
+    ],
+    "word_count": 19,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.824,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0916,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0521,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.053,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "9%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "disgust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Because I have given him up as a bad job . Our relation has been over .",
+    "occurrences": [
+      "bad"
+    ],
+    "word_count": 16,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0755,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0652,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "7%"
+      ],
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "disgust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

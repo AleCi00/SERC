@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Please tell me how to file things according to the concerned rules ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , all right . There are four points you should keep in mind when you file documents , information and other things ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What are they ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They are keep the documents in chronological order , remove all the chips and pins , punch the documents evenly and place them in the folder ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And what is the most important point ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You should always remember that one customer one file is the rule ."
+  }
+]

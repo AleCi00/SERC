@@ -1,0 +1,94 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How long will you stay in New York ?",
+    "occurrences": [
+      "long"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1353,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just tor three days . I won't need these luggages.CouId I put them here ?",
+    "occurrences": [
+      "wont"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0321,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I am sorry . If you have here more than 24 hours between connecting flights , we can't check your luggage through London .",
+    "occurrences": [],
+    "word_count": 22,
+    "stop_word_count": 12,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , maybe I can put them in the airport storage there .",
+    "occurrences": [
+      "airport"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0833,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's right . It's over there .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

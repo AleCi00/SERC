@@ -1,0 +1,395 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What's up ? You sound a little down in dumps .",
+    "occurrences": [
+      "down",
+      "dumps"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.052,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1328,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "13%"
+      ],
+      [
+        "anger",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I quarreled with my roommate last night . He is really stubborn .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Calm down ! Shouting won ’ t help ?",
+    "occurrences": [
+      "calm",
+      "down",
+      "help"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0338,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.788,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1313,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0937,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "sadness",
+        "9%"
+      ],
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He is really outrageous .",
+    "occurrences": [
+      "outrageous"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.25,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "25%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What happened ?",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I went back home last night . You know tired as a dog , so I took a quick shower and went to bed . I couldn't fall asleep , because Brian was there in the living room , playing his stupid stereo so loud . I kindly told him to turn that down a little bit . He shouted at me .",
+    "occurrences": [
+      "home",
+      "fall",
+      "living",
+      "turn",
+      "down"
+    ],
+    "word_count": 58,
+    "stop_word_count": 25,
+    "occurrences_count": 5,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.133,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.004,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.871,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0264,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.699,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0212,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ],
+      [
+        "disgust",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What ? He can't do this to you .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , he did it anyway . Then he came into my room and shot all his shit blah blah blah ... you know .",
+    "occurrences": [
+      "shot",
+      "shit"
+    ],
+    "word_count": 23,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.245,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1038,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.82,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0683,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.734,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0612,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0456,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.711,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0592,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "10%"
+      ],
+      [
+        "disgust",
+        "6%"
+      ],
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What did you do ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I shouted it back of course .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hold it , Mike . You won't accomplish anything by hollering at him , right ? You worked it all up till now . Why not wait until you cool down a bit ?",
+    "occurrences": [
+      "wont",
+      "accomplish",
+      "wait",
+      "down"
+    ],
+    "word_count": 31,
+    "stop_word_count": 16,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0541,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0333,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0187,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What would you do if you were in my shoes ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Just stay cool . You know . When you get back home tonight , tell him that you didn't mean to quarrel with him .",
+    "occurrences": [
+      "home",
+      "quarrel"
+    ],
+    "word_count": 24,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.781,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0558,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.559,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0399,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "5%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No way , Kate . I mean it's just not my fault .",
+    "occurrences": [
+      "fault"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0812,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I know . It wouldn't hurt much to say sorry first . And after that , you can casually mention the problem . I am sure he will cooperate .",
+    "occurrences": [
+      "hurt",
+      "problem"
+    ],
+    "word_count": 29,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.561,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0351,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.954,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0596,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.126,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0704,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "fear",
+        "5%"
+      ],
+      [
+        "anger",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am too angry to do that .",
+    "occurrences": [
+      "angry"
+    ],
+    "word_count": 8,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.824,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.412,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2345,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "41%"
+      ],
+      [
+        "disgust",
+        "23%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

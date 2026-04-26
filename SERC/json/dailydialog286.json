@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What time is our connecting flight ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me check.Oh , oh ! It ’ s at 3:25 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wow , that's cutting it close ! That means we only have 25 minutes to make the connection ! What gate is it at ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s at ... gate 14 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , great ! That ’ s at the other end of the terminal !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK , so here ’ s the plan ; When we land , run to gate 14 !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m be right behind ya !"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Could you show me what you've got ?",
+    "occurrences": [
+      "show"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0704,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We've got several good chicken dishes if you like chicken .",
+    "occurrences": [
+      "good",
+      "chicken",
+      "like",
+      "chicken"
+    ],
+    "word_count": 11,
+    "stop_word_count": 2,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0426,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.468,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.052,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0608,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0243,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.101,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1223,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "fear",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We'll try one of your specials this time .",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This is worth trying .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

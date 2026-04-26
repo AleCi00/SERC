@@ -1,0 +1,76 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me . I am looking for a book called Little Women , but I can't find it anywhere .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me see . I am sorry we just have sold it out .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Will you have it later ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think so . Could I have you name , telephone number ? If we get one , I will call you .",
+    "occurrences": [],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's terrific . Thank you .",
+    "occurrences": [
+      "terrific"
+    ],
+    "word_count": 6,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.025,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

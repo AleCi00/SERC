@@ -1,0 +1,225 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Where are you going , Jane ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm going to the hospital to see Susan .",
+    "occurrences": [
+      "hospital"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1062,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "fear",
+        "9%"
+      ],
+      [
+        "sadness",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I saw her yesterday.She was a little better .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Must I catch a number 7 bus to get there ?",
+    "occurrences": [
+      "catch"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.32,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0457,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , you needn't . A number 13 bus will also take you to the hospital .",
+    "occurrences": [
+      "hospital"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.059,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "fear",
+        "5%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Number 13 buses run much more frequently , don't they ?",
+    "occurrences": [
+      "run"
+    ],
+    "word_count": 10,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . I caught a number 7 bus yesterday , and they said I had taken a wrong bus .",
+    "occurrences": [],
+    "word_count": 18,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you , Henry . I'll get a number 13 .",
+    "occurrences": [
+      "ill"
+    ],
+    "word_count": 9,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0476,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0887,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0849,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "8%"
+      ],
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "disgust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But number 13 buses leave from the center of town.You ' ll have to walk two miles to catch one .",
+    "occurrences": [
+      "leave",
+      "center",
+      "catch"
+    ],
+    "word_count": 21,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0252,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.554,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0426,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0408,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "surprise",
+        "4%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

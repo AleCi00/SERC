@@ -1,0 +1,246 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "A friend of mine has been taking an online career planning course these days . He told me the other day he has learned a lot from it . He recommended me to subscribe to it . What do you say ?",
+    "occurrences": [
+      "friend",
+      "mine",
+      "career",
+      "planning",
+      "subscribe"
+    ],
+    "word_count": 42,
+    "stop_word_count": 23,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.382,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0727,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.768,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0404,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.367,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0719,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think it is good if we know enough about career planning . We will make wiser choices . What else did he tell you about it ?",
+    "occurrences": [
+      "good",
+      "career",
+      "planning",
+      "choices"
+    ],
+    "word_count": 28,
+    "stop_word_count": 14,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.359,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0971,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0391,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.773,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1266,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , just something in general , like several key steps in planning career and how to set specific and tenable goals .",
+    "occurrences": [
+      "general",
+      "like",
+      "planning",
+      "career",
+      "goals"
+    ],
+    "word_count": 21,
+    "stop_word_count": 7,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.976,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0697,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0335,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.476,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1054,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sounds practical ! To be honest , sometimes I feel puzzled about my future career . I am not sure if this job suits me the best though I work very hard on it and enjoy being a hard worker . I have always wanted to try something else and learn some new skills .",
+    "occurrences": [
+      "honest",
+      "career",
+      "enjoy"
+    ],
+    "word_count": 52,
+    "stop_word_count": 22,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.087,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0029,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.031,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0344,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.055,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0018,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.047,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0016,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.115,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0372,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.062,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0021,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0443,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "anticipation-trust": 0.844,
+    "anticipation-trust_computed": 0.0281,
+    "trust-anticipation": 0.844,
+    "trust-anticipation_computed": 0.0281,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "honest",
+            "score": 0.844
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "honest",
+            "score": 0.844
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Making a decision to start over is not an easy thing to do . It seems that you need this course more than I do . I love my current job . If I take this course , I hope to learn some tricks to get myself more organized at work . If they can give suggestions about how to boost work relationships , that will be great . I need these to improve my current work performance .",
+    "occurrences": [
+      "start",
+      "love",
+      "hope",
+      "relationships",
+      "improve"
+    ],
+    "word_count": 74,
+    "stop_word_count": 38,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.976,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0549,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.778,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0494,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.711,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0198,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.571,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0714,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ok , then we can sign up for it together .",
+    "occurrences": [
+      "together"
+    ],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.394,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0985,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

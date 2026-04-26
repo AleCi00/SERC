@@ -1,0 +1,179 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Did you set your clock forward for daylight savings time ?",
+    "occurrences": [
+      "clock",
+      "time"
+    ],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.891,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1273,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What ? Why do we have to do that ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , at the start of the spring we usually have more daylight in the mornings and less in the afternoon . This is basically due to our position on the planet and the rotation of the earth . In any case , to take better advantage of the daylight available , we compensate by moving our clocks forward one hour .",
+    "occurrences": [
+      "start",
+      "less",
+      "case",
+      "compensate",
+      "moving"
+    ],
+    "word_count": 59,
+    "stop_word_count": 30,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.266,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0437,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.261,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.009,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0094,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.018,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.61,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.021,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0194,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "surprise",
+        "2%"
+      ],
+      [
+        "trust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I see . That ’ s convenient ! I never understood things like this , such as GMT . I never know what time zone we are in or when to change my clock !",
+    "occurrences": [
+      "like",
+      "time",
+      "change",
+      "clock"
+    ],
+    "word_count": 34,
+    "stop_word_count": 16,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.782,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.099,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.396,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.022,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0269,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That just stands for Greenwich Mean Time . Here in California , we are in Pacific Standard Time , that is eight time zones west of Greenwich . Remember when we were in Beijing ? Well , then we were in China Standard Time , and that ’ s eight time zones east of Greenwich !",
+    "occurrences": [
+      "time",
+      "time"
+    ],
+    "word_count": 39,
+    "stop_word_count": 23,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.548,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That ’ s why it was so weird traveling from Beijing to LA ! Because of the huge time difference , even though we left Beijing at noon and flew for more than eight hours , we still arrived in LA the same day at noon ! It ’ s like we went back in time !",
+    "occurrences": [
+      "weird",
+      "time",
+      "like",
+      "time"
+    ],
+    "word_count": 53,
+    "stop_word_count": 26,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.548,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0573,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.532,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0197,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0359,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "The product's selling points is its advanced technoledge .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Unfortunately , it's just too expensive for majority of consumer to afford .",
+    "occurrences": [
+      "unfortunately",
+      "majority"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.073,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0122,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1212,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0898,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "12%"
+      ],
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why is the price so high ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's not just that the price is high , it's that the overhead to update an entire computer system to be compatible is costly .",
+    "occurrences": [
+      "system"
+    ],
+    "word_count": 24,
+    "stop_word_count": 14,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0406,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Model of computers aren't compatible ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Most current computer systems simply can't handle it because this model truly has extraordinary capabilities .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Maybe after the next generation of technology comes out , the price of this model will become more affordable .",
+    "occurrences": [],
+    "word_count": 19,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But by then , the technology will be outdated .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "True , but our focus has never been affordability anyway . Coastwise , we may not be very competitive , but qualitywise , we definitely have an edge .",
+    "occurrences": [
+      "true",
+      "competitive"
+    ],
+    "word_count": 25,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0096,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0252,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.789,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0607,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "2%"
+      ],
+      [
+        "anger",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's right , no one else has a product on the market now that is comparable .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "This model has advanced technoledge , superior components , it is compact , and it's a top-quality product .",
+    "occurrences": [
+      "compact",
+      "top"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0398,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.899,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0899,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I guess you get what you pay for .",
+    "occurrences": [
+      "guess",
+      "pay"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1153,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0995,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1075,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "11%"
+      ],
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "surprise",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

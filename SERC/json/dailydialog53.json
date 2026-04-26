@@ -1,0 +1,54 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Take a seat inside and see what you think.So you will take the Porsche then , sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , and I want to buy the insurance too . I think it's necessary ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You're smart to buy it . At 45 dollars for three days , it is a good deal ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can I return the car in San Francisco ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "San Francisco ? No , sir.We only have this office here . You will have to return it here ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Really ? I heard in America you can return rental cars in different cities ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , sir . That's only with the very big companies . I'm sorry , but this car must be returned to this lot ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I guess I will have to drive back down then . Hmm . I didn't think of that ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you still want the car , sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . It will be fun . Driving back down the coast . My girlfriend will like it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's a beautiful drive ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Where are the keys ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Just a moment , sir . We have to finish filling out the forms ."
+  }
+]

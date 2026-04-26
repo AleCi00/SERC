@@ -1,0 +1,244 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Are you going to vote ?",
+    "occurrences": [
+      "vote"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.045,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.015,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1823,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.078,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.031,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0103,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.185,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "18%"
+      ],
+      [
+        "anticipation",
+        "18%"
+      ],
+      [
+        "joy",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Of course ! Are you ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I plan to , but what day is the election ?",
+    "occurrences": [
+      "plan"
+    ],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.57,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1425,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You should know that .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Can you just tell me ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The election is this Tuesday .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you serious ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m not kidding .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It ’ s a good thing I asked you .",
+    "occurrences": [
+      "good"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0766,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1094,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1234,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That should ’ Ve been something you knew already .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I couldn ’ t remember .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Whatever . Just make sure you go vote .",
+    "occurrences": [
+      "vote"
+    ],
+    "word_count": 9,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.045,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0064,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0781,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0334,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.031,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0044,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0179,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0793,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

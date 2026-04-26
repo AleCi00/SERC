@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It's quit a big cafeteria , isn't it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . I usually have my lunch here . The food is tasty and they offer a big variety ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let's line up . The steak is very inviting . I'll have it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'll have ham and egg with French fries . What dessert do you want ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Banana pie ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Where shall we sit ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How about there ?"
+  }
+]

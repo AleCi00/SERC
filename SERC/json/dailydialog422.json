@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "That looks graceful on you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you.But it is too bright for me ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How about this brown one ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me try it on . I like that color ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Ok , i will get one for your.Here you are ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But it is too loose.Do you have the smaller size ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sorry , it had been sold out ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What a pity !"
+  }
+]

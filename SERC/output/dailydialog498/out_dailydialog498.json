@@ -1,0 +1,219 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What do you usually have for breakfast ? Pancakes or waffles ?",
+    "occurrences": [
+      "breakfast"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I usually have cereal for breakfast .",
+    "occurrences": [
+      "breakfast"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But isn't it served with cold milk ?",
+    "occurrences": [
+      "cold"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0376,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah . Cold milk wakes me up .",
+    "occurrences": [
+      "cold"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Chinese people don't like to eat cold food .",
+    "occurrences": [
+      "like",
+      "cold",
+      "food"
+    ],
+    "word_count": 9,
+    "stop_word_count": 1,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0323,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0235,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.82,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1025,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is that right ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But I'm open to new things . I'll have a bowl of cereal , too .",
+    "occurrences": [
+      "ill"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0416,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0615,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0776,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0742,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "disgust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "With cold milk ?",
+    "occurrences": [
+      "cold"
+    ],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0627,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "With cold milk !",
+    "occurrences": [
+      "cold"
+    ],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.376,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1253,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

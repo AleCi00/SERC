@@ -1,0 +1,264 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning , may I speak with Professor Clark , please ?",
+    "occurrences": [
+      "good",
+      "morning"
+    ],
+    "word_count": 7,
+    "stop_word_count": 1,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0638,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1328,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0365,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1028,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You are speaking with Professor Clark .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Professor , I am Kalina from your morning literature class .",
+    "occurrences": [
+      "professor",
+      "morning"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.05,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1156,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , how can I help you ?",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0677,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ran my car into a tree yesterday and need to miss a few days of school .",
+    "occurrences": [
+      "tree",
+      "miss",
+      "school"
+    ],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.227,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0252,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.039,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0043,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.09,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.01,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.379,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0421,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0087,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.937,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1041,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , my God ! I hope you are all right .",
+    "occurrences": [
+      "hope"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1546,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1172,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0734,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.136,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "15%"
+      ],
+      [
+        "trust",
+        "13%"
+      ],
+      [
+        "joy",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I have a concussion , but I will be OK .",
+    "occurrences": [
+      "concussion"
+    ],
+    "word_count": 9,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.377,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1257,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.545,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1817,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "18%"
+      ],
+      [
+        "anger",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How much school will you miss ?",
+    "occurrences": [
+      "school",
+      "miss"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.379,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0948,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1328,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "13%"
+      ],
+      [
+        "sadness",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I only need to take this week off .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I appreciate you calling and telling me that you won ’ t be in class . See you next week !",
+    "occurrences": [],
+    "word_count": 21,
+    "stop_word_count": 11,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

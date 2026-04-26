@@ -1,0 +1,145 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "They got a divorce at last .",
+    "occurrences": [
+      "divorce"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.129,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0958,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.121,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.623,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1557,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0995,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.133,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0333,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "15%"
+      ],
+      [
+        "anger",
+        "12%"
+      ],
+      [
+        "fear",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's inevitable . Their love wasbuilt on the sand , and this is why their marriage has landed on the rocks .",
+    "occurrences": [
+      "inevitable",
+      "love",
+      "sand",
+      "marriage"
+    ],
+    "word_count": 21,
+    "stop_word_count": 12,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0729,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.451,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1612,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.945,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2161,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "21%"
+      ],
+      [
+        "joy",
+        "16%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You said it . Love but on the sand will soon be on the rocks .",
+    "occurrences": [
+      "love",
+      "sand"
+    ],
+    "word_count": 16,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.937,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1339,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1083,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That give us a good lesson .",
+    "occurrences": [
+      "good",
+      "lesson"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.15,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1094,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.078,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2156,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "21%"
+      ],
+      [
+        "anticipation",
+        "15%"
+      ],
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

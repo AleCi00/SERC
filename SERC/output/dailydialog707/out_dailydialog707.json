@@ -1,0 +1,110 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good afternoon , Johnson .",
+    "occurrences": [
+      "good"
+    ],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1277,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1823,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.073,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2057,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "20%"
+      ],
+      [
+        "joy",
+        "18%"
+      ],
+      [
+        "anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good afternoon , Mary . How's business ?",
+    "occurrences": [
+      "good"
+    ],
+    "word_count": 6,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0638,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0912,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0365,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1028,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not bad , thanks .",
+    "occurrences": [
+      "bad"
+    ],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.151,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1303,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1407,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "15%"
+      ],
+      [
+        "sadness",
+        "14%"
+      ],
+      [
+        "disgust",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

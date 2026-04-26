@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry , but I can't find the book you lent me ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , that's all right ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I must apologize . I'll buy you a new one tomorrow ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , please don't . I couldn't let you do that ."
+  }
+]

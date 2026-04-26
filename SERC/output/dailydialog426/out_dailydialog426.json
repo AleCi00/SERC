@@ -1,0 +1,159 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hi . It ’ s Tony calling from the dentist ’ s office . Is Lily there ?",
+    "occurrences": [
+      "dentist"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0347,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , Lily is not here at the moment .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Could you ask her to call me back when she gets in ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure . What ’ s your number , please .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "519 367 8901 .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks . And your name is Tony , right ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I ’ m Tony . Thank you very much .",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You ’ re welcome . Bye .",
+    "occurrences": [
+      "bye"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0516,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Bye .",
+    "occurrences": [
+      "bye"
+    ],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.129,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

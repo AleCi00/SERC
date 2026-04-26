@@ -1,0 +1,164 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "We have another traditional holiday-the Dragon Boat Festival .",
+    "occurrences": [
+      "holiday"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.168,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.712,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.178,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "17%"
+      ],
+      [
+        "anticipation",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "When is it ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It falls on the fifth day of the fifth lunar month .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Could you tell me the origin of the two festivals ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK . The Dragon Boat Festival is a way to commemorate a great ancient poet named Quyuan . On that day , people will hold a boat race as a symbol of the attempt to save him who threw himself into the river .",
+    "occurrences": [
+      "commemorate",
+      "attempt",
+      "save"
+    ],
+    "word_count": 39,
+    "stop_word_count": 19,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.062,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0531,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.653,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0326,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0063,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0281,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why do people eat rice cakes on that day ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "In order to prevent the fish from eating the poet's body .",
+    "occurrences": [
+      "prevent"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0179,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It sounds so moving .",
+    "occurrences": [
+      "moving"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.295,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0983,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

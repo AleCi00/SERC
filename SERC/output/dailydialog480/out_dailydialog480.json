@@ -1,0 +1,107 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , what's the time difference between Tokyo and London ?",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1032,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "8 hours . Tokyo is 8 hours earlier than London .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's one day more or one day less from Tokyo to London ?",
+    "occurrences": [
+      "less"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.167,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0278,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "One day more .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It means that we will arrive on the same day .",
+    "occurrences": [
+      "arrive"
+    ],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1485,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

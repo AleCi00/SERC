@@ -1,0 +1,72 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How smart of you to book the tickets before hand !",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , do you really think so ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Of course , otherwise you ’ ll just have to wait for hours .",
+    "occurrences": [
+      "wait"
+    ],
+    "word_count": 13,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0872,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But I just got a call from my sister and I have to cancel the movie tonight .",
+    "occurrences": [
+      "cancel"
+    ],
+    "word_count": 16,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0334,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

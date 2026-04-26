@@ -1,0 +1,168 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "We have made some adjustment on the prices . And this is renewed price list .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you for allowing us 3 % reduction , but still we find your price is on the high side .",
+    "occurrences": [],
+    "word_count": 20,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "This is our rock-bottom price , and we can't make any further reduction .",
+    "occurrences": [
+      "bottom"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.223,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0319,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If so , we find it difficult for us to go on with our talks .",
+    "occurrences": [
+      "difficult"
+    ],
+    "word_count": 15,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0598,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Then what ’ s your counter-offer ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This is our counter-offer .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We are sincere to make business with you , but the difference between your counter-offer and our price is too great .",
+    "occurrences": [
+      "sincere"
+    ],
+    "word_count": 22,
+    "stop_word_count": 13,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0886,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "So are we . Our counter-offer is in line with the world market .",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How about meeting each other half-way in order to conclude the business ?",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Agreed .",
+    "occurrences": [
+      "agreed"
+    ],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.324,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "32%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

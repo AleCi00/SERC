@@ -1,0 +1,141 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good day ! Welcome to Lincoln Bank , how may we assist you ?",
+    "occurrences": [
+      "good",
+      "assist"
+    ],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1094,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1563,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0626,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.882,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2689,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "26%"
+      ],
+      [
+        "joy",
+        "15%"
+      ],
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hello . I need to find out if a Receipt of Proceeds has arrived . I'm from Felix Wasserman Associates .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks . Have you got the L / C number ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's NX567822100007 .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hang on a tick and I'll check for you . I'm sorry ; we have no record of that arriving .",
+    "occurrences": [],
+    "word_count": 21,
+    "stop_word_count": 11,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK , thanks for checking . Could you give me a ring when it arrives , please ?",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No problem . I'll be in touch as soon as it comes in .",
+    "occurrences": [
+      "problem",
+      "ill"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0476,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.887,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1267,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.032,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1474,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "14%"
+      ],
+      [
+        "fear",
+        "12%"
+      ],
+      [
+        "disgust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

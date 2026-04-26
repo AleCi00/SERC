@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "This position demands a higher writing ability , so please say something about your writing ability .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Of course . I've loved writing since I was a very little boy . I won the first prize in a national composition contest when I was in middle school . After attending Nanjing University , I never give up writing . My works , such as Father's Tobacco Pipe , Open Air Cinema , The old City were respectively published China Youth Daily , Yangzi Evening News , and New Beijing . During the period of studying for my degrees of master and doctor , I paid more attention to developing my research ability and published several papers . The Impact of Internet in Chinese Political Participation , The Discipline of Remold , The Historical Direction of Chinese Administration Reform , Bribery Cases of Self governance in Chinese Villages are respectively published in Chinese Publish Administration , Beijing Due Xuebao , Theory and Society and Chinese Reform . I joined in Yangzi Evening News to work as a part-time journalist in 2006 . During this period , I've written a lot of comments , which improved my writing ability to a new level , I have full confidence in my writing ability , and I believe I can do the job well .",
+    "occurrences": [
+      "loved",
+      "prize",
+      "school",
+      "doctor",
+      "time",
+      "level",
+      "full",
+      "confidence"
+    ],
+    "word_count": 133,
+    "stop_word_count": 64,
+    "occurrences_count": 8,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.961,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0139,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.109,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0016,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.781,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0258,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.828,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.041,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "joy",
+        "2%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

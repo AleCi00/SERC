@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What do you usually have for breakfast ? Pancakes or waffles ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I usually have cereal for breakfast ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But isn't it served with cold milk ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah . Cold milk wakes me up ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Chinese people don't like to eat cold food ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is that right ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But I'm open to new things . I'll have a bowl of cereal , too ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "With cold milk ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "With cold milk !"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What's wrong with Debbie today ? She seems upset about something .",
+    "occurrences": [
+      "upset"
+    ],
+    "word_count": 11,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.439,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0549,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "anger",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I have no idea . Maybe she had a fight with her husband .",
+    "occurrences": [
+      "fight",
+      "husband"
+    ],
+    "word_count": 14,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.667,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1112,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1198,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.073,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "11%"
+      ],
+      [
+        "anger",
+        "11%"
+      ],
+      [
+        "joy",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

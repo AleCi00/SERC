@@ -1,0 +1,185 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "The hotel operator . Anything I can do for you ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I've been trying to get through to the booking office for the last ten minutes . But the line has been engaged all the time . Why is it taking so long ?",
+    "occurrences": [
+      "engaged",
+      "time",
+      "long"
+    ],
+    "word_count": 33,
+    "stop_word_count": 17,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.563,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0977,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.652,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0408,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0391,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry to hear that . I'm afraid it is often the case during the peak hours . Shall I ask them to call you when the line is free ?",
+    "occurrences": [
+      "afraid",
+      "case",
+      "free"
+    ],
+    "word_count": 30,
+    "stop_word_count": 13,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.938,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0552,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.544,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.032,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.228,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0134,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "5%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . Please do so if it is not troublesome .",
+    "occurrences": [
+      "troublesome"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.455,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.091,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1032,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "10%"
+      ],
+      [
+        "anger",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No trouble at all . May I know your name and room number ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm Du Juan , in Room 312 .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I see . Wait in the room , please .",
+    "occurrences": [
+      "wait"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0872,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you for your kindness .",
+    "occurrences": [
+      "kindness"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.606,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.202,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "20%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

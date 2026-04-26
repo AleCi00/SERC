@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good afternoon ! Trans Pacific Airline . How can I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m calling to cancel my reservation for Trans Pacific Flight 8 on July 19 from Taipei to Minneapolis . Could you please make it for the same flight on August 2 instead of July 19 ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What ’ s your name , please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My name is Judy Wang ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How do you spell your name , please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My first name is J-U-D-Y , and my last name is W-A-N-G ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Please note that this ticket has a penalty of $ 75 for any change or cancellation ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s OK . Where should I pay for the penalty ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "At the airport . OK , Miss . Wang , your Flight 8 on July 19 from Taipei to Minneapolis is canceled . Your new reservation is Trans Pacific Flight 8 from Taipei to Minneapolis at 9 thirty a . m . on August 2 ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That ’ s 1POJ7403 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That ’ s correct ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is there anything else I can do for you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thanks . I ’ m all set . Good-bye ."
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I wonder what he looks like . Oh , I can't wait to see him ! His email said he'd be wearing a white hat . ( looking around for him ) oh , there is .",
+    "occurrences": [
+      "wonder",
+      "like",
+      "wait"
+    ],
+    "word_count": 34,
+    "stop_word_count": 12,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.046,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0475,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.606,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0275,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0238,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.022,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "2%"
+      ],
+      [
+        "surprise",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hey , Isabelle ...",
+    "occurrences": [],
+    "word_count": 1,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Logan ! Why on earth are you hiding here ? White hat ! Come on ! Don't tell me you're the guy ! It can't be true .",
+    "occurrences": [
+      "hiding",
+      "true"
+    ],
+    "word_count": 28,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.524,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0291,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0182,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.789,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "fear",
+        "2%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I am the guy .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What a bummer ! You set me up ?",
+    "occurrences": [
+      "bummer"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.278,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0695,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.296,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.074,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.878,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2195,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "21%"
+      ],
+      [
+        "disgust",
+        "7%"
+      ],
+      [
+        "anger",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me explain . I didn't mean to hurt you ...",
+    "occurrences": [
+      "explain",
+      "hurt"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.561,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0935,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1147,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1147,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0663,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "11%"
+      ],
+      [
+        "sadness",
+        "11%"
+      ],
+      [
+        "anger",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How dare you ! ( starts to walk off )",
+    "occurrences": [
+      "dare"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.14,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.19,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "19%"
+      ],
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hang on one second . Hear me out , just this once , Isabella !",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why did you lie to me in the email ?",
+    "occurrences": [
+      "lie"
+    ],
+    "word_count": 10,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.348,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.116,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1483,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.585,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.195,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "19%"
+      ],
+      [
+        "disgust",
+        "14%"
+      ],
+      [
+        "anger",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I didn't lie . You just didn't ask me my real name .",
+    "occurrences": [
+      "lie",
+      "real"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.348,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0435,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0556,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.585,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0731,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0801,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "disgust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I should have known it was you . No wonder all the 20 questions were answered correctly . I thought I might have found the one for me .",
+    "occurrences": [
+      "wonder",
+      "thought",
+      "found"
+    ],
+    "word_count": 28,
+    "stop_word_count": 15,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0318,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.864,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0665,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0402,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0372,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "surprise",
+        "4%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm sorry . It was cruel of me . But I promise it will never happen again ? Look , there's a nice restaurant . Let me take you to dinner and we can talk things over .",
+    "occurrences": [
+      "cruel",
+      "promise",
+      "happen"
+    ],
+    "word_count": 36,
+    "stop_word_count": 16,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0379,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0242,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0383,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.415,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0207,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0304,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0387,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "disgust",
+        "3%"
+      ],
+      [
+        "anger",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

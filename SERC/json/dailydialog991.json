@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , is this seat taken ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m afraid this seat is taken ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh . is it . Thank you anyway ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You ’ re welcome . Why don ’ t you ask the conductor when he comes by ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you ."
+  }
+]

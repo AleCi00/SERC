@@ -1,0 +1,452 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "what did you do last night ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I just stayed at home and watched TV .",
+    "occurrences": [
+      "home"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.559,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1118,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "did you watch the Barcelona versus Madrid game ?",
+    "occurrences": [
+      "watch",
+      "versus"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.227,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0568,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1308,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.047,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "13%"
+      ],
+      [
+        "anger",
+        "5%"
+      ],
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "yes , it was a very evenly matched game .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "what were the results of the game ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "it ended in a tie .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "what was the actual score ?",
+    "occurrences": [
+      "score"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.159,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.182,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0607,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1277,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "15%"
+      ],
+      [
+        "surprise",
+        "12%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "it was three all .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "really ? I thought Barcelona was going to win . They are a much better team than Madrid .",
+    "occurrences": [
+      "thought",
+      "win",
+      "team"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0414,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0727,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.664,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0664,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "if Barcelona had played as they normally do , they should have won .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "what happened ?",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "their goalkeepers got injured after the first goal , but he kept on playing anyway .",
+    "occurrences": [
+      "injured"
+    ],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0799,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0677,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "sadness",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "that explains it .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "how many more games are left this season ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "that was the last game before the playoffs .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "when do the playoffs start ?",
+    "occurrences": [
+      "start"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.25,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1147,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "25%"
+      ],
+      [
+        "surprise",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "in a few weeks . Are you planning on watching them ?",
+    "occurrences": [
+      "planning"
+    ],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1046,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1234,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "of course ! I really love watching football games on TV .",
+    "occurrences": [
+      "love",
+      "football"
+    ],
+    "word_count": 12,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0521,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.078,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1198,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0842,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Me , too ! Do you want to come over and watch the next game at my place ? I'm planning on having a few people over to watch it together .",
+    "occurrences": [
+      "watch",
+      "planning",
+      "watch",
+      "together"
+    ],
+    "word_count": 31,
+    "stop_word_count": 17,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.569,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1121,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.376,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0269,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.394,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0281,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0441,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "11%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "sure , that would be great .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Ok , it's a date then !",
+    "occurrences": [
+      "date"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2293,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "22%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

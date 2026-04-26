@@ -1,0 +1,165 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Room service .",
+    "occurrences": [
+      "service"
+    ],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0573,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good morning . This is room 113 . I'd like some breakfast , please .",
+    "occurrences": [
+      "good",
+      "morning",
+      "like",
+      "breakfast"
+    ],
+    "word_count": 14,
+    "stop_word_count": 3,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0348,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.039,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0945,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0199,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.101,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1001,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Right . Excuse me . Mrs . Jones ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's right .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What can I do for you ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'd like some grapefruit juice , marmalade , two scrambled eggs with two sausages , toast , and a pot of black coffee , please . How long will it take ?",
+    "occurrences": [
+      "like",
+      "toast",
+      "coffee",
+      "long"
+    ],
+    "word_count": 27,
+    "stop_word_count": 8,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0214,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.614,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0323,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0255,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Just a few minutes , ma'am .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Great . Thank you .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

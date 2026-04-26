@@ -1,0 +1,123 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "The stepmother was very wicked . She couldn't stand a happy smile on the boy's face .",
+    "occurrences": [
+      "wicked",
+      "happy",
+      "smile"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0555,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.538,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1538,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.117,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0117,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.187,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1187,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "15%"
+      ],
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "And ?",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And she did her best to pull out the thorn in her flesh and the boy lost whatever made him happy .",
+    "occurrences": [
+      "flesh",
+      "lost",
+      "happy"
+    ],
+    "word_count": 22,
+    "stop_word_count": 12,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0555,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0352,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.788,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0788,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0609,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "sadness",
+        "6%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Poor child !",
+    "occurrences": [
+      "child"
+    ],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.046,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3487,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.932,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3107,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "34%"
+      ],
+      [
+        "joy",
+        "31%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

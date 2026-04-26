@@ -1,0 +1,66 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Please fill in the arrival card and sign the register .",
+    "occurrences": [
+      "fill",
+      "arrival"
+    ],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0993,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.32,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0457,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All right . Which room shall I have ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Room 202 , but I'm afraid we have to ask for a deposit of $ 200 .",
+    "occurrences": [
+      "afraid"
+    ],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1055,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

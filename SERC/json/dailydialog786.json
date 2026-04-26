@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Is there anything worth watching on another channel ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think there ’ s a Western on ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you mind if we watch it . I ’ d really like to see it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I really wanted to see the football game ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Football game ? Ok , and you know what comes on next ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I believe there ’ s a sitcom ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you interested in watching it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me look in the TV Guide first ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , I am sorry . What's on Channel 2 at 10 pm ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If I remember correctly , it's a quiz show ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you want to watch it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let's watch it together ."
+  }
+]

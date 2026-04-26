@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you have any questions ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , do I have to work a whole year before I can take a vacation ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , after you ’ Ve been here a year , you qualify for a three-day vacation"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Only three days ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's the company policy ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What happens if I use up my sick days before the end of the year ? If I ’ m sick an extra day or two , will my pay be deducted ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . That's the company policy ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It was the same as the last place I worked at . I was hoping you ’ d be different ."
+  }
+]

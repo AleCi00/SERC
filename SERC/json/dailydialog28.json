@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Next , please . Hello , may I help you , sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I want to send a registered airmail letter to France ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Ok , it comes four dollars twenty cents ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here is five dollars ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Here is your change . Please wait for your receipt of the registered mail ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I also want to pack up my package . This is the notes ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let me see . En .. just a minute . Here it is . I need your signature on this note ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , one more thing , where can I mail this letter ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Drop it in the mail box mark out of town . at that corner ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you very much ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You ‘ re welcome ."
+  }
+]

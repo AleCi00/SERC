@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It's such a nice day ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , it is ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It looks like it may rain soon ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , and I hope that it does ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why is that ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I really love how rain clears the air ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Me too . It always smells so fresh after it rains ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , but I love the night air after it rains ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Really ? Why is that ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Because you can see the stars perfectly ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I really hope it rains today ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , me too ."
+  }
+]

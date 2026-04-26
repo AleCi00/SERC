@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , Sir , do you know what time it is ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , it ’ s almost eleven twenty ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You ’ re welcome . The rain is quite heavy , isn ’ t it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah . I was in a hurry and I forgot my umbrella today ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I have one . We could share it . Which way are you going ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , that ’ s very kind of you . I am going to the Garden Hotel ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am going there , too . We can walk together ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure ."
+  }
+]

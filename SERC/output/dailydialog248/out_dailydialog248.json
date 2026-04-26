@@ -1,0 +1,155 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , this is room 1205 . Our message lamp is flashing .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hold on a minute , please .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am sorry to have kept you waiting . Mr . Johns needs a telephone call from you .",
+    "occurrences": [
+      "waiting"
+    ],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.664,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0604,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0128,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you bring the message to my room .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm afraid we have nobody available at the moment .",
+    "occurrences": [
+      "afraid"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1407,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Then I'll come down and pick up the message immediately .",
+    "occurrences": [
+      "down",
+      "immediately"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0562,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK , we wait for you .",
+    "occurrences": [
+      "wait"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1743,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "17%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

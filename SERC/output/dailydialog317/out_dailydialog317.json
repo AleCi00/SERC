@@ -1,0 +1,201 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Have you declared your income and are you prepared to pay tax ?",
+    "occurrences": [
+      "income",
+      "prepared",
+      "pay",
+      "tax"
+    ],
+    "word_count": 13,
+    "stop_word_count": 7,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.399,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2332,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.645,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1075,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2695,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "26%"
+      ],
+      [
+        "anticipation",
+        "23%"
+      ],
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not yet . I don't know how to fill out the form . What is the tax-free allowance for supporting a dependent ?",
+    "occurrences": [
+      "fill",
+      "tax",
+      "free",
+      "supporting",
+      "dependent"
+    ],
+    "word_count": 24,
+    "stop_word_count": 11,
+    "occurrences_count": 5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.544,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0418,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.142,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0109,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.515,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1165,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't really know . Why not ask the accountant or the lawyer of the law firm ? They will tell you which is subject or not subject to taxation . He can even help you avoid paying tax legally .",
+    "occurrences": [
+      "accountant",
+      "lawyer",
+      "law",
+      "help",
+      "avoid",
+      "tax"
+    ],
+    "word_count": 41,
+    "stop_word_count": 19,
+    "occurrences_count": 6,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0114,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.54,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0245,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.849,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0386,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.142,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0065,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.969,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.044,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "fear",
+        "3%"
+      ],
+      [
+        "disgust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If I don't pay my taxes , would the tax officials discover it ?",
+    "occurrences": [
+      "pay",
+      "tax"
+    ],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0576,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0302,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.142,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0177,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0537,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Certainly . No one who evades tax can escape from their detection.They ' ll check your income through computers . You'd better make a declaration to the tax authorities as soon as possible . If you fail to meet the deadline , you will be fined .",
+    "occurrences": [
+      "tax",
+      "escape",
+      "income",
+      "tax",
+      "deadline"
+    ],
+    "word_count": 46,
+    "stop_word_count": 20,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.125,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0433,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.718,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0276,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.403,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0155,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.384,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0148,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0186,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "fear",
+        "2%"
+      ],
+      [
+        "trust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

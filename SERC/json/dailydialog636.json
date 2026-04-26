@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Margaret , do you think I should enroll in the science course ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I think so , If you want to graduated this year , you've got to take a science course ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Right , I figure since you are doing premedical , you know about the very courses ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I have to take biology , chemistry , maps and physics.what you need is a good introductory course for non-science majors ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I really weak in maps , I did poorly in high school ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's a problem ."
+  }
+]

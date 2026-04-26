@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I have to go up to London for a couple of days next week . Would you like to come ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That would be nice . How are you getting there ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , I prefer to go on the train , but I suppose you want me to take the car ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I much prefer to go by car , then we don't need to get to the station with our luggage and ..."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And I've got to drive . You know I'm not fond of that . I found it much more relaxing to sit in the train ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Which is more expensive ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But very much quicker . But I know we'll never agree on this subject . You prefer the car . I prefer the train ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Now , have you ever thought of going by express bus ?"
+  }
+]

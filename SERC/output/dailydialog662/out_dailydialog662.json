@@ -1,0 +1,124 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I give up ! I simply can't learn French !",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why do you say that ? I think you're making a lot of progress .",
+    "occurrences": [
+      "progress"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0879,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.397,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0496,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , I'm not . I try and try and I still can't speak it very well .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Learning any language takes a lot of effort.But don't give up . Why don't we practise those dialogues together ?",
+    "occurrences": [
+      "practise",
+      "together"
+    ],
+    "word_count": 20,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.508,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0391,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.394,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0303,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Good idea . That might help .",
+    "occurrences": [
+      "good",
+      "help"
+    ],
+    "word_count": 7,
+    "stop_word_count": 1,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0638,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0338,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0912,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0365,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1028,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

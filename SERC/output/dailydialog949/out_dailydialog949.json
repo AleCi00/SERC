@@ -1,0 +1,112 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "So Janet , do you do any sports ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I go to the gym a lot . I am a member of a gym nearby .",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , how often do you go ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "About three times a week if I can .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not bad ! Do you do any other sports ?",
+    "occurrences": [
+      "bad"
+    ],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2265,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.782,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1955,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1875,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.211,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "22%"
+      ],
+      [
+        "sadness",
+        "21%"
+      ],
+      [
+        "disgust",
+        "19%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not really . I ’ d really like to try golf , though .",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 13,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

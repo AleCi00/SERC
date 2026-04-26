@@ -1,0 +1,14 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Let's speed up . We're going to be late again ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If we hurry , can we get there in time ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I hope so ."
+  }
+]

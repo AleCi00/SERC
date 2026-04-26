@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good evening . What'll you have ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'd like a beer . What kind of beer do you have ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Draft beer and cans beer . Which do you prefer ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "A draft beer please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK . Here you are ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Could I have some fruit ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Of course . Wait for a moment , please ."
+  }
+]

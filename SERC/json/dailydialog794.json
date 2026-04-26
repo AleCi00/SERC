@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How do you arrange this summer vacation ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I want to travel ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where would you like to go ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The seaside ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's really a good idea . Taking a walk on the beach and lying in the sun are pretty good . I recommend you Qingdao or Dalian ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ Ve been to Qingdao before , so I ’ ll choose Dalian . I've heard that the environment there is very good ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , that's a good place to spend a holiday . Last year I went there . It's really ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you !"
+  }
+]

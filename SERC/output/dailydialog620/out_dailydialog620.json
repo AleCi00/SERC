@@ -1,0 +1,90 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Bob !",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Anne ! I haven't seen you for ages.How ' Ve you been ?",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Fine , just fine.And you ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not bad.It really is great to see you again.Where have you been ?",
+    "occurrences": [
+      "bad"
+    ],
+    "word_count": 13,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0906,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0782,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.075,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0844,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "9%"
+      ],
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "disgust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Guangzhou . I've got a cousin there .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

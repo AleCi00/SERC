@@ -1,0 +1,339 @@
+[
+  {
+    "speaker": "Marco",
+    "text": "Today was a terrible day.",
+    "occurrences": [
+      "terrible"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2293,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1873,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.198,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1927,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "22%"
+      ],
+      [
+        "fear",
+        "19%"
+      ],
+      [
+        "sadness",
+        "19%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Alice",
+    "text": "What happened?",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Marco",
+    "text": "I lost my job. I didn’t even know how to tell you.",
+    "occurrences": [
+      "lost"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1042,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Alice",
+    "text": "Marco... I’m so sorry. You shouldn’t have kept it to yourself.",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Marco",
+    "text": "I was ashamed... I don’t want you to think I’m a failure.",
+    "occurrences": [
+      "ashamed",
+      "failure"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.836,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1393,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0963,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.531,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2552,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "25%"
+      ],
+      [
+        "disgust",
+        "13%"
+      ],
+      [
+        "fear",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Alice",
+    "text": "I’ll never think that. What matters is that you’re here, with me.",
+    "occurrences": [
+      "matters"
+    ],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.089,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Marco",
+    "text": "I don’t know if I can start over...",
+    "occurrences": [
+      "start"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.25,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1147,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "25%"
+      ],
+      [
+        "surprise",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Alice",
+    "text": "We’ll do it together. I promise I won’t leave you alone.",
+    "occurrences": [
+      "together",
+      "promise",
+      "leave",
+      "alone"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 4,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.809,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1348,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.928,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1547,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.039,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1288,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "15%"
+      ],
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "trust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Marco",
+    "text": "But you deserve better, I don’t want to drag you down.",
+    "occurrences": [
+      "deserve",
+      "down"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.176,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0352,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.602,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1204,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0562,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1032,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Alice",
+    "text": "I want you, not what you do or don’t do. Just you.",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Marco",
+    "text": "This uncertainty scares me.",
+    "occurrences": [
+      "scares"
+    ],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.66,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.33,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "33%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Alice",
+    "text": "It scares me too. But we’ll face it step by step.",
+    "occurrences": [
+      "scares"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.66,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.132,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Marco",
+    "text": "Thank you... I don’t know what I’d do without you.",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Alice",
+    "text": "You’ll never have to know, because I won’t let you face it alone.",
+    "occurrences": [
+      "alone"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.6,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0857,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

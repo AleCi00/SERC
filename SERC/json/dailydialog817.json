@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Mike ! Look at the floor !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What's wrong with it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What's wrong with it ? It's filthy !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh ..."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's filthy because you never wipe your shoes ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sorry , love ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What are you looking for now ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My cigarettes ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , they ' re not here.They are in the dustbin ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "In the dustbin ! Why didn't you tell me before ?"
+  }
+]

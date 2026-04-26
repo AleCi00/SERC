@@ -1,0 +1,54 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Have you got any experience in advertising ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I have been working in the Public Relations Section of a company in the past two years . I plan the advertising campaign and cooperate the work of artists and typographers . Sometimes I have to do the work of a specialist when there ’ s something urgent ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have any practical experience as a secretary ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , sir . I acted as a secretary in an insurance company ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you tell me the essential qualities a secretary should maintain ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , to begin with , I would say she needs to be diligent , and the second point is that she has to do a lot of things on her own initiative . Finally , she can make notes in shorthand and types and has the skills in report writing , summary writing , keep minutes at meetings , and so on . Most important of all is that she seems to have a better memory than average ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Have you had any experience with computer ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I studied in a computer training program , and can process data through the computer ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's fine . What about operating the fax and duplicator ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can handle them without any trouble"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What have you learned from jobs you have held ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Above all , I have learned that what is good for the company is good for me . So I follow the instructions strictly and always keep my boss informed ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Very good ."
+  }
+]

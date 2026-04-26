@@ -1,0 +1,173 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What happened , John ?",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Nothing .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why do you look unhappy ?",
+    "occurrences": [
+      "unhappy"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.364,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1213,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.211,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.25,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "25%"
+      ],
+      [
+        "anger",
+        "12%"
+      ],
+      [
+        "disgust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m rather disappointed at not being able to see my best friend off .",
+    "occurrences": [
+      "disappointed",
+      "friend"
+    ],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.348,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0435,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.041,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.471,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0589,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.636,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0795,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , cheer up . He ’ ll understand you .",
+    "occurrences": [
+      "cheer"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0885,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.897,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1495,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0898,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0912,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "14%"
+      ],
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "surprise",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I hope so .",
+    "occurrences": [
+      "hope"
+    ],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3865,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.293,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1835,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.34,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "38%"
+      ],
+      [
+        "trust",
+        "34%"
+      ],
+      [
+        "joy",
+        "29%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

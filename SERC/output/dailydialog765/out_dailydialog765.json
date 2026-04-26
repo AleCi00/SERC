@@ -1,0 +1,248 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "are you a blogger ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "sure I am . I've been writing a blog for almost three years .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "oh , it seems that I'm the only one who never blogs . When did you get started ?",
+    "occurrences": [],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I began blogging when I first went to the US for my graduate strides .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "what do you usually write about ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "at first , I'll write about my life there . Like interesting things on the campus , travel stories , special English words that I come across . Sometimes , I'll post my pictures on my blog so my family an",
+    "occurrences": [
+      "life",
+      "like",
+      "travel",
+      "special",
+      "words",
+      "family"
+    ],
+    "word_count": 35,
+    "stop_word_count": 15,
+    "occurrences_count": 6,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.062,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0031,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.921,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.096,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0453,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anger",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "that's interesting . How often do you write a blog ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "it's random . If there happen to be a lot of things going on , I may add several new entries in a week , and if I've got nothing to share , I may leave my blog untouched for weeks .",
+    "occurrences": [
+      "happen",
+      "share",
+      "leave"
+    ],
+    "word_count": 37,
+    "stop_word_count": 16,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.929,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0442,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0209,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0111,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0279,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "got it . Are you still updating your blog ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "sure , since I came back from the US , I've been keeping the habit of blogging , simply to share my personal insights on any topic I like .",
+    "occurrences": [
+      "share",
+      "personal",
+      "like"
+    ],
+    "word_count": 25,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0297,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0292,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.57,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1047,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "good for you . I know many people just leave their blogs alone after the first few months .",
+    "occurrences": [
+      "good",
+      "leave",
+      "alone"
+    ],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0348,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0497,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.928,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0844,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0412,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0561,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

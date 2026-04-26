@@ -1,0 +1,187 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good afternoon . Can I be of service ?",
+    "occurrences": [
+      "good",
+      "service"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0766,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1234,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "14%"
+      ],
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don't know . Can I purchase Treasury Certificates here at this counter ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , of course . We have Treasury Notes with two , three and five-year terms available .",
+    "occurrences": [
+      "terms"
+    ],
+    "word_count": 15,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0531,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Two years is fine , with a value of 1,000 RIB .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK , could I take a look at some ID please , like a passport ?",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 13,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here you go . By the way , is it possible to cash them before the maturity comes up ?",
+    "occurrences": [
+      "cash"
+    ],
+    "word_count": 19,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.039,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0049,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0586,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.062,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0077,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0508,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0517,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , I'm afraid that isn't possible . You must wait until maturity before you cash them .",
+    "occurrences": [
+      "afraid",
+      "wait",
+      "cash"
+    ],
+    "word_count": 17,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.039,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0043,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.992,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1102,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1007,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0451,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.046,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "11%"
+      ],
+      [
+        "fear",
+        "10%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

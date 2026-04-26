@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can we have a table for three , please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sorry , all the tables for three are reserved ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have a table for four , please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , smoking or non-smoking ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We'd like a non-smoking table , please ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Come with me , please ."
+  }
+]

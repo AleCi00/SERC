@@ -1,0 +1,252 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , is this Professor Clark ’ s office ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This is Professor Clark speaking .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hi , this is Kalina from your morning literature class .",
+    "occurrences": [
+      "morning"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.05,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , what can I do for you ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I had a skydiving accident over the weekend and won ’ t be able to come to school today .",
+    "occurrences": [
+      "accident",
+      "weekend",
+      "school"
+    ],
+    "word_count": 20,
+    "stop_word_count": 11,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0833,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.441,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.049,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0573,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0833,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.059,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "8%"
+      ],
+      [
+        "surprise",
+        "8%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My goodness ! Are you OK ?",
+    "occurrences": [
+      "goodness"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.876,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.219,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.636,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.409,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.082,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.36,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.34,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "40%"
+      ],
+      [
+        "trust",
+        "34%"
+      ],
+      [
+        "anticipation",
+        "21%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I broke my leg , but it is healing .",
+    "occurrences": [
+      "broke",
+      "healing"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1445,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1095,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.082,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.718,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1795,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.168,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "17%"
+      ],
+      [
+        "trust",
+        "16%"
+      ],
+      [
+        "anticipation",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How long will you be out of class ?",
+    "occurrences": [
+      "long"
+    ],
+    "word_count": 9,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1353,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I should be able to return by next Monday .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Fine . Well , thanks for calling and letting me know you will be absent . I hope you feel better soon .",
+    "occurrences": [
+      "absent",
+      "hope"
+    ],
+    "word_count": 22,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0552,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0419,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0262,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0486,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

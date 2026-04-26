@@ -1,0 +1,259 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How do you decide what grade we get ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I look at many things , attendance , quizzes , and tests .",
+    "occurrences": [
+      "attendance"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0714,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What is the most important factor ?",
+    "occurrences": [
+      "important"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.211,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "21%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Obviously I look for improvement as we go along , but I would like you to do your best from the beginning .",
+    "occurrences": [
+      "improvement",
+      "like"
+    ],
+    "word_count": 20,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.309,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0309,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.007,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1007,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How can we keep track of our grades ?",
+    "occurrences": [
+      "track",
+      "grades"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.094,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0235,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The final and midterm are 40 percent of your grade ; homework , attendance , and quizzes total 60 percent .",
+    "occurrences": [
+      "homework",
+      "attendance"
+    ],
+    "word_count": 19,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0385,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.109,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0084,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "fear",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What if we can't get to school ?",
+    "occurrences": [
+      "school"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1328,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You can only miss one class without penalty .",
+    "occurrences": [
+      "miss",
+      "penalty"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0807,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0755,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.848,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1413,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "14%"
+      ],
+      [
+        "anger",
+        "8%"
+      ],
+      [
+        "fear",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "If we have a major problem , will you let us know ?",
+    "occurrences": [
+      "problem"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0443,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.073,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I will be letting you know during the year if you have a major problem .",
+    "occurrences": [
+      "problem"
+    ],
+    "word_count": 16,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0443,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.073,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

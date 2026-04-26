@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you want to help me make the cookies , Anna ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'd love to ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "First , put away your toys ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'll get the flour out ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me help you ."
+  }
+]

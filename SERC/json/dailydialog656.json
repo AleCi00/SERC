@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Where are you going ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm going to buy a CD ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why not listen to music online ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Then I will have to pay quite a lot to listen to music on line , isn't it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You can audition music on line , and you can audition it off line after downloading it , so you needn't pay for it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I have downloaded one , but it still can't be listened ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "In order to listen to music , you must have the necessary software ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can you recommend some to me ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Certainly . Realplayer is a good ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can I download it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , but you need install it after downloading so that you can use it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'll try it tonight ."
+  }
+]

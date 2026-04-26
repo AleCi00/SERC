@@ -1,0 +1,89 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What would you like to eat , sir ?",
+    "occurrences": [
+      "like",
+      "sir"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.929,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1858,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Scrambled egg , bacon , three pieces of bread and a cup of tea .",
+    "occurrences": [
+      "tea"
+    ],
+    "word_count": 13,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0209,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you care for some lemon for your tea ?",
+    "occurrences": [
+      "lemon",
+      "tea"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.109,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0218,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0376,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "disgust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thank you .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

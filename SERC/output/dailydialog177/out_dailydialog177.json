@@ -1,0 +1,139 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Look , how grand magnificent the Tiananmen Gate tour is !",
+    "occurrences": [
+      "magnificent"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.062,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2124,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.718,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3436,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.016,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2032,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.172,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2344,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "34%"
+      ],
+      [
+        "trust",
+        "23%"
+      ],
+      [
+        "anticipation",
+        "21%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What's Tiananmen famous for ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It is largest pop square in the world.you see that is monument for the people's hero , and the Chairman Mao memorial hall on the south.there is great hall of the people on the west.there are two museums on the east .",
+    "occurrences": [
+      "pop",
+      "hero",
+      "memorial"
+    ],
+    "word_count": 39,
+    "stop_word_count": 20,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0263,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0296,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0288,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.852,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0448,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0407,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "surprise",
+        "4%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What's that ?",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's the Forbidden city on the north of Gate building .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All the sightseeing in china is very attractive and crescive.travelling to China is very worth one.thank you so much for your guides , and I'll miss you .",
+    "occurrences": [
+      "miss"
+    ],
+    "word_count": 26,
+    "stop_word_count": 16,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.379,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0379,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

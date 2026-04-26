@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning ! I am a new comer in our office ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good morning ! Welcome to our office !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Nice to meet you ! My name is Grace Williams ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Nice to meet you too ! I am Peter Smith ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Today is my first day at work !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , hope you will enjoy your first day ! Just ask me if you need any help ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you . It's very kind of you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You are welcome ."
+  }
+]

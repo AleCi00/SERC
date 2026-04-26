@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Where do you want to go ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm going to the hospital ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Get in . I'll take you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "About how much will it cost ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It will cost you $ 10 ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "By the way , what's the time ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You can see the time on the meter . I have radio time , you know ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's a quarter to 12 . Could you please drive a little faster ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Certainly ."
+  }
+]

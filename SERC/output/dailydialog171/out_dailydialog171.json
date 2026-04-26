@@ -1,0 +1,179 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you remember what the ratings of movies stand for ?",
+    "occurrences": [
+      "movies"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.393,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0786,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , G stands for General Audiences , PG means Parental Guidance suggested , R is restricted to audiences under 18 and X means explicit content .",
+    "occurrences": [
+      "content"
+    ],
+    "word_count": 17,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0573,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0468,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Does anyone pay any attention to those ratings anymore ?",
+    "occurrences": [
+      "pay"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0768,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0717,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Remember when we were kids ? Theaters wouldn't let kids in to PG moves without a parent .",
+    "occurrences": [],
+    "word_count": 18,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I remember that I never saw an X moves even displayed .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Now with video rentals it's all a personal matter .",
+    "occurrences": [
+      "personal",
+      "matter"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.977,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1954,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "19%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yea , I never see theaters turn people away for their age anymore either .",
+    "occurrences": [
+      "turn"
+    ],
+    "word_count": 13,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.133,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0121,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Now we have to make a choice about what we will see and what we won't .",
+    "occurrences": [
+      "wont"
+    ],
+    "word_count": 17,
+    "stop_word_count": 12,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0578,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

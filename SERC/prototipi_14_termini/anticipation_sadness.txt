@@ -1,0 +1,43 @@
+Title: anticipation-sadness
+
+Head Concept Name: anticipation
+Modifier Concept Name: sadness
+
+head, -surprise
+
+modifier, -happiness
+modifier, -jubilant
+
+T(modifier), mourning, 0.969
+T(modifier), heartbreaking, 0.969
+T(modifier), tragic, 0.961
+T(modifier), holocaust, 0.953
+T(modifier), suicidal, 0.941
+T(modifier), misery, 0.938
+T(modifier), massacre, 0.931
+T(modifier), euthanasia, 0.927
+T(modifier), depression, 0.925
+T(modifier), grieving, 0.922
+T(modifier), bereavement, 0.922
+T(modifier), fatal, 0.922
+T(modifier), bereaved, 0.92
+T(modifier), devastation, 0.917
+
+T(head), anticipation, 0.859
+T(head), excited, 0.859
+T(head), excitement, 0.82
+T(head), anticipate, 0.82
+T(head), eagerness, 0.812
+T(head), exciting, 0.797
+T(head), expectant, 0.789
+T(head), thrilling, 0.781
+T(head), hope, 0.773
+T(head), quest, 0.766
+T(head), countdown, 0.75
+T(head), start, 0.75
+T(head), anticipatory, 0.75
+T(head), adventure, 0.75
+
+
+Result: {"mourning": 0.969, "heartbreaking": 0.969, "tragic": 0.961, "holocaust": 0.953, "suicidal": 0.941, "misery": 0.938, "massacre": 0.931, "euthanasia": 0.927, "depression": 0.925, "grieving": 0.922, "bereavement": 0.922, "fatal": 0.922, "bereaved": 0.92, "excited": 0.859, "@scenario_probability": 5.20745622978915e-09}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5.20745622978915e-09]

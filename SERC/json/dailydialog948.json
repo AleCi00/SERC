@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Say , what's your favorite sport ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Mmmm ... it's hard to say . I like golf a lot-but I guess I like tennis better ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you play much tennis ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , quite a bit . How about a game sometime ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sorry . I'm strictly a spectator-football , baseball , basketball , golf ... I watch them all ."
+  }
+]

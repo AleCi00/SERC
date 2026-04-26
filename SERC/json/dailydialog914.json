@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Diane Grant ? I haven't seen you for ages !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Brian ! How have you been ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Pretty good . Say , you've really changed !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , well , I've lost some weight . And my hair is longer than before ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , you look great ! How are you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm doing really well . I got married about three years ago . I have two kids now ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's terrific !"
+  }
+]

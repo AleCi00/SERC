@@ -1,0 +1,205 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Which university did you graduate from ?",
+    "occurrences": [
+      "university"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1353,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I graduated from Peking University .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What was your major at university ?",
+    "occurrences": [
+      "university"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1353,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I studied economics , I am especially interested in the economic development of China .",
+    "occurrences": [
+      "interested"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0111,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.114,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0163,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "1%"
+      ],
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What course did you like best ?",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.121,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I like Business Management , and i think it's very useful for the present work .",
+    "occurrences": [
+      "like",
+      "present"
+    ],
+    "word_count": 13,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.441,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0735,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.32,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0533,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.937,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1562,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "15%"
+      ],
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "joy",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you think is the relationship between the subjects you've taken and the job you are seeking ?",
+    "occurrences": [
+      "relationship"
+    ],
+    "word_count": 19,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.514,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0643,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.082,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I've taken courses on office administration , reports and correspondence writing . I think all these are closely related to the job of assistant manager , because it requires the ability to perform general office work and to assist the manager in handling all paperwork .",
+    "occurrences": [
+      "correspondence",
+      "related",
+      "general",
+      "assist"
+    ],
+    "word_count": 44,
+    "stop_word_count": 18,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0186,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.523,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0586,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

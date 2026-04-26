@@ -1,0 +1,139 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Madam . What can we do for you today ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hi . I've been sent over from Turner Interiors . They said I need to collect some sort of L / C ? Do you have it ?",
+    "occurrences": [],
+    "word_count": 23,
+    "stop_word_count": 11,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I certainly do . Here it is , an Export L / C from Tokyo .",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It should be from Sayuri Beds . Is that right ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , it is . Sayuri Beds , Tokyo , Japan .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's what I want ! Do you need me to sign anything ? Or fill in some forms ?",
+    "occurrences": [
+      "fill"
+    ],
+    "word_count": 18,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.32,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.032,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Just sign right here , please . That's everything you need to do .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Perfect . Thank you , goodbye !",
+    "occurrences": [
+      "perfect",
+      "goodbye"
+    ],
+    "word_count": 6,
+    "stop_word_count": 1,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.089,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.15,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1078,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "15%"
+      ],
+      [
+        "joy",
+        "14%"
+      ],
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

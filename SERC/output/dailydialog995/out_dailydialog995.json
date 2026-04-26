@@ -1,0 +1,104 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Every time when heroes came back from the battlefield , we took our hats off to them .",
+    "occurrences": [
+      "time",
+      "battlefield"
+    ],
+    "word_count": 17,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0573,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0729,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You were showing respect and admiration for them .",
+    "occurrences": [
+      "respect",
+      "admiration"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1095,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.234,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3085,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.082,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.453,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3632,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "36%"
+      ],
+      [
+        "joy",
+        "30%"
+      ],
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I wish I were a hero .",
+    "occurrences": [
+      "hero"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1667,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1873,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1147,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2577,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "25%"
+      ],
+      [
+        "joy",
+        "18%"
+      ],
+      [
+        "anticipation",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

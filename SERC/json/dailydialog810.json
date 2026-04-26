@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What's the matter with you , then ? You look miserable ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's us ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you mean by \" us \" ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , we used to talk to each other before we were married . Remember ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you mean ? We ' re talking now , aren't we ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , yes , but we used to do so much together ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . I remember . But we never used to argue . You used to think I was wonderful . Where are you going ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Back to live with my parents . That's something else I used to do before we were married . Remember ?"
+  }
+]

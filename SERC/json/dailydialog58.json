@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Miao Li , Where are you going ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hello , I am going to the store to buy some fruit ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , Would you do me a favor ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Please mail this letter for me on your way to the store ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . Do you want it to be registered ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I think so . There are some pictures in it . It would be a great pity if they were lost ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I will be glad to mail your letter ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "you are welcome ."
+  }
+]

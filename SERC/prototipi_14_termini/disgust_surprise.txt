@@ -1,0 +1,42 @@
+Title: disgust-surprise
+
+Head Concept Name: disgust
+Modifier Concept Name: surprise
+
+head, -honor
+
+modifier, -anticipation
+
+T(modifier), surprise, 0.93
+T(modifier), explode, 0.906
+T(modifier), flabbergast, 0.906
+T(modifier), explosion, 0.898
+T(modifier), ambush, 0.883
+T(modifier), explosive, 0.883
+T(modifier), eruption, 0.883
+T(modifier), surprisingly, 0.875
+T(modifier), startle, 0.875
+T(modifier), shockingly, 0.875
+T(modifier), frighten, 0.875
+T(modifier), surprised, 0.867
+T(modifier), frightened, 0.867
+T(modifier), surprising, 0.867
+
+T(head), cannibalism, 0.953
+T(head), mutilation, 0.93
+T(head), molestation, 0.914
+T(head), incest, 0.914
+T(head), rape, 0.906
+T(head), gonorrhea, 0.906
+T(head), cannibal, 0.898
+T(head), rot, 0.891
+T(head), corpse, 0.883
+T(head), massacre, 0.883
+T(head), excrement, 0.883
+T(head), barf, 0.875
+T(head), slaughter, 0.875
+T(head), slaughterhouse, 0.867
+
+
+Result: {"surprise": 0.93, "explode": 0.906, "flabbergast": 0.906, "explosion": 0.898, "cannibalism": 0.953, "mutilation": 0.93, "molestation": 0.914, "incest": 0.914, "rape": 0.906, "gonorrhea": 0.906, "cannibal": 0.898, "rot": 0.891, "massacre": 0.883, "excrement": 0.883, "@scenario_probability": 5.8133417324903496e-12}
+Scenario: [1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 5.8133417324903496e-12]

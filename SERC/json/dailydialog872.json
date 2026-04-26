@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Did you read the letter in the paper about smoking ? The person who wrote that must be crazy ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don ’ t think so . I think the government should do everything it can to discourage people from smoking ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Maybe so . But a law banning cigarettes will do no good ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , you can ’ t suddenly make smoking illegal , but government could prohibit smoking in public places like movies and theatres ."
+  }
+]

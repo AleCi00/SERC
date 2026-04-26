@@ -1,0 +1,81 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you understand any other foreign languages besides English ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I know a little about Japanese which is similar to Chinese not only in culture but in language itself .",
+    "occurrences": [],
+    "word_count": 18,
+    "stop_word_count": 11,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What band did you pass in Japanese Language Proficiency Test ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I passed the Band two in LPT , but I will try to achieve Band one which is the highest level .",
+    "occurrences": [
+      "achieve",
+      "highest",
+      "level"
+    ],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.491,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0546,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.236,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0262,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.232,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1369,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0382,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.109,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1232,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

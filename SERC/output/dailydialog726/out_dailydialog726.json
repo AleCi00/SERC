@@ -1,0 +1,108 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How many people are there in your family ?",
+    "occurrences": [
+      "family"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Five.My father , mother , brother , sister-in-law and me .",
+    "occurrences": [
+      "father",
+      "mother",
+      "brother",
+      "law"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.058,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.412,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0589,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0023,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3549,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "35%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is your brother older or younger than you ?",
+    "occurrences": [
+      "brother"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.162,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He is five years older than me , He got married last Sunday.My brother and my sister-in-law are the same age .",
+    "occurrences": [
+      "brother",
+      "law"
+    ],
+    "word_count": 22,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.195,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0996,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

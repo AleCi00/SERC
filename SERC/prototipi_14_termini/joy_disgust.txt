@@ -1,0 +1,42 @@
+Title: joy-disgust
+
+Head Concept Name: joy
+Modifier Concept Name: disgust
+
+head, -holocaust
+
+modifier, -honor
+
+T(modifier), cannibalism, 0.953
+T(modifier), mutilation, 0.93
+T(modifier), molestation, 0.914
+T(modifier), incest, 0.914
+T(modifier), rape, 0.906
+T(modifier), gonorrhea, 0.906
+T(modifier), cannibal, 0.898
+T(modifier), rot, 0.891
+T(modifier), corpse, 0.883
+T(modifier), massacre, 0.883
+T(modifier), excrement, 0.883
+T(modifier), barf, 0.875
+T(modifier), slaughter, 0.875
+T(modifier), slaughterhouse, 0.867
+
+T(head), happiest, 0.986
+T(head), happiness, 0.984
+T(head), bliss, 0.971
+T(head), celebrating, 0.97
+T(head), jubilant, 0.969
+T(head), ecstatic, 0.954
+T(head), elation, 0.944
+T(head), beaming, 0.938
+T(head), bestdayever, 0.938
+T(head), loveee, 0.932
+T(head), celebratio, 0.929
+T(head), awesomeness, 0.926
+T(head), joy, 0.924
+T(head), joyous, 0.922
+
+
+Result: {"cannibalism": 0.953, "mutilation": 0.93, "happiest": 0.986, "happiness": 0.984, "bliss": 0.971, "celebrating": 0.97, "jubilant": 0.969, "ecstatic": 0.954, "elation": 0.944, "beaming": 0.938, "bestdayever": 0.938, "loveee": 0.932, "celebratio": 0.929, "awesomeness": 0.926, "@scenario_probability": 7.147398376425696e-13}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 7.147398376425696e-13]

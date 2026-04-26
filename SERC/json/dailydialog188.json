@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Well , Mitzuko-san , I hope you like it here . This is my favourite restaurant in Taipei . It reminds me of my youth when I traveled around Europe ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It looks wonderful . Very authentic ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The chef trained in Florence . The pasta is very good here ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . So , what can you recommend ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hum ... You should try the mushroom fettucine . It's really good ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is it salty ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not at all . It has a very delicate flavor ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What does ' Duppa del Giono ' mean ? I'm sorry I don't know how to pronounce that ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , that means soup of the day . I'll ask the waiter what they have today . Have you tried mussels cooked the Italian way ? They're really delicious ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No . I'll try them . Sounds good ."
+  }
+]

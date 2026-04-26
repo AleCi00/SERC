@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "911 emergency . What is the problem ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I would like to report a break-in ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "When was this break-in ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I believe it happened last night ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where was the break-in ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It happened at my house ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Was anything stolen ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I haven't checked yet ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why do you think there was a break-in ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My front window was broken ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We'll send a squad car shortly ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'd appreciate that ."
+  }
+]

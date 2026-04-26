@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I was wondering if you could help me with something ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure , anything you say ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Actually , it ’ s a little bit silly ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Don ’ t worry about it , just ask ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What words do I need to know to buy a pair of shoes ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You need to know the type of shoes you want ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don ’ t worry about that . I can point it out in the store ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The shoes can be comfortable or not comfortable , too wide , too narrow , or just right ; and long or short . In girls shoes , the heel can be high or low ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let me write all that down . I ’ m going shopping this afternoon ."
+  }
+]

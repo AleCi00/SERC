@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Is this a photo of your family ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , it is.It was taken just before I was leaving for college ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You look so lovely ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How time flies ! I'll not see twenty again ."
+  }
+]

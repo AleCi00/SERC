@@ -1,0 +1,158 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Honey , what's wrong with you ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm not feeling well . I'm very nervous .",
+    "occurrences": [
+      "feeling",
+      "nervous"
+    ],
+    "word_count": 9,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.147,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.021,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.157,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1653,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0201,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1139,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0513,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0246,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0513,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.518,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.074,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "16%"
+      ],
+      [
+        "fear",
+        "11%"
+      ],
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Take it easy . We are going to have our own baby . You should be happy .",
+    "occurrences": [
+      "baby",
+      "happy"
+    ],
+    "word_count": 18,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0694,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.288,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.161,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0761,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "16%"
+      ],
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , I know .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The doctors and the nurses will help you . And I will be waiting for you right here , praying for you and our baby .",
+    "occurrences": [
+      "help",
+      "waiting",
+      "praying",
+      "baby"
+    ],
+    "word_count": 24,
+    "stop_word_count": 15,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.664,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0738,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0434,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0556,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you , dear . I feel better now .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

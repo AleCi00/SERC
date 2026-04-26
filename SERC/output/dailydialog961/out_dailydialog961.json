@@ -1,0 +1,103 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m afraid I spoke in all of the table clock .",
+    "occurrences": [
+      "afraid",
+      "clock"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1407,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "14%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Never mind about that .",
+    "occurrences": [
+      "mind"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0287,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m terribly sorry , Won ’ t you let me pay for ?",
+    "occurrences": [
+      "terribly",
+      "pay"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0659,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0346,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0916,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0614,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , I won ’ t hear of it .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

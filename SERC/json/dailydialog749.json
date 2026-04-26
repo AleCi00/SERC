@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Sorry . I didn't mean to be late . Can I come in ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What's your excuse this time ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Have I used the one that my sister is sick ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , twice last week ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you sure ? I thought I said it was my mother ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don't think so . But it could've been ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well . You can trust me this time . My sister is definitely sick . I'm just coming from the hospital . They say she might even die ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don't buy your story . Try not to have any more sick relatives this week , all right ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'll do my best ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just try to be a little more punctual in the future ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm working on it . Really !"
+  }
+]

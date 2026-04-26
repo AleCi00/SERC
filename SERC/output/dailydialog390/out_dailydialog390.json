@@ -1,0 +1,224 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "The plumbing in my new apartment is not working .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I need you to tell me what the problem is .",
+    "occurrences": [
+      "problem"
+    ],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0665,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1095,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "10%"
+      ],
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The bathroom sink is stopped up .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is the kitchen plumbing messed up also , or just the bathroom plumbing ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Just the bathroom plumbing seems to have a problem .",
+    "occurrences": [
+      "problem"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0532,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0876,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "fear",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Did this just start happening , or has it been going on for a while ?",
+    "occurrences": [
+      "start"
+    ],
+    "word_count": 15,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1875,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "18%"
+      ],
+      [
+        "surprise",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Everything worked beautifully until a few hours ago .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Are you going to be home so I can come by and take a look at the problem ?",
+    "occurrences": [
+      "home",
+      "problem"
+    ],
+    "word_count": 18,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.038,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.559,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0799,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0626,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "sadness",
+        "6%"
+      ],
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I am not sure if I will be home later .",
+    "occurrences": [
+      "home"
+    ],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.559,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1398,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I will be coming by around 10 this morning . If you aren ’ t there , I ’ ll just use my key .",
+    "occurrences": [
+      "coming",
+      "morning"
+    ],
+    "word_count": 23,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0633,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.025,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

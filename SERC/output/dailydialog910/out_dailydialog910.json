@@ -1,0 +1,101 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What does your mother do , may I ask ?",
+    "occurrences": [
+      "mother"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1015,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.412,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.103,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.004,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1757,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "17%"
+      ],
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My mother works in a company as an accountant .",
+    "occurrences": [
+      "mother",
+      "accountant"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0812,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.412,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0824,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0032,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.125,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.225,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "22%"
+      ],
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is she busy ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not always , she's rather busy at the end of the year .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

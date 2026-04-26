@@ -1,0 +1,115 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Look , here is a very special business card from an illustrator . Every time I go through my book of business cards , I will notice it . It is an eye-catching one .",
+    "occurrences": [
+      "special",
+      "time"
+    ],
+    "word_count": 32,
+    "stop_word_count": 14,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0287,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.574,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0319,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wow , fantastic . I like the font and color for his name . It is creative yet personal .",
+    "occurrences": [
+      "like",
+      "font",
+      "personal"
+    ],
+    "word_count": 19,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.336,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1113,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , it is a bold design . People will believe he can make an illustration as an impressive as a business card . It just stands out from those plain and standard ones used by government people or other big private and public organizations .",
+    "occurrences": [
+      "government",
+      "public"
+    ],
+    "word_count": 45,
+    "stop_word_count": 21,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.015,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "1%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I agree . Business cards are great tools for promoting personal business . It won ’ t take much time to design an amazing card , but it can make a big difference among the crowd . And you ’ ll always notice it from your collection . For they have outspoken colors , own design and the sizes are not always according the mainstream business card . I wish to have one like this . But for sure our company has its own corporate design which all employees have to follow .",
+    "occurrences": [
+      "personal",
+      "time",
+      "like",
+      "follow"
+    ],
+    "word_count": 91,
+    "stop_word_count": 42,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0105,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.461,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0298,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

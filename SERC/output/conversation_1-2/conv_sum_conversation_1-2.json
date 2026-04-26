@@ -1,0 +1,36 @@
+{
+  "speaker": [
+    "Marco",
+    "Alice"
+  ],
+  "total_words": 130,
+  "total_stop_words": 69,
+  "total_matches": 15,
+  "total_entries": 14,
+  "basic_emotions": {
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.8639999999999999,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.3519999999999999,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.3980000000000001,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 2.492,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.809,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 4.543,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.734
+  },
+  "complex_emotions": {},
+  "main_emotion": [
+    "sadness",
+    "fear",
+    "trust"
+  ],
+  "computed_scores": {
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.0142,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.0222,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.0229,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.0409,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.0133,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.0745,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.0095,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.0284
+  }
+}

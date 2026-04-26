@@ -1,0 +1,42 @@
+Title: joy-surprise
+
+Head Concept Name: joy
+Modifier Concept Name: surprise
+
+head, -holocaust
+
+modifier, -anticipation
+
+T(modifier), surprise, 0.93
+T(modifier), explode, 0.906
+T(modifier), flabbergast, 0.906
+T(modifier), explosion, 0.898
+T(modifier), ambush, 0.883
+T(modifier), explosive, 0.883
+T(modifier), eruption, 0.883
+T(modifier), surprisingly, 0.875
+T(modifier), startle, 0.875
+T(modifier), shockingly, 0.875
+T(modifier), frighten, 0.875
+T(modifier), surprised, 0.867
+T(modifier), frightened, 0.867
+T(modifier), surprising, 0.867
+
+T(head), happiest, 0.986
+T(head), happiness, 0.984
+T(head), bliss, 0.971
+T(head), celebrating, 0.97
+T(head), jubilant, 0.969
+T(head), ecstatic, 0.954
+T(head), elation, 0.944
+T(head), beaming, 0.938
+T(head), bestdayever, 0.938
+T(head), loveee, 0.932
+T(head), celebratio, 0.929
+T(head), awesomeness, 0.926
+T(head), joy, 0.924
+T(head), joyous, 0.922
+
+
+Result: {"surprise": 0.93, "happiest": 0.986, "happiness": 0.984, "bliss": 0.971, "celebrating": 0.97, "jubilant": 0.969, "ecstatic": 0.954, "elation": 0.944, "beaming": 0.938, "bestdayever": 0.938, "loveee": 0.932, "celebratio": 0.929, "awesomeness": 0.926, "joy": 0.924, "@scenario_probability": 3.1261756426027385e-12}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 3.1261756426027385e-12]

@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How was the party ?",
+    "occurrences": [
+      "party"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.765,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3825,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "38%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I had a fantastic time .",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.172,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "17%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

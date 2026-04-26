@@ -1,0 +1,132 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Like a cat on hot bricks , as you might say . I don ’ t believe you are listening at all .",
+    "occurrences": [
+      "like",
+      "hot",
+      "don"
+    ],
+    "word_count": 22,
+    "stop_word_count": 11,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.529,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0481,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.757,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0688,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anger",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sorry , I just worried about him . You know , he should be here an hour ago .",
+    "occurrences": [
+      "worried"
+    ],
+    "word_count": 16,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.466,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0666,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0887,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don ’ t worry him , he has been grown up and I think he can take himself very well .",
+    "occurrences": [
+      "don",
+      "worry"
+    ],
+    "word_count": 19,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0826,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0916,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.039,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "9%"
+      ],
+      [
+        "fear",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But he still does not come back .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Maybe he is on the way home now .",
+    "occurrences": [
+      "home"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.559,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1398,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

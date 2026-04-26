@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What dressing would you like on the salad ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "French dressing , please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I beg your pardon ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , French dressing ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sorry , it's not available now.Anything else ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We still prefer French dressing ."
+  }
+]

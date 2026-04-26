@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Are you ready for the camping trip ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All set . I've got my makeup , my Cds , and my portable TV set ..."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hello ! We're supposed to be getting back to nature ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , yeah . Anyway ... I'm packed . Are you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I've been packed for a week . All my stuff is in this backpack ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me see ... two books ... birdseed ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's trail mix !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Same difference . What's this ?"
+  }
+]

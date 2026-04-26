@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Well , how did you enjoy your seaside trip ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It was funny ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Tell me about it , will you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , we drove through the valley on our way there in the morning . It was a magnificent sight ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Did you stop at the big waterfall for pictures ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure , we wouldn't miss it for anything . After that , we took a short cut to the park . There was very little traffic , so we got there in less than an hour ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You were lucky then . What did you do after that ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We went for a swim in the sea . That was the best part of the day . Just look at my nice tan ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "So you must have had a busy and enjoyable day yesterday ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , you're right . And I was so tired that I fell asleep on the way back . My arms are still stiff from the swim yesterday ."
+  }
+]

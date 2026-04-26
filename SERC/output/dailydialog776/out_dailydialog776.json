@@ -1,0 +1,131 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "The Johnson are on their way back.You remember them , don't you ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Johnson ? I can't place them .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We met them in Bermuda last May .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They've completely slipped my mind .",
+    "occurrences": [
+      "mind"
+    ],
+    "word_count": 6,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0172,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The couple with the dogs , think back .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , I don't recall a thing about them .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , I've invited them for brunch .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hmm , I must be getting absent-minded .",
+    "occurrences": [
+      "absent",
+      "minded"
+    ],
+    "word_count": 7,
+    "stop_word_count": 1,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.073,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "sadness",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good afternoon . Can I help you ?",
+    "occurrences": [
+      "good",
+      "help"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0766,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0406,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1094,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1234,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I need some remedies for an upset stomach .",
+    "occurrences": [
+      "upset",
+      "stomach"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.439,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0878,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0624,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1124,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "11%"
+      ],
+      [
+        "anger",
+        "8%"
+      ],
+      [
+        "disgust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you also suffering from pain and fever ?",
+    "occurrences": [
+      "suffering",
+      "pain",
+      "fever"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.875,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.375,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.563,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3126,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "37%"
+      ],
+      [
+        "sadness",
+        "31%"
+      ],
+      [
+        "disgust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , and I also have the runs",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'll give you some tablets that should make you feel better . One moment , please . Here you are . Take these tablets three times a day swallow them with water .",
+    "occurrences": [
+      "ill"
+    ],
+    "word_count": 32,
+    "stop_word_count": 12,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0167,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0246,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0311,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0297,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "3%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ],
+      [
+        "disgust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "When should I take them ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Take on after each meal .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How long should I continue taking them ?",
+    "occurrences": [
+      "long",
+      "continue"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.82,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.205,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1055,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "20%"
+      ],
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Take them for two days.If your symptoms persist for more than two days , you should see a doctor Also , be sure to drink plenty of water to prevent dehydration .",
+    "occurrences": [
+      "doctor",
+      "prevent"
+    ],
+    "word_count": 29,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0078,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0401,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "fear",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you for your advice .",
+    "occurrences": [
+      "advice"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2057,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "20%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

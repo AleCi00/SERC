@@ -1,0 +1,266 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey , look over there . It seems that there is something interesting going on . Let's go and have a look .",
+    "occurrences": [],
+    "word_count": 22,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . It's probably a skiing show . Adam told me there are many skiing clubs whose members put on shows to attract more visitors .",
+    "occurrences": [
+      "skiing",
+      "show",
+      "skiing"
+    ],
+    "word_count": 26,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.468,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.026,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0196,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ],
+      [
+        "trust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Look at that . It's so dangerous . My mom would never allow me to do that .",
+    "occurrences": [
+      "dangerous"
+    ],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0833,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Stop all this fuss and enjoy the show .",
+    "occurrences": [
+      "fuss",
+      "enjoy",
+      "show"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.424,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0848,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1156,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1624,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0718,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.836,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1672,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "16%"
+      ],
+      [
+        "joy",
+        "16%"
+      ],
+      [
+        "anticipation",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You are right . But what if an avalanche happened ?",
+    "occurrences": [
+      "avalanche"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1406,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0906,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.711,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1422,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "surprise",
+        "14%"
+      ],
+      [
+        "fear",
+        "14%"
+      ],
+      [
+        "sadness",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They are all great skiers and very experienced . So I suppose the chance for them to be buried by an avalanche is slim .",
+    "occurrences": [
+      "experienced",
+      "chance",
+      "buried",
+      "avalanche"
+    ],
+    "word_count": 24,
+    "stop_word_count": 14,
+    "occurrences_count": 4,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.234,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1234,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.156,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1156,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.227,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1227,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.602,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0602,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "12%"
+      ],
+      [
+        "surprise",
+        "12%"
+      ],
+      [
+        "sadness",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Anyway , the show is breathtaking . By the way , where did they get so much snow here ?",
+    "occurrences": [
+      "show",
+      "breathtaking"
+    ],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.728,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0809,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0391,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , they have the most advanced snowmaking machine .",
+    "occurrences": [
+      "machine"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0578,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you think the snowmaking may cause pollution ?",
+    "occurrences": [
+      "pollution"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1133,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's possible .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

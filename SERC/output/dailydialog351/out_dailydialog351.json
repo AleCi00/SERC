@@ -1,0 +1,162 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I only want a little off the top and the sides and back to have clean lines .",
+    "occurrences": [
+      "top",
+      "clean",
+      "lines"
+    ],
+    "word_count": 18,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0498,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.031,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0039,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.26,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0325,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.953,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1191,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Okay . Is your hair naturally curly or is it a perm ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's natural . My friend told me you know how to work with curls .",
+    "occurrences": [
+      "friend"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.471,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0589,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's my specialty . Let me put this around your neck .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have any product that controls frizz ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "With the cut I'll give you , we will minimize a lot of that .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you !",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "And when we're done , I'll show you some great stuff to take care of the rest .",
+    "occurrences": [
+      "show",
+      "rest"
+    ],
+    "word_count": 17,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.044,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

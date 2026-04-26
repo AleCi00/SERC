@@ -1,0 +1,847 @@
+[
+  {
+    "speaker": "Annie",
+    "text": "Hey, are we meeting after class? 🤗",
+    "occurrences": [
+      "kind"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1552,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1603,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "16%"
+      ],
+      [
+        "joy",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Antony",
+    "text": "Where are you right now? I hope you’re not with Alex, I don’t like that idea. 😠",
+    "occurrences": [
+      "hope",
+      "like",
+      "annoyance"
+    ],
+    "word_count": 15,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0603,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1104,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.32,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0457,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0837,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0524,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.164,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1663,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "16%"
+      ],
+      [
+        "anticipation",
+        "11%"
+      ],
+      [
+        "joy",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Annie",
+    "text": "I’m just in the library, relax. 😅",
+    "occurrences": [
+      "relax",
+      "relief"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.0,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.25,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "25%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Antony",
+    "text": "You know it drives me a little mad thinking of you with other guys. It’s like a small madness inside. 😬",
+    "occurrences": [
+      "mad",
+      "like",
+      "madness",
+      "nervousness"
+    ],
+    "word_count": 21,
+    "stop_word_count": 9,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.179,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0982,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.849,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1541,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "15%"
+      ],
+      [
+        "anger",
+        "9%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Annie",
+    "text": "Antony, he’s just a friend. 👍",
+    "occurrences": [
+      "friend",
+      "approval"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.471,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1177,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.508,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.377,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "37%"
+      ],
+      [
+        "joy",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Antony",
+    "text": "I know… but my jealousy is hard to control sometimes. 😞",
+    "occurrences": [
+      "jealousy",
+      "disappointment"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.587,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0978,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1328,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.365,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0608,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.976,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1627,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "16%"
+      ],
+      [
+        "disgust",
+        "13%"
+      ],
+      [
+        "anger",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Annie",
+    "text": "I trust you, but you need to trust me too. ❤️",
+    "occurrences": [
+      "trust",
+      "trust",
+      "love"
+    ],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.782,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1955,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.207,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.368,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.592,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "59%"
+      ],
+      [
+        "joy",
+        "20%"
+      ],
+      [
+        "anticipation",
+        "19%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Antony",
+    "text": "Okay… sorry. You’re my happiness, Annie. 😍",
+    "occurrences": [
+      "happiness",
+      "desire"
+    ],
+    "word_count": 7,
+    "stop_word_count": 1,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1068,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.468,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2447,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "fear-joy": 0.984,
+    "fear-joy_computed": 0.164,
+    "surprise-joy": 0.984,
+    "surprise-joy_computed": 0.164,
+    "anger-joy": 0.984,
+    "anger-joy_computed": 0.164,
+    "anticipation-joy": 0.984,
+    "anticipation-joy_computed": 0.164,
+    "joy-surprise": 0.984,
+    "joy-surprise_computed": 0.164,
+    "trust-joy": 0.984,
+    "trust-joy_computed": 0.164,
+    "disgust-joy": 0.984,
+    "disgust-joy_computed": 0.164,
+    "joy-anger": 0.984,
+    "joy-anger_computed": 0.164,
+    "joy-anticipation": 0.984,
+    "joy-anticipation_computed": 0.164,
+    "joy-trust": 0.984,
+    "joy-trust_computed": 0.164,
+    "joy-fear": 0.984,
+    "joy-fear_computed": 0.164,
+    "joy-disgust": 0.984,
+    "joy-disgust_computed": 0.164,
+    "main_emotion": [
+      [
+        "joy",
+        "24%"
+      ],
+      [
+        "fear-joy",
+        "16%"
+      ],
+      [
+        "surprise-joy",
+        "16%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "fear-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anger",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anticipation",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-disgust",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-fear",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-surprise",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-trust",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "trust-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "Annie",
+    "text": "You are to me as well, but trust is everything. 🙏",
+    "occurrences": [
+      "trust",
+      "gratitude"
+    ],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0978,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.914,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2285,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.399,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3498,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "34%"
+      ],
+      [
+        "joy",
+        "22%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Antony",
+    "text": "You’re right. Tonight let’s go out just the two of us, deal? ✌️",
+    "occurrences": [
+      "deal",
+      "optimism"
+    ],
+    "word_count": 13,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.027,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1141,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.015,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1128,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.563,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0626,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.008,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.112,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "11%"
+      ],
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "trust",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Annie",
+    "text": "Sounds good, see you later. 😀",
+    "occurrences": [
+      "good",
+      "joy"
+    ],
+    "word_count": 6,
+    "stop_word_count": 1,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0766,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.471,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2942,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1234,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "surprise-joy": 0.924,
+    "surprise-joy_computed": 0.1848,
+    "anticipation-joy": 0.924,
+    "anticipation-joy_computed": 0.1848,
+    "joy-surprise": 0.924,
+    "joy-surprise_computed": 0.1848,
+    "trust-joy": 0.924,
+    "trust-joy_computed": 0.1848,
+    "joy-anticipation": 0.924,
+    "joy-anticipation_computed": 0.1848,
+    "joy-trust": 0.924,
+    "joy-trust_computed": 0.1848,
+    "main_emotion": [
+      [
+        "joy",
+        "29%"
+      ],
+      [
+        "surprise-joy",
+        "18%"
+      ],
+      [
+        "anticipation-joy",
+        "18%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anticipation",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "emotion": "joy-surprise",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "emotion": "joy-trust",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-joy",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "emotion": "trust-joy",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "Antony",
+    "text": "I’ll pick you up at eight. Don’t be late, I miss you already. 🤗",
+    "occurrences": [
+      "late",
+      "miss",
+      "kind"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0776,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.504,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.063,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0801,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "sadness",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Annie",
+    "text": "Eight is perfect. I’m wearing the blue dress you like. 💃😍",
+    "occurrences": [
+      "perfect",
+      "blue",
+      "like"
+    ],
+    "word_count": 11,
+    "stop_word_count": 3,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0556,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0899,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.4,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.05,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.023,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1279,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Antony",
+    "text": "That dress is pure joy to me. ❤️ But remember, stay safe walking home. 😟",
+    "occurrences": [
+      "pure",
+      "joy",
+      "love",
+      "safe",
+      "walking",
+      "home",
+      "sadness"
+    ],
+    "word_count": 14,
+    "stop_word_count": 4,
+    "occurrences_count": 7,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 3.285,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3285,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.864,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0864,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.68,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.168,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "surprise-joy": 0.924,
+    "surprise-joy_computed": 0.0924,
+    "anticipation-joy": 0.924,
+    "anticipation-joy_computed": 0.0924,
+    "joy-surprise": 0.924,
+    "joy-surprise_computed": 0.0924,
+    "trust-joy": 0.924,
+    "trust-joy_computed": 0.0924,
+    "joy-anticipation": 0.924,
+    "joy-anticipation_computed": 0.0924,
+    "joy-trust": 0.924,
+    "joy-trust_computed": 0.0924,
+    "main_emotion": [
+      [
+        "joy",
+        "32%"
+      ],
+      [
+        "trust",
+        "16%"
+      ],
+      [
+        "surprise-joy",
+        "9%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anticipation",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "emotion": "joy-surprise",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "emotion": "joy-trust",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-joy",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "emotion": "trust-joy",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "Annie",
+    "text": "Don’t worry. It’s just a short walk; no need for storm-level worry. 😅",
+    "occurrences": [
+      "worry",
+      "storm",
+      "level",
+      "worry",
+      "relief"
+    ],
+    "word_count": 14,
+    "stop_word_count": 4,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.507,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0507,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.984,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0984,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.156,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1156,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.282,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1282,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0453,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "12%"
+      ],
+      [
+        "fear",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Antony",
+    "text": "I know, I know… my feelings sometimes feel like a storm. You calm me down. 😌",
+    "occurrences": [
+      "like",
+      "storm",
+      "calm",
+      "down",
+      "pride"
+    ],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.507,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0563,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.91,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1011,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "anger",
+        "5%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

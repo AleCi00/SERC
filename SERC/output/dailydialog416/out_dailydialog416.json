@@ -1,0 +1,298 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It's time for bed .",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.172,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "17%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But I'm not sleepy , Mum . Can I stay and watch more TV ?",
+    "occurrences": [
+      "watch"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0872,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's already half past eleven . You have school tomorrow . You'll sleepy all tomorrow , if you don't sleep well tonight .",
+    "occurrences": [
+      "school",
+      "tomorrow",
+      "youll",
+      "tomorrow"
+    ],
+    "word_count": 22,
+    "stop_word_count": 6,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.296,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.081,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.859,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0537,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I know . But I promise I won't be sleepy tomorrow . I work really hard .",
+    "occurrences": [
+      "promise",
+      "wont",
+      "tomorrow"
+    ],
+    "word_count": 15,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.937,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0852,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.415,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0377,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don't you have the exams coming up soon ? I'm sure you could spend more time preparing for those .",
+    "occurrences": [
+      "coming",
+      "time"
+    ],
+    "word_count": 20,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.149,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0958,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I nearly forgot the exams .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You do well in maths , but your history is not good enough . Am I right ?",
+    "occurrences": [
+      "good"
+    ],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0479,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0684,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0274,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0771,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , I guess so . Maybe I can go to sleep now and get up early to review the lessons tomorrow .",
+    "occurrences": [
+      "guess",
+      "tomorrow"
+    ],
+    "word_count": 20,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.054,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0332,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "An excellent idea . Work now and play later .",
+    "occurrences": [
+      "excellent"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.116,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0937,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I know you're right . School is more important than TV . Can I watch one more show , then go to bed .",
+    "occurrences": [
+      "school",
+      "important",
+      "watch",
+      "show"
+    ],
+    "word_count": 22,
+    "stop_word_count": 8,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0374,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0134,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1083,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , now it's bedtime .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

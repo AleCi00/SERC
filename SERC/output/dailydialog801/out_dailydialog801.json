@@ -1,0 +1,207 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you consider yourself a good mother ?",
+    "occurrences": [
+      "good",
+      "mother"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.789,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1973,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.959,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2398,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.004,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0548,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.32,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.33,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "33%"
+      ],
+      [
+        "joy",
+        "23%"
+      ],
+      [
+        "anticipation",
+        "19%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I'm a very good mother and successful career woman .",
+    "occurrences": [
+      "good",
+      "mother",
+      "successful",
+      "career"
+    ],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.711,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2444,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.565,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2236,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0023,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2811,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "28%"
+      ],
+      [
+        "anticipation",
+        "24%"
+      ],
+      [
+        "joy",
+        "22%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How can you manage to do both ? I mean , it is so hard to be a working mother .",
+    "occurrences": [
+      "manage",
+      "mother"
+    ],
+    "word_count": 20,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.058,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.412,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0589,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0023,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.164,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1663,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "16%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think the most important thing is that you should be nice to yourself , like keeping housework simple , spending money on things that make life easier , buying yourself things you like , and so on . You can only be nice to others when you can be nice to yourself .",
+    "occurrences": [
+      "important",
+      "like",
+      "simple",
+      "spending",
+      "money",
+      "life",
+      "like"
+    ],
+    "word_count": 50,
+    "stop_word_count": 28,
+    "occurrences_count": 7,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.074,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0034,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0266,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.407,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.064,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0092,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.96,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0891,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Does your husband feel the same ?",
+    "occurrences": [
+      "husband"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.146,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . He is very understanding and supportive .",
+    "occurrences": [
+      "understanding"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1376,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

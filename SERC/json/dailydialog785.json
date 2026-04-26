@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Are you ready to go shopping ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not yet . I'm not finished with my research yet ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What research ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Reading my fashion magazines ! How do you think I know so much about all the latest trends ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But they're just ads ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Duh ... That's the point . The people in the ads are wearing what's in . Plus , there are articles on new trends ."
+  }
+]

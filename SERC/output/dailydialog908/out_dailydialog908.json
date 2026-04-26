@@ -1,0 +1,179 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It's hard to be optimistic about things with the way the economy's headed ... The trade deficit is getting larger , consumption's down , I really think we're headed for a recession .",
+    "occurrences": [
+      "optimistic",
+      "trade",
+      "larger",
+      "down",
+      "recession"
+    ],
+    "word_count": 29,
+    "stop_word_count": 13,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0146,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.041,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0215,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.723,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0452,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0479,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0186,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0528,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The economy has been stagnant for a while now . We've been in a recessive state for several months already . What worries me the most is the trade deficit . I think the government should do more to encourage exports .",
+    "occurrences": [
+      "economy",
+      "stagnant",
+      "worries",
+      "trade",
+      "government",
+      "encourage"
+    ],
+    "word_count": 42,
+    "stop_word_count": 23,
+    "occurrences_count": 6,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.921,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0485,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0263,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.259,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0136,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.524,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0802,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "fear",
+        "4%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Increasing exports would weaken the currency . I think the main point is economic growth . We need more jobs . Factories have outsourced and moved many jobs to foreign countries . The result is an increase in unemployment in our own country , lower consumption , lower production , and an overall feeble economy . If more people are working , it will give the economy a boost .",
+    "occurrences": [
+      "growth",
+      "result",
+      "lower",
+      "lower",
+      "production",
+      "feeble",
+      "economy",
+      "economy"
+    ],
+    "word_count": 66,
+    "stop_word_count": 25,
+    "occurrences_count": 8,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.063,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0259,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0072,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0194,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.876,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0214,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's true that we should do something about unemployment , but what about inflation ? If unemployment falls , there's pressure to increase pay . That would result in inflation , which would result in a much less dynamic economy .",
+    "occurrences": [
+      "true",
+      "inflation",
+      "pressure",
+      "pay",
+      "result",
+      "inflation",
+      "result",
+      "less",
+      "dynamic",
+      "economy"
+    ],
+    "word_count": 38,
+    "stop_word_count": 16,
+    "occurrences_count": 10,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.649,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.075,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.136,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0516,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.57,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0259,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.57,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0259,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.657,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0753,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "fear",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

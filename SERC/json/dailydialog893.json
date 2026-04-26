@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How was the movie last night ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I didn't really like it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Mary said that she was really pleased with the photography ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I found it very disappointing ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "She liked the acting , too , because that's what she wanted to see ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I wasn't happy with it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Nothing is to your satisfaction ."
+  }
+]

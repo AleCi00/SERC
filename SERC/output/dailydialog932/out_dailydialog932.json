@@ -1,0 +1,94 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You mustn't touch the wet paint , Bill .",
+    "occurrences": [
+      "wet"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm sorry . I won't do it again .",
+    "occurrences": [
+      "wont"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0578,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Try to be more careful in future . Look ! you've damaged the sign .",
+    "occurrences": [
+      "careful"
+    ],
+    "word_count": 15,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0578,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is this the sign ? What does it says ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It says No smoking here .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

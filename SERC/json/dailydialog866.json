@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Are you ready to go to the mall ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah . Dig my new pants ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Copycat !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What do you mean ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You went out and bought khakis , too !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No . Mine are a soft brown . Yours are khaki ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Whatever ."
+  }
+]

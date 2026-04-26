@@ -1,0 +1,135 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Guess who I saw just now ?",
+    "occurrences": [
+      "guess"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1327,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Who ?",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "John Smith , the escaped criminal .",
+    "occurrences": [
+      "john",
+      "escaped",
+      "criminal"
+    ],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.714,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1785,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1817,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.141,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2853,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "28%"
+      ],
+      [
+        "disgust",
+        "18%"
+      ],
+      [
+        "anger",
+        "17%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That bad egg , who took the low road since he was a boy .",
+    "occurrences": [
+      "bad"
+    ],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0566,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0489,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0527,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "5%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ],
+      [
+        "disgust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think I must report to the cops .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ok .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

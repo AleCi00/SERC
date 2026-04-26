@@ -1,0 +1,73 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good afternoon . I come here specially to pick up my tickets . I booked it last month.This is my reservation note .",
+    "occurrences": [
+      "good"
+    ],
+    "word_count": 23,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0274,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0391,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0441,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am terribly sorry . You didn't come to reconfirm recently.You should have come to pick up your ticket three days ago since it's an international flight , any reservation without reconfirmation within 72 hours will be cancelled .",
+    "occurrences": [
+      "terribly"
+    ],
+    "word_count": 38,
+    "stop_word_count": 14,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0267,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But I have been so busy all these days.Well , is there any other ticket available ? I want the next one .",
+    "occurrences": [],
+    "word_count": 21,
+    "stop_word_count": 12,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You guys are charging me $ 10 for a movie that I never ordered or saw .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let's see , sir . According to your file , you watched ' Titanic ' Monday evening .",
+    "occurrences": [
+      "sir"
+    ],
+    "word_count": 14,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0405,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , the wrong information is in my file . I was at a concert Monday night .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , your word overrules the file , sir . One moment , please .",
+    "occurrences": [
+      "word",
+      "sir"
+    ],
+    "word_count": 12,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.922,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0922,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I knew you'd see it my way .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sir , I deleted the $ 10 , but I had to add a $ 2 service charge to your bill .",
+    "occurrences": [
+      "sir",
+      "service"
+    ],
+    "word_count": 18,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0405,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Am I in the Twilight Zone ? You're charging me for a movie I never saw ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Please don't blame me , sir . Blame the computer programmer .",
+    "occurrences": [
+      "blame",
+      "sir",
+      "blame"
+    ],
+    "word_count": 11,
+    "stop_word_count": 2,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1076,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0833,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0494,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "10%"
+      ],
+      [
+        "disgust",
+        "8%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "This is highway robbery . I've got a good mind to call the police !",
+    "occurrences": [
+      "robbery",
+      "good",
+      "mind",
+      "police"
+    ],
+    "word_count": 15,
+    "stop_word_count": 5,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.544,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0544,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0766,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0727,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.456,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1456,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1094,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.6,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.06,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.202,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2202,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "22%"
+      ],
+      [
+        "fear",
+        "14%"
+      ],
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If it makes you feel any better , other guests feel the same way .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

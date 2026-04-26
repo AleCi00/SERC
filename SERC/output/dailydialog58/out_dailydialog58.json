@@ -1,0 +1,188 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Miao Li , Where are you going ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hello , I am going to the store to buy some fruit .",
+    "occurrences": [
+      "store"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0587,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , Would you do me a favor ?",
+    "occurrences": [
+      "favor"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.348,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.116,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes ?",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Please mail this letter for me on your way to the store .",
+    "occurrences": [
+      "mail",
+      "letter",
+      "store"
+    ],
+    "word_count": 13,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.297,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2162,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "21%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . Do you want it to be registered ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I think so . There are some pictures in it . It would be a great pity if they were lost .",
+    "occurrences": [
+      "pity",
+      "lost"
+    ],
+    "word_count": 22,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.172,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1172,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I will be glad to mail your letter .",
+    "occurrences": [
+      "glad",
+      "mail",
+      "letter"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.481,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2962,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.781,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1562,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "29%"
+      ],
+      [
+        "joy",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "you are welcome .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

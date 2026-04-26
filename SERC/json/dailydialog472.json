@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Oriental Hotel ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'd like to speak to Michael Baker , please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry , Mr . Baker is not in . May I take a message ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes.Tell him Mr.Cook called and ask him to return my call soon as he gets back ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "All right , Mr . Cook . I'll have Mr . Baker call you back as soon as he gets here ."
+  }
+]

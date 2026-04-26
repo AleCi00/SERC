@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How smart of you to book the tickets before hand !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , do you really think so ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Of course , otherwise you ’ ll just have to wait for hours ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But I just got a call from my sister and I have to cancel the movie tonight ."
+  }
+]

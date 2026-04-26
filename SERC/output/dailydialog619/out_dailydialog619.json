@@ -1,0 +1,185 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can I help you , sir ?",
+    "occurrences": [
+      "help",
+      "sir"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0677,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1483,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "14%"
+      ],
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I'd like a book about law .",
+    "occurrences": [
+      "like",
+      "law"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.031,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2062,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "20%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you tell me the name of the book and the author ?",
+    "occurrences": [
+      "author"
+    ],
+    "word_count": 13,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0782,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Uh , the Origin of Law . And it's written by Professor Felix of Harvard .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry . It's out of stock now . Could you come by again next week ?",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Next week ? It is too late . I need it urgently .",
+    "occurrences": [
+      "late"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , then , is it convenient to leave your phone number so that I can inform you as soon as we restock it ?",
+    "occurrences": [
+      "leave",
+      "inform"
+    ],
+    "word_count": 22,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0364,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.026,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0573,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ],
+      [
+        "surprise",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thanks any way .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You're welcome .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Helen , did you hear I ’ m having a party ? Next Saturday in my place .",
+    "occurrences": [
+      "party"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.765,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0956,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I may have something on that day , but thanks for inviting me .",
+    "occurrences": [
+      "inviting"
+    ],
+    "word_count": 13,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0963,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0833,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0482,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0963,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "joy",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , drop by if you can .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I will , do you want me to bring anything ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , just bring yourself . I hope to see you there .",
+    "occurrences": [
+      "hope"
+    ],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1546,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1172,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0734,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.136,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "15%"
+      ],
+      [
+        "trust",
+        "13%"
+      ],
+      [
+        "joy",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

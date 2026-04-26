@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello Mr Waterstone , what can I do for you today ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hello , Becky . Well , you see , I have this thing here , called a Fixed Deposit Certificate , and I've just noticed the date on it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , I see . You have two choices here you can either redeem or renew ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think I'll redeem , if that's not a problem ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No problem at all , Mr Waterstone . Any preference as to how you want the money ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Anything you like , but not too many large notes . It's useful to have smaller notes ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Here we go , Mr Waterstone . Here's your money and your interest note ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , yes . Everything's fine . Thank you very much , Becky ."
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I had an accident .",
+    "occurrences": [
+      "accident"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.375,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.258,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.375,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "37%"
+      ],
+      [
+        "surprise",
+        "37%"
+      ],
+      [
+        "sadness",
+        "25%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's terrible !",
+    "occurrences": [
+      "terrible"
+    ],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.376,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.4587,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.124,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3747,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.396,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.156,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3853,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "45%"
+      ],
+      [
+        "fear",
+        "39%"
+      ],
+      [
+        "sadness",
+        "38%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

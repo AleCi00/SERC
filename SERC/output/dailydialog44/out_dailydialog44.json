@@ -1,0 +1,204 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Mr . Black , how are you ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Fine , thank you , and how are you ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Very well , thank you . It's nice to meet you again . I am awfully sorry for not being able to meet you at the airport , as I was busy yesterday . I do hope you had a very enjoyable trip from New York .",
+    "occurrences": [
+      "airport",
+      "hope",
+      "trip"
+    ],
+    "word_count": 42,
+    "stop_word_count": 24,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.273,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0707,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0326,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.036,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0378,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , a very pleasant journey indeed . Thank you .",
+    "occurrences": [
+      "pleasant",
+      "journey"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.234,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1763,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.062,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0089,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.103,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1576,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0346,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0803,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "17%"
+      ],
+      [
+        "joy",
+        "15%"
+      ],
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How are you getting along with your business ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not bad . The fur market is not very brisk lately , but the selling season is advancing near . I hope there will be more buyers in the market this year .",
+    "occurrences": [
+      "bad",
+      "brisk",
+      "hope"
+    ],
+    "word_count": 32,
+    "stop_word_count": 16,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0283,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0483,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0244,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0234,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.798,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0499,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0264,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0229,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0425,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I hope we can do more business together . Though we are satisfied with our past trade record , there are still possibilities for more business . In the meantime , let's discuss other spheres of cooperation , such as investment , technology transfer and technical assistance .",
+    "occurrences": [
+      "hope",
+      "together",
+      "satisfied",
+      "trade",
+      "cooperation"
+    ],
+    "word_count": 44,
+    "stop_word_count": 20,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0322,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.48,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0617,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0153,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.852,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0772,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

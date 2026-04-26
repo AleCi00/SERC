@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Morning , Zina . Just wanted to say thanks again !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hi , Vince . Thanks for stopping by . How's the work coming along for the online auction ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , yeah . I'm glad you mentioned that . I think we need to hire somebody new to manage it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can't Elvin handle it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think he's got too much on his plate ."
+  }
+]

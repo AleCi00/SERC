@@ -1,0 +1,230 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It's your turn now , Helen .",
+    "occurrences": [
+      "turn"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.133,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0665,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . I'm coming .",
+    "occurrences": [
+      "coming"
+    ],
+    "word_count": 5,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1266,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "This is your song . I picked it for you .",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you . You are so considerate .",
+    "occurrences": [
+      "considerate"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1522,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Push the red button on the mike to turn it on .",
+    "occurrences": [
+      "turn"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.133,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0222,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . This key is too high for me .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think it's a piece of cake for you .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . Let me have a try ...",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well done ! I hope I can sing as well as you one day .",
+    "occurrences": [
+      "hope",
+      "sing"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.184,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1316,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.315,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1461,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.017,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0019,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0408,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.102,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1224,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "14%"
+      ],
+      [
+        "anticipation",
+        "13%"
+      ],
+      [
+        "trust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you . I'm sure you will .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I hope so . Thank you for saying so .",
+    "occurrences": [
+      "hope"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1546,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1172,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0734,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.136,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "15%"
+      ],
+      [
+        "trust",
+        "13%"
+      ],
+      [
+        "joy",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

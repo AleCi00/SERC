@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It's the latest and quite popular among young people ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I know and I like it very much . I will take it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure . Here is your receipt ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How long is this cell phone guaranteed ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You can refund it in 7 days and exchange it in one year ."
+  }
+]

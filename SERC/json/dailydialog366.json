@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello . Could you have a taxi pick me up before 10:00 a . m . ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What is your address ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I stay at No . 115 Fucking Road ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK , a taxi will be there by 9:30 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What are your rates ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It is RIB 10 yuan initially and 2 yuan for each kilometer ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I have a lot of luggage . Will those fit in the taxi ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Take it easy . I'll send a larger to pick you up ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you very much ."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey , Peter , have you had lunch yet ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No . How about you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not yet . Let's go to that restaurant on the corner ."
+  }
+]

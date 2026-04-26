@@ -1,0 +1,257 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How do you do ? Nice to meet you , Diane .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How do you do , Jack . Nice to meet you .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , I think you ' Ve reconsidered our proposal , Diane .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , you are right . After all , the quality of your air conditioners is good . The only problem is price .",
+    "occurrences": [
+      "good",
+      "problem"
+    ],
+    "word_count": 22,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0348,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0497,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0199,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0561,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I should not be surprised , many customers have the same opinion . Do you have any suggestion in mind ? Our salesman told your secretary that the price could be negotiable .",
+    "occurrences": [
+      "surprised",
+      "mind"
+    ],
+    "word_count": 32,
+    "stop_word_count": 17,
+    "occurrences_count": 2,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0057,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.867,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0578,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "surprise-anticipation": 0.867,
+    "surprise-anticipation_computed": 0.0578,
+    "anticipation-surprise": 0.867,
+    "anticipation-surprise_computed": 0.0578,
+    "main_emotion": [
+      [
+        "surprise",
+        "5%"
+      ],
+      [
+        "surprise-anticipation",
+        "5%"
+      ],
+      [
+        "anticipation-surprise",
+        "5%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-surprise",
+        "matched_words": [
+          {
+            "word": "surprised",
+            "score": 0.867
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anticipation",
+        "matched_words": [
+          {
+            "word": "surprised",
+            "score": 0.867
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's why I came to your office today . We think for your model WE - 506 $ 590 would be reasonable , because air conditioners of the same kind sold by other companies are usually about 579-649 .",
+    "occurrences": [
+      "kind"
+    ],
+    "word_count": 37,
+    "stop_word_count": 16,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0296,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0305,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's true . But if you understand that quality is the most important aspect of a product , you'll agree that 679 is not high , especially when we allow you a 10 % discount .",
+    "occurrences": [
+      "true",
+      "important",
+      "youll"
+    ],
+    "word_count": 34,
+    "stop_word_count": 16,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0182,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.75,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0972,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I see your point . That's to say s 611 each set . Still it's much higher than the market price . Could you see your way to reduce the price , Jack ?",
+    "occurrences": [],
+    "word_count": 32,
+    "stop_word_count": 12,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , considering the quantity of your order we could further reduce the price to 600 . That's the best we can do . What do you think of that ?",
+    "occurrences": [],
+    "word_count": 30,
+    "stop_word_count": 16,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All right . We accept it . So $ 600 for each set .",
+    "occurrences": [
+      "accept"
+    ],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.664,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.083,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Very well . Thank you .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

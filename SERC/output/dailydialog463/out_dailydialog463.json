@@ -1,0 +1,417 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning , Sir . Where are you going ?",
+    "occurrences": [
+      "good",
+      "morning"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0766,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1594,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1234,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "15%"
+      ],
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m going to England by flight BE987 .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "When is your flight ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "10:00 AM . When am I supposed to check in ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "we are checking in . May I have your ticket and your health certificate and your luggage please .",
+    "occurrences": [
+      "health"
+    ],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.493,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0548,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here you are .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you keeping the small bag as carry-on luggage , sir ?",
+    "occurrences": [
+      "sir"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0636,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You must weigh that as well .",
+    "occurrences": [
+      "weigh"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1035,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ],
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "all right .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Your luggage is two pounds over . I ’ m afraid They'll be in excess luggage charge , Sir .",
+    "occurrences": [
+      "afraid"
+    ],
+    "word_count": 18,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0844,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How much must I pay ?",
+    "occurrences": [
+      "pay"
+    ],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1153,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1075,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "11%"
+      ],
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It ’ s ten yuan .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here you are .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "This is your luggage check Which You must show when you disembark at your destination and here is your boarding pass and your ticket .",
+    "occurrences": [
+      "show",
+      "destination"
+    ],
+    "word_count": 23,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.109,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0109,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.17,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.017,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.148,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0148,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0352,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Now , please wait until your flight is called . There's about twenty-five minutes to go .",
+    "occurrences": [
+      "wait"
+    ],
+    "word_count": 17,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0475,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m a little nervous . I ’ Ve never flown before .",
+    "occurrences": [
+      "nervous"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.602,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0752,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0586,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "fear",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "There ’ s nothing at all to worry about . Once you are in the air , it ’ s just like sitting at your sitting room . It ’ s going to be a very pleasant flight .",
+    "occurrences": [
+      "worry",
+      "like",
+      "pleasant"
+    ],
+    "word_count": 38,
+    "stop_word_count": 22,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.015,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0634,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0361,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.041,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0401,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0151,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.046,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0654,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

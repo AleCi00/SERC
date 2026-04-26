@@ -1,0 +1,230 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "When was America discovered , Tony ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm not certain . Do you know ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "America was discovered by Christopher Columbus in 1492 .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "In a way that's right . But the Vikings travelled there long beforeColumbus . And what about the Red Indians ?",
+    "occurrences": [
+      "long"
+    ],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0451,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "All right . Ask me a question now .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Who invented the electric light bulb ?",
+    "occurrences": [
+      "electric",
+      "light"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1282,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1156,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ],
+      [
+        "surprise",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's easy . It was invented by Edison .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Correct . Now for a harder question . Who will be the first men on Mars ?",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I can't answer that . But I think Mars will be visited by men before theed of this century .",
+    "occurrences": [],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ask me a question now .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "All right . What is the nearest planet to the sun ?",
+    "occurrences": [
+      "sun"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0742,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0443,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0287,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.073,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's easy . It's .. er . Venus . NO . Pluto . No . Wait a minute . It's Anthe tip of my tongue . Oh dear , what is the nearest planet to the sun ?",
+    "occurrences": [
+      "wait",
+      "sun"
+    ],
+    "word_count": 35,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0421,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0116,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0075,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.019,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "trust",
+        "1%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

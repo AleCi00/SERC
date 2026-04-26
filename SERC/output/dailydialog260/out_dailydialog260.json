@@ -1,0 +1,72 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How much is it all together ?",
+    "occurrences": [
+      "together"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.394,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1313,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me see . The bell-bottom pants are $ 90 and the coat is $ 120 . It comes to $ 210 .",
+    "occurrences": [
+      "bottom"
+    ],
+    "word_count": 24,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.223,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0139,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is it possible for you to reduce the price ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am sorry . It's a one-price shop .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

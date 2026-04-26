@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Okay , so we're agreed on 900 ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm happy with that price ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let's shake on it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Okay , let's shake on it ."
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Well , tell me something of yourself .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What would you like to know , Mr . Green ?",
+    "occurrences": [
+      "like",
+      "green"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.137,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0228,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.843,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1405,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "14%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What working experience have you get ?",
+    "occurrences": [
+      "experience"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "In 2004 , I got a job in the sales department of a trading company near Guangzhou . I started a sales representative . A year later , I was promoted to the position of sales manager . I had that job ever since , which is just over a year now .",
+    "occurrences": [
+      "trading"
+    ],
+    "word_count": 47,
+    "stop_word_count": 22,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0169,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , good . Irene , can you tell me why you plan to quit being a sales manager to work here as my assistant ? Don't you like your present job ?",
+    "occurrences": [
+      "good",
+      "plan",
+      "like",
+      "present"
+    ],
+    "word_count": 31,
+    "stop_word_count": 14,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.469,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0864,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.988,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0581,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0317,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.554,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0914,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Frankly , some part of it I enjoy very much , but I prefer something more professional . It happens that I have a friend working here in this company . She told me the export department was to recruit an assistant . I felt very excited at this news . That's why I'm here .",
+    "occurrences": [
+      "enjoy",
+      "prefer",
+      "professional",
+      "friend",
+      "excited"
+    ],
+    "word_count": 51,
+    "stop_word_count": 26,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.437,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0575,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.101,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.084,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.025,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.836,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1134,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "anticipation-anger": 0.859,
+    "anticipation-anger_computed": 0.0344,
+    "surprise-anticipation": 0.859,
+    "surprise-anticipation_computed": 0.0344,
+    "anticipation-trust": 0.859,
+    "anticipation-trust_computed": 0.0344,
+    "anticipation-joy": 0.859,
+    "anticipation-joy_computed": 0.0344,
+    "anticipation-surprise": 0.859,
+    "anticipation-surprise_computed": 0.0344,
+    "anticipation-disgust": 0.859,
+    "anticipation-disgust_computed": 0.0344,
+    "anticipation-sadness": 0.859,
+    "anticipation-sadness_computed": 0.0344,
+    "anticipation-fear": 0.859,
+    "anticipation-fear_computed": 0.0344,
+    "trust-anticipation": 0.859,
+    "trust-anticipation_computed": 0.0344,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-anger",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-disgust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-sadness",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-surprise",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      }
+    ]
+  }
+]

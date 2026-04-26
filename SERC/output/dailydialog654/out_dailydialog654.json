@@ -1,0 +1,307 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Have you seen the new James Bond movie ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , yes . You ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . What did you think of it ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I thought it was better than the others-I really liked it . What did you think of it ?",
+    "occurrences": [
+      "thought"
+    ],
+    "word_count": 19,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0517,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I liked it , too . It was exciting , but not over the top . Do you know what I mean ?",
+    "occurrences": [
+      "exciting",
+      "top"
+    ],
+    "word_count": 20,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.195,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.853,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0948,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0747,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0521,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "13%"
+      ],
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "surprise",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Mmm . That's what I thought too . I really liked the car chase , and the opening credit sequence was very exciting . And I always enjoy watching Pierce Brosnan .",
+    "occurrences": [
+      "thought",
+      "credit",
+      "exciting",
+      "enjoy"
+    ],
+    "word_count": 27,
+    "stop_word_count": 9,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.789,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0994,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.665,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0925,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0373,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.0,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0556,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , yes . He's brilliant . Did you like the title song ?",
+    "occurrences": [
+      "brilliant",
+      "like",
+      "title"
+    ],
+    "word_count": 13,
+    "stop_word_count": 3,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0461,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.859,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0859,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.562,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1562,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "15%"
+      ],
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not as much as last time , actually . What's the name of the American actor who was in the supporting role ?",
+    "occurrences": [
+      "time",
+      "supporting"
+    ],
+    "word_count": 21,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.664,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0604,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hum , Edward Norton , or something like that . Did you like him ?",
+    "occurrences": [
+      "like",
+      "like"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1613,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . He was excellent . They worked well together , don't you think ?",
+    "occurrences": [
+      "excellent",
+      "together"
+    ],
+    "word_count": 14,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.206,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1206,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0656,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't know . I think the woman was better . She provided a good love interest . Lucky James Bond !",
+    "occurrences": [
+      "good",
+      "love",
+      "lucky"
+    ],
+    "word_count": 20,
+    "stop_word_count": 6,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0274,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.817,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2012,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.297,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0926,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.375,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0982,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "20%"
+      ],
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "surprise",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes !",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

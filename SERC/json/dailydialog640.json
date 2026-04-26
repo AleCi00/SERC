@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What's your favorite book ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's Gone With the Wind ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why do you like it best ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I enjoy the various characters and the plot ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well . I like the Thom Birds best ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is it very interesting ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure . I like the writer's language , too ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If I have a chance , I'll enjoy the book ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you like to go to the bookshop with me ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's a good idea . Let's go !"
+  }
+]

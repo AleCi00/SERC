@@ -1,0 +1,230 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you want to hang out tomorrow ?",
+    "occurrences": [
+      "tomorrow"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.162,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I can't . I have a date !",
+    "occurrences": [
+      "date"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1376,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Really ? Wow with who ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This girl I've been chatting with for the past couple of months . She's really cool and she's driving over here this weekend .",
+    "occurrences": [
+      "weekend"
+    ],
+    "word_count": 24,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.441,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0339,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wait a minute , you mean you met her online ?",
+    "occurrences": [
+      "wait"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0872,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah ! I signed up for a website called match @ . com and it is great ! You fill in all your details and preferences , like if you are a smoker or if you have any pets . Then you find people that have similar characteristics and you can email them or chat .",
+    "occurrences": [
+      "fill",
+      "like"
+    ],
+    "word_count": 55,
+    "stop_word_count": 30,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.804,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0322,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That is kind of weird ! What if she is a psycho or something like that ?",
+    "occurrences": [
+      "kind",
+      "weird",
+      "like"
+    ],
+    "word_count": 17,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.532,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.076,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1774,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.766,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2523,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "25%"
+      ],
+      [
+        "joy",
+        "17%"
+      ],
+      [
+        "disgust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's the same as meeting people anywhere and dating them ! I am just tired of going to bars or being set up for dates by my friends ! I think this is a really cool alternative , especially if you are a bit shy .",
+    "occurrences": [
+      "friends",
+      "shy"
+    ],
+    "word_count": 45,
+    "stop_word_count": 25,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.14,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.007,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.0,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.05,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "fear",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I guess it does seem logical . I'll have to check it out !",
+    "occurrences": [
+      "guess",
+      "ill"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0476,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0887,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0849,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0569,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "8%"
+      ],
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "disgust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

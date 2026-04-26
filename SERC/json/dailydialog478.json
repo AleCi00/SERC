@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me . can you tell me where Main Street is ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Turn left at the second light and then go straight for two blocks ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is it far ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No . it ’ s only five minutes walk . you can ’ t miss it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks a lot"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You are welcome"
+  }
+]

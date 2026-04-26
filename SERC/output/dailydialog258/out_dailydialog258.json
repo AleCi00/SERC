@@ -1,0 +1,284 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Did you hear about the robbery ?",
+    "occurrences": [
+      "robbery"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.544,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1813,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.185,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.8,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2667,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.6,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "26%"
+      ],
+      [
+        "sadness",
+        "20%"
+      ],
+      [
+        "disgust",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Did I hear about it ? I saw it happen .",
+    "occurrences": [
+      "happen"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you serious ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I was there .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What happened ?",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "A man came into the bank with a gun .",
+    "occurrences": [
+      "bank",
+      "gun"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.576,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1152,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.734,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1468,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0922,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "14%"
+      ],
+      [
+        "anger",
+        "11%"
+      ],
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's insane .",
+    "occurrences": [
+      "insane"
+    ],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.207,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2187,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "21%"
+      ],
+      [
+        "anger",
+        "20%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I was so scared when I saw the gun .",
+    "occurrences": [
+      "scared",
+      "gun"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.576,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.144,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.468,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.367,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "36%"
+      ],
+      [
+        "anger",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Then what happened ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He took the money and tried to get away .",
+    "occurrences": [
+      "money"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.074,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0123,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0977,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0885,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0338,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0598,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Did the cops show up in time ?",
+    "occurrences": [
+      "show",
+      "time"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.129,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.088,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He didn't even make it out the door .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

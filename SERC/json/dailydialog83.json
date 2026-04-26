@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me . Check please ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK , how was everything ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Very nice . Thank you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Would you like this to-go ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , can you put it in a plastic bag ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure , no problem . Here you are . That'll be 25 dollars ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you take credit cards ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , we accept Visa and MasterCard ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK , here you are ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks . I'll be right back ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here's your receipt ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You're welcome . Please come again ."
+  }
+]

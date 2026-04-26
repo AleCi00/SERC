@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "There's a new girl in school , have you seen her yet ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I haven't seen her yet ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think that she is very pretty ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Tell me how she looks ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "She's kind of short ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What height is she ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "She's probably about five feet ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's nice , but tell me what she looks like ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The first thing I noticed was her beautiful brown eyes ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think I might've bumped into her before ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you telling me that you've seen her before ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I believe so ."
+  }
+]

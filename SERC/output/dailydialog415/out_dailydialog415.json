@@ -1,0 +1,180 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m taking BA fright 123 to London . Can you tell me where the reporting desk is , please ?",
+    "occurrences": [
+      "fright"
+    ],
+    "word_count": 20,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.853,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0775,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.836,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.076,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "surprise",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , Madam . The reporting desk for the British Airway's flight to London is over there .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you so much . Is this the desk for BA flight 123 to London ?",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , this is the right desk . Have you any luggage ?",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The suitcase , that ’ s all . Except my handbag . Of course .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Would you please put you suitcase on the scales ? You needn ’ t weigh your handbag .",
+    "occurrences": [
+      "weigh"
+    ],
+    "word_count": 18,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0414,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0344,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is there a receipt ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I ’ ll attach your baggage receipt to your ticket .",
+    "occurrences": [
+      "baggage"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0489,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What must I do next ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You must go to immigration to the departure lounge .",
+    "occurrences": [
+      "departure"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.073,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

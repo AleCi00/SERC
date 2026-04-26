@@ -1,0 +1,119 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , Helen ! how is it going ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm very busy these days . It seems I can never finish my work .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , take it easy ! Don't let it get on top of you .",
+    "occurrences": [
+      "top"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0442,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0521,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'll try . I'm under a lot of pressure right now .",
+    "occurrences": [
+      "ill",
+      "pressure"
+    ],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0416,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0615,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.996,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1245,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0742,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "12%"
+      ],
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "disgust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why don't you take a few days off ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can't . I am really behind of my work .",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

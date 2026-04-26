@@ -1,0 +1,166 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm looking for a good multivitamin . Can you recommend one ?",
+    "occurrences": [
+      "good",
+      "recommend"
+    ],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0479,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0684,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0274,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.226,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1532,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "15%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . Come with me to the vitamin section .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I knew there would be a few choices , but this selection is huge !",
+    "occurrences": [
+      "choices"
+    ],
+    "word_count": 14,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0898,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You're looking for a multi though , right ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's right . Just a simple multi-vitamin that I can take every day .",
+    "occurrences": [
+      "simple"
+    ],
+    "word_count": 14,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0141,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Okay . Then I recommend this one . It's made especially for men about your age .",
+    "occurrences": [
+      "recommend"
+    ],
+    "word_count": 16,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0609,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh ! You took the guesswork right out of that one .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's my job ! Is there anything else I can assist you with ?",
+    "occurrences": [
+      "assist"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0926,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

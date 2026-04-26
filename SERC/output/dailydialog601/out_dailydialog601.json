@@ -1,0 +1,136 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "The air conditioning is not working ! We need to call a handyman before we start to fry in here !",
+    "occurrences": [
+      "start"
+    ],
+    "word_count": 21,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.15,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0688,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "15%"
+      ],
+      [
+        "surprise",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Dan is on top of that . I think they are also getting the handyman to fix the bathroom toilet that keeps clogging up .",
+    "occurrences": [
+      "top",
+      "toilet"
+    ],
+    "word_count": 25,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0306,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0457,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0361,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "4%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That would be convenient . They might as well ask him to fix the electrical wiring . The circuit breakers keep going out all the time . It ’ s really annoying !",
+    "occurrences": [
+      "time",
+      "annoying"
+    ],
+    "word_count": 33,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.94,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.047,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0258,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah you are right . This office is falling apart ! Frank told me the other day that the gutters outside were clogged and that ’ s why the parking lot was flooded .",
+    "occurrences": [
+      "falling",
+      "frank"
+    ],
+    "word_count": 34,
+    "stop_word_count": 16,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0265,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I know ! I was in ankle deep water trying to get to my car that day ! The handyman definitely has his work cut out for him .",
+    "occurrences": [],
+    "word_count": 29,
+    "stop_word_count": 14,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Room service , is there anything I can do for you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I am afraid there are not enough outlets ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , we have 6 for each room ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , but 4 of them are broken . Can you send someone here ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK sir , please wait a minute ."
+  }
+]

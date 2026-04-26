@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello . This is Mrs . Wilson . I'd like to buy a new car . Could you offer me a new type of the car , please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , Madam , buy what ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A new car . And I've got a small family , two children , and I haven't got a lot of money and ..."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , oh , Madam , Madam , I'm afraid you have the wrong number ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Isn't this the car store ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No . It's Mike's Sporting Goods ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , sorry . Do you know the number for a car store , then ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No . I don't . I suggest you look in the phone book ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry to have bothered you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No problem ."
+  }
+]

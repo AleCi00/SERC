@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Lucy , I ’ d like to fix the light in the corridor , it keeps flashing , which drives me crazy . Would you like to help me with the ladder ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Monica , wait a moment . I think we ’ d better call the repair man to do it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think I can handle it by myself ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ d like you to have a look at the safety manual of our company ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I see . If I got hurt when fixing the light , even during office hours , I wouldn ’ t get compensation from our company since repairing is not my responsibility ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Other company rules also need your attention ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Like this one ? Never wear loose clothes or hair when operating the shredder.Yeah , thank you for telling me ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Don ’ t mention it ."
+  }
+]

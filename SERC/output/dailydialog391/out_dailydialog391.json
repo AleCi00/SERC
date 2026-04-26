@@ -1,0 +1,221 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Grand Theft Auto Three is awesome !",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's more violent than TV news !",
+    "occurrences": [
+      "violent"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.688,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.422,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.422,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3555,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.624,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.406,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.296,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.324,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "42%"
+      ],
+      [
+        "fear",
+        "40%"
+      ],
+      [
+        "disgust",
+        "35%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What time is it anyway ?",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.172,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "17%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Nine-thirty .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , my God , three hours already ! I have to get the chores done !",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No time . That's their headlights in the window !",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK , emergency measures . Let's throw the dishes in the trash ! Two birds with one stone ...",
+    "occurrences": [
+      "emergency",
+      "trash",
+      "stone"
+    ],
+    "word_count": 17,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0198,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.312,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1009,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0553,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.109,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0853,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0637,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "disgust",
+        "10%"
+      ],
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "surprise",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Little dude , your life is over !",
+    "occurrences": [
+      "life"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.876,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.219,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "21%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No time to worry . We have to dispose of this evidence .",
+    "occurrences": [
+      "time",
+      "worry",
+      "dispose"
+    ],
+    "word_count": 13,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.008,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.168,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0598,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0963,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1068,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "16%"
+      ],
+      [
+        "sadness",
+        "10%"
+      ],
+      [
+        "fear",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

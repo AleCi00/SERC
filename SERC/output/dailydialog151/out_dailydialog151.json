@@ -1,0 +1,105 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "We are looking for a bilingual secretary . Do you think you are proficient in both written and spoken English ?",
+    "occurrences": [
+      "proficient"
+    ],
+    "word_count": 20,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.664,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0738,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think my English is fairly good . As you can see from my CV , I graduated from university with a B . A . degree in English . I studied the English language and English literature systematically .",
+    "occurrences": [
+      "fairly",
+      "good",
+      "university"
+    ],
+    "word_count": 33,
+    "stop_word_count": 16,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.789,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0464,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0322,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0129,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.211,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0712,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How are your typing and shorthand skills ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can type 80 words a minute , basically no mistake , and can take dictation in English at 120 words per minute .",
+    "occurrences": [
+      "words",
+      "mistake",
+      "words"
+    ],
+    "word_count": 21,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.124,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0095,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.024,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "2%"
+      ],
+      [
+        "anger",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

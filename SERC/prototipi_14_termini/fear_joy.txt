@@ -1,0 +1,41 @@
+Title: fear-joy
+
+Head Concept Name: fear
+Modifier Concept Name: joy
+
+
+modifier, -holocaust
+
+T(modifier), happiest, 0.986
+T(modifier), happiness, 0.984
+T(modifier), bliss, 0.971
+T(modifier), celebrating, 0.97
+T(modifier), jubilant, 0.969
+T(modifier), ecstatic, 0.954
+T(modifier), elation, 0.944
+T(modifier), beaming, 0.938
+T(modifier), bestdayever, 0.938
+T(modifier), loveee, 0.932
+T(modifier), celebratio, 0.929
+T(modifier), awesomeness, 0.926
+T(modifier), joy, 0.924
+T(modifier), joyous, 0.922
+
+T(head), torture, 0.984
+T(head), terrorist, 0.972
+T(head), terrorists, 0.969
+T(head), horrific, 0.969
+T(head), terrorism, 0.969
+T(head), suicidebombing, 0.967
+T(head), kill, 0.962
+T(head), homicidal, 0.959
+T(head), catastrophe, 0.953
+T(head), annihilate, 0.953
+T(head), murderer, 0.953
+T(head), terror, 0.953
+T(head), dying, 0.948
+T(head), war, 0.942
+
+
+Result: {"happiest": 0.986, "happiness": 0.984, "bliss": 0.971, "celebrating": 0.97, "jubilant": 0.969, "ecstatic": 0.954, "torture": 0.984, "terrorist": 0.972, "terrorists": 0.969, "horrific": 0.969, "terrorism": 0.969, "suicidebombing": 0.967, "kill": 0.962, "homicidal": 0.959, "@scenario_probability": 4.4003713476407046e-16}
+Scenario: [1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 4.4003713476407046e-16]

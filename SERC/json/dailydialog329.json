@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Could you show me what you've got ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We've got several good chicken dishes if you like chicken ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We'll try one of your specials this time ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This is worth trying ."
+  }
+]

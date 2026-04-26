@@ -1,0 +1,229 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "John , I was looking through some magazines for ideas about where we might go on vacation this year .",
+    "occurrences": [
+      "john",
+      "vacation"
+    ],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0772,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0278,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0608,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "disgust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I've already told my buddy , Mark , that I am going hunting with him in Alaska .",
+    "occurrences": [
+      "buddy",
+      "hunting"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.411,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0587,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.875,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0714,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.536,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0766,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0793,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You can't be serious !",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hey , I've always gone hunting or fishing on vacation . I am sorry that bothers you .",
+    "occurrences": [
+      "gone",
+      "hunting",
+      "vacation"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.411,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0411,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.234,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1234,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.05,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0656,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0453,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "fear",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "After a year together , I thought it pretty safe to assume that we would automatically spend our vacation together .",
+    "occurrences": [
+      "together",
+      "thought",
+      "pretty",
+      "safe",
+      "vacation",
+      "together"
+    ],
+    "word_count": 19,
+    "stop_word_count": 7,
+    "occurrences_count": 6,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1269,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.226,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1855,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.039,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0866,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "18%"
+      ],
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Says who ? I don't think that is necessarily the case .",
+    "occurrences": [
+      "necessarily",
+      "case"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.094,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0134,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.228,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0326,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0659,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You know , now that I think about it , I really don't have much more to say to you at all !",
+    "occurrences": [],
+    "word_count": 19,
+    "stop_word_count": 12,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Whatever you say !",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

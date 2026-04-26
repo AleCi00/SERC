@@ -1,0 +1,104 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , I ordered the well-done steak , but this one is so tough .",
+    "occurrences": [
+      "tough"
+    ],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.212,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0265,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , sir , I think I have made a mistake . I will take it back to the kitchen right now .",
+    "occurrences": [
+      "sir",
+      "mistake"
+    ],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0284,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0405,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think you should be more careful next time .",
+    "occurrences": [
+      "careful",
+      "time"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1032,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1156,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , sir . I'm really so sorry about that .",
+    "occurrences": [
+      "sir"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0636,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

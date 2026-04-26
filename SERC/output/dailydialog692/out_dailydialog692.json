@@ -1,0 +1,116 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Lily , can you take part in our picnic this weekend ?",
+    "occurrences": [
+      "picnic",
+      "weekend"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.602,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1003,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.835,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1392,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.013,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "anticipation",
+        "10%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That sounds great . Where are you going ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think we can go to the river , go around and have supper .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What should I bring ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Nothing . Just wear comfortable clothes and good shoes for walking . We'll bring everything .",
+    "occurrences": [
+      "wear",
+      "good",
+      "walking"
+    ],
+    "word_count": 16,
+    "stop_word_count": 3,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0295,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.735,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0565,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0168,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.945,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0727,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

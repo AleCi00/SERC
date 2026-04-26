@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I have some great news ! I was able to switch to the night shift !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I knew everything would work out for you !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I got to meet the night Anger today too . We got along right from the start ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wonderful ! Do you already have your work schedule ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not yet , I pick it up tomorrow ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you know what you will be doing yet ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I'll be managing the guys on the dock ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You're so good with people . I think they will like you !"
+  }
+]

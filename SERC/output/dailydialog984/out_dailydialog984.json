@@ -1,0 +1,317 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I am sorry to trouble you again , Mr.Stone .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's ok . What do you want to ask ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where should I go after I arrived at the university ?",
+    "occurrences": [
+      "university"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1015,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The first place you should go is the International Center .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why ?",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You can get help there in dealing with the United States Immigration and Naturalization Service ; you can find Foreign Student Advisers .",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 15,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0338,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What kind of role do foreign student advisers play ?",
+    "occurrences": [
+      "kind"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0887,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0916,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "joy",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They'll discuss personal concerns , housing , adjustment , finances and other matters with you .",
+    "occurrences": [
+      "personal",
+      "matters"
+    ],
+    "word_count": 13,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.945,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.105,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Can we get any more help at the International Center ?",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 9,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0677,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , a lot more . If you go there just before the beginning of the fall's semester , you can get your student ID and social security number there . They will keep your documents up-to-date . They will offer an orientation program for new comers . They will also help you contact your department and registration office .",
+    "occurrences": [
+      "date",
+      "help"
+    ],
+    "word_count": 60,
+    "stop_word_count": 29,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0065,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0111,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "1%"
+      ],
+      [
+        "fear",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I see . It must be worth going to .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Besides these , the center staff also works with community organizations which provide tours , home hospitality , speaking engagements and assistance for wives of foreign students . In cooperation with nationality clubs , student associations and other organizations , the International Center provides a varied program of cultural and social events throughout the year .",
+    "occurrences": [
+      "center",
+      "provide",
+      "home",
+      "cooperation"
+    ],
+    "word_count": 49,
+    "stop_word_count": 16,
+    "occurrences_count": 4,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.559,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0169,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.789,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0542,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wonderful . It is a home for foreign students .",
+    "occurrences": [
+      "wonderful",
+      "home"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.422,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.237,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0755,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1042,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "23%"
+      ],
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "surprise",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It sure is . They also serve tea , coffee and refreshments . The Center staff members are also friendly and helpful . Everyone loves them .",
+    "occurrences": [
+      "serve",
+      "tea",
+      "coffee",
+      "friendly",
+      "helpful"
+    ],
+    "word_count": 25,
+    "stop_word_count": 8,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0271,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.521,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0895,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.563,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0919,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

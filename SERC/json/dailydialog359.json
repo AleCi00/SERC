@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Are you doing anything tomorrow morning ? I'm wondering if you'd like to come to my office to discuss the new project ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Tomorrow morning ? What about tomorrow afternoon ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Then I'll see you in the afternoon ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK ."
+  }
+]

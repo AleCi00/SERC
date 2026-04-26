@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you think my briefcase is big enough to put in all these stuff ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me see . Laptop , flash disk , a ballpoint pen , a pencil , a notebook , a pair of glasses , cell phone , charger , moisture lotion , ... Oh , that is too much . You are not going to a business trip ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I guess I need all of them ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Actually , the company will provide you with all of these supplies . So , you can leave this very thick notebook at home ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I know . But it is my lucky charm . I carry it all the time ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Suit yourself . Don ’ t forget to set the alarm clock ."
+  }
+]

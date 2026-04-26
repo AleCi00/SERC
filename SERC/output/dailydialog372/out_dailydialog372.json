@@ -1,0 +1,212 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Food is less expensive in a cafeteria , because you serve yourself .",
+    "occurrences": [
+      "food",
+      "less",
+      "serve"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.167,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0278,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.043,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How to do it ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Just pick up a tray , then put a knife , a fork , a spoon and a paper napkin on it and stand in the line .",
+    "occurrences": [
+      "napkin"
+    ],
+    "word_count": 25,
+    "stop_word_count": 14,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.031,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0028,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How long will it take to reach the buffet ?",
+    "occurrences": [
+      "long",
+      "buffet"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.029,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0058,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0812,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "anger",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not long , because people rush for lunch .",
+    "occurrences": [
+      "long",
+      "rush"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0812,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0562,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "fear",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The line sure does move fast .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Tell the man behind the counter what you want .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . I like that green vegetable but I don't know how to call it .",
+    "occurrences": [
+      "like",
+      "green"
+    ],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.137,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0152,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.843,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0937,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Just point to it if you don't know the name .",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All right .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

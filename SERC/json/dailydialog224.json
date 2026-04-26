@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey honey , how was your day ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It was alright . I ran into Bill and we got to talking for a while . He ’ s in a bit of a jam ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why ? What happened ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , his son had an accident and Bill doesn ’ t have health insurance . This really got me thinking , and I wondered if we shouldn ’ t look into a couple of different HMO ’ s ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , you ’ re right . We aren ’ t getting any younger and our kids are getting older ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Exactly ! I searched on the web and found a couple of HMO ’ s with low co-pays and good coverage . The deductibles are low , too ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sounds good , although , do you think we can qualify for insurance ? Those insurance companies are real pirates when it comes to money ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , we don ’ t have any pre-existing illnesses or conditions , so we should be fine ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I wish our company or country provided us with healthcare ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not in a million years !"
+  }
+]

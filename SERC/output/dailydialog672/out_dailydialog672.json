@@ -1,0 +1,342 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "what was your wedding ceremony like , Abigail ?",
+    "occurrences": [
+      "wedding",
+      "ceremony",
+      "like"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.096,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.274,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0742,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.121,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "27%"
+      ],
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "surprise",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "my husband and I got married in a registry office with just two friends there as witnesses . But then we had three parties to celebrate .",
+    "occurrences": [
+      "husband",
+      "registry",
+      "friends",
+      "celebrate"
+    ],
+    "word_count": 26,
+    "stop_word_count": 13,
+    "occurrences_count": 4,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.782,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1371,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0421,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "three parties ? That's quite a lot . That must have been expensive !",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "well , since my husband and I are from two different countries , and we live in a third country , we decided to have one in each country . It wasn't actually that expensive .",
+    "occurrences": [
+      "husband",
+      "live"
+    ],
+    "word_count": 32,
+    "stop_word_count": 15,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0496,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "were your parents upset that they weren't there to see you get married ?",
+    "occurrences": [
+      "upset"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.439,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0627,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0803,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "anger",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I would have liked them to be there , but they couldn ’ t afford to fly out to see us , and we couldn't afford to fly out to see them , so they understood .",
+    "occurrences": [],
+    "word_count": 34,
+    "stop_word_count": 21,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "did your husband's family get to meet your family ?",
+    "occurrences": [
+      "family",
+      "family"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.0,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1667,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "my husband's parents flew out to meet my family when we got married in my hometown , so that was great . Some people spend ridiculous amounts of money on extravagant wedding receptions , but we agreed t",
+    "occurrences": [
+      "family",
+      "ridiculous",
+      "money",
+      "wedding",
+      "agreed"
+    ],
+    "word_count": 36,
+    "stop_word_count": 17,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.363,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0191,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0308,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0185,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.672,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.088,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0107,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.007,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.053,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "that makes sense . Did you go on a honeymoon ?",
+    "occurrences": [
+      "honeymoon"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1133,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.636,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.106,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0872,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "11%"
+      ],
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "we waited until our one-year anniversary to go on our honeymoon to Africa .",
+    "occurrences": [
+      "honeymoon"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0971,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.636,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0909,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0357,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0747,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "you really didn't have a very traditional wedding , did you ?",
+    "occurrences": [
+      "wedding"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1282,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "not at all , but we don ’ t have a very traditional marriage either , so it suited us perfectly !",
+    "occurrences": [
+      "don",
+      "marriage"
+    ],
+    "word_count": 20,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.082,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.514,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0643,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.121,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I hear that Mary got mad .",
+    "occurrences": [
+      "mad"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.172,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.121,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1368,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "17%"
+      ],
+      [
+        "fear",
+        "13%"
+      ],
+      [
+        "sadness",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "So I heard .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What ’ s wrong with her ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "She went over the edge after her son was killed in an accident .",
+    "occurrences": [
+      "accident"
+    ],
+    "word_count": 14,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "12%"
+      ],
+      [
+        "surprise",
+        "12%"
+      ],
+      [
+        "sadness",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

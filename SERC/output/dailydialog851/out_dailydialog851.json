@@ -1,0 +1,28 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You're looking great .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You , too .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

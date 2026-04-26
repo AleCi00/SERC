@@ -1,0 +1,154 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry I'm so late . I had a really bad day .",
+    "occurrences": [
+      "late",
+      "bad"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0566,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0489,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0684,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "6%"
+      ],
+      [
+        "anger",
+        "5%"
+      ],
+      [
+        "disgust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's ten after six.We ' re late.But dinner is at six thirty .",
+    "occurrences": [
+      "late"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I know . I know . I'm really sorry . I lost my bag .",
+    "occurrences": [
+      "lost"
+    ],
+    "word_count": 15,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0568,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'll call the lost and found office .",
+    "occurrences": [
+      "ill",
+      "lost",
+      "found"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0555,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.082,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1035,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.043,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.219,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2032,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0807,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "20%"
+      ],
+      [
+        "fear",
+        "10%"
+      ],
+      [
+        "disgust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I didn't think of it.Thank you.And I do apologize for being late .",
+    "occurrences": [
+      "apologize",
+      "late"
+    ],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.495,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.099,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0954,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "9%"
+      ],
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

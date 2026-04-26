@@ -1,0 +1,163 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you like ethnic food ?",
+    "occurrences": [
+      "like",
+      "food"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0645,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.82,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.205,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "20%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I do ! My favorites are Mexican , Thai , and Indian .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Really ? Have you ever tried Moroccan ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can't say that I have . What are the basic ingredients ?",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't know . A friend of mine said I should try it .",
+    "occurrences": [
+      "friend",
+      "mine"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.768,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.096,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you know where a Moroccan restaurant is ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "As a matter of fact , he gave me this address .",
+    "occurrences": [
+      "matter",
+      "fact"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.204,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2408,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "24%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let's go there for lunch ! I'm up for an adventure !",
+    "occurrences": [
+      "adventure"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2143,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.94,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1343,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "21%"
+      ],
+      [
+        "joy",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

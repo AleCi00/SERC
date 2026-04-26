@@ -1,0 +1,74 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good evening , Saliva . What's that wonderful aroma from your kitchen ? What are you doing now ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am cooking now !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you good at cooking ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I have studied its skills recently at a training school . I plan to run a restaurant , so I have to practise cooking !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It is a good idea . What dish are you cooking now ? !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am steaming fish in a pressure cooker . Have you ever tried steamed fish ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I have . But the taste of steamed fish at that restaurant is not delicious . The fish is not well-done and too salty ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's the case . I think there is not enough time to steam it and soy sauce is too much ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I have the same idea as yours ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's OK . Please have a taste of it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you . Oh , it's very delicious ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you for your praise ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Besides steamed fish , what else are you good at cooking ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am good at stewing beef with potato , frying chicken , hot and sour soup etc ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "So many dishes . Next Friday week is my birthday . I would like to invite you to cook for my dinner party , OK ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why not ? It is a good opportunity for me to practise cooking ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks a lot ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's my pleasure ."
+  }
+]

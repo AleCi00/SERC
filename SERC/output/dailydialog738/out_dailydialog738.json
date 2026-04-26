@@ -1,0 +1,68 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I would wondering if you like to stay here for a few days .",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 14,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0807,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It really depends on when and how long",
+    "occurrences": [
+      "long"
+    ],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1353,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Until next weekend . that ’ s ok .",
+    "occurrences": [
+      "weekend"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.441,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0735,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

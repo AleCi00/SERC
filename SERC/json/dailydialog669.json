@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "We're thinking about going to America ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Have you thought about the cost ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "There is that ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I believe it'll be very expensive ."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I would like to buy a bottle of cleansing milk.Can you recommend me some kinds ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . What kind of skin do you have ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "My skin is oily ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Then I advise you to buy the LAY cleansing milk ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Can you tell me more ?"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me . I have an appointment with Mr . Li at nine . May I come in ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , come in please . I am Mr . Li . You must be My Liu , right ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I am My Liu . Thanks ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'd like to start this interview with some questions . Why do you think you are qualified for this position ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "According to your advertisement , you want an experienced software engineer . I think my background meets the requirement of this position ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Then tell me something about your background ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "My major was computer science when I was at college , and I am quite familiar with Visual C + + and Java language ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , what do you think about the development in computers ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The developments in software are going ahead very quickly and more and more problems are resolved by software . In some regions , the hardware is completely replaced by software . So I think the software industry has a great future ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Have you ever designed any programs concerning network ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I have designed some programs for the network with Visual C + + and I have passed the test for programmers - MUSE ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Have you got anything to ask me ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , can you tell me what's my responsibility in this position ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , of course . You would be responsible for the development of software products ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I see . This is my advantage ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good . Have you got any other questions ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ok , I will contact you in a week . See you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you , bye-bye ."
+  }
+]

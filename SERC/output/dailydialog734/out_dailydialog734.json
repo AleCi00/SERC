@@ -1,0 +1,146 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I had to announce his innocence in court today , but it left a nasty taste in my mouth .",
+    "occurrences": [
+      "court",
+      "nasty",
+      "mouth"
+    ],
+    "word_count": 19,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.871,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0781,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0833,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0191,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "9%"
+      ],
+      [
+        "fear",
+        "8%"
+      ],
+      [
+        "disgust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You mean you suspect him .",
+    "occurrences": [
+      "suspect"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.172,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "17%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m not sure . I ’ ll try to prove my feeling .",
+    "occurrences": [
+      "feeling"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.147,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0184,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0694,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0176,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.041,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0449,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0215,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0449,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.518,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0648,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I hope I can do something for you .",
+    "occurrences": [
+      "hope"
+    ],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2577,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1953,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1223,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2267,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "25%"
+      ],
+      [
+        "trust",
+        "22%"
+      ],
+      [
+        "joy",
+        "19%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

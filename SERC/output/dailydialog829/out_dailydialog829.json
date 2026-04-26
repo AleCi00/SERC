@@ -1,0 +1,89 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Mary seems depressed . What ’ s the matter ?",
+    "occurrences": [
+      "depressed",
+      "matter"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0424,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.067,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.859,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1227,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0681,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "12%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "She didn ’ t expect to get a kick in the teeth after a day ’ s hard work .",
+    "occurrences": [
+      "expect",
+      "kick"
+    ],
+    "word_count": 20,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.667,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0667,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.742,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0742,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.148,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0148,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0477,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "anger",
+        "6%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Poor girl !",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

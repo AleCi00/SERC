@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "My dear , what's for supper ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Red cooked carp and rape with fresh mushrooms ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What about soup ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sour-peppery soup ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Which condiment do you use for ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'll use ginger , garlic scallion , hot pepper and vinegar ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Very good , need I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , don't need , I can do myself ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks . I can watch TV now ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But you must cook that dinner next time ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Okay , I'll do it next time ."
+  }
+]

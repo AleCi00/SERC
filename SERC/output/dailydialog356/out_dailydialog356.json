@@ -1,0 +1,163 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me . Can you tell me how to get to City Hall ?",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . Go to the next corner and turn left onto Center Street . Walk three blocks to Second Avenue and turn right . Walk two more blocks and you'll see City Hall on the left .",
+    "occurrences": [
+      "turn",
+      "turn",
+      "youll"
+    ],
+    "word_count": 31,
+    "stop_word_count": 9,
+    "occurrences_count": 3,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0121,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0149,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "1%"
+      ],
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry . I didn't follow you . Could you please repeat that ?",
+    "occurrences": [
+      "follow"
+    ],
+    "word_count": 14,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0477,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Okay . First , go to the next corner and turn left onto Center Street .",
+    "occurrences": [
+      "turn"
+    ],
+    "word_count": 13,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.133,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0133,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Uh-huh .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Then , walk three blocks to Second Avenue an turn right . Are you with me so far ?",
+    "occurrences": [
+      "turn"
+    ],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.133,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0166,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . I'm following you .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Then , walk two more blocks an you ’ ll see City Hall on the left . Have you got all that ?",
+    "occurrences": [],
+    "word_count": 20,
+    "stop_word_count": 11,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . Now I've got it . Thank you very much .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

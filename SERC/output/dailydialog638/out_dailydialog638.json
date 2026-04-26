@@ -1,0 +1,274 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi Paul . How are you , friend .",
+    "occurrences": [
+      "friend"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.471,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1177,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1875,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "18%"
+      ],
+      [
+        "joy",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not good . My cousin is driving me up the wall .",
+    "occurrences": [
+      "good"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0638,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0912,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0365,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1028,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How so ?",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He stays up untill all hours of the night , and he never lifts a finger to help .",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0226,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Have you talk to him about it ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not yet , but I have to soon . He's eating me out of house and home . I caught him reading the fridge again last night",
+    "occurrences": [
+      "home"
+    ],
+    "word_count": 25,
+    "stop_word_count": 12,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.559,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.043,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Ahahah , Maybe that will help you lose weight .",
+    "occurrences": [
+      "help",
+      "lose",
+      "weight"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.261,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0522,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0516,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1406,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.109,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0218,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.65,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.13,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0578,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "14%"
+      ],
+      [
+        "sadness",
+        "13%"
+      ],
+      [
+        "surprise",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This is no laughing matter , Nick .",
+    "occurrences": [
+      "laughing",
+      "matter"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.864,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.288,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.159,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "28%"
+      ],
+      [
+        "trust",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sorry Paul . I couldn't help it . So why doesn't he give you a hand ?",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0226,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He watch the tob too much . Now really I don't know . But I can't handle this much longer .",
+    "occurrences": [
+      "watch"
+    ],
+    "word_count": 19,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0402,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0145,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , talk to him , and let me know what happens , OK ?",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

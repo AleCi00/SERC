@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What would you like to eat , sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Scrambled egg , bacon , three pieces of bread and a cup of tea ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you care for some lemon for your tea ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thank you ."
+  }
+]

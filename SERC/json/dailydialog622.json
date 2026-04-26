@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , is this the ABC company ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , may I help you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We have just arrived from Tokyo only ... looking for a reserve car of your company . All of above , we cannot find it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What is your reservation number ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Our reservation number is J - 221 ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me see . Oh , yes , we have your reservation number ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You mean you haven ’ t arranged any car ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m sorry to say no ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Here I ’ ll take taxi instead , how do you refund us ?"
+  }
+]

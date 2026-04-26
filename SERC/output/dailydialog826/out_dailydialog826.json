@@ -1,0 +1,228 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "The bartender just gave the last call . Let's order another round , okay ?",
+    "occurrences": [
+      "bartender"
+    ],
+    "word_count": 14,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0348,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure , but let's get a pitcher this time We should be able to down it before they close .",
+    "occurrences": [
+      "time",
+      "down"
+    ],
+    "word_count": 18,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0645,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0351,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That sounds good . You order the beer while I go to the bathroom . Where is the can in this place ?",
+    "occurrences": [
+      "good",
+      "beer"
+    ],
+    "word_count": 22,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0383,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0688,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0219,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0617,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's all the way to the back . See that yellow door ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah . I think I can find it .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You're back already . That sure was quick .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's because I just took one step inside and turned right around . That bathroom is too gross for me .",
+    "occurrences": [
+      "gross"
+    ],
+    "word_count": 20,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0599,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , the bartender wouldn't give me the pitcher of beer . Anyway . He said it was too close to closing time .",
+    "occurrences": [
+      "bartender",
+      "beer",
+      "time"
+    ],
+    "word_count": 23,
+    "stop_word_count": 9,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0369,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0101,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0274,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let's leave then . I could take some fresh air , anyway .",
+    "occurrences": [
+      "leave"
+    ],
+    "word_count": 12,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0364,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.026,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "3%"
+      ],
+      [
+        "surprise",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Okay , let's go !",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

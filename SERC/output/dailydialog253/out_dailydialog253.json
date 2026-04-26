@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I just have to come up for air . I ’ Ve been here for too long a time .",
+    "occurrences": [
+      "long",
+      "time"
+    ],
+    "word_count": 19,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.922,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1317,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . You ’ d better come back in two hours .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

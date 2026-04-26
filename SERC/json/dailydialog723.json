@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , Tina , I ’ Ve got good news . I have successfully passed the first two rounds of interview with ABC Company . They informed me to go to the final round next Monday . It looks very promising ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That is awesome . Congratulation ! I know you can make it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks . Let ’ s go for a celebration this evening . Are you free ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . Wait for me at the cafe down my office building . See 5PM , ok ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No problem . See you !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "See you !"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "David , I ’ m going to China ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Really ? How did you get the chance ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You know . I took part in the Chinese contest . I was the best and they gave me this reward . I don ’ t have to pay for my trip ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Congratulations . How lucky you are !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you . I ’ m leaving tomorrow morning ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m sure you ’ ll enjoy the trip . China is such a beautiful country ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m sure I will ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Have a nice journey , Lily ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you , David ."
+  }
+]

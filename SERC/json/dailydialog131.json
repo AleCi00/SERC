@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "John , I ’ d like you to meet Charles Brown , our new manager at the airport ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , certainly . How can I recognize him ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "He is short , well-built , and he ’ s got light blond hair ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is there anything else ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "He has a mustache , if I remember correctly , and a light complexion ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How old is he ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "He is in his late thirties ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well . I shouldn ’ t have any trouble recognizing him . What time does his flight arrive ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "At 2 thirty ."
+  }
+]

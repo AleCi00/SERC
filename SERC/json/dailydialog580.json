@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I am really interested in buying this television ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's so great !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How much are you selling it for ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This t . v is only $ 2500 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You can't be serious ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's how much this t . v costs ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's too expensive for me ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This television is of very high quality ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You can't go down on the price ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "By how much ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'll buy it for $ 2000 ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm sorry , but the price is final ."
+  }
+]

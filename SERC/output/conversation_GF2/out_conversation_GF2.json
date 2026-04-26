@@ -1,0 +1,176 @@
+[
+  {
+    "speaker": "Filippo",
+    "text": "Now you have to tell me",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "Giulia... you had promised me that our fights stayed between us (except your sister)",
+    "occurrences": [
+      "fights"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.803,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1147,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I'll even tell you the date when you said it if you want since I had written it down",
+    "occurrences": [
+      "ill",
+      "date",
+      "down"
+    ],
+    "word_count": 18,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0416,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0615,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0776,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.043,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.875,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1094,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "10%"
+      ],
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "disgust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "and you can't say you forgot",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "this time I can pretend nothing happened if you tell me what you talked about kindly but promises are kept",
+    "occurrences": [
+      "time",
+      "promises"
+    ],
+    "word_count": 19,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0573,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0608,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "you had sworn on anything",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "and did you talk about it with anyone else besides your friends!?????",
+    "occurrences": [
+      "friends"
+    ],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "You have to answer me. I can wait a bit but you have to answer all of this completely and without ignoring",
+    "occurrences": [
+      "wait"
+    ],
+    "word_count": 22,
+    "stop_word_count": 15,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0747,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

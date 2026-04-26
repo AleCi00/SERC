@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can you tell that I ’ m excited ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What are you excited about ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I voted today ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Was this your first time ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I just turned 18 a month ago ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You ’ re lucky ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you mean ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Because you turned 18 in an election year ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I didn ’ t even think of that ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You didn ’ t ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I really didn ’ t , but I ’ m still excited ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You should be , because you ’ re a part of history ."
+  }
+]

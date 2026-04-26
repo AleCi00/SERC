@@ -1,0 +1,47 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Help ! Help !",
+    "occurrences": [
+      "help",
+      "help"
+    ],
+    "word_count": 4,
+    "stop_word_count": 0,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.203,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "20%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What's the matter ?",
+    "occurrences": [
+      "matter"
+    ],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.159,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

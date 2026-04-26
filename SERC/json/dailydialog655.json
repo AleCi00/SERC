@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "My friend Jean is very beautiful ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What's her figure ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Perfect , and I like her charming eyes too ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What's the color of her eyes ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Dark blue ."
+  }
+]

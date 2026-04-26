@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "This house is not looking all that great from here"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You can ’ t really tell everything about a house from the outside . Let ’ s go inside ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don ’ t think that it is looking any better inside here ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think that fresh paint and cleaning would help it look a little better ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It is just too dark in here with so few windows ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I hear that the kitchen is quite large . Let ’ s go check it out ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The kitchen may be large , but it doesn ’ t have any storage space ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The master suite is supposed to be quite elegant . Maybe it will be a little better ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How many dogs live in this house ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think that we have seen all that we need to see here . Let ’ s go look at another house ."
+  }
+]

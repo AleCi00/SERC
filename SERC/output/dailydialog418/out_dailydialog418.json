@@ -1,0 +1,230 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I've come to hear about your offer .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We have the offer ready for you . Let me check . 10 boxes with 50 brooches per box , at 20,000 yuan ; 20 boxes with 50 waistbands per box , at 30,000 yuan ; 15 boxes with other ornaments per box , at 7 , 500 yuan , for shipment in June . The offer is valid for five days .",
+    "occurrences": [
+      "ready"
+    ],
+    "word_count": 59,
+    "stop_word_count": 18,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0122,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I can tell you right now that your prices are a little higher than we expected .",
+    "occurrences": [
+      "expected"
+    ],
+    "word_count": 17,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0803,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You know that the prices of the ornaments have been rising in recent years . The prices we offer this time compare favorably with quotations you can get else where .",
+    "occurrences": [
+      "rising",
+      "time"
+    ],
+    "word_count": 31,
+    "stop_word_count": 15,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.164,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0728,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0234,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I am afraid I can't agree with you there . I must point out your prices are higher than the quotations we've received from other companies .",
+    "occurrences": [
+      "afraid"
+    ],
+    "word_count": 26,
+    "stop_word_count": 13,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0649,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But you must take the design and quality into consideration . You know we are superior to others in design and quality . We have various styles , which the other companies cannot catch up with .",
+    "occurrences": [
+      "catch"
+    ],
+    "word_count": 36,
+    "stop_word_count": 18,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.32,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0178,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I agree that yours are of the top .",
+    "occurrences": [
+      "top"
+    ],
+    "word_count": 9,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1327,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1563,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "15%"
+      ],
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , since your order is large enough , can you give me a rough idea ?",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "To have this business concluded , I should say a reduction of least 10 % would help .",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 16,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0203,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Impossible . How about 5 % off ?",
+    "occurrences": [
+      "impossible"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Right . A reduction of 5 % is acceptable .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "speaker": "Luca",
+    "text": "Guys, I have amazing news! I asked Sara out and she said YES! I'm the happiest ❤️",
+    "occurrences": [
+      "happiest",
+      "love"
+    ],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.814,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2016,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0842,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "fear-joy": 0.986,
+    "fear-joy_computed": 0.1096,
+    "surprise-joy": 0.986,
+    "surprise-joy_computed": 0.1096,
+    "anger-joy": 0.986,
+    "anger-joy_computed": 0.1096,
+    "anticipation-joy": 0.986,
+    "anticipation-joy_computed": 0.1096,
+    "joy-surprise": 0.986,
+    "joy-surprise_computed": 0.1096,
+    "trust-joy": 0.986,
+    "trust-joy_computed": 0.1096,
+    "sadness-joy": 0.986,
+    "sadness-joy_computed": 0.1096,
+    "disgust-joy": 0.986,
+    "disgust-joy_computed": 0.1096,
+    "joy-anger": 0.986,
+    "joy-anger_computed": 0.1096,
+    "joy-sadness": 0.986,
+    "joy-sadness_computed": 0.1096,
+    "joy-anticipation": 0.986,
+    "joy-anticipation_computed": 0.1096,
+    "joy-trust": 0.986,
+    "joy-trust_computed": 0.1096,
+    "joy-fear": 0.986,
+    "joy-fear_computed": 0.1096,
+    "joy-disgust": 0.986,
+    "joy-disgust_computed": 0.1096,
+    "main_emotion": [
+      [
+        "joy",
+        "20%"
+      ],
+      [
+        "fear-joy",
+        "10%"
+      ],
+      [
+        "surprise-joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-joy",
+        "matched_words": [
+          {
+            "word": "happiest",
+            "score": 0.986
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "happiest",
+            "score": 0.986
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-joy",
+        "matched_words": [
+          {
+            "word": "happiest",
+            "score": 0.986
+          }
+        ]
+      },
+      {
+        "emotion": "fear-joy",
+        "matched_words": [
+          {
+            "word": "happiest",
+            "score": 0.986
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anger",
+        "matched_words": [
+          {
+            "word": "happiest",
+            "score": 0.986
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anticipation",
+        "matched_words": [
+          {
+            "word": "happiest",
+            "score": 0.986
+          }
+        ]
+      },
+      {
+        "emotion": "joy-disgust",
+        "matched_words": [
+          {
+            "word": "happiest",
+            "score": 0.986
+          }
+        ]
+      },
+      {
+        "emotion": "joy-fear",
+        "matched_words": [
+          {
+            "word": "happiest",
+            "score": 0.986
+          }
+        ]
+      },
+      {
+        "emotion": "joy-sadness",
+        "matched_words": [
+          {
+            "word": "happiest",
+            "score": 0.986
+          }
+        ]
+      },
+      {
+        "emotion": "joy-surprise",
+        "matched_words": [
+          {
+            "word": "happiest",
+            "score": 0.986
+          }
+        ]
+      },
+      {
+        "emotion": "joy-trust",
+        "matched_words": [
+          {
+            "word": "happiest",
+            "score": 0.986
+          }
+        ]
+      },
+      {
+        "emotion": "sadness-joy",
+        "matched_words": [
+          {
+            "word": "happiest",
+            "score": 0.986
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-joy",
+        "matched_words": [
+          {
+            "word": "happiest",
+            "score": 0.986
+          }
+        ]
+      },
+      {
+        "emotion": "trust-joy",
+        "matched_words": [
+          {
+            "word": "happiest",
+            "score": 0.986
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "Sara",
+    "text": "Ahahah Luca, don’t say it like that in public 🙈",
+    "occurrences": [
+      "like",
+      "public"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0807,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Marta",
+    "text": "That’s wonderful! Finally you two made up your minds!",
+    "occurrences": [
+      "wonderful",
+      "finally"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.14,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.19,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.177,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1962,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.047,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1745,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.531,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2552,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "25%"
+      ],
+      [
+        "joy",
+        "19%"
+      ],
+      [
+        "anticipation",
+        "19%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Gianni",
+    "text": "About time... you tortured us for months with those awkward looks 😂",
+    "occurrences": [
+      "time",
+      "amusement"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0737,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1027,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Sara",
+    "text": "Well, sometimes the best things come when you least expect them.",
+    "occurrences": [
+      "expect"
+    ],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.742,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.106,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.148,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0211,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0681,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "surprise",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Luca",
+    "text": "I swear I’ve never been this happy in my life.",
+    "occurrences": [
+      "swear",
+      "happy",
+      "life"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.111,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.226,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2452,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.937,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1874,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "24%"
+      ],
+      [
+        "trust",
+        "18%"
+      ],
+      [
+        "anticipation",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Marta",
+    "text": "Tonight we celebrate then! 🥂",
+    "occurrences": [
+      "celebrate"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.688,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.5627,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "56%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Sara",
+    "text": "Only if you bring your cheesecake, Marta!",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Marta",
+    "text": "Deal 😎",
+    "occurrences": [
+      "deal"
+    ],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.402,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.201,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.156,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.227,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1135,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1955,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "20%"
+      ],
+      [
+        "trust",
+        "19%"
+      ],
+      [
+        "joy",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Gianni",
+    "text": "I’ll bring the beers, obviously.",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Luca",
+    "text": "Perfect, it’ll be the best night ever.",
+    "occurrences": [
+      "perfect"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.089,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1438,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1078,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "14%"
+      ],
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Sara",
+    "text": "Yes, but promise me you won’t give one of your long speeches in front of everyone 😂",
+    "occurrences": [
+      "promise",
+      "long",
+      "amusement"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0406,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.134,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1134,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0773,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Luca",
+    "text": "I need HELP",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.203,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "20%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Luca",
+    "text": "I need help",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1015,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Sara",
+    "text": "Have you seen Buzz?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Sara",
+    "text": "Have you seen buzz?",
+    "occurrences": [
+      "buzz"
+    ],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.297,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.117,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "29%"
+      ],
+      [
+        "fear",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

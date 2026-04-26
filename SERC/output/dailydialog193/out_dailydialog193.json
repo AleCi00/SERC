@@ -1,0 +1,187 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I think it's time for me to meet my admirer and make him face the music .",
+    "occurrences": [
+      "time",
+      "music"
+    ],
+    "word_count": 17,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0645,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0664,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.002,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "sadness",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You do ? How are you going to contact him ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm leaving him a message taped to my computer screen .",
+    "occurrences": [
+      "leaving"
+    ],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.038,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What does it say ? Do you think he'll see it ?",
+    "occurrences": [
+      "hell"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.853,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1422,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1133,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.86,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1433,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.7,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1167,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "14%"
+      ],
+      [
+        "anger",
+        "14%"
+      ],
+      [
+        "sadness",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "He'll see it . It says , I like sweets . Meet me at two thirty in the parking lot .",
+    "occurrences": [
+      "hell",
+      "like",
+      "sweets"
+    ],
+    "word_count": 19,
+    "stop_word_count": 6,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.853,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0656,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0361,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0523,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.86,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0662,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0432,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.7,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0372,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "anger",
+        "6%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can I spy on you guys from the window ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No . But I'll fill you in later . Right now I have to find Vince .",
+    "occurrences": [
+      "fill"
+    ],
+    "word_count": 15,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.32,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0457,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

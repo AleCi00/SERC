@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "So , Paula , where are you from ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm from Canada , originally ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "From Canada ? Where were you born ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Montreal ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "When did you come to Los Angeles ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We moved here when I was fourteen ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Did you go to school here ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I went to high school here , but I went to college in Texas ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Did you get a job right after graduation ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , I traveled for a while in Europe after college , and then I lived in France ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "When was that ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let's see ... That was about six years ago ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I bet that was interesting . What did you do there ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I studied French . Anyway ... that's enough about me.How about you ? Were you born in L . A . ?"
+  }
+]

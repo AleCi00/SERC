@@ -1,0 +1,62 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Abby Park Hotel . Can I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I would like to book a room for my wife and myself ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Certainly sir . Could I have your arrival and departure dates ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We will be arriving on Tuesday next week and staying for two days ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We have a double room for you with a nice view of the park . Would that be OK ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , that would be great . How much is the room ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It is ninety-five pounds per night . It is a double room with a bathroom . There is a fridge , coffee maker and a television in the room ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Does the bathroom have a bath or a shower ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "All our bathrooms have full size baths with a shower attachment ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Does the room have an Internet connection ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , all our rooms have complimentary wireless Internet ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Excellent . Do you serve breakfast in the hotel ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , breakfast is included in the price . Our guests have the choice of a full English breakfast or a continental breakfast ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's great . Can I book the room ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Certainly , Sir ."
+  }
+]

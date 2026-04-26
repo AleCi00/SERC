@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You're from New York , aren't you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , that's right ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you suggest I should see in New York ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , how about the Museum of Modern Art ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , I don't like museums . They're boring ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why don't you go to see the Empire State Building ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Ah ! That sounds interesting ."
+  }
+]

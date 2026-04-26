@@ -1,0 +1,327 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Matthew ? Hi !",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Steve ! Haven't seen you in ages ! How long's it been ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's got to be almost a year now .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How have you been ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm pretty good . I've been looking for a place to live recently . My lease runs out next month and I don't want to renew it .",
+    "occurrences": [
+      "pretty",
+      "good",
+      "live"
+    ],
+    "word_count": 27,
+    "stop_word_count": 9,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0443,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.422,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.079,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0122,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.984,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , I remember the neighborhood . Have you found a place yet ?",
+    "occurrences": [
+      "neighborhood",
+      "found"
+    ],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0333,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0323,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not yet . But I am still looking through the classifieds . Wish me luck .",
+    "occurrences": [
+      "luck"
+    ],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.066,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.508,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0564,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "surprise",
+        "5%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , maybe I can help . Remember my neighbor ?",
+    "occurrences": [
+      "help",
+      "neighbor"
+    ],
+    "word_count": 9,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0401,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.029,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0747,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Mrs . Thou ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , her daughter's having a baby , so she's moving in with her to help out . I think if you are interested , you can come over and have a look .",
+    "occurrences": [
+      "baby",
+      "moving",
+      "help",
+      "interested"
+    ],
+    "word_count": 31,
+    "stop_word_count": 19,
+    "occurrences_count": 4,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0065,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0169,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.409,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0341,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Great . It's a lovely neighborhood . And it would be nice to be neighbors again . It would be just like the old days !",
+    "occurrences": [
+      "lovely",
+      "neighborhood",
+      "like"
+    ],
+    "word_count": 26,
+    "stop_word_count": 12,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.821,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0586,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0514,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.009,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0006,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0129,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.554,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.111,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'll ask Mrs . Thou when she's available to show the apartment and let you know . Has your number changed ?",
+    "occurrences": [
+      "ill",
+      "show"
+    ],
+    "word_count": 21,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0238,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0351,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0444,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0424,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0251,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "4%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "disgust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , Jim . How are you ? I haven ’ t seen you for a while .",
+    "occurrences": [
+      "haven"
+    ],
+    "word_count": 16,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1028,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m fine . I ’ Ve been out of town . I just got back .",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where were you ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I was in New York for a wedding .",
+    "occurrences": [
+      "wedding"
+    ],
+    "word_count": 7,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3205,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "32%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Have you any round-neck sweater ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . Actually our range of sweaters is the most comprehensive available ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Can I try this one on ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure , go ahead ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The color is too bright.For my age , I would prefer a lighter color ."
+  }
+]

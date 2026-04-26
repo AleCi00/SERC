@@ -1,0 +1,14 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Mrs.White ! I'm Anne ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Nice to see you with us , Anne.Please make yourself at home ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you.You ' re so considerate ."
+  }
+]

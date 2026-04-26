@@ -1,0 +1,203 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Even if our company didn't have a dress code , I still think people would wear formal clothing to work .",
+    "occurrences": [
+      "wear"
+    ],
+    "word_count": 19,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0234,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I wouldn't be so sure ... People want to wear what they feel most comfortable in .",
+    "occurrences": [
+      "wear"
+    ],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.041,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Maybe that's true for some positions , but I think the marketing and sales staff would definitely not agree . They dress for success ! You can't go out on a sales call if you are dressed in jeans . It's just not respectful to you client .",
+    "occurrences": [
+      "true",
+      "success",
+      "respectful"
+    ],
+    "word_count": 46,
+    "stop_word_count": 21,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.204,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0482,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.922,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0769,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.523,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0609,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think what you wear is so overrated . I would rather have a down-to-earth , honest and solid sales person than a painted , patent leather , designer suite salesman .",
+    "occurrences": [
+      "wear",
+      "down",
+      "honest"
+    ],
+    "word_count": 31,
+    "stop_word_count": 13,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.087,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0048,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.055,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0031,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.047,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0026,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.303,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0168,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.343,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0191,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.172,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0651,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "anticipation-trust": 0.844,
+    "anticipation-trust_computed": 0.0469,
+    "trust-anticipation": 0.844,
+    "trust-anticipation_computed": 0.0469,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation-trust",
+        "4%"
+      ],
+      [
+        "trust-anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "honest",
+            "score": 0.844
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "honest",
+            "score": 0.844
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's not as simple as that . People judge you by your appearance , whether you like it or not . So dressing professional is being professional . The image that you portray to others is so important in business . It's your image and how others perceive you that makes the difference between landing or losing a sale .",
+    "occurrences": [
+      "simple",
+      "judge",
+      "like",
+      "professional",
+      "professional",
+      "important",
+      "perceive",
+      "losing"
+    ],
+    "word_count": 59,
+    "stop_word_count": 32,
+    "occurrences_count": 8,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.349,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0129,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0052,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.022,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 3.508,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1299,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ],
+      [
+        "anger",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Maybe you're right , but I'll take my sneakers and jeans any day !",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

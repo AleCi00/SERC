@@ -1,0 +1,112 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Sir . So , you are back ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , hello again . I would like to know the exact difference between Dividend Deposit and Dividend Participated Deposit .",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's pretty easy to explain . With the Deposit , the interest is fixed , but the Dividend of each policy will be transferred automatically into your bank account by the end of each year . The longer the term , the higher the Dividend you earn . This is because it is calculated at the Compound Interest Rate .",
+    "occurrences": [
+      "pretty",
+      "explain",
+      "fixed",
+      "policy",
+      "bank",
+      "account",
+      "earn"
+    ],
+    "word_count": 51,
+    "stop_word_count": 29,
+    "occurrences_count": 7,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0188,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0213,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 3.241,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1473,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "14%"
+      ],
+      [
+        "joy",
+        "2%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "And I can purchase that here ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . And if you already have a Current Account with us , the Insurance Premium can be paid through it , which saves all of us a lot of hassle .",
+    "occurrences": [
+      "hassle"
+    ],
+    "word_count": 26,
+    "stop_word_count": 16,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.53,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.053,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Happy birthday , Jim !",
+    "occurrences": [
+      "happy",
+      "birthday"
+    ],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.188,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.396,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.479,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.493,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.164,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.203,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "49%"
+      ],
+      [
+        "anticipation",
+        "39%"
+      ],
+      [
+        "trust",
+        "20%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you , Lisa .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Here is a present for you . I hope you like it .",
+    "occurrences": [
+      "present",
+      "hope",
+      "like"
+    ],
+    "word_count": 13,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.289,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2578,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.027,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2054,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.687,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1374,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3234,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "32%"
+      ],
+      [
+        "anticipation",
+        "25%"
+      ],
+      [
+        "joy",
+        "20%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , great ! I love it ! You know I've been expecting this for a long time .",
+    "occurrences": [
+      "love",
+      "expecting",
+      "long",
+      "time"
+    ],
+    "word_count": 18,
+    "stop_word_count": 8,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.649,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1649,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.656,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1656,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1516,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "16%"
+      ],
+      [
+        "anticipation",
+        "16%"
+      ],
+      [
+        "trust",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm very glad to hear that .",
+    "occurrences": [
+      "glad"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.536,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.134,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.781,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1953,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "19%"
+      ],
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Come here , let me introduce some friends to you .",
+    "occurrences": [
+      "friends"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You look upset , anything wrong ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm going to quit the job ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The task is tough ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You'd look before you leap ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks for your concern ."
+  }
+]

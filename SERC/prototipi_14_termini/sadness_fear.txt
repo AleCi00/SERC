@@ -1,0 +1,42 @@
+Title: sadness-fear
+
+Head Concept Name: sadness
+Modifier Concept Name: fear
+
+head, -happiness
+head, -jubilant
+
+
+T(modifier), torture, 0.984
+T(modifier), terrorist, 0.972
+T(modifier), terrorists, 0.969
+T(modifier), horrific, 0.969
+T(modifier), terrorism, 0.969
+T(modifier), suicidebombing, 0.967
+T(modifier), kill, 0.962
+T(modifier), homicidal, 0.959
+T(modifier), catastrophe, 0.953
+T(modifier), annihilate, 0.953
+T(modifier), murderer, 0.953
+T(modifier), terror, 0.953
+T(modifier), dying, 0.948
+T(modifier), war, 0.942
+
+T(head), mourning, 0.969
+T(head), heartbreaking, 0.969
+T(head), tragic, 0.961
+T(head), holocaust, 0.953
+T(head), suicidal, 0.941
+T(head), misery, 0.938
+T(head), massacre, 0.931
+T(head), euthanasia, 0.927
+T(head), depression, 0.925
+T(head), grieving, 0.922
+T(head), bereavement, 0.922
+T(head), fatal, 0.922
+T(head), bereaved, 0.92
+T(head), devastation, 0.917
+
+
+Result: {"torture": 0.984, "terrorist": 0.972, "terrorists": 0.969, "horrific": 0.969, "terrorism": 0.969, "suicidebombing": 0.967, "kill": 0.962, "homicidal": 0.959, "murderer": 0.953, "terror": 0.953, "mourning": 0.969, "heartbreaking": 0.969, "tragic": 0.961, "holocaust": 0.953, "@scenario_probability": 1.7589696555159262e-15}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1.7589696555159262e-15]

@@ -1,0 +1,330 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi Melissa , are you going home this weekend ?",
+    "occurrences": [
+      "home",
+      "weekend"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.0,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "20%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , not this weekend . I have too much work to do .",
+    "occurrences": [
+      "weekend"
+    ],
+    "word_count": 13,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.441,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0882,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where do your parents live ?",
+    "occurrences": [
+      "live"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1353,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My father lives in Washington DC .",
+    "occurrences": [
+      "father"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1465,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How about your mother ?",
+    "occurrences": [
+      "mother"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.203,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.412,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.206,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.008,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3515,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "35%"
+      ],
+      [
+        "joy",
+        "20%"
+      ],
+      [
+        "anticipation",
+        "20%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My mother died two years ago .",
+    "occurrences": [
+      "mother",
+      "died"
+    ],
+    "word_count": 7,
+    "stop_word_count": 1,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0677,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.412,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0687,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.922,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1537,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1172,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "15%"
+      ],
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , I am sorry to hear that . Is your father still working ?",
+    "occurrences": [
+      "father"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0732,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , he's retired .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have any family here ?",
+    "occurrences": [
+      "family"
+    ],
+    "word_count": 7,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.25,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "25%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , two of my cousins live here and my aunt and uncle live about 30 miles from here .",
+    "occurrences": [
+      "cousins",
+      "live",
+      "aunt",
+      "live"
+    ],
+    "word_count": 19,
+    "stop_word_count": 9,
+    "occurrences_count": 4,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.13,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.113,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0461,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have any brothers or sisters ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I have two brothers who live in New York and a sister who lives in Boston .",
+    "occurrences": [
+      "live"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.058,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you see them a lot ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not as much as I'd like to . Usually just on holidays like Thanksgiving and Christmas .",
+    "occurrences": [
+      "like",
+      "holidays",
+      "like"
+    ],
+    "word_count": 15,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.721,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.103,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1383,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "13%"
+      ],
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Is this a photo of your family ?",
+    "occurrences": [
+      "family"
+    ],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1667,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , it is.It was taken just before I was leaving for college .",
+    "occurrences": [
+      "leaving"
+    ],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0532,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You look so lovely .",
+    "occurrences": [
+      "lovely"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.185,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2397,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.009,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.003,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.06,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1953,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "23%"
+      ],
+      [
+        "trust",
+        "19%"
+      ],
+      [
+        "anticipation",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How time flies ! I'll not see twenty again .",
+    "occurrences": [
+      "time",
+      "ill"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0476,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.032,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1474,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0887,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0849,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "14%"
+      ],
+      [
+        "fear",
+        "8%"
+      ],
+      [
+        "sadness",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

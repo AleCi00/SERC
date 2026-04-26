@@ -1,0 +1,179 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm so glad I bought this watch !",
+    "occurrences": [
+      "glad",
+      "watch"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.118,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.4236,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.376,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0752,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.562,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3124,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "42%"
+      ],
+      [
+        "joy",
+        "31%"
+      ],
+      [
+        "fear",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Cool ! Flashy red lines !",
+    "occurrences": [
+      "lines"
+    ],
+    "word_count": 6,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.062,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0103,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think this is the coolest watch I've ever owned .",
+    "occurrences": [
+      "watch"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0872,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is it waterproof ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Isn't that a silly question ? You know how much of an athlete I am .",
+    "occurrences": [
+      "silly",
+      "athlete"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0645,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0517,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Uh , huh ... so what kind of sports do you need a waterproof watch for ?",
+    "occurrences": [
+      "kind",
+      "watch"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0654,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0235,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0776,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0801,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , surfing , scuba diving ...",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Don't I know you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm not sure.You look familiar ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You're Mr.Stevenson , right ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes.And you're Mr.Jones , I remember ."
+  }
+]

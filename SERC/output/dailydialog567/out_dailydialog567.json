@@ -1,0 +1,94 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What are the factors that have great impact on the perspective of this corporation ?",
+    "occurrences": [
+      "perspective",
+      "corporation"
+    ],
+    "word_count": 15,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.082,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.221,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0368,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "External factors . I think the main external factors are political , economic , social and technological factors .",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What are the internal factors that influence the company ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The internal factors are composed of human resources , team spirit , innovation spirit and coordination between different departments , etc .",
+    "occurrences": [
+      "resources",
+      "team",
+      "spirit",
+      "spirit"
+    ],
+    "word_count": 19,
+    "stop_word_count": 5,
+    "occurrences_count": 4,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.318,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0941,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0781,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

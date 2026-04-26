@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Now , what seems to be the trouble ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's nothing serious . But I always have a headache , and I haven't slept properly for several weeks . I've also lost appetite and my eyes are burning ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Mm , you do look rather pale . Let me take your temperature . Would you put the thermometer under your arm , please ? Now , let me listen to your pulse . Mm , do you feel weak ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I never seem to have any energy ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'll give you a blood test . Would you roll up your sleeve ? Just as I thought . You're anemic . You'd better pay more attention to your diet . Eat plenty of fresh fruit and vegetables and food high in protein . And don't stay up late working . Try to get more rest ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you ."
+  }
+]

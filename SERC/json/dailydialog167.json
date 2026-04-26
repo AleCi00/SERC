@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What date would you like to depart , sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you have any seats for September 16th ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let's see ... I'm afraid the 16th is fully booked . But I have seats for the 17th ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The 17th will be fine ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And what date will you be returning ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hmm , I guess on the 28th ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Okay , you're booked on American Airlines flight 710 , departing JFK at 6"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sounds good . Thanks a lot ."
+  }
+]

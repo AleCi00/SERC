@@ -1,0 +1,90 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Is that pesky lady coming to the office again ?",
+    "occurrences": [
+      "coming"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1266,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , I'm afraid so .",
+    "occurrences": [
+      "afraid"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2813,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "28%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "If there's one thing that bugs me , it's her critical attitude .",
+    "occurrences": [
+      "critical"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.116,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0166,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , it is annoying .",
+    "occurrences": [
+      "annoying"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.47,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1567,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

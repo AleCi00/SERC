@@ -1,0 +1,368 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I had a big argument with david yesterday . I hope he ’ s not still mad at me .",
+    "occurrences": [
+      "argument",
+      "hope",
+      "mad"
+    ],
+    "word_count": 20,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.233,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1233,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0773,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0484,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0586,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.05,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0367,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.068,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What did you argue about ?",
+    "occurrences": [
+      "argue"
+    ],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.734,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.367,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "36%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "He borrowed some money from me and I needed it back . He said he didn ’ t have the money yet .",
+    "occurrences": [
+      "money",
+      "money"
+    ],
+    "word_count": 22,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.148,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0148,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.172,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1172,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.062,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1062,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0406,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.718,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0718,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "11%"
+      ],
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , he should pay you back . It ’ s only fair .",
+    "occurrences": [
+      "pay"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0659,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0346,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0614,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , but I got angry with him too quickly . He probably thought that I mistrusted him . I shouldn ’ t have got angry .",
+    "occurrences": [
+      "angry",
+      "thought",
+      "angry"
+    ],
+    "word_count": 24,
+    "stop_word_count": 11,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.648,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1268,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0318,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.938,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0722,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "12%"
+      ],
+      [
+        "disgust",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Did you lend him a lot of money ?",
+    "occurrences": [
+      "money"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.074,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0185,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1465,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1328,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0508,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0897,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "14%"
+      ],
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not much . I had to pay an unexpected bill , so I needed the money back .",
+    "occurrences": [
+      "pay",
+      "unexpected",
+      "money"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.074,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0082,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1667,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0347,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.976,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1084,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.914,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1016,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.789,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0877,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "16%"
+      ],
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "surprise",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , talk to him about it next time you see him . He probably feels as bad about it as you do . Close friends sometimes have disagreements . It ’ s nothing unusual . Neither of you said anything really nasty , did you ?",
+    "occurrences": [
+      "time",
+      "bad",
+      "friends",
+      "nasty"
+    ],
+    "word_count": 45,
+    "stop_word_count": 20,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.125,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.045,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0206,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.841,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0336,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.02,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0362,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "4%"
+      ],
+      [
+        "disgust",
+        "4%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , we didn ’ t . I guess you ’ re right . We should patch things up .",
+    "occurrences": [
+      "guess"
+    ],
+    "word_count": 19,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0442,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Of course you should . You wouldn ’ t want a silly argument to ruin a long friendship , would you ?",
+    "occurrences": [
+      "silly",
+      "argument",
+      "ruin",
+      "long",
+      "friendship"
+    ],
+    "word_count": 21,
+    "stop_word_count": 10,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.545,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0495,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0369,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.725,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0659,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.107,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1006,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0596,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0661,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

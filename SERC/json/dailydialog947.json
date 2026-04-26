@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I know you have a son . How old is he ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He's going to turn six next month ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Who is looking after him ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My mother-in - law . She retired last year ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You really are lucky !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , I know ."
+  }
+]

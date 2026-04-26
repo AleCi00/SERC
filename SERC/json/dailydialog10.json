@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , this is Mike , Kara ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Mike ! Good to hear from you . How are you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Everything is fine , and how are you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Things are going well with me ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Kara , I had fun the other night at the movies and was wondering if you would like to go out again this Friday ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Mike , I don't think that it's a good idea to go out again . I really need to focus on getting packed and ready to move back home ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Maybe we could just meet for coffee or something ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can't really deal with any distractions right now , but I appreciate the nice evening we spent together ."
+  }
+]

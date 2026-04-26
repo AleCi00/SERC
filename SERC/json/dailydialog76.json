@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , where can I buy an inexpensive cashmere sweater ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Maybe you should look around for an outlet ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That is a wonderful idea ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Outlets have more reasonable prices ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you for your help ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No problem . Good luck"
+  }
+]

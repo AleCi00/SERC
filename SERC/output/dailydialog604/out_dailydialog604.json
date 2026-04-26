@@ -1,0 +1,297 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I can't believe how hot it is .",
+    "occurrences": [
+      "hot"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.529,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1323,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's not even noon yet .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That means it will get hotter .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am dying from the heat .",
+    "occurrences": [
+      "dying"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.455,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1517,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2057,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.948,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.316,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.875,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2917,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "surprise-fear": 0.948,
+    "surprise-fear_computed": 0.316,
+    "fear-surprise": 0.948,
+    "fear-surprise_computed": 0.316,
+    "fear-anticipation": 0.948,
+    "fear-anticipation_computed": 0.316,
+    "trust-fear": 0.948,
+    "trust-fear_computed": 0.316,
+    "fear-disgust": 0.948,
+    "fear-disgust_computed": 0.316,
+    "fear-trust": 0.948,
+    "fear-trust_computed": 0.316,
+    "disgust-fear": 0.948,
+    "disgust-fear_computed": 0.316,
+    "anticipation-fear": 0.948,
+    "anticipation-fear_computed": 0.316,
+    "main_emotion": [
+      [
+        "fear",
+        "31%"
+      ],
+      [
+        "surprise-fear",
+        "31%"
+      ],
+      [
+        "fear-surprise",
+        "31%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "dying",
+            "score": 0.948
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-fear",
+        "matched_words": [
+          {
+            "word": "dying",
+            "score": 0.948
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anticipation",
+        "matched_words": [
+          {
+            "word": "dying",
+            "score": 0.948
+          }
+        ]
+      },
+      {
+        "emotion": "fear-disgust",
+        "matched_words": [
+          {
+            "word": "dying",
+            "score": 0.948
+          }
+        ]
+      },
+      {
+        "emotion": "fear-surprise",
+        "matched_words": [
+          {
+            "word": "dying",
+            "score": 0.948
+          }
+        ]
+      },
+      {
+        "emotion": "fear-trust",
+        "matched_words": [
+          {
+            "word": "dying",
+            "score": 0.948
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-fear",
+        "matched_words": [
+          {
+            "word": "dying",
+            "score": 0.948
+          }
+        ]
+      },
+      {
+        "emotion": "trust-fear",
+        "matched_words": [
+          {
+            "word": "dying",
+            "score": 0.948
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Turn on the air conditioner .",
+    "occurrences": [
+      "turn"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.133,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0333,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It doesn't work .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What happened ?",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don't know .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Did you call the repairman ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Of course .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "When is he coming ?",
+    "occurrences": [
+      "coming"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3165,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "31%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He's busy . He said next week .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

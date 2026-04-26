@@ -1,0 +1,86 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "what did you do last night ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I just stayed at home and watched TV ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "did you watch the Barcelona versus Madrid game ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "yes , it was a very evenly matched game ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "what were the results of the game ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "it ended in a tie ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "what was the actual score ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "it was three all ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "really ? I thought Barcelona was going to win . They are a much better team than Madrid ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "if Barcelona had played as they normally do , they should have won ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "what happened ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "their goalkeepers got injured after the first goal , but he kept on playing anyway ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "that explains it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "how many more games are left this season ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "that was the last game before the playoffs ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "when do the playoffs start ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "in a few weeks . Are you planning on watching them ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "of course ! I really love watching football games on TV ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Me , too ! Do you want to come over and watch the next game at my place ? I'm planning on having a few people over to watch it together ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "sure , that would be great ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Ok , it's a date then !"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , can you tell me the name of the book you read ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Harry Potter ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Harry Potter ? Is that book funny ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Actually , the language itself is not so funny , but you can imagine the scene , that's funny ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Got it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Have you ever read this book before ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , but my little brother likes it very much ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's really a good book . You will like it too ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'll try to read it . Actually , I like literature very much ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wow , that sounds like a scholar . By the way , who's your favorite writer ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Jane Austen ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Me too . Pride and Prejudice is my favorite ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I like it too . But Sense and Sensibility is my favorite ."
+  }
+]

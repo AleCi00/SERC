@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , what's the time difference between Tokyo and London ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "8 hours . Tokyo is 8 hours earlier than London ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's one day more or one day less from Tokyo to London ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "One day more ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It means that we will arrive on the same day ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes ."
+  }
+]

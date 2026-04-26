@@ -1,0 +1,268 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , there . Look at these . I have collected some ads here . There is a special promotion for Mother's Day this weekend .",
+    "occurrences": [
+      "special",
+      "weekend"
+    ],
+    "word_count": 24,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.015,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0923,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , yes . Mother's Day is coming . Do you plan to buy anything ?",
+    "occurrences": [
+      "coming",
+      "plan"
+    ],
+    "word_count": 14,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.203,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1203,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Of course . I want to buy some night cream for my mom , and some masques for myself .",
+    "occurrences": [
+      "cream"
+    ],
+    "word_count": 19,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0303,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.061,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0068,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0157,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "surprise",
+        "1%"
+      ],
+      [
+        "joy",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hmm . In Carrefour , Clinique will be promoting their visible skin renewed cream .",
+    "occurrences": [
+      "cream"
+    ],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0341,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.061,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0076,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0176,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "surprise",
+        "1%"
+      ],
+      [
+        "joy",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How much is it ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "180 yuan , and you can get a free 8 piece gift package .",
+    "occurrences": [
+      "free",
+      "gift"
+    ],
+    "word_count": 13,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0694,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.091,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1212,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0478,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "surprise",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What's included in the gift package ?",
+    "occurrences": [
+      "gift"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1094,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "surprise",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Some black mascara , moisturizing orion , eye cream crystal lipstick , a two color eye shadow pack , styling hairspray , and a cosmetics bag .",
+    "occurrences": [
+      "cream"
+    ],
+    "word_count": 22,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0152,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.061,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0034,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0078,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "1%"
+      ],
+      [
+        "surprise",
+        "0%"
+      ],
+      [
+        "joy",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sounds not bad .",
+    "occurrences": [
+      "bad"
+    ],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.151,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1303,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1407,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "15%"
+      ],
+      [
+        "sadness",
+        "14%"
+      ],
+      [
+        "disgust",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

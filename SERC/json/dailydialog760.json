@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "We have another traditional holiday-the Dragon Boat Festival ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "When is it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It falls on the fifth day of the fifth lunar month ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Could you tell me the origin of the two festivals ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK . The Dragon Boat Festival is a way to commemorate a great ancient poet named Quyuan . On that day , people will hold a boat race as a symbol of the attempt to save him who threw himself into the river ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why do people eat rice cakes on that day ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "In order to prevent the fish from eating the poet's body ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It sounds so moving ."
+  }
+]

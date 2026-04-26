@@ -1,0 +1,198 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Let ’ s play a game !",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK ! How about Scrabble ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , no , a friend of mine taught me this really fun game . I ’ m going to describe someone ’ s face , and you guess who it is !",
+    "occurrences": [
+      "friend",
+      "mine",
+      "taught",
+      "fun",
+      "guess"
+    ],
+    "word_count": 30,
+    "stop_word_count": 15,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0375,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.556,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1037,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.796,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0531,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0849,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "surprise",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK !",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let ’ s see . He has a roman nose , bushy eyebrows and dimples !",
+    "occurrences": [
+      "nose"
+    ],
+    "word_count": 15,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.018,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Our cousin Pete ! My turn ! She has a pointy nose , sunken eyes and a mole on her chin !",
+    "occurrences": [
+      "turn",
+      "nose"
+    ],
+    "word_count": 20,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.446,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0405,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Aunt Rose ! That mole is so huge ! OK , my turn . He has a crooked nose and full lips . He has quite a few freckles and an oval face . Oh , he is also bald !",
+    "occurrences": [
+      "aunt",
+      "turn",
+      "nose",
+      "full"
+    ],
+    "word_count": 38,
+    "stop_word_count": 16,
+    "occurrences_count": 4,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.313,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0142,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.017,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.922,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0419,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "joy",
+        "1%"
+      ],
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Your future husband !",
+    "occurrences": [
+      "husband"
+    ],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.876,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.292,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "29%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not funny .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

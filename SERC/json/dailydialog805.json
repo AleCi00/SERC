@@ -1,0 +1,70 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Have you got your invitation yet ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My invitation ? No , I haven't . My invitation to what ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The house warming party ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Whose house warming party is it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Tom and Bill Smith . They are both working now you know ? And they've bought a new house ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , they have ? I didn't know . I haven't seen Tom lately ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's out in the suburbs ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Have you seen the house ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I have . I went out with them last weekend ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is it nice ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , it is . There are three bedrooms , a living room , a dining room , and a big kitchen ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "There's also a garden ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , that does sound nice . Have they moved in yet ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They are moving today . Tom's taken the day off . He's rented a truck , and they should have all their furniture in the house tonight ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "When are they going to have the party ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Next Saturday night . You should get your invitation today or tomorrow ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wow , that would be something to look forward to ."
+  }
+]

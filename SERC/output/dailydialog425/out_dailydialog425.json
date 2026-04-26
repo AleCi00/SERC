@@ -1,0 +1,261 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Welcome . What can I do for you , Madam ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I hope you can give me some advice . I'm sick and tired of coming here or to the post office to pay my utility bills . It's such a long way from my home , but I checked and you are my nearest branch . Is there anyway I can do it from home ?",
+    "occurrences": [
+      "hope",
+      "advice",
+      "sick",
+      "coming",
+      "pay",
+      "long",
+      "home",
+      "home"
+    ],
+    "word_count": 53,
+    "stop_word_count": 29,
+    "occurrences_count": 8,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.273,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0947,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0241,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.946,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0811,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0221,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0153,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.727,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.072,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's terrible . Unfortunately , we don't have that many branches outside the centre of town . What I'd advise you to do is set up a Direct Debit Service .",
+    "occurrences": [
+      "terrible",
+      "unfortunately",
+      "advise"
+    ],
+    "word_count": 27,
+    "stop_word_count": 13,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0491,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0401,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0424,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.305,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0932,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.57,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0407,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "9%"
+      ],
+      [
+        "anger",
+        "4%"
+      ],
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "A Direct Debit Service ? What's that exactly ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A Direct Debit means that every month we can arrange for all of your utility bills to come directly out of your account , no fuss , no hassle .",
+    "occurrences": [
+      "account",
+      "fuss",
+      "hassle"
+    ],
+    "word_count": 26,
+    "stop_word_count": 14,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.954,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0795,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0299,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0436,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "7%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But how will you know how much I should pay ? I mean , I receive my bills , not you .",
+    "occurrences": [
+      "pay"
+    ],
+    "word_count": 18,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0576,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0302,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0537,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We set up an agreement with the , say , phone company . They tell us how much to pay them every month and we pay directly from your account . Of course , we are able to do this with all of the utilities companies .",
+    "occurrences": [
+      "agreement",
+      "pay",
+      "pay",
+      "account"
+    ],
+    "word_count": 44,
+    "stop_word_count": 23,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.922,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0439,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.023,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.11,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1005,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I see . So , that would mean that every month it would just come from my account ? That does sound like a good idea , totally trouble free .",
+    "occurrences": [
+      "account",
+      "like",
+      "good",
+      "free"
+    ],
+    "word_count": 29,
+    "stop_word_count": 11,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0213,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.091,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0606,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0122,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.624,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0902,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

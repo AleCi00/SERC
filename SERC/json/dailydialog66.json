@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry , our appointment has to be changed ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What a pity !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "If you don't mind , may we put it off to the next day ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's OK ."
+  }
+]

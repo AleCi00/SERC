@@ -1,0 +1,173 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Come in , come in !",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hi , Gary , what happened ? I was waiting for you at the theater . Why didn ’ t you meet me there ?",
+    "occurrences": [
+      "waiting"
+    ],
+    "word_count": 22,
+    "stop_word_count": 13,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.664,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0738,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0157,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I thought we were supposed to meet here .",
+    "occurrences": [
+      "thought"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1035,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Don ’ t you know our movie starts at seven ? And we were going to meet at the theater at five to seven . Then it doesn ’ t make sense to meet at the apartment .",
+    "occurrences": [
+      "don"
+    ],
+    "word_count": 38,
+    "stop_word_count": 20,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0152,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m sorry . We must have misunderstood each other .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why don ’ t you try to be clearer about your intentions ?",
+    "occurrences": [
+      "don"
+    ],
+    "word_count": 13,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0546,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You ’ re right . I am sorry . Let ’ s go and watch the movie .",
+    "occurrences": [
+      "watch"
+    ],
+    "word_count": 18,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0475,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0171,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s okay . I don ’ t want to go now . We ’ Ve already missed ten minutes of the movie . I don ’ t want to see a movie without watching the beginning .",
+    "occurrences": [
+      "don",
+      "don"
+    ],
+    "word_count": 38,
+    "stop_word_count": 16,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.546,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0248,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

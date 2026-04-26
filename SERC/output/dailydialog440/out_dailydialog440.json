@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How you celebrate your Valentine ’ s Day with your wife ?",
+    "occurrences": [
+      "celebrate"
+    ],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.211,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "21%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I will take a rain check .",
+    "occurrences": [
+      "rain"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.163,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0408,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

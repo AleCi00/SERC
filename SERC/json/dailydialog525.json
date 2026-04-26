@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Would you please show me the necklace in the window ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is this the one you want ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , the one next to it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here you are ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks . What kind of stone is this ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's a ruby . It is from South Africa . Would you like to try it on ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , please . How much is it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It costs $ 200 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It looks good . OK . I'll take it ."
+  }
+]

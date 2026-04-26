@@ -1,0 +1,396 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey Sandra , what's wrong ? You look furious !",
+    "occurrences": [
+      "furious"
+    ],
+    "word_count": 8,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.858,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2654,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.938,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.134,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "anticipation-anger": 1.858,
+    "anticipation-anger_computed": 0.2654,
+    "anger-trust": 1.858,
+    "anger-trust_computed": 0.2654,
+    "trust-anger": 1.858,
+    "trust-anger_computed": 0.2654,
+    "surprise-anger": 1.858,
+    "surprise-anger_computed": 0.2654,
+    "anger-anticipation": 1.858,
+    "anger-anticipation_computed": 0.2654,
+    "disgust-anger": 1.858,
+    "disgust-anger_computed": 0.2654,
+    "anger-surprise": 1.858,
+    "anger-surprise_computed": 0.2654,
+    "main_emotion": [
+      [
+        "anger",
+        "26%"
+      ],
+      [
+        "anticipation-anger",
+        "26%"
+      ],
+      [
+        "anger-trust",
+        "26%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-anticipation",
+        "matched_words": [
+          {
+            "word": "furious",
+            "score": 0.929
+          }
+        ]
+      },
+      {
+        "emotion": "anger-surprise",
+        "matched_words": [
+          {
+            "word": "furious",
+            "score": 0.929
+          }
+        ]
+      },
+      {
+        "emotion": "anger-trust",
+        "matched_words": [
+          {
+            "word": "furious",
+            "score": 0.929
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-anger",
+        "matched_words": [
+          {
+            "word": "furious",
+            "score": 0.929
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-anger",
+        "matched_words": [
+          {
+            "word": "furious",
+            "score": 0.929
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anger",
+        "matched_words": [
+          {
+            "word": "furious",
+            "score": 0.929
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anger",
+        "matched_words": [
+          {
+            "word": "furious",
+            "score": 0.929
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I've had it with Tim ! I think I'm going to quit !",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But Sandra ... you love your job ! You spent months trying to get this position . It's perfect for you !",
+    "occurrences": [
+      "love",
+      "perfect"
+    ],
+    "word_count": 20,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.89,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0809,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 3.094,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2813,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.594,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2358,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "28%"
+      ],
+      [
+        "trust",
+        "23%"
+      ],
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah ... I know . But I'm sick and tired of all the office power struggles !",
+    "occurrences": [
+      "sick",
+      "struggles"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.156,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1284,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.062,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.118,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0729,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "disgust",
+        "12%"
+      ],
+      [
+        "sadness",
+        "11%"
+      ],
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What kind of power struggles are you talking about ?",
+    "occurrences": [
+      "kind",
+      "struggles"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1242,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.969,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1938,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "19%"
+      ],
+      [
+        "joy",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Basically , I think Tim is threatened by me . I'm doing a better job than he is so he's trying to sabotage my career !",
+    "occurrences": [
+      "sabotage",
+      "career"
+    ],
+    "word_count": 23,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.454,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1212,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0755,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.218,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1015,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.406,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1172,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0807,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1198,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "12%"
+      ],
+      [
+        "surprise",
+        "11%"
+      ],
+      [
+        "fear",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "So he talks about you behind your back ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . He's all nice and friendly to my face . But the second I turn around he stabs me in the back !",
+    "occurrences": [
+      "friendly",
+      "turn"
+    ],
+    "word_count": 23,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0355,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0205,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0421,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I had a worker like that once . She was always taking credit for my ideas .",
+    "occurrences": [
+      "like",
+      "credit"
+    ],
+    "word_count": 17,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.0,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I should keep a better record of my correspondence with the clients so if necessary I can prove it was my effort .",
+    "occurrences": [
+      "correspondence"
+    ],
+    "word_count": 22,
+    "stop_word_count": 13,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "My co-worker had a whole bunch of bad office habits . She liked to name-drop ... we would be in a meeting and she would say , yesterday I was chatting with Tom . She meant Tom Solomon ... our CEO .",
+    "occurrences": [
+      "bad"
+    ],
+    "word_count": 37,
+    "stop_word_count": 16,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0216,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0186,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0179,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0201,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "2%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ],
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

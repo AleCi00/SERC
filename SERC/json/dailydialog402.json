@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Here you are . You left the medicine here ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sorry . I was too worried ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I firmly believe that you love your brother very much ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Absolutely . By the way , do you sell any traditional Chinese medicine ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , we have some Chinese medicine for common cold ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I heard Chinese medicine has a better lasting effect in cure ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It depends . It's true that you can take some for prevention ."
+  }
+]

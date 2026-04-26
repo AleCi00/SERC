@@ -1,0 +1,61 @@
+{
+  "speaker": [
+    "Filippo",
+    "Giulia"
+  ],
+  "total_words": 425,
+  "total_stop_words": 229,
+  "total_matches": 53,
+  "total_entries": 46,
+  "basic_emotions": {
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 14.801999999999998,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 7.257999999999999,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 6.9830000000000005,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 12.387,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 8.255,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 10.078,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 3.071,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 8.082
+  },
+  "complex_emotions": {
+    "anger-anticipation": 1.906,
+    "anger-fear": 1.906,
+    "anger-joy": 1.906,
+    "anger-sadness": 1.906,
+    "anger-surprise": 1.906,
+    "anger-trust": 1.906,
+    "anticipation-anger": 1.906,
+    "disgust-anger": 1.906,
+    "joy-anger": 1.906,
+    "sadness-anger": 1.906,
+    "surprise-anger": 1.906,
+    "trust-anger": 1.906
+  },
+  "main_emotion": [
+    "anger",
+    "fear",
+    "sadness"
+  ],
+  "computed_scores": {
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.0755,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.037,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.0356,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.0632,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.0421,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.0514,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.0157,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.0412,
+    "anger-anticipation": 0.0097,
+    "anger-fear": 0.0097,
+    "anger-joy": 0.0097,
+    "anger-sadness": 0.0097,
+    "anger-surprise": 0.0097,
+    "anger-trust": 0.0097,
+    "anticipation-anger": 0.0097,
+    "disgust-anger": 0.0097,
+    "joy-anger": 0.0097,
+    "sadness-anger": 0.0097,
+    "surprise-anger": 0.0097,
+    "trust-anger": 0.0097
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I really need to start eating healthier ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I have to start eating better too ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What kind of food do you usually eat ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I try my best to eat only fruits , vegetables , and chicken ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is that really all that you eat ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's basically it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How do you stick to only those foods ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Actually , fruits and veggies are really good for you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , I know , but what about the chicken ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I mainly eat baked chicken , because there's not a lot of fat ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That does sound pretty good ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I know it does , and that's because it is ."
+  }
+]

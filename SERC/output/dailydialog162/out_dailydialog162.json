@@ -1,0 +1,379 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning , can I help you ?",
+    "occurrences": [
+      "good",
+      "morning",
+      "help"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0958,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0508,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1993,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0548,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1542,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "19%"
+      ],
+      [
+        "trust",
+        "15%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I want to American breakfast with fried eggs sunny side up .",
+    "occurrences": [
+      "breakfast",
+      "sunny"
+    ],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0714,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.804,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1149,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.102,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0146,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "surprise",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What kind of juice do you prefer , sir ?",
+    "occurrences": [
+      "kind",
+      "prefer",
+      "sir"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1242,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.555,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.311,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "31%"
+      ],
+      [
+        "joy",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Breakfast juice and please make my coffee very strong .",
+    "occurrences": [
+      "breakfast",
+      "coffee",
+      "strong"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.575,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0821,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0803,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , sir . American breakfast with fried eggs sunny side up . Breakfast juice and black coffee . And my correct , sir ?",
+    "occurrences": [
+      "sir",
+      "breakfast",
+      "sunny",
+      "breakfast",
+      "coffee",
+      "sir"
+    ],
+    "word_count": 23,
+    "stop_word_count": 5,
+    "occurrences_count": 6,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0278,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.379,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0766,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.102,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0057,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.89,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0494,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , that ’ s right .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is there anything else , sir ?",
+    "occurrences": [
+      "sir"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1113,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , that ’ s all .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Good morning , sir . I ’ Ve got breakfast your ordered .",
+    "occurrences": [
+      "good",
+      "morning",
+      "sir",
+      "breakfast"
+    ],
+    "word_count": 11,
+    "stop_word_count": 2,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0426,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.039,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1154,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0243,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.062,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.118,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just put it on the table please .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you need anything else , sir ?",
+    "occurrences": [
+      "sir"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.089,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thanks . Oh , yes , could I have some juice for the mini bar ?",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What kind of juice do you like sir ?",
+    "occurrences": [
+      "kind",
+      "like",
+      "sir"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1242,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.57,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.314,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "31%"
+      ],
+      [
+        "joy",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Tomato or orange juice , please .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , sir . I ’ ll get them for you right away . Would you please sign this bill first ? Thank you , sir .",
+    "occurrences": [
+      "sir",
+      "sir"
+    ],
+    "word_count": 25,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.89,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0524,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "We have the orientation this afternoon ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What ’ s going to be covered in the orientation ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The company introduction , our mission , vision , various policies , insurances , pension plan , company ID , batch , telephone , e-mail set-up and training ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Quite a lot . All them one afternoon ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , it is not easy ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It is OK with me . I enjoy being busy and learning new things ."
+  }
+]

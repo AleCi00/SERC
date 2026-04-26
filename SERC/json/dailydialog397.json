@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "how are you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m fine , thanks . Just trying to get adjusted . It ’ s hard to keep track of everything around here ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That ’ s for sure . You ’ re new , too , huh ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah . I just got here a couple of days ago . How about you ?"
+  }
+]

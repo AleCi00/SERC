@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello ? This is John Smith.Can I speak to Mr.White , please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This is Mr.White speaking ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hi . I understand that you have a house for sale , haven ’ t you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ d like to know more about it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can you come to my office this afternoon at 3 o ’ clock ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK . I will be there ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you for calling.Goodbye ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Bye ."
+  }
+]

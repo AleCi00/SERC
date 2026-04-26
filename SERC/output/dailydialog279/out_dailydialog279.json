@@ -1,0 +1,173 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I have just received your note which informs me that you have offered the accountant position to another candidate . May I ask why I was defeated ?",
+    "occurrences": [
+      "accountant",
+      "defeated"
+    ],
+    "word_count": 26,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0577,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0523,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "5%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We have thought of you carefully with discretion , but the other candidate has more experiences .",
+    "occurrences": [
+      "thought",
+      "discretion"
+    ],
+    "word_count": 16,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0925,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "13%"
+      ],
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Experience is important , but don't you think capability is more valuable than that ?",
+    "occurrences": [
+      "experience",
+      "important"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0536,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0904,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I think so . But how do you prove to me that you are more capable ?",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 11,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Maybe you can hire me on trial . If I'm not qualified for the job , you can let me go .",
+    "occurrences": [
+      "hire",
+      "qualified"
+    ],
+    "word_count": 21,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0521,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0226,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.25,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1389,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "13%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good idea .",
+    "occurrences": [
+      "good"
+    ],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1277,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1823,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.073,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2057,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "20%"
+      ],
+      [
+        "joy",
+        "18%"
+      ],
+      [
+        "anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

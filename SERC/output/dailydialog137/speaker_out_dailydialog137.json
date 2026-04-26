@@ -1,0 +1,57 @@
+[
+  {
+    "speaker": "speaker1",
+    "total_words": 47,
+    "total_stop_words": 24,
+    "total_matches": 4,
+    "total_entries": 6,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.133,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0058,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.599,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.026,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "main_emotion": [
+      "fear",
+      "disgust"
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "total_words": 61,
+    "total_stop_words": 31,
+    "total_matches": 3,
+    "total_entries": 6,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.133,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0044,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0089,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0146,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.289,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0096,
+    "main_emotion": [
+      "sadness",
+      "trust",
+      "fear"
+    ]
+  }
+]

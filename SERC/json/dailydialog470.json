@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , are you Mrs . Green from England ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I am ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm pleased to meet you , Mrs . Green . My name is Myra . I work in Beijing Institute of Technology . I came here to meet you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How do you do ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How do you do ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's kind of you to meet me at the airport ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Welcome to Beijing . Is this your first time in China ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , I have visited China several times , but it's my first visit to Beijing and I think it's a great honor to be invited to your beautiful city ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's our pleasure to have you here . I hope you will have a pleasant stay here ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you . I'm sure I will have a wonderful time here ."
+  }
+]

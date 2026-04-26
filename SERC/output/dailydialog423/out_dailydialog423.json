@@ -1,0 +1,127 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I ’ d like to apply for a personal loan .",
+    "occurrences": [
+      "like",
+      "personal"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.984,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.164,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How much would you like to borrow ?",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A thousand dollars .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me check with a credit manager . A record show your credit reading is quite high . I don't think you have any problems .",
+    "occurrences": [
+      "credit",
+      "show",
+      "credit"
+    ],
+    "word_count": 26,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.384,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0865,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What ’ s the current interest rate ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Our monthly interest is 1.5 % of the outstanding balance . Would you please fill out the application the form ?",
+    "occurrences": [
+      "outstanding",
+      "balance",
+      "fill"
+    ],
+    "word_count": 21,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.154,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0888,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.32,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0246,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

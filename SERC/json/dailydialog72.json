@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "House keeping.May I come in ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Come in please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Good evening , sir . I come to make the bed . Shall I do it now or later ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , since you have come , do it now please ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's all . Have a nice stay here ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you.Please get some soap for us ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Just a moment . I will do it right now ."
+  }
+]

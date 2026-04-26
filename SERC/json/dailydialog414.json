@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Would you like to take a look at the menu , sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . Thank you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you care for a drink before you order ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "A glass of Qingdao beer ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , sir . I'll bring it over . Have you decided what you'd like , sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Will you make some recommendation ?"
+  }
+]

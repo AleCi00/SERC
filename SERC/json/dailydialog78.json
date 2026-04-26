@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Amelia , could you spare a few minutes ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "sure . What do you need ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "well , I wanted to let you know that I've put in my notice ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "really ? Why ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "it's complicated . But basically it boils down to one thing . This company is downsizing and I can't continue working for a company that may let me go ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "but surely they won't fire you ! You're one of the most experienced managers here !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "well , to be honest , there's another reason . I've got a better offer ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "well that's great news ! Congratulations ! Where will you be located ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "the head office is in New York , but I'll be dealing with overseas companies and flying to this side of the world from time to time ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "it'll be sad to see you go , but it sounds like you're found yourself a great opportunity ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I have . I feel lucky . I look forward to dealing with overseas companies and at the same time having a chance to use English more ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm sorry to bring this up , but would it be possible for you to write me a letter of recommendation before you go ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "of course I can . In fact , if there are other job opportunities at this new company , I'll recommend you personally ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "thanks . I appreciate that ."
+  }
+]

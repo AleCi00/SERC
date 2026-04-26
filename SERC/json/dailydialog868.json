@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Jeff , I'm going to the supermarket . Do you want to come with me ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think the supermarket is closed now ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , When does it close ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It closes at 7:00 on Sundays ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's too bad ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Don't worry , we can go tomorrow morning . It opens at 8: 00 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Alright . What do you want to do now ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let's take a walk for a half an hour . My sister will get here at about 8: 30PM and then we can all go out to dinner ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where does she live ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "She lives in San Francisco ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How long has she lived there ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think she's lived there for about 10 years ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's a long time . Where did she live before that ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "San Diego ."
+  }
+]

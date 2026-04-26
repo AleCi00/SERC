@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can I help you , sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I'd like a book about law ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you tell me the name of the book and the author ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Uh , the Origin of Law . And it's written by Professor Felix of Harvard ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry . It's out of stock now . Could you come by again next week ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Next week ? It is too late . I need it urgently ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , then , is it convenient to leave your phone number so that I can inform you as soon as we restock it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thanks any way ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You're welcome ."
+  }
+]

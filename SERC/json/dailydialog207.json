@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , is this the baggage claim area from KL17 ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , can I help you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , this is my baggage claim tag . Can you get my baggage now ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK , here you are ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks a lot ."
+  }
+]

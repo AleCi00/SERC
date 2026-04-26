@@ -1,0 +1,168 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Mary and Tom are breaking up .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's unbelievable ! They are only married for one month . Then who is at fault ?",
+    "occurrences": [
+      "fault"
+    ],
+    "word_count": 17,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0508,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Mary said she couldn't put up with Tom , for he fell in love with another woman .",
+    "occurrences": [
+      "fell",
+      "love"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.092,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0503,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0842,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you think they'll become reconciled ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , I don't think so . She said she would rather be single than cope with an unhappy marriage .",
+    "occurrences": [
+      "unhappy",
+      "marriage"
+    ],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.364,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0331,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0596,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.211,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0192,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.514,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0467,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0682,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0632,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "6%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What a shame ! Their marriage is really a mistake .",
+    "occurrences": [
+      "shame",
+      "marriage",
+      "mistake"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1093,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1797,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1147,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.514,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0857,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.5,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.25,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1158,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "25%"
+      ],
+      [
+        "disgust",
+        "17%"
+      ],
+      [
+        "trust",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

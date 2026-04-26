@@ -1,0 +1,452 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Ok , honey , time to take down the Christmas tree .",
+    "occurrences": [
+      "time",
+      "down",
+      "tree"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.743,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1238,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.039,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0065,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.09,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.015,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0468,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.013,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0677,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do we have to ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Come on , it ’ s losing needles all the time and the branches are sagging .",
+    "occurrences": [
+      "losing",
+      "needles",
+      "time"
+    ],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.349,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0436,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0645,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0684,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0742,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s not that bad , besides it really looks nice in that corner . It gives the room a good atmosphere .",
+    "occurrences": [
+      "bad",
+      "good"
+    ],
+    "word_count": 23,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0348,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0295,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0301,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0288,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0421,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0325,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0168,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0475,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anger",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A good atmosphere ? The tree is falling apart , and it ’ s messing up the room .",
+    "occurrences": [
+      "good",
+      "tree",
+      "falling"
+    ],
+    "word_count": 18,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.61,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.061,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.039,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0039,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.637,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0637,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0422,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0297,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.023,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1023,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But it makes the place feel so much like Christmas . I ’ d really hate to have to take it down .",
+    "occurrences": [
+      "like",
+      "hate",
+      "down"
+    ],
+    "word_count": 22,
+    "stop_word_count": 11,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0753,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0632,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.044,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.937,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0852,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.044,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "anger",
+        "7%"
+      ],
+      [
+        "disgust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But Christmas was two weeks ago ! It ’ s been there only because we ’ Ve been too busy to get rid of it .",
+    "occurrences": [],
+    "word_count": 24,
+    "stop_word_count": 14,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I know , but it seems like such a shame to have to take it away .",
+    "occurrences": [
+      "like",
+      "shame"
+    ],
+    "word_count": 16,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.077,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0491,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0849,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0691,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "disgust",
+        "7%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But it ’ s falling apart , and the cat keeps playing with the lower branches .",
+    "occurrences": [
+      "falling",
+      "lower"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0694,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I know , I know . But it reminds me of the great Christmas we just had . All of us were here - - my parents , your parents , the kids , and the cousins - - the food was good , and everybody got what they wanted .",
+    "occurrences": [
+      "cousins",
+      "food",
+      "good"
+    ],
+    "word_count": 40,
+    "stop_word_count": 23,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0225,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.123,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0661,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0129,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.953,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0561,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , it was a good Christmas . It won ’ t always be this good , but we can ’ t make it last longer than it should .",
+    "occurrences": [
+      "good",
+      "good"
+    ],
+    "word_count": 27,
+    "stop_word_count": 16,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0696,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0995,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0398,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.234,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1122,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ok , fine . We need to take down the tree .",
+    "occurrences": [
+      "down",
+      "tree"
+    ],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.227,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0324,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.039,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0056,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.09,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0129,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0401,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0111,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.058,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ ll make a deal with you . We ’ ll leave it up until Sunday , and then we ’ ll take it down after church .",
+    "occurrences": [
+      "deal",
+      "leave",
+      "down",
+      "church"
+    ],
+    "word_count": 27,
+    "stop_word_count": 17,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.714,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0714,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.554,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0554,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0609,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0461,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.883,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0883,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "sadness",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

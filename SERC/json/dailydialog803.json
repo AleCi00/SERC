@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What's his job ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He used to be a policeman ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But Mrs.Smith hired him to find her lost son ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah . He's a private eye now ."
+  }
+]

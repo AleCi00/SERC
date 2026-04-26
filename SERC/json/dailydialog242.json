@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , could you please show me the way to the human resource department ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , but have you made an appointment ahead ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , of course . I am Monica . I have made an appointment with your HR manager ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just a minute please . I ’ ll make a call to the HR office . Yes , they confirm your appointment . Please come in . it is on the 3rd floor , room 3106 . You can take the right elevator as the left on is in maintenance today ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you very much ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You ’ re welcome ."
+  }
+]

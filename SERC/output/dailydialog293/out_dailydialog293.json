@@ -1,0 +1,285 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Next , please . May I help you , sir ?",
+    "occurrences": [
+      "help",
+      "sir"
+    ],
+    "word_count": 8,
+    "stop_word_count": 1,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.029,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0636,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hello , yes , I ’ d like to open a bank account .",
+    "occurrences": [
+      "like",
+      "bank",
+      "account"
+    ],
+    "word_count": 11,
+    "stop_word_count": 3,
+    "occurrences_count": 3,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.468,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1835,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Certainly , I can can help you with that . What type of account would you like to open ? A chequing or a savings account ?",
+    "occurrences": [
+      "help",
+      "account",
+      "like",
+      "account"
+    ],
+    "word_count": 25,
+    "stop_word_count": 12,
+    "occurrences_count": 4,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.53,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1177,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What What features do they offer ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , if you just take a look here , see , with our chequing account , you can have unlimited daily transactions for a small monthly fee , and our savings account has a higher interest rate , but you must carry a minimum balance of $ 10,000 dollars .",
+    "occurrences": [
+      "account",
+      "daily",
+      "fee",
+      "account",
+      "balance"
+    ],
+    "word_count": 46,
+    "stop_word_count": 20,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0066,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0135,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.275,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0106,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.046,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0402,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I see , well , I think I ’ m more interested in a chequing account . I like to have easy access to my money .",
+    "occurrences": [
+      "interested",
+      "account",
+      "like",
+      "money"
+    ],
+    "word_count": 23,
+    "stop_word_count": 10,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.074,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0057,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0451,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.006,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0408,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.114,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0088,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.366,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1051,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Alright , then , with this chequing account you ’ ll be issued a debit card and a cheque book . Will you require overdraft protection ? There is an extra fee for that .",
+    "occurrences": [
+      "account",
+      "fee"
+    ],
+    "word_count": 33,
+    "stop_word_count": 16,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0101,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0308,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anger",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , that won ’ t be necessary .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "In that case , I ’ ll get you to fill out this paperwork . I ’ ll need your social insurance number , and two pieces of government ID . If you could just sign here , and here , and here . we ’ ll be all set . Would you like to make a deposit today ?",
+    "occurrences": [
+      "case",
+      "fill",
+      "government",
+      "like"
+    ],
+    "word_count": 55,
+    "stop_word_count": 27,
+    "occurrences_count": 4,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0162,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.228,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0081,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.804,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0287,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "fear",
+        "1%"
+      ],
+      [
+        "sadness",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I ’ d like to deposit one billion dollars .",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 10,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

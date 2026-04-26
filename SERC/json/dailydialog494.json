@@ -1,0 +1,66 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Jack . I'm John ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm glad to see you !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sit down , please . Maybe you have read the contract , but I want to give you the details again before you sign the contract . You must have a three-month internship ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I know ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "When you become a permanent employee , you will have the insurances . You will get monthly pay and will be on eight-hour / day work shift ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wait , will I have five insurances and one fund ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . You can also enjoy legal holidays and year-end bonus ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It sounds great !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "If you need to work overtime , you will get twice the usual salary as overtime pay ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You have read the relevant terms of the contract . Do you have other questions ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How long will the induction training be ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "About two weeks ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I see ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "If you don't have other questions , just sign here ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK ."
+  }
+]

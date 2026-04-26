@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What's the matter , John ? you seemed to be restless today ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You see , I've been offered a new job . I can't decide whether to take it or not ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , that's easy . If it's better than the one you are doing now , go for it . That's my advice ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It isn't that easy . I hate to quit my present job . People around here are very nice and the work itself is challenging ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Then what about the salary ? Would you get more ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , they say I would get a big sum ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Have you discussed it with your wife ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , she leaves it to me ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "As I say it the work is well worth try . After all you can get a higher salary ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I have to think about it ."
+  }
+]

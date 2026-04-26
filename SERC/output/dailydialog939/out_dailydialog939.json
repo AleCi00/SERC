@@ -1,0 +1,191 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Look ! Mom , that's amazing ! I can't believe the girls have so neat movements .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , they all received very strict training . A minute on the stage takes ten-year practice .",
+    "occurrences": [],
+    "word_count": 18,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And all their movements are so elegant . It seems like dancing in the water .",
+    "occurrences": [
+      "elegant",
+      "like",
+      "dancing"
+    ],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.327,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1659,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "16%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Exactly , you know , water ballet puts dancing , music and swimming together .",
+    "occurrences": [
+      "dancing",
+      "music",
+      "together"
+    ],
+    "word_count": 12,
+    "stop_word_count": 2,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.722,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1722,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0016,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "17%"
+      ],
+      [
+        "sadness",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "There you go ! Daddy has told me that water ballet is also called Synchronized Swimming .",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's my boy ! Katherine Curtis created this activity in 1920 . And in 1984 , it was authorized as one activity in Olympic Games .",
+    "occurrences": [],
+    "word_count": 22,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wow , Mom is more knowledgeable than Dad . I must learn from you .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My little boy , you should learn more from me . I'm almost thirty years older than you .",
+    "occurrences": [],
+    "word_count": 18,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK , you're the boss . Look , Mom , one guy has just jumped into the swimming pool .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , my God . It's so dangerous . And he might break his leg . You mustn't do anything like that .",
+    "occurrences": [
+      "dangerous",
+      "break",
+      "like"
+    ],
+    "word_count": 21,
+    "stop_word_count": 9,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.156,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.013,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0384,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

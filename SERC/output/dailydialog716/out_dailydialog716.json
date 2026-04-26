@@ -1,0 +1,249 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I would like to watch the Oscars on tv tonight . How about you ?",
+    "occurrences": [
+      "like",
+      "watch"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0747,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0269,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0691,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I ‘ d love to . it ’ s interesting to see who is considered the best in their field and which film are thought to be particularly good .",
+    "occurrences": [
+      "love",
+      "thought",
+      "good"
+    ],
+    "word_count": 30,
+    "stop_word_count": 15,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0531,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.375,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0917,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0146,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.375,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0917,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I like watching it for the fashion . I like to see what the ladies are wearing . Of course , the men nearly always just wear the traditional tuxedo .",
+    "occurrences": [
+      "like",
+      "fashion",
+      "like",
+      "wear"
+    ],
+    "word_count": 30,
+    "stop_word_count": 13,
+    "occurrences_count": 4,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.562,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0919,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sometimes the men wear flamboyant colours . Which films do you think will win awards this year ?",
+    "occurrences": [
+      "wear",
+      "win",
+      "awards"
+    ],
+    "word_count": 18,
+    "stop_word_count": 6,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.336,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1113,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0273,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ‘ m really not sure . Usually just one or two films look set to sweep the awards ceremony , but this year there are several contenders .",
+    "occurrences": [
+      "awards",
+      "ceremony"
+    ],
+    "word_count": 28,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.064,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0626,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0175,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "surprise",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You ’ re right . This year should be much more exciting than usual . What ’ s you favourite award category ?",
+    "occurrences": [
+      "exciting",
+      "usual",
+      "award"
+    ],
+    "word_count": 23,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.438,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1106,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.58,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1215,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.024,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0788,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0745,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "11%"
+      ],
+      [
+        "surprise",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You might think this strange , but I like the category for best foreign language film .",
+    "occurrences": [
+      "strange",
+      "like"
+    ],
+    "word_count": 15,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0484,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "surprise",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s nice to see foreign language films making a little impact on Hollywood . I like the best actor and actress .",
+    "occurrences": [
+      "like",
+      "actress"
+    ],
+    "word_count": 23,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.789,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0526,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

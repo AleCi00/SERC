@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What can I get for you today ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Could I get a hamburger , please ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you like cheese on that ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thank you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you like a drink ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me have a soda ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What kind of soda would you like ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "May I have a Sprite , please ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure , no problem ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I would also like a bag of chips ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Will that be all ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's everything ."
+  }
+]

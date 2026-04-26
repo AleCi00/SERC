@@ -1,0 +1,232 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Rock music really leaves me cold . What about you ?",
+    "occurrences": [
+      "music",
+      "cold"
+    ],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0759,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.204,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0291,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm crazy about it.It makes me very excited .",
+    "occurrences": [
+      "crazy",
+      "excited"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.859,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1718,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.519,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1038,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.818,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1636,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.368,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0736,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0906,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "anticipation-anger": 0.859,
+    "anticipation-anger_computed": 0.1718,
+    "surprise-anticipation": 0.859,
+    "surprise-anticipation_computed": 0.1718,
+    "anticipation-trust": 0.859,
+    "anticipation-trust_computed": 0.1718,
+    "anticipation-joy": 0.859,
+    "anticipation-joy_computed": 0.1718,
+    "anticipation-surprise": 0.859,
+    "anticipation-surprise_computed": 0.1718,
+    "anticipation-disgust": 0.859,
+    "anticipation-disgust_computed": 0.1718,
+    "anticipation-sadness": 0.859,
+    "anticipation-sadness_computed": 0.1718,
+    "anticipation-fear": 0.859,
+    "anticipation-fear_computed": 0.1718,
+    "trust-anticipation": 0.859,
+    "trust-anticipation_computed": 0.1718,
+    "main_emotion": [
+      [
+        "anticipation",
+        "17%"
+      ],
+      [
+        "anticipation-anger",
+        "17%"
+      ],
+      [
+        "surprise-anticipation",
+        "17%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-anger",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-disgust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-sadness",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-surprise",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Then tell me what's good about it .",
+    "occurrences": [
+      "good"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0958,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1368,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0548,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1542,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "15%"
+      ],
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It can't be expressed by words .",
+    "occurrences": [
+      "words"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.062,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0155,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

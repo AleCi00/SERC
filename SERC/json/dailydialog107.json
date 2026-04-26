@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Honey , I need to have a talk with you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Dad , I have to do my homework ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , honey , why didn't you go to cram school last night ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Dad , I don't want to talk about it now ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Honey , if you don't want to go to cram school , you should tell me the reason why ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm sorry , dad . But I would rather stay at school than go to cram school ."
+  }
+]

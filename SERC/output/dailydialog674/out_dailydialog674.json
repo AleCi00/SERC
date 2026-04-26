@@ -1,0 +1,316 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "So , you ’ re applying for a B2 visa , where is your final destination and what ’ s the purpose of your trip to the United States ?",
+    "occurrences": [
+      "destination",
+      "purpose",
+      "trip"
+    ],
+    "word_count": 26,
+    "stop_word_count": 16,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.109,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0109,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.629,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0629,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.17,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.017,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.429,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0429,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "surprise",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m going to visit my brother . he ’ s just had a baby . He lives in Minneapolis .",
+    "occurrences": [
+      "brother",
+      "baby"
+    ],
+    "word_count": 21,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.05,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0648,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And how long do you you plan to remain in the United States ?",
+    "occurrences": [
+      "long",
+      "plan"
+    ],
+    "word_count": 12,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.976,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.244,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "24%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ ll be here for approximately three weeks . See , here ’ s my return ticket for the twenty-sixth of March .",
+    "occurrences": [],
+    "word_count": 23,
+    "stop_word_count": 11,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And , who is sponsoring your trip ?",
+    "occurrences": [
+      "trip"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0937,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My brother , here , this is an invitation letter from him . I will stay with him and his family in their home .",
+    "occurrences": [
+      "brother",
+      "invitation",
+      "letter",
+      "family",
+      "home"
+    ],
+    "word_count": 23,
+    "stop_word_count": 15,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.148,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1435,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.059,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1324,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.081,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "14%"
+      ],
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Alright , tell me about the ties you have to your home country .",
+    "occurrences": [
+      "home"
+    ],
+    "word_count": 13,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.559,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0932,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I own a house . actually , I ’ m leaving my dog there with my neighbors . I have a car at home , and oh , my job ! I ’ m employed by Tornal as an engineer . Actually , I only have three weeks ’ vacation , so I have to go back to work at the end of March .",
+    "occurrences": [
+      "leaving",
+      "home",
+      "vacation"
+    ],
+    "word_count": 55,
+    "stop_word_count": 27,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0248,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.106,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0395,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0095,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "sadness",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And what evidence do you have that you are financially independent ?",
+    "occurrences": [
+      "independent"
+    ],
+    "word_count": 12,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0897,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I do have assets in my country . like I said , I own a house , and see , here ’ s a bank statement showing my investments , and my bank balance .",
+    "occurrences": [
+      "like",
+      "bank",
+      "statement",
+      "bank",
+      "balance"
+    ],
+    "word_count": 29,
+    "stop_word_count": 13,
+    "occurrences_count": 5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.275,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0172,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.953,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1221,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m sorry , sir , we cannot grant you a B2 visa at this time , instead , you are granted a resident visa ! Congratulations , you are the millionth person to apply for a visa ! You win ! Congratulations !",
+    "occurrences": [
+      "sir",
+      "grant",
+      "time",
+      "win"
+    ],
+    "word_count": 40,
+    "stop_word_count": 17,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.93,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0404,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.82,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0791,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.039,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0452,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm a little nervous .",
+    "occurrences": [
+      "nervous"
+    ],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.602,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1505,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1172,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "15%"
+      ],
+      [
+        "fear",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Don't worry . You'll be fine . First of all , put on your seat belt . Adjust the mirrors .",
+    "occurrences": [
+      "worry",
+      "youll",
+      "belt",
+      "adjust"
+    ],
+    "word_count": 20,
+    "stop_word_count": 6,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.364,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.026,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0351,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0603,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0458,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0502,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You don't think I'll need the seat belt , do you ?",
+    "occurrences": [
+      "belt"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.364,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0607,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0443,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "6%"
+      ],
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Of course not . But it's a good habit to put it on every time you drive .",
+    "occurrences": [
+      "good",
+      "time"
+    ],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.899,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0999,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0608,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0243,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0686,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Just in case , right ?",
+    "occurrences": [
+      "case"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.094,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.228,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.076,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Right . Hold the steering wheel with your hands at ten o'clock and two o'clock .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

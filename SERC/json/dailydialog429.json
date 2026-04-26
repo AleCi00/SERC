@@ -1,0 +1,14 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Is it Fred's fault ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , I don't suppose he's to blame.The man in the other car made a mistake ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But he's equally responsible because he tried to overtake you ."
+  }
+]

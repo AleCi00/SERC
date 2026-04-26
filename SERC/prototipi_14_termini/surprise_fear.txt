@@ -1,0 +1,41 @@
+Title: surprise-fear
+
+Head Concept Name: surprise
+Modifier Concept Name: fear
+
+head, -anticipation
+
+
+T(modifier), torture, 0.984
+T(modifier), terrorist, 0.972
+T(modifier), terrorists, 0.969
+T(modifier), horrific, 0.969
+T(modifier), terrorism, 0.969
+T(modifier), suicidebombing, 0.967
+T(modifier), kill, 0.962
+T(modifier), homicidal, 0.959
+T(modifier), catastrophe, 0.953
+T(modifier), annihilate, 0.953
+T(modifier), murderer, 0.953
+T(modifier), terror, 0.953
+T(modifier), dying, 0.948
+T(modifier), war, 0.942
+
+T(head), surprise, 0.93
+T(head), explode, 0.906
+T(head), flabbergast, 0.906
+T(head), explosion, 0.898
+T(head), ambush, 0.883
+T(head), explosive, 0.883
+T(head), eruption, 0.883
+T(head), surprisingly, 0.875
+T(head), startle, 0.875
+T(head), shockingly, 0.875
+T(head), frighten, 0.875
+T(head), surprised, 0.867
+T(head), frightened, 0.867
+T(head), surprising, 0.867
+
+
+Result: {"torture": 0.984, "terrorist": 0.972, "terrorists": 0.969, "horrific": 0.969, "terrorism": 0.969, "suicidebombing": 0.967, "kill": 0.962, "homicidal": 0.959, "catastrophe": 0.953, "annihilate": 0.953, "murderer": 0.953, "terror": 0.953, "dying": 0.948, "surprise": 0.93, "@scenario_probability": 2.7148895692839684e-12}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2.7148895692839684e-12]

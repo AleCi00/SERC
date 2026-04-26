@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi . I need to have my shoes repaired ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What ’ s the matter with them ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Look at the heels . They are slanting ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ah , I can do it perfectly ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How much does it cost ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "6 yuan . And I can make them as new as before ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think it ’ s too expensive . I can just give you 4 yuan . Or I ’ ll go to another B ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All right . I ’ ll repair them for you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How long will it take ? Could you repair them while I wait ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . They will be ready in a few minutes ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Great ! I ’ ll just sit here and wait ."
+  }
+]

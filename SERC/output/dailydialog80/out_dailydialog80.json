@@ -1,0 +1,98 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "the James ’ s file , Christine ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I had it right here a minute ago , Mr . Emory . Umm . Just a minute ...",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Christine , I know you ’ re new here and there ’ s a lot to learn , but you are going to have to learn to keep your work in better order . We can ’ t afford to lose an important document .",
+    "occurrences": [
+      "lose",
+      "important"
+    ],
+    "word_count": 42,
+    "stop_word_count": 22,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.261,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0131,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0125,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0196,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.509,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0255,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0192,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0316,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , sir . I apologize for that . Here ’ s the file you were looking for , Mr . Emory .",
+    "occurrences": [
+      "sir",
+      "apologize"
+    ],
+    "word_count": 20,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.37,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0336,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.922,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0838,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hi . It ’ s Tony calling from the dentist ’ s office . Is Lily there ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , Lily is not here at the moment ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Could you ask her to call me back when she gets in ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure . What ’ s your number , please ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "519 367 8901 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks . And your name is Tony , right ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I ’ m Tony . Thank you very much ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You ’ re welcome . Bye ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Bye ."
+  }
+]

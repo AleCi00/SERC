@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can I have a look at that digital camera please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes of course . This is a really good one actually ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How much does it cost ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This one is 1500 yuan ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It looks pretty good . I think I'll take it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Would you like anything else ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's all thank you ."
+  }
+]

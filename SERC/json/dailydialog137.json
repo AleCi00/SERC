@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I need help using the washer and dryer ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Tell me what the problem is ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I can't figure out how to turn them on ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you have some quarters ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I didn't know I needed change ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The washer costs 50 cents and the dryer costs a dollar ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where do I put the change ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The quarters go into the slot . You have to push the slot in , and the machine will turn on ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is that everything that I have to do ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's all there is ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I appreciate you helping me with this ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If you need anything else , just let me know ."
+  }
+]

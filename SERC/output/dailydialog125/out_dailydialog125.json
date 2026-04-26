@@ -1,0 +1,170 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you think my briefcase is big enough to put in all these stuff ?",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me see . Laptop , flash disk , a ballpoint pen , a pencil , a notebook , a pair of glasses , cell phone , charger , moisture lotion , ... Oh , that is too much . You are not going to a business trip .",
+    "occurrences": [
+      "trip"
+    ],
+    "word_count": 38,
+    "stop_word_count": 14,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0117,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I guess I need all of them .",
+    "occurrences": [
+      "guess"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1327,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Actually , the company will provide you with all of these supplies . So , you can leave this very thick notebook at home .",
+    "occurrences": [
+      "provide",
+      "leave",
+      "home"
+    ],
+    "word_count": 23,
+    "stop_word_count": 13,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.559,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0559,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0328,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0234,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I know . But it is my lucky charm . I carry it all the time .",
+    "occurrences": [
+      "lucky",
+      "time"
+    ],
+    "word_count": 17,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0645,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.721,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0901,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0674,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "surprise",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Suit yourself . Don ’ t forget to set the alarm clock .",
+    "occurrences": [
+      "don",
+      "alarm",
+      "clock"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.852,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1065,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0341,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "10%"
+      ],
+      [
+        "fear",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

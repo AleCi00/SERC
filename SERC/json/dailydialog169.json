@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What can I do for you , miss ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am looking for a pair of shoes ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you like high heels or flat shoes ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "High hells , please . I want to wear them in formal situations ."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Professor , I've handed in my paper . Did you read it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . You've done a good job . But there's one thing . You should narrow down your topic ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What about water pollution instead of pollution ?"
+  }
+]

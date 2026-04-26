@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , is Sue there ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Who ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sue John ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You must have the wrong number ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , I'm sorry ."
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Where ’ s Sally , Jack ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "She ’ s in the garden , Jane .",
+    "occurrences": [
+      "garden"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.111,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What ’ s she doing ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "She ’ s sitting under the tree .",
+    "occurrences": [
+      "tree"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.227,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0568,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.039,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0097,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.09,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0225,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0195,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1015,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is Tim in the garden , too ?",
+    "occurrences": [
+      "garden"
+    ],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1665,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , he is . He ’ s climbing the tree .",
+    "occurrences": [
+      "tree"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.227,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0378,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.039,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0065,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.09,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.015,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.013,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0677,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I beg your pardon ? Who ’ s climbing the tree .",
+    "occurrences": [
+      "beg",
+      "tree"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.227,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0324,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.039,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0056,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.09,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0129,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0691,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0111,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.058,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "6%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Tim is .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What about the dog ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The dog ’ s in the garden , too . It ’ s running across the grass . It ’ s running after a cat .",
+    "occurrences": [
+      "garden",
+      "running",
+      "running"
+    ],
+    "word_count": 25,
+    "stop_word_count": 12,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.849,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0653,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

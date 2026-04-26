@@ -1,0 +1,266 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey , could you help me try and figure out how to get ready for my job interview ?",
+    "occurrences": [
+      "help",
+      "ready",
+      "interview"
+    ],
+    "word_count": 18,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.05,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0383,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The most important thing to do is to make sure you know the company and what services or products it provides . Do you know all about them ?",
+    "occurrences": [
+      "important"
+    ],
+    "word_count": 29,
+    "stop_word_count": 17,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0527,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I pretty much understand the company .",
+    "occurrences": [
+      "pretty"
+    ],
+    "word_count": 7,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.069,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0782,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0612,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , after you've done your research , you have to decide whether the company is casual or formal . Have you decided what they are yet ?",
+    "occurrences": [],
+    "word_count": 26,
+    "stop_word_count": 13,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I've been observing them .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "When you are choosing what to wear , keep all of that in mind . Have you chosen what to wear ?",
+    "occurrences": [
+      "wear",
+      "mind",
+      "wear"
+    ],
+    "word_count": 21,
+    "stop_word_count": 13,
+    "occurrences_count": 3,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0107,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.082,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I already have something to wear .",
+    "occurrences": [
+      "wear"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.082,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I would always be ready to go shopping with you ! Should we talk about other basics ?",
+    "occurrences": [
+      "ready",
+      "shopping"
+    ],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.11,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2344,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.764,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0849,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0487,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.066,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "23%"
+      ],
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK , I am ready to think of other things .",
+    "occurrences": [
+      "ready"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You need to make sure you arrive on time , smile , be pleasant and friendly , look the person in the eye and answer all questions to the best of your ability . You'll do great !",
+    "occurrences": [
+      "arrive",
+      "time",
+      "smile",
+      "pleasant",
+      "friendly",
+      "youll"
+    ],
+    "word_count": 35,
+    "stop_word_count": 16,
+    "occurrences_count": 6,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.094,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1102,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.984,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1044,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0189,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.015,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1061,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "11%"
+      ],
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

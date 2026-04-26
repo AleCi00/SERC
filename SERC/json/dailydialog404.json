@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I have a terrible toothache ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Which tooth is it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "This one here ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ar , Yes . There ’ s a big cavity ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Can you fill it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m afraid not . The tooth is too far gone . it'll have to be taken out ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Then I might as well have it done now ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "you ’ d better wait , the gums are swollen . Take the medicine I prescribe and come back in three days ."
+  }
+]

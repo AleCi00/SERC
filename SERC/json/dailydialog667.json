@@ -1,0 +1,54 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Could you please help me to check out the book ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure , what's the author's name , please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I can't remember that clearly . It probably be Charles ..."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Charles Dickens ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , no , no . I'm not interested in literature ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK , do you know the title of the book ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , sorry . I'm always absent-minded . I remember that I've put a note in my pocket ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "So , show me the note please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I can't find it now ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , such bad luck , sir . Can you please name the category of the book ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let me see . It's not fiction . It's biography ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK , I'll search it for you . A moment , please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks ."
+  }
+]

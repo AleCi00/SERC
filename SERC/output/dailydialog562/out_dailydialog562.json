@@ -1,0 +1,236 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "This is our rock-bottom price , Mr . Lee .",
+    "occurrences": [
+      "bottom"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.223,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0372,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If that's the case . there's not much point in further discussion . We might as well call the whole deal off .",
+    "occurrences": [
+      "case",
+      "deal"
+    ],
+    "word_count": 23,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.402,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0287,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.094,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0067,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0223,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.228,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0163,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.227,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0162,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0279,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What I mean is that we'll never be able to come down to your price . The gap is too great .",
+    "occurrences": [
+      "down"
+    ],
+    "word_count": 21,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0281,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think it unwise for either of us to be inflexible . How about meeting each other halfway ?",
+    "occurrences": [],
+    "word_count": 19,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What's your proposal ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Your unit price is 100 dollars higher than we want . Well , I suggest we meet each other halfway .",
+    "occurrences": [
+      "suggest"
+    ],
+    "word_count": 19,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0293,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you mean a further reduction of 50 dollars in our price ? That's impossible !",
+    "occurrences": [
+      "impossible"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.0,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1111,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What would you suggest ?",
+    "occurrences": [
+      "suggest"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1173,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The best we can do is another 30 dollars off . That's definitely the lowest we can go .",
+    "occurrences": [
+      "lowest"
+    ],
+    "word_count": 19,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.478,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0478,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That still leaves a gap of 20 dollars . Let's meet each other half-away again and split the difference ; I think this is a price we can both be satisfied with .",
+    "occurrences": [
+      "satisfied"
+    ],
+    "word_count": 33,
+    "stop_word_count": 16,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0294,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK . We can meet halfway again .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

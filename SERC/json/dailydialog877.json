@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Where's Mrs . Johnson ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just call her Lisa , Mary . She's cooking dinner ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I see . Can I sit down ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Of course ! Make yourself at home ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you , Mr . Johnson ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Please , just call me Tom ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Okay , Tom ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Where's Cindy ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "She's upstairs in my room ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can you tell her to come downstairs ? We're about to have dinner ."
+  }
+]

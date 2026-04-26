@@ -1,0 +1,62 @@
+[
+  {
+    "speaker": "speaker1",
+    "total_words": 23,
+    "total_stop_words": 7,
+    "total_matches": 4,
+    "total_entries": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.609,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0381,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.326,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0204,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "main_emotion": [
+      "trust",
+      "anticipation",
+      "sadness"
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "total_words": 19,
+    "total_stop_words": 9,
+    "total_matches": 5,
+    "total_entries": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.648,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0648,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.025,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.609,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0609,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.867,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0867,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_sum": 0.0,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0,
+    "anticipation-surprise_sum": 0.867,
+    "anticipation-surprise_computed": 0.0867,
+    "surprise-anticipation_sum": 0.867,
+    "surprise-anticipation_computed": 0.0867,
+    "main_emotion": [
+      "surprise",
+      "anticipation-surprise",
+      "surprise-anticipation"
+    ]
+  }
+]

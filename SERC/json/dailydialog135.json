@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Are you going to buy a bicycle ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m thinking about it . How much is it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "¥ 350 ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , dear . It ’ s too expensive . Can you give me a better price ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Your discount is already included . Normally we charge ¥ 400 , but now we can give you a special price . This is our sale period ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s still too much . Can ’ t you make it any cheaper than that ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sorry , but this is the best price . You can ’ t get it any cheaper than here ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I see . Can I pay by traveler ’ s checks ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm afraid you can ’ t . You ’ re welcome to pay in cash ."
+  }
+]

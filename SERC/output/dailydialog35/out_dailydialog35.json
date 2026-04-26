@@ -1,0 +1,300 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , Dan . What's new ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Where have you been ? I've been trying to get in touch with you for two days .",
+    "occurrences": [],
+    "word_count": 18,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I went to Salt Lake City on business . What's up ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I got fired .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How come ? Last time I saw you . You told me it was a good job , and you'd like to take it as a career . That was only one month ago . Why this sudden change ?",
+    "occurrences": [
+      "time",
+      "good",
+      "like",
+      "career",
+      "sudden",
+      "change"
+    ],
+    "word_count": 38,
+    "stop_word_count": 17,
+    "occurrences_count": 6,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.352,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0644,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.198,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0094,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.026,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.946,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.045,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.101,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0524,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "surprise",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's a long story . In a word , I didn't do a good job of it . I messed up a business deal , a deal that would have made ten million dollars and I messed it up .",
+    "occurrences": [
+      "long",
+      "word",
+      "good",
+      "deal",
+      "deal"
+    ],
+    "word_count": 36,
+    "stop_word_count": 17,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.593,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0838,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.171,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0616,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.673,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0354,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.876,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0987,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What are you going to do now ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am trying to find a job asap . Lily doesn't know yet . I didn't tell her . I spent the past three days at the coffee shop next to your office , and she thought I went to work as usual .",
+    "occurrences": [
+      "asap",
+      "coffee",
+      "thought",
+      "usual"
+    ],
+    "word_count": 42,
+    "stop_word_count": 16,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0159,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.191,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0073,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0128,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0171,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "1%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's not the way to solve the problem . Did you look in the classified advertisements column ?",
+    "occurrences": [
+      "problem"
+    ],
+    "word_count": 18,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0266,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I did . But I wasn't qualified for most of the jobs that I was interested in .",
+    "occurrences": [
+      "qualified",
+      "interested"
+    ],
+    "word_count": 16,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0111,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.114,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0163,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1094,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ],
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Listen . I will see what I can do , ok ? You go home and tell Lily about this problem you have now . She is your wife and I am sure she will understand .",
+    "occurrences": [
+      "home",
+      "problem"
+    ],
+    "word_count": 33,
+    "stop_word_count": 19,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.019,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.559,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0399,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I just don't know how to bring it up . Well , all right . She has the right to know anyways .",
+    "occurrences": [],
+    "word_count": 22,
+    "stop_word_count": 11,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

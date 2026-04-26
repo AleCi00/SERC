@@ -1,0 +1,14 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Nice day , isn't it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It sure is ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's a good day for a picnic ."
+  }
+]

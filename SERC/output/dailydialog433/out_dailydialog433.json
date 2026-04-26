@@ -1,0 +1,214 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Shall we share a taxi ?",
+    "occurrences": [
+      "share"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1113,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1095,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1465,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "14%"
+      ],
+      [
+        "anticipation",
+        "11%"
+      ],
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Where are you heading now ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I want to go back to my college on the Huanghe road.It is very close to your house .",
+    "occurrences": [],
+    "word_count": 18,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is that the university next to the Teachers ' College ?",
+    "occurrences": [
+      "university"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1015,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's the one .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You mean we'll share the taxi ?",
+    "occurrences": [
+      "share"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.089,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0876,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1172,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "joy",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah.If we share the cab , it'll be cheaper.Besides that your Chinese is better than mine.The drivers usually have difficulty understanding me even though I practice my pronunciation carefully .",
+    "occurrences": [
+      "share",
+      "mine",
+      "difficulty",
+      "understanding"
+    ],
+    "word_count": 27,
+    "stop_word_count": 10,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.379,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0223,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0262,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0138,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.735,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0432,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0294,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.274,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0749,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well.Don ' t worry about it , I will be happy to share the taxi with you .",
+    "occurrences": [
+      "worry",
+      "happy",
+      "share"
+    ],
+    "word_count": 16,
+    "stop_word_count": 9,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.492,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2131,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0826,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.226,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1751,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0916,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.195,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1707,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "21%"
+      ],
+      [
+        "joy",
+        "17%"
+      ],
+      [
+        "trust",
+        "17%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

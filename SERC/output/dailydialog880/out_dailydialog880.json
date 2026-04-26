@@ -1,0 +1,210 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Is it your first time to join the sports meeting of Junior High School ?",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , and it's great . What are the events at the sports meeting ?",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Long-distance race , dash , hurdle race , relay race , standing long jump , high jump , shotput and so on .",
+    "occurrences": [
+      "long",
+      "long",
+      "jump",
+      "jump"
+    ],
+    "word_count": 18,
+    "stop_word_count": 3,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0541,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0505,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Our neighbor , Bruce , will take part in the relay race . Let's go have a look .",
+    "occurrences": [
+      "neighbor"
+    ],
+    "word_count": 16,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0281,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0523,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK , let's go .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The competition will begin in 5 minutes , it's tense here .",
+    "occurrences": [
+      "competition"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0872,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0287,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wonderful , Bruce is taking the lead .",
+    "occurrences": [
+      "wonderful"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.863,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2157,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1133,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1562,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "21%"
+      ],
+      [
+        "trust",
+        "15%"
+      ],
+      [
+        "surprise",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Other competitors have almost caught up with him . They are neck and neck .",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Come on , Bruce . Come on , Bruce .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wow , Bruce crossed the line first .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

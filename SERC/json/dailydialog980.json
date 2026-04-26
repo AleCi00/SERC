@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you speak only English in the class , or does your teacher explain everything to you in Spanish ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , we never speak Spanish in class ! Miss.Parker speaks to us only in English ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I suppose she's right . Does she speak English very slowly ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not always . Sometimes we don't understand her . Then she has to repeat what she said ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It must be interesting to study English ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Mario and I are the best students in the class . Miss.Parker says that my pronunciation is very good ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is English pronunciation easy or difficult ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sometimes it's difficult . Some words look different from the way one pronounces them ."
+  }
+]

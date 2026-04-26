@@ -1,0 +1,258 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you use an anti-virus program to protect your computer ?",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I do . I also use an anti-spyware program and a firewall . There are so many nasties on the internet and so many people who are trying to use the internet to hurt other users . You have to be very c",
+    "occurrences": [
+      "hurt"
+    ],
+    "word_count": 44,
+    "stop_word_count": 23,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.561,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0267,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0328,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0328,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "3%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ],
+      [
+        "anger",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How often do you run your anti-virus program ?",
+    "occurrences": [
+      "run"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I usually run it every few days . It finds a virus about half the time .",
+    "occurrences": [
+      "run",
+      "time"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0516,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.025,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Which anti-virus program would you recommend ?",
+    "occurrences": [
+      "recommend"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1015,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Have you tried this one ? It ’ s very good and you can download it for free on the internet . You can also download updates for free .",
+    "occurrences": [
+      "good",
+      "free",
+      "free"
+    ],
+    "word_count": 30,
+    "stop_word_count": 16,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0274,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.635,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1168,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0441,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That sounds very good . Which website should I visit to download it ?",
+    "occurrences": [
+      "good"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0781,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0881,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just a minute ... go to this one . I ’ ll send you an email with the line in it . It only takes a few minutes to download . Then you have to go through the set up procedures . But they are not complicated .",
+    "occurrences": [],
+    "word_count": 47,
+    "stop_word_count": 28,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you use your computer for ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I use it for several things-surfing the net , word processing and creating presentations . I don ’ t play many games on my computer , but I do a lot of work with photographs . Using a computer program , you",
+    "occurrences": [
+      "word",
+      "don"
+    ],
+    "word_count": 39,
+    "stop_word_count": 17,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0341,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Computers are great , aren ’ t they ? I should download some programs and learn how to use them .",
+    "occurrences": [],
+    "word_count": 20,
+    "stop_word_count": 11,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

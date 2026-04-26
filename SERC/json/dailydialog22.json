@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can I have the roll of film developed here ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Surely of course ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Here is the film . Can I get my pictures tomorrow ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Besides I want two copies of all the photos ."
+  }
+]

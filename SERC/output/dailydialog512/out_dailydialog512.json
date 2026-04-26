@@ -1,0 +1,448 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What type of people do you work with most effectively ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I tend to work well with people who are confident and straightforward.It ' s more difficult for me to be around timid people , because I move quickly and I am decisive .",
+    "occurrences": [
+      "confident",
+      "straightforward",
+      "difficult",
+      "timid"
+    ],
+    "word_count": 30,
+    "stop_word_count": 15,
+    "occurrences_count": 4,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0541,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0354,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0187,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.438,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0959,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "fear",
+        "5%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What things impress you in your colleagues ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I admire and work best with people who are of good character and integrity . I also think confidence and enthusiasm is positive in any business environment .",
+    "occurrences": [
+      "admire",
+      "good",
+      "integrity",
+      "confidence",
+      "enthusiasm",
+      "positive"
+    ],
+    "word_count": 28,
+    "stop_word_count": 12,
+    "occurrences_count": 6,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.539,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0962,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.109,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0068,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.597,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1623,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.126,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0704,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.766,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1729,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "17%"
+      ],
+      [
+        "joy",
+        "16%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What are some of the things your supervisor did that you disliked ?",
+    "occurrences": [
+      "disliked"
+    ],
+    "word_count": 13,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0897,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.336,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.084,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.576,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.144,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "14%"
+      ],
+      [
+        "anger",
+        "8%"
+      ],
+      [
+        "disgust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The only thing I really don't like is to get feedback in front of others . I want to hear good and bad feedback in private , so that I have time to think and react to the issue without other distractions . I believe that's the fair way to improve learning or to change future behavior .",
+    "occurrences": [
+      "like",
+      "good",
+      "bad",
+      "time",
+      "react",
+      "improve",
+      "change"
+    ],
+    "word_count": 55,
+    "stop_word_count": 23,
+    "occurrences_count": 7,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.741,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0232,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.352,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0423,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0122,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.823,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0257,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.911,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0285,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0132,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0068,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.593,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0498,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How do you organize and plan for major projects ?",
+    "occurrences": [
+      "plan"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.57,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.114,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I love to brainstorm a best , worst , and most likely scenario.Then , I set a timetable that's realistic.What I usually find is that some combination of my schedule easily as these things unfold because I've already visualized what could happen and how I'd react .",
+    "occurrences": [
+      "love",
+      "unfold",
+      "happen",
+      "react"
+    ],
+    "word_count": 42,
+    "stop_word_count": 19,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.288,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0125,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.039,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0452,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0109,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.036,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.033,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Describe an experience when you had to work under great pressure .",
+    "occurrences": [
+      "experience",
+      "pressure"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I had to complete an end of quarter report once while I was on the road for two consecutive weeks.The amount of telephoning back and forth was incredible , because I could't bring my office files with me.Luckily I had a great secretary and a logical filling system , so we located everything we needed .",
+    "occurrences": [
+      "complete",
+      "incredible",
+      "system"
+    ],
+    "word_count": 51,
+    "stop_word_count": 25,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.515,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0198,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0265,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "2%"
+      ],
+      [
+        "joy",
+        "1%"
+      ],
+      [
+        "trust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How do you manage your time in a typical day ?",
+    "occurrences": [
+      "manage",
+      "time"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1032,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0922,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ],
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I've always given priority to work with established clients , because they offer a better risk / return value.The last thing I do is general correspondence , especially internal correspondence , which I take care of at the end of the day or week .",
+    "occurrences": [
+      "established",
+      "risk",
+      "general",
+      "correspondence",
+      "correspondence"
+    ],
+    "word_count": 40,
+    "stop_word_count": 14,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.546,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0595,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0216,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.303,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0117,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0144,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "fear",
+        "2%"
+      ],
+      [
+        "trust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Describe a time when you acted on someone's suggestion .",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I changed my open office hours because several of my employees found it difficult to visit me except in the early mornings .",
+    "occurrences": [
+      "found",
+      "difficult"
+    ],
+    "word_count": 23,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0276,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0198,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0372,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "fear",
+        "2%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

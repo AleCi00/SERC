@@ -1,0 +1,113 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Should we ask Jason to play ? He's always watching movies on HBO .",
+    "occurrences": [
+      "movies"
+    ],
+    "word_count": 13,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.393,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0437,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I guess we should invite him . I just hope he doesn't start talking about Sylvester Stallone and Arnold Schwarzenegger again .",
+    "occurrences": [
+      "guess",
+      "invite",
+      "hope",
+      "start"
+    ],
+    "word_count": 18,
+    "stop_word_count": 10,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.093,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2616,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.043,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1304,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.375,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1719,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.11,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1388,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "26%"
+      ],
+      [
+        "surprise",
+        "17%"
+      ],
+      [
+        "trust",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , come on ! The game is better with three people . Anyway , if we don't ask him to play , he'll be mad .",
+    "occurrences": [
+      "hell",
+      "mad"
+    ],
+    "word_count": 24,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.541,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1027,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.164,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0776,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.407,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.08,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "10%"
+      ],
+      [
+        "fear",
+        "9%"
+      ],
+      [
+        "sadness",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , you're right . We'll never hear the end of it .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

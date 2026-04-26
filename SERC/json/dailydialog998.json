@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you have any hobbies ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I like collecting things ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , that ’ s interesting , and but what kind of things ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Several things , for example , Very coins , stamps , stones and so on ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Stones ? I know many people collecting coins and stamps but stones ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , stones ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "well , I can ’ t just imagine it ."
+  }
+]

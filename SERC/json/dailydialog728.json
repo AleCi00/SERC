@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Did you go to the concert last weekend ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , I didn't . And you ? Was it good ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . I did . I enjoyed it a lot.There was a folk singer , a violinist and a pianist ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How much was the ticket ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I only paid two dollars for mine ."
+  }
+]

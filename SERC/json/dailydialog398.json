@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me . I bought this shirt yesterday , but I would like to refund it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Gave me the receipt , please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Here is my receipt ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What's wrong with it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's too small for me to wear ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Would you like another bigger one ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No thanks . I want to have a refund ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK , here is your money ."
+  }
+]

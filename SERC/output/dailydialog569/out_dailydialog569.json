@@ -1,0 +1,224 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How can I help you ?",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1015,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I am James Mason from Anderson and Associates . I would like to see Mr . Smith .",
+    "occurrences": [
+      "like",
+      "smith"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.796,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0995,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have an appointment ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , he knows I'm coming . Our meeting is set for 2 o'clock .",
+    "occurrences": [
+      "coming"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I wonder if Mr . Smith forgot your meeting . I am afraid he left this office this morning and is not expected back until after 4 pm . Let me find out if he made arrangements for someone else to meet with you in his place . Will you please have a seat ?",
+    "occurrences": [
+      "wonder",
+      "smith",
+      "afraid",
+      "morning",
+      "expected"
+    ],
+    "word_count": 54,
+    "stop_word_count": 27,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0208,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.856,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0317,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0194,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0116,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "fear",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , Mr . Mason , I just checked with our office manager , Ms . Terry , she said Mr . Smith briefed her on your project . She is just finishing up a meeting now . She could be with your shortly . Would you like me to show you around while you are waiting ?",
+    "occurrences": [
+      "smith",
+      "shortly",
+      "like",
+      "show",
+      "waiting"
+    ],
+    "word_count": 50,
+    "stop_word_count": 24,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.148,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0442,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0054,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.148,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0442,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "fear",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That would be very nice . Thank you .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Right this way , Mr . Mason . We can start with our front office . When Ms . Terry is ready , you may take the elevator at the front to the 6th floor . There is a conference room already prepared",
+    "occurrences": [
+      "start",
+      "ready",
+      "prepared"
+    ],
+    "word_count": 39,
+    "stop_word_count": 16,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.688,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0734,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.015,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0306,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "surprise",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

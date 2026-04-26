@@ -1,0 +1,258 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I see Mike farmer has make it into the Olympic team . He beat the national record by 0.1 of a second .",
+    "occurrences": [
+      "team"
+    ],
+    "word_count": 21,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.664,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0604,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That ’ s great . He ’ s the best runner I ’ Ve seen this season . I ’ m sure he ’ ll win a medal at the Olympics .",
+    "occurrences": [
+      "win",
+      "medal"
+    ],
+    "word_count": 29,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0298,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.151,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0719,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0181,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0288,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think you ’ re right . I think we have a very good athletics team . They should do well in the Olympics . How many medals do you think we ’ ll win ?",
+    "occurrences": [
+      "good",
+      "team",
+      "win"
+    ],
+    "word_count": 35,
+    "stop_word_count": 18,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0225,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.274,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0749,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0129,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.281,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0754,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I really don ’ t know . I don ’ t think we ’ ll win many gold medals , but I think we should win several silver and bronze ones .",
+    "occurrences": [
+      "don",
+      "don",
+      "win",
+      "win"
+    ],
+    "word_count": 30,
+    "stop_word_count": 12,
+    "occurrences_count": 4,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.454,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0808,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.546,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0303,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you think our chance are in other events .",
+    "occurrences": [
+      "chance"
+    ],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.129,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "In the last Olympics , we did very well in swimming , cycling and ball sports . I think we ’ ll do well in those same events .",
+    "occurrences": [],
+    "word_count": 26,
+    "stop_word_count": 14,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We might get a gold medal in the sailing too . Our team put in a lot of practice .",
+    "occurrences": [
+      "medal",
+      "team"
+    ],
+    "word_count": 20,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0434,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.424,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0385,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0263,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.125,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1023,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think we can expect to get between 30 to 40 medals in total .",
+    "occurrences": [
+      "expect"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.742,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0927,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.148,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0185,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0596,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "surprise",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You are very optimistic !",
+    "occurrences": [
+      "optimistic"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.446,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.723,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "72%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

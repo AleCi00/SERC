@@ -1,0 +1,306 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning . I ’ m from the New York book review . Could I ask you some questions about your latest book ?",
+    "occurrences": [
+      "good",
+      "morning"
+    ],
+    "word_count": 21,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0295,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0613,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0168,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0475,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . Take a seat ... what would you like to know ?",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "First , I ’ Ve heard that your latest book is based on a true story .",
+    "occurrences": [
+      "true"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0364,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.789,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0877,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That ’ s correct . It ’ s a murder mystery based on actual murders that book place in Florida several years ago . The main character-the police invesigator-is based on the man who investigated the case .",
+    "occurrences": [
+      "murder",
+      "mystery",
+      "police",
+      "case"
+    ],
+    "word_count": 39,
+    "stop_word_count": 15,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.897,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0374,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.711,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0296,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.839,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.035,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.328,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0553,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.056,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.044,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.242,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0517,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0202,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "5%"
+      ],
+      [
+        "surprise",
+        "5%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How do you research your books ?",
+    "occurrences": [
+      "books"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.136,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0453,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I always visit the places that I use as setting for stories . Readers like things to be as factually correct as possible-even in fiction ! I usually base my characters on people I have met . Most character are a mixture of the characters of two or more people .",
+    "occurrences": [
+      "like",
+      "base"
+    ],
+    "word_count": 50,
+    "stop_word_count": 22,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.398,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0499,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I really like your books . I ’ Ve just finished this one . I read it from cover to cover in a single day . Congratulation on making the bestseller list yet again !",
+    "occurrences": [
+      "like",
+      "books",
+      "cover",
+      "cover"
+    ],
+    "word_count": 34,
+    "stop_word_count": 14,
+    "occurrences_count": 4,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.136,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0068,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.234,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0617,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you . Let met sign it for you ... there you go .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh ! Thank you very much . I heard that you are currently writing a collection of short stories . What are the stories about ?",
+    "occurrences": [],
+    "word_count": 26,
+    "stop_word_count": 12,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "There ’ s a real mix of stories in the book . I haven ’ t finished all of them yet , though . Many of them are short detective stories , but there are also horror stories and sci-fi ones . If you give me your business card , I ’ ll make sure you get an advance copy to review .",
+    "occurrences": [
+      "real",
+      "haven",
+      "horror",
+      "advance"
+    ],
+    "word_count": 60,
+    "stop_word_count": 27,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0227,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0211,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0199,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.111,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0337,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0114,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0218,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.117,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0338,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.258,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0381,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ],
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks very much . I ’ m sure it will sell well . I can ’ t wait to read it . Here ’ s my card . Thank you for you time .",
+    "occurrences": [
+      "wait",
+      "time"
+    ],
+    "word_count": 34,
+    "stop_word_count": 16,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.039,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0577,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

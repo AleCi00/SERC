@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good afternoon.British Airline.Is there any thing I can do for you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can I make a reservation for flight FW58 to San Marino ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure . When do you want to take the plane ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Next Monday ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Will that be first class or economy seat ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What's the fare for a first class seat ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "$ 200 ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh . I am not a wall streeter.Give me an economy one please ."
+  }
+]

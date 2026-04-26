@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What do you need today ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I need to take a few classes ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What kind of classes would you like to take ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How about a driver's course ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Okay , you're going to need to make an appointment ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don't understand why I need to make an appointment ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You need to make one to come down and fill out your paperwork ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'd like to make one now if I could ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure you can ; when would you like to come in ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'd like to come in tomorrow morning at 9"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That'll be fine ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's great . Thank you very much ."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "( A stranger stops to help ) Everything OK ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No ! My tour bus got a speeding ticket not ten minutes ago . Now my engine is on fire !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think that's just steam . Your engine's overheated ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you know a lot about cars ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A little bit . I'll take a look if you want me to ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Please . Thank you so much for stopping ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , she's hot . Radiator's leaking . Looks like you were running her pretty hard ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That must have been just before I got the speeding ticket ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Did you have an accident recently ... Hey , wait a second ! I know this car !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You do ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ran into it a couple of weeks ago . What do you know ? Name's Hal ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm Akimbo . Nice to meet you , I guess ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Boy , I'm sure sorry about your car . Hey , Akimbo , I wonder if you'd like to make a deal ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What kind of deal ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'd like to give you cash for the damage to your car ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You don't want your insurance company to pay for it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'd rather not . They'll raise my rates . It'll cost me more in the long run ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If you give me cash , do you care if I don't fix the car ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hell , I don't care . Just don'T submit a report to your insurancecompany ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's a deal , Hal . Thanks again for stopping to help . And thanks for smashing my car !"
+  }
+]

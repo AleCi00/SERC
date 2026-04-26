@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Ticket , please.Do you have a seat preference ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I want a window seat definitely , in the smoking section ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure . Please put your baggage on scale ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What's the weight limit ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "20kg.Yours is not overweight . Here is your boarding pass and baggage tag.Please go to the satellite hall to wait for boarding ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you ."
+  }
+]

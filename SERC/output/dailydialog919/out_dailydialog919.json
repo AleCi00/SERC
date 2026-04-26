@@ -1,0 +1,325 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Gross ! What are you doing to yourself ?",
+    "occurrences": [
+      "gross"
+    ],
+    "word_count": 9,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.438,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.4793,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "47%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Chill ! I'm just curling my eyelashes .",
+    "occurrences": [
+      "chill"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0937,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It looks like some kind of primitive form of torture .",
+    "occurrences": [
+      "like",
+      "kind",
+      "torture"
+    ],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.833,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.119,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0681,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1183,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.984,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1406,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0887,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1094,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.125,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1607,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "fear-joy": 0.984,
+    "fear-joy_computed": 0.1406,
+    "surprise-fear": 0.984,
+    "surprise-fear_computed": 0.1406,
+    "fear-surprise": 0.984,
+    "fear-surprise_computed": 0.1406,
+    "fear-anticipation": 0.984,
+    "fear-anticipation_computed": 0.1406,
+    "fear-sadness": 0.984,
+    "fear-sadness_computed": 0.1406,
+    "trust-fear": 0.984,
+    "trust-fear_computed": 0.1406,
+    "anger-fear": 0.984,
+    "anger-fear_computed": 0.1406,
+    "fear-disgust": 0.984,
+    "fear-disgust_computed": 0.1406,
+    "fear-trust": 0.984,
+    "fear-trust_computed": 0.1406,
+    "fear-anger": 0.984,
+    "fear-anger_computed": 0.1406,
+    "sadness-fear": 0.984,
+    "sadness-fear_computed": 0.1406,
+    "disgust-fear": 0.984,
+    "disgust-fear_computed": 0.1406,
+    "anticipation-fear": 0.984,
+    "anticipation-fear_computed": 0.1406,
+    "joy-fear": 0.984,
+    "joy-fear_computed": 0.1406,
+    "main_emotion": [
+      [
+        "trust",
+        "16%"
+      ],
+      [
+        "fear",
+        "14%"
+      ],
+      [
+        "fear-joy",
+        "14%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-fear",
+        "matched_words": [
+          {
+            "word": "torture",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "torture",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-fear",
+        "matched_words": [
+          {
+            "word": "torture",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anger",
+        "matched_words": [
+          {
+            "word": "torture",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anticipation",
+        "matched_words": [
+          {
+            "word": "torture",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "fear-disgust",
+        "matched_words": [
+          {
+            "word": "torture",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "fear-joy",
+        "matched_words": [
+          {
+            "word": "torture",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "fear-sadness",
+        "matched_words": [
+          {
+            "word": "torture",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "fear-surprise",
+        "matched_words": [
+          {
+            "word": "torture",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "fear-trust",
+        "matched_words": [
+          {
+            "word": "torture",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-fear",
+        "matched_words": [
+          {
+            "word": "torture",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "sadness-fear",
+        "matched_words": [
+          {
+            "word": "torture",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-fear",
+        "matched_words": [
+          {
+            "word": "torture",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "trust-fear",
+        "matched_words": [
+          {
+            "word": "torture",
+            "score": 0.984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You're such a wimp ! You're afraid of an eyelash curler .",
+    "occurrences": [
+      "wimp",
+      "afraid"
+    ],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.734,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0917,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.5,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1875,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "18%"
+      ],
+      [
+        "disgust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , you might pinch your eyelid ! Or lose an eyeball !",
+    "occurrences": [
+      "lose"
+    ],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.522,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0653,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.782,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0978,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.018,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1273,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0958,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "12%"
+      ],
+      [
+        "fear",
+        "9%"
+      ],
+      [
+        "surprise",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It just makes my eyelashes curl upwards .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

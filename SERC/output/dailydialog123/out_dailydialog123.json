@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Have you seen our new packing specifications ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I have , Mr . Thomas . We'll pack them two dozen to one carton , and the gross weight is around 25 kilos a carton .",
+    "occurrences": [
+      "gross",
+      "weight"
+    ],
+    "word_count": 24,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0152,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.938,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0552,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.109,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0064,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.109,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0064,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0083,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.117,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0069,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.017,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "disgust",
+        "5%"
+      ],
+      [
+        "trust",
+        "1%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

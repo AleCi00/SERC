@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Room service.What can I do for you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "l am afraid there isn't any fancy soap in my room ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sorry sir , we will bring you one.Anything else ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes.Bring me a bath towel as well ."
+  }
+]

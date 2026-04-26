@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , Monica , how is everything going ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Everything goes well , but I am thinking about quitting my current job ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why ? You ’ re not satisfied anymore ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I just sense . But I cannot grow anymore . My boss is not really supporting me . I am interested in some positions in other JV companies , but I need to do some more in-depth research before I send my application letters out ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That is important . Doing research on a company you are interested in will definitely help your application ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Certainly , it is very nice talking with you . But I really have to go now . Catch you later ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Ok , good luck to you ."
+  }
+]

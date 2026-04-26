@@ -1,0 +1,166 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How can we develop a new brand image with no direction whatsoever ?",
+    "occurrences": [
+      "develop"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.508,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0726,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "With the fifty forwards he sent out today , maybe we'll inadvertently get inspired .",
+    "occurrences": [
+      "inspired"
+    ],
+    "word_count": 14,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.606,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0606,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0406,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.602,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0602,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "surprise",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I guess this is a good excuse to surf the Net on someone else's dime .",
+    "occurrences": [
+      "guess",
+      "good"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0479,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0684,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0771,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0771,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "7%"
+      ],
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Who'd have thought Bean would be this kind of e-mail fanatic ?",
+    "occurrences": [
+      "thought",
+      "kind",
+      "mail"
+    ],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.875,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1094,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0776,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0801,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ],
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "joy",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "He must have just got online for the first time last week . He still thinks it's some kind of new toy .",
+    "occurrences": [
+      "time",
+      "kind"
+    ],
+    "word_count": 23,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0369,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0444,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0458,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

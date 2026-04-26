@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How many people are there in your family ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Five.My father , mother , brother , sister-in-law and me ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is your brother older or younger than you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He is five years older than me , He got married last Sunday.My brother and my sister-in-law are the same age ."
+  }
+]

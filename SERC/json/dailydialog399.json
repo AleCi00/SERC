@@ -1,0 +1,54 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Oh , so many kinds of winter hats ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What is your favorite color , miss ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Red ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here you are.It ' s very attractive ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "May I try it on ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Go ahead ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is there a mirror around here ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Right over there ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Does it suit me ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , you look very nice ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How much is it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We're having a clearance sale . $ 4 plus tax ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's quite reasonable ."
+  }
+]

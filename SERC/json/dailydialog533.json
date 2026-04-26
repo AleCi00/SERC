@@ -1,0 +1,62 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "that was a really good meal , Gordon ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It sure was . I couldn't eat another bite ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "well , it is getting pretty late . I think we should go home ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "you're right . I have to get up early to go to work tomorrow ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "let's see how much the bill is ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "don't worry about it . Tonight is my treat ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "what are you talking about ? We'll split the bill ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "no , I insist . I kept telling you that I would treat you to dinner but I still haven't ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "no way , Gordon . I know that you are a little short on cash at the moment . There's no need for you to pay for the whole bill ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "alright , if that's the way you are going to be , we'll split the bill ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "that's better . This way we will both have money to take a cab home , otherwise , you would probably have to walk ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "just promise you will let me treat you to dinner next week , ok ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "you've got a deal ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "great . Bye ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "bye ."
+  }
+]

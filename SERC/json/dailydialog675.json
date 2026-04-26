@@ -1,0 +1,54 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good afternoon , madam . How can I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I am a bit out of shape . I'm thinking about getting some exercises to keep fit ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , that's good news for us ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "So what do you provide ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "First of all , we'll design a custom-made work-out plan according to your habits ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How can you get that done ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , we give each of our customers a personal trainer who is qualified . And he will give you a fitness assessment and then come up with the work-out plan for your needs ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What else ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Since everyone is different , your personal trainer will find you a suitable type of exercise equipment and teach you all the techniques to help you achieve your fitness level and goal ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sounds pretty good . What about the charge ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That depends . We offer membership for one month , half a year and one year ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Maybe one month . Just have a try first . Not too tough at the beginning ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wise decision . You'll find it's totally worth it ."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you have anything to do after this ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , I don't ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Shall we drop in somewhere for a couple of drinks ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That sounds like a good idea ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I know a very interesting place ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , do you ? Good ."
+  }
+]

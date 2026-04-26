@@ -1,0 +1,307 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "have you seen the new Cosmo magazine that I was reading this morning ?",
+    "occurrences": [
+      "morning"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think I may have seen it on the kitchen table .",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "you're right , thanks . There's an interesting interview with a top director about his latest film that I want to finish .",
+    "occurrences": [
+      "interview",
+      "top",
+      "director"
+    ],
+    "word_count": 21,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0284,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0129,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.914,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0653,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "who's the director ?",
+    "occurrences": [
+      "director"
+    ],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1483,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "it's Martin Scorsese . You liked his film , The Departed , didn't you ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "yes , it was fantastic ! Can I read the article when you're finished ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "sure . You know it has an online edition , too . You should go online to read if you want to read it now .",
+    "occurrences": [
+      "edition"
+    ],
+    "word_count": 25,
+    "stop_word_count": 13,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0293,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "that's ok . I'll wait until you're finished . Just out of curiosity , do you have a subscription for that magadize ?",
+    "occurrences": [
+      "ill",
+      "wait",
+      "curiosity"
+    ],
+    "word_count": 22,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0278,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.078,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0898,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.041,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0517,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0495,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "fear",
+        "5%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "no . I don't buy it regularly enough for it to be worthwhile .",
+    "occurrences": [
+      "worthwhile"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0803,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "how much does the magadize cost ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "it's almost three pounds now , and I think they're going to put the price up to four pounds soon .",
+    "occurrences": [],
+    "word_count": 19,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "that's quite expensive . Who is their target audience ?",
+    "occurrences": [
+      "audience"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.357,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.051,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Cosmo mainly has a middle-class readership , but I think circulation will fall dramatically if the price goes up anymore .",
+    "occurrences": [
+      "fall"
+    ],
+    "word_count": 20,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.418,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0322,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I bet you'll still buy it , though . You wouldn't be able to live without your fashion magazine !",
+    "occurrences": [
+      "youll",
+      "live",
+      "fashion"
+    ],
+    "word_count": 19,
+    "stop_word_count": 6,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.86,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0662,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning . Can I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good morning . I ’ m here to see Rochelle Davis , the Human Resources Manager ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have an appointment with her ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I do . I have a 10:00 appointment with her this morning ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Okay . What ’ s your name , please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My name is Bruce Green ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks . Please sit down . She ’ ll be with you shortly ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you ."
+  }
+]

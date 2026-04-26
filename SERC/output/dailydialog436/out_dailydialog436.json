@@ -1,0 +1,203 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey Julie , you want to go grab something to eat ?",
+    "occurrences": [
+      "grab"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.557,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0796,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure ! What do you feel like having ?",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I really feel like having a big juicy steak !",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1383,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh . OK . I don't eat meat , but that's fine , I am sure wherever we are going they will have other options right ?",
+    "occurrences": [],
+    "word_count": 24,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I didn't know you were a vegetarian !",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm not , I am a vegan .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A what ?",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "A vegan . I don't eat or use any animal based products . I don't wear leather , eat eggs , drink milk or anything that comes from an animal . I used to be a pescatarian before , which basically means you don't eat meat , but still have fish and seafood .",
+    "occurrences": [
+      "wear"
+    ],
+    "word_count": 50,
+    "stop_word_count": 19,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0106,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wow ! That's interesting ! It must be tough !",
+    "occurrences": [
+      "tough"
+    ],
+    "word_count": 10,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.424,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.053,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's a bit difficult to find vegetarian friendly restaurants sometimes , but since more and more people are vegetarians or vegans nowadays , it's getting a bit less difficult .",
+    "occurrences": [
+      "difficult",
+      "friendly",
+      "less",
+      "difficult"
+    ],
+    "word_count": 28,
+    "stop_word_count": 11,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0271,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.885,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0521,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.034,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0322,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "5%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "This is such a beautiful day ! Great for sailing !",
+    "occurrences": [
+      "beautiful"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.562,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2603,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "26%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It sure is ! The water looks so nice ! Anchor the boat for a little while . I ’ m going to take a dip .",
+    "occurrences": [],
+    "word_count": 27,
+    "stop_word_count": 12,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why are you doggy-paddling ? I taught you how to swim ! Do your breast stroke !",
+    "occurrences": [
+      "taught",
+      "swim",
+      "stroke"
+    ],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.0,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1111,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.562,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1736,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.546,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0607,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0902,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.046,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1162,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "17%"
+      ],
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I get too tired ! I ’ ll just backstroke , it ’ s easier !",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Try kicking your legs more . That ’ s good . Don ’ t go out too far !",
+    "occurrences": [
+      "kicking",
+      "good",
+      "don"
+    ],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.636,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0578,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0348,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0497,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0199,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.163,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1057,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anger",
+        "5%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s fine . Jump in !",
+    "occurrences": [
+      "jump"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1516,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Kathy ! Get back here ! I see a shark !",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ahahah ! ! ! Help me ! Help ! Bring the boat closer ! The shark is coming straight towards me !",
+    "occurrences": [
+      "help",
+      "help",
+      "coming"
+    ],
+    "word_count": 22,
+    "stop_word_count": 5,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.266,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0745,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0478,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It ’ s right under you ! Kathy ! ! !",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

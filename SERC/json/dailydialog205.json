@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm going to go shopping for groceries in a little bit ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why , do we need groceries ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I believe we are all out of food ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you know what to get ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't know what we need ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why don't you go and check the refrigerator ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I would appreciate it if you would do that for me ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why don't you just get the basics ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you mean ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Eggs , milk , bread . Things like that ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Go make that list ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure , no problem ."
+  }
+]

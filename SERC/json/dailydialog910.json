@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What does your mother do , may I ask ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My mother works in a company as an accountant ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is she busy ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not always , she's rather busy at the end of the year ."
+  }
+]

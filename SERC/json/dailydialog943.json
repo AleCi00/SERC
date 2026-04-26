@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You look so happy , Anna . Any good news ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I ’ Ve won the first prize in the math contest ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Really ? Congratulations !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you , Paul ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "By the way , would you like to have dinner with me tomorrow evening ? Tomorrow is my birthday ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good , happy birthday to you !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not so soon . It ’ s not my birthday today . Well , you ’ ll come , won ’ t you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure , I will . Thank you for inviting me ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "My pleasure ."
+  }
+]

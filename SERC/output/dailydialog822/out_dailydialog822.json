@@ -1,0 +1,171 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "As we know , mobile phones bring people great convenience and shorten the distance among friends and relatives .",
+    "occurrences": [
+      "mobile",
+      "friends"
+    ],
+    "word_count": 18,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0265,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0385,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It bears a great many of advantages , but also some weak points .",
+    "occurrences": [
+      "weak"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0371,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is it ? I've never thought of any disadvantages of the mobile phone .",
+    "occurrences": [
+      "thought",
+      "mobile"
+    ],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0948,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "For instance , the mobile phone seriously distracts the attention of people from work and study .",
+    "occurrences": [
+      "mobile"
+    ],
+    "word_count": 16,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0344,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's true . Some people pay too much attention to their mobile phones .",
+    "occurrences": [
+      "true",
+      "pay",
+      "mobile"
+    ],
+    "word_count": 14,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.805,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0805,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.57,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.057,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.219,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1219,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Actually , it's not the fault of the mobile phone . But people should have a proper attitude towards it . Mobile phone is a tool serving people , not the fetters restricting them .",
+    "occurrences": [
+      "fault",
+      "mobile",
+      "mobile",
+      "tool"
+    ],
+    "word_count": 33,
+    "stop_word_count": 15,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0122,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0382,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0226,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ],
+      [
+        "anger",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

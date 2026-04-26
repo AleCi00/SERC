@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "May I come in ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , please . I ’ m Mr . Peter , the Director of Personnel . What can I do for you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Nice to meet you , Mr . Peter . I ’ m Wang Sian . I ’ Ve come for an interview as requested ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , yes . How do you do , Miss Wang ? Sit down , please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What was your major in school ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I majored in Public Relations ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Have you done any work in this field ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , after my graduation , I worked in a trade company in Macao for one year ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What section did you work in ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The export Business Section ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "So you must be very familiar with export procedures ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , very much ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's good ."
+  }
+]

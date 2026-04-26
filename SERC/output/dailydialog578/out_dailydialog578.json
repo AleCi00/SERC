@@ -1,0 +1,104 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Office Supplies , Inc . Robert speaking , may I help you ?",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 8,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.029,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hi , Robert . This is Janet Reese calling from American Advertising . We placed an order with you about a week ago .",
+    "occurrences": [],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , Ms . Reese . I remember , you spoke with me . Is there a problem ?",
+    "occurrences": [
+      "problem"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0296,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0487,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , it still hasn ’ t gotten here , and my boss is pretty angry about it .",
+    "occurrences": [
+      "pretty",
+      "angry"
+    ],
+    "word_count": 17,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.824,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.103,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0517,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0586,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0459,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "10%"
+      ],
+      [
+        "disgust",
+        "5%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

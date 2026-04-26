@@ -1,0 +1,14 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can you direct me to Holiday inn ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Cross the street and walk two blocks west.You can't miss it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks ."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Who's it knocking at the door ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think it's the postman.Will you go and open the door ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "All right . I'll get it ."
+  }
+]

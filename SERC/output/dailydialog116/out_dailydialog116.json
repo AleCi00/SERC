@@ -1,0 +1,152 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Please tell me how to file things according to the concerned rules .",
+    "occurrences": [
+      "concerned"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0449,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.184,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.023,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "4%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , all right . There are four points you should keep in mind when you file documents , information and other things .",
+    "occurrences": [
+      "mind"
+    ],
+    "word_count": 22,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0072,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What are they ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They are keep the documents in chronological order , remove all the chips and pins , punch the documents evenly and place them in the folder .",
+    "occurrences": [
+      "remove",
+      "punch"
+    ],
+    "word_count": 25,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.064,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0818,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.908,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0698,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0517,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0415,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "8%"
+      ],
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And what is the most important point ?",
+    "occurrences": [
+      "important"
+    ],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.211,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "21%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You should always remember that one customer one file is the rule .",
+    "occurrences": [
+      "rule"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0235,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0537,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

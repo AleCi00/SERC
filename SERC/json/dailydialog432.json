@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I want to buy three tickets . What's the entrance fee ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "$ 10 per person ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Here are $ 30 . By the way , where can I find a guide ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Turn to the next window and they will help you find one ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks a lot ."
+  }
+]

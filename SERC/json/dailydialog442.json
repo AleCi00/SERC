@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What can I do for you today ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I have a question ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you need to know ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I need to take the driver's course . How many hours do I need ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It depends on what you're trying to do with the completion of the course ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I need to get my license ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You're going to need to complete six hours ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How many hours a day can I do ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You can do two hours a day for three days ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's all I need to do to finish ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , that's all you need to do ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks . I'll get back to you ."
+  }
+]

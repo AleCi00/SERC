@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you have something to read ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I do ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Could you lend me one ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . Here you are ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks . It's rather cold this morning , wouldn't you say ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You're right ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you know the news ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Which one ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Brazil wins the World Cup ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I see ."
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I find that you spend little on handset charge every month . Have you any trick ?",
+    "occurrences": [
+      "trick"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's simple . You can use call transfer .",
+    "occurrences": [
+      "simple"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0235,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is it so simple ?",
+    "occurrences": [
+      "simple"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0705,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . You know , we spend most of our time at home or in the office every day , so I receive handset calls with the hand-free telephone , so I need pay little for receiving calls .",
+    "occurrences": [
+      "time",
+      "home",
+      "calls",
+      "free",
+      "pay",
+      "receiving",
+      "calls"
+    ],
+    "word_count": 35,
+    "stop_word_count": 14,
+    "occurrences_count": 7,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.446,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1165,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.632,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0777,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0123,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.148,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "11%"
+      ],
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's true .",
+    "occurrences": [
+      "true"
+    ],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.164,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.789,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3945,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "39%"
+      ],
+      [
+        "joy",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Call transfer has many other advantages . When I am in places where network can't cover , such as the high building , I also use call transfer function , which transfers my calls to the hand-free telephone and I will not miss any call .",
+    "occurrences": [
+      "network",
+      "cover",
+      "calls",
+      "free",
+      "miss"
+    ],
+    "word_count": 41,
+    "stop_word_count": 17,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0293,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.544,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0227,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.379,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0158,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.734,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0306,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's all ?",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "In hospitals or on planes , handsets will interfere with some equip-ment , so we must close our handsets . If you set call transfer , the problem will be solved .",
+    "occurrences": [
+      "planes",
+      "problem"
+    ],
+    "word_count": 30,
+    "stop_word_count": 14,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.54,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0338,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0274,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "3%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "This is the best dinner I've ever had ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How about the soup ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I've never tasted anything better ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How nice of you to say so ."
+  }
+]

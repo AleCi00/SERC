@@ -1,0 +1,96 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I have a stomachache .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , you'd better lie down now . You need a good rest .",
+    "occurrences": [
+      "lie",
+      "down",
+      "good",
+      "rest"
+    ],
+    "word_count": 13,
+    "stop_word_count": 4,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.348,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0387,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0426,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0494,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.016,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1129,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.866,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0962,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0243,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0686,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "sadness",
+        "9%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "All right . I'll do that .",
+    "occurrences": [
+      "ill"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0833,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.123,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1552,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1485,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "15%"
+      ],
+      [
+        "sadness",
+        "14%"
+      ],
+      [
+        "disgust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

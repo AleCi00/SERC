@@ -1,0 +1,219 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , I'd like to ask you a few questions about the city .",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 14,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0807,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK , please .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "My wife wants to take the children to go shopping , where is the best place to go ?",
+    "occurrences": [
+      "shopping"
+    ],
+    "word_count": 18,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0555,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.382,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0382,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0219,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0297,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I would recommend the mall , it's about 20 minutes , drive to the south in a taxi . It has a wide range of shops and restaurants .",
+    "occurrences": [
+      "recommend"
+    ],
+    "word_count": 27,
+    "stop_word_count": 13,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0435,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you . Also , we'd like to do some sightseeing while we're in town . Can you recommend some local attractions ?",
+    "occurrences": [
+      "like",
+      "recommend"
+    ],
+    "word_count": 22,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.093,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0911,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How old are your children ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I have a 10 - year-old boy and a 6 - year-old girl .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I would recommend a day at the zoo . It's fun for all the family . There is also a water park just outside the city if you would like a day trip .",
+    "occurrences": [
+      "recommend",
+      "fun",
+      "family",
+      "like",
+      "trip"
+    ],
+    "word_count": 34,
+    "stop_word_count": 16,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.288,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0716,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.093,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0607,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It sounds marvelous . Thank you for your help .",
+    "occurrences": [
+      "marvelous",
+      "help"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0338,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.824,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1373,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0833,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "surprise",
+        "8%"
+      ],
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

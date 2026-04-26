@@ -1,0 +1,276 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning . What's the matter with you ?",
+    "occurrences": [
+      "good",
+      "morning",
+      "matter"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0638,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1328,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0365,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1823,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "18%"
+      ],
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good morning , doctor . I have a terrible headache .",
+    "occurrences": [
+      "good",
+      "morning",
+      "doctor",
+      "terrible"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0983,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0803,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0849,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1139,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0826,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.258,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1797,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "17%"
+      ],
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "anger",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "All right , young man . Tell me how it got started .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible .",
+    "occurrences": [
+      "nose",
+      "nose",
+      "sore",
+      "afraid",
+      "terrible"
+    ],
+    "word_count": 32,
+    "stop_word_count": 14,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.067,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0593,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.922,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0512,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.438,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0799,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0608,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "sadness",
+        "6%"
+      ],
+      [
+        "anger",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' .",
+    "occurrences": [
+      "worry",
+      "examination",
+      "mouth"
+    ],
+    "word_count": 29,
+    "stop_word_count": 9,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0246,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.782,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0391,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0321,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0246,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "3%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ah .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Your throat is inflamed . And your tongue is heavily coated . You have all the symptoms of influenza .",
+    "occurrences": [],
+    "word_count": 20,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What am I supposed to do then ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A good rest is all you need , and drink more water . I'll write you a prescription .",
+    "occurrences": [
+      "good",
+      "rest",
+      "ill"
+    ],
+    "word_count": 18,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0333,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0383,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0492,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.016,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0594,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0219,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0617,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you very much .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

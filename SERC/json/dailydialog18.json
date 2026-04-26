@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good evening , madam . Can I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I bought this sheet here yesterday ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Anything wrong with it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . When I spread it out back home , I found this hole ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , how awful ! May I have a look at the invoice ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here it is ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well . please accept our sincere apologies , I'll be glad to change it for another one if you wish ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's very kind of you . Thank you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We're sorry that this has happened , and I guarantee that the same mistake won't happen again ."
+  }
+]

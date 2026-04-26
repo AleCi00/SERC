@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You mustn't touch the wet paint , Bill ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm sorry . I won't do it again ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Try to be more careful in future . Look ! you've damaged the sign ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is this the sign ? What does it says ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It says No smoking here ."
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How much will my pay be , if you don ’ t mind my asking ?",
+    "occurrences": [
+      "pay",
+      "don",
+      "mind"
+    ],
+    "word_count": 15,
+    "stop_word_count": 9,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0768,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0143,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1172,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We would like to start you off at 1,500 yuan a month , not including bonus and overtime pay . We don ’ t give bonus every month , but we offer a semi-annual bonus . And you will receive two weeks paid vacation a year , as well . Does it suit you ?",
+    "occurrences": [
+      "like",
+      "start",
+      "bonus",
+      "pay",
+      "don",
+      "bonus",
+      "bonus",
+      "vacation"
+    ],
+    "word_count": 54,
+    "stop_word_count": 22,
+    "occurrences_count": 8,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 3.733,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1167,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.43,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0759,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 2.102,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0657,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.187,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0371,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "11%"
+      ],
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "surprise",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , thank you . May I ask for an apartment ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No problem . We'll supply you with an apartment of two bedrooms and a living room .",
+    "occurrences": [
+      "problem",
+      "living"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0266,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "speaker": [
+    "speaker1",
+    "speaker2"
+  ],
+  "total_words": 347,
+  "total_stop_words": 184,
+  "total_matches": 33,
+  "total_entries": 13,
+  "basic_emotions": {
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.4329999999999998,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 6.347999999999999,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 3.0780000000000003,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 10.178,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 5.3790000000000004,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 3.219,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 8.67
+  },
+  "complex_emotions": {
+    "anger-fear": 0.962,
+    "anticipation-fear": 0.962,
+    "disgust-fear": 0.962,
+    "fear-anger": 0.962,
+    "fear-anticipation": 0.962,
+    "fear-disgust": 0.962,
+    "fear-joy": 0.962,
+    "fear-sadness": 0.962,
+    "fear-surprise": 0.962,
+    "fear-trust": 0.962,
+    "joy-fear": 0.962,
+    "sadness-fear": 0.962,
+    "surprise-fear": 0.962,
+    "trust-fear": 0.962
+  },
+  "main_emotion": [
+    "joy",
+    "trust",
+    "anticipation"
+  ],
+  "computed_scores": {
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.0088,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.0389,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.0033,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.0189,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.0624,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.033,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.0197,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.0532,
+    "anger-fear": 0.0059,
+    "anticipation-fear": 0.0059,
+    "disgust-fear": 0.0059,
+    "fear-anger": 0.0059,
+    "fear-anticipation": 0.0059,
+    "fear-disgust": 0.0059,
+    "fear-joy": 0.0059,
+    "fear-sadness": 0.0059,
+    "fear-surprise": 0.0059,
+    "fear-trust": 0.0059,
+    "joy-fear": 0.0059,
+    "sadness-fear": 0.0059,
+    "surprise-fear": 0.0059,
+    "trust-fear": 0.0059
+  }
+}

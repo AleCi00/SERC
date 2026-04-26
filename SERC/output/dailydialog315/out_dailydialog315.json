@@ -1,0 +1,144 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Over here is our gym . We have all the latest equipment .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But I haven't used exercising equipment before . Can you tell us some more details ?",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Certainly . We have here the race apparatus , stationary bike , muscle builder set , chest expander , bar bell , dumb bell and so on .",
+    "occurrences": [],
+    "word_count": 23,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Working in the gym is a very good way for losing weight . What else do you have ?",
+    "occurrences": [
+      "good",
+      "losing",
+      "weight"
+    ],
+    "word_count": 19,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.349,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0388,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0712,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0243,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.109,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0121,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0729,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.735,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0817,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.336,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0373,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1007,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "joy",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Here's the swimming pool . It's open from 10 a . m . to 11 p . m . There are also massage rooms here .",
+    "occurrences": [
+      "massage"
+    ],
+    "word_count": 26,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.47,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0294,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's wonderful ! I like swimming .",
+    "occurrences": [
+      "wonderful",
+      "like"
+    ],
+    "word_count": 7,
+    "stop_word_count": 1,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.726,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2877,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.151,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.734,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.289,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "28%"
+      ],
+      [
+        "joy",
+        "28%"
+      ],
+      [
+        "surprise",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

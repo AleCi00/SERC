@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Should we tip ? This service is pretty good ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , we probably should.How much is normal ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How about 10 percent ? That's about 6 dollars ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That sounds about right ."
+  }
+]

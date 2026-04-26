@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Are you interested in history ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I am . I enjoyed studying it at school , though I had trouble remembering all the dates , so my teacher never gave me good marks ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I love history , but I ’ Ve always thought that learning the reasons behind events is more important than remembering exactly when they happened ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I wish you had been my history teacher ! I might have got better marks !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Some people say that history repeats itself ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What does that mean ? The same events never happen twice , do they ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The idea is that the people and dates change , but the reason why things happen stay the same ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I see . I think I ’ d agree with that statement . People often seem to make the same mistakes over and over again ."
+  }
+]

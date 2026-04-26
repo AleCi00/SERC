@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "what's wrong , Jerry ? You look so upset ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "to be honest , I was just dumped ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "oh , I'm sorry to hear that . You can go on a holiday to cheer you up ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "no , thanks . I'm not in the mood for traveling ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "come on . A trip will do you good . Are you doing anything this weekend ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I was planning on doing a lot of wallowing ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "well , my friends and I are planning on going to Shangri-La on Saturday . Do you want to come with us ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "where is that ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "not very far from here . We'll fly . It's about one and a half hours ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "what's there to see ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "there is a large canyon , vast grasslands , ancient forests and mountain lakes ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "oh , sounds nice ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "yes , the scenery there is breathtaking . I have some pictures at home . You can come over and take a look if you like ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "ok . Then I can make up my mind ."
+  }
+]

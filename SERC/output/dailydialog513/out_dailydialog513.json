@@ -1,0 +1,167 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Did you get Bean's ten different good luck forwards , like that one from the Dalai Lama ?",
+    "occurrences": [
+      "good",
+      "luck",
+      "like"
+    ],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.977,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1086,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.031,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1146,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0808,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.101,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1223,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , I deleted all that superstitious crap . What a waste of bandwidth !",
+    "occurrences": [
+      "superstitious",
+      "crap",
+      "waste"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0548,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 2.171,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2714,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0664,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.696,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.087,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "disgust",
+        "27%"
+      ],
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I figured I might as well send one or two of them out . Maybe my luck will get better .",
+    "occurrences": [
+      "luck"
+    ],
+    "word_count": 20,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0495,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.508,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0423,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "surprise",
+        "4%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you really think the Dalai Lama sent that ? I'm tired of all these forwards .",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's worth a shot . Maybe we'll get some luck in thinking up something for this case .",
+    "occurrences": [
+      "shot",
+      "luck",
+      "case"
+    ],
+    "word_count": 18,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0611,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.054,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0753,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.044,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.775,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0705,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1108,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "surprise",
+        "11%"
+      ],
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "sadness",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

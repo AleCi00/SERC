@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'd like to apply for a credit card . Can you help me with my application ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'd be glad to ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm afraid that I don't have a credit history . I just came to this country ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you have an account with this bank ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm afraid not ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "In that case I highly recommend you apply for a savings and checking account also . That would help with your credit card application ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What is the interest rate on your card ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The annual charge rate is 9.5 % ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's very expensive !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not really . The credit card is a revolving account . You only pay interest on what you owe ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How does the bank bill its customers for credit card charges ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You will receive a monthly statement with each expenditure itemized ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Does the card provide any other benefits ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You can also get a cash advance up to 1,000 dollars on this card ."
+  }
+]

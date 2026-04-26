@@ -1,0 +1,65 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What a mess !",
+    "occurrences": [
+      "mess"
+    ],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.484,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "48%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sorry . I'll clean it up .",
+    "occurrences": [
+      "ill",
+      "clean"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0666,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0984,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.26,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.052,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1188,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "12%"
+      ],
+      [
+        "sadness",
+        "11%"
+      ],
+      [
+        "disgust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

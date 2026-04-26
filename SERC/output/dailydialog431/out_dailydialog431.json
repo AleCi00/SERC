@@ -1,0 +1,67 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I hate doing the damn laundry .",
+    "occurrences": [
+      "hate",
+      "damn"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.563,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3907,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.054,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2635,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.121,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.164,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "39%"
+      ],
+      [
+        "disgust",
+        "26%"
+      ],
+      [
+        "sadness",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Watch your language .",
+    "occurrences": [
+      "watch"
+    ],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1743,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0627,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "17%"
+      ],
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

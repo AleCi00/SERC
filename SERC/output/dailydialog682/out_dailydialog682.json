@@ -1,0 +1,188 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , Monica , how is everything going ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Everything goes well , but I am thinking about quitting my current job .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why ? You ’ re not satisfied anymore ?",
+    "occurrences": [
+      "satisfied"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I just sense . But I cannot grow anymore . My boss is not really supporting me . I am interested in some positions in other JV companies , but I need to do some more in-depth research before I send my application letters out .",
+    "occurrences": [
+      "grow",
+      "supporting",
+      "interested",
+      "depth"
+    ],
+    "word_count": 43,
+    "stop_word_count": 22,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0264,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0037,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0115,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.114,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0054,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.64,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0781,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That is important . Doing research on a company you are interested in will definitely help your application .",
+    "occurrences": [
+      "important",
+      "interested",
+      "help"
+    ],
+    "word_count": 19,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0087,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0226,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.114,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0127,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "fear",
+        "2%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Certainly , it is very nice talking with you . But I really have to go now . Catch you later .",
+    "occurrences": [
+      "catch"
+    ],
+    "word_count": 20,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.32,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.032,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Ok , good luck to you .",
+    "occurrences": [
+      "good",
+      "luck"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.977,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2442,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.031,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2578,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1817,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1542,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "25%"
+      ],
+      [
+        "anticipation",
+        "24%"
+      ],
+      [
+        "surprise",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

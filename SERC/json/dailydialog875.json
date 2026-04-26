@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Could you please wait for a minute ? I'll buy the tickets"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All right ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Here is your ticket ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The park will close soon . We Should better go in right now ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Really ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , let's go in ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It is a new park , isn't it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , how do you know ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I guessed it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , generally speaking , the park is a window on the world history , a window on the world civilization and a window on the world's tourist attractions as well ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , how wonderful !"
+  }
+]

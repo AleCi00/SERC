@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I need some traveler's checks ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How much do you need ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Three thousand US dollars ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "All right , can I have your passbook ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , here you go ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What amounts do you want the checks in ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's all the same to me ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Here you are ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks ."
+  }
+]

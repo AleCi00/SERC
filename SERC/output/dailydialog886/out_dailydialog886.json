@@ -1,0 +1,330 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Lili , let ’ s take a vacation !",
+    "occurrences": [
+      "vacation"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.39,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2317,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1823,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "23%"
+      ],
+      [
+        "joy",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "George , how can we ? Vacations cost money . And this month we don ’ t have much money left after paying the rent .",
+    "occurrences": [
+      "money",
+      "don",
+      "money"
+    ],
+    "word_count": 25,
+    "stop_word_count": 11,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.148,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0106,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.172,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0837,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.062,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0759,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.029,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.991,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0708,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , Lili , we can visit different places in the state in our van 10 . We are not going to take a plane or stay at a hotel this time . Trust me , it won ’ t cost much .",
+    "occurrences": [
+      "time",
+      "trust"
+    ],
+    "word_count": 39,
+    "stop_word_count": 19,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.907,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0454,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.805,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Where will we sleep , then ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "In the van .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What about other expenses ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let ’ s see . Gas , food , recreation , we won ’ t spend much . Come on . Don ’ t hesitate . We need to get out of the house once in a while . We have been working hard , haven ’ t we ?",
+    "occurrences": [
+      "food",
+      "recreation",
+      "don",
+      "haven"
+    ],
+    "word_count": 46,
+    "stop_word_count": 22,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0215,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.803,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0335,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.226,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0511,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Maybe you ’ re right . When do you plan to go ?",
+    "occurrences": [
+      "plan"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.57,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0814,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The sooner the better ! I can ’ t wait !",
+    "occurrences": [
+      "wait"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.046,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1743,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "17%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I don ’ t know where we ’ re going yet .",
+    "occurrences": [
+      "don"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.039,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "As long as we ’ re going , you can decide where to go . I trust your judgments . I know you miss Chinese food , so we can eat at a Chinese restaurant this time .",
+    "occurrences": [
+      "long",
+      "trust",
+      "miss",
+      "food",
+      "time"
+    ],
+    "word_count": 34,
+    "stop_word_count": 18,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.313,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0821,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0161,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.379,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0237,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.141,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0713,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let ’ s go to Chicago.We can have lunch in Chinatown.Then we can go to a ball game at Wrigley Field !",
+    "occurrences": [],
+    "word_count": 20,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You have such good ideas !",
+    "occurrences": [
+      "good"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2553,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3647,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.146,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.234,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.4113,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "41%"
+      ],
+      [
+        "joy",
+        "36%"
+      ],
+      [
+        "anticipation",
+        "25%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Why aren't you doing well in the class ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The material is so abstract that I have trouble understanding it .",
+    "occurrences": [
+      "understanding"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1376,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

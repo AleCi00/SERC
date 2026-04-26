@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Professor Li , do you know where to buy art supplies ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "For what ? Are you taking up painting ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No . I can't paint . I'm asking for my niece . She is really into it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , good . How old is your niece ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "She is eight . Actually , I'm buying a good set of art supplies for her as a birthday gift ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's a wise thing to do . Art will do a child a world of good ."
+  }
+]

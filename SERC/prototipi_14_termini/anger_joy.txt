@@ -1,0 +1,41 @@
+Title: anger-joy
+
+Head Concept Name: anger
+Modifier Concept Name: joy
+
+
+modifier, -holocaust
+
+T(modifier), happiest, 0.986
+T(modifier), happiness, 0.984
+T(modifier), bliss, 0.971
+T(modifier), celebrating, 0.97
+T(modifier), jubilant, 0.969
+T(modifier), ecstatic, 0.954
+T(modifier), elation, 0.944
+T(modifier), beaming, 0.938
+T(modifier), bestdayever, 0.938
+T(modifier), loveee, 0.932
+T(modifier), celebratio, 0.929
+T(modifier), awesomeness, 0.926
+T(modifier), joy, 0.924
+T(modifier), joyous, 0.922
+
+T(head), outraged, 0.964
+T(head), brutality, 0.959
+T(head), hatred, 0.953
+T(head), hateful, 0.94
+T(head), terrorize, 0.939
+T(head), violently, 0.938
+T(head), infuriated, 0.938
+T(head), furious, 0.929
+T(head), furiously, 0.927
+T(head), enraged, 0.927
+T(head), screwyou, 0.924
+T(head), murderer, 0.922
+T(head), fury, 0.922
+T(head), execution, 0.917
+
+
+Result: {"happiest": 0.986, "happiness": 0.984, "bliss": 0.971, "celebrating": 0.97, "jubilant": 0.969, "ecstatic": 0.954, "elation": 0.944, "outraged": 0.964, "brutality": 0.959, "hatred": 0.953, "hateful": 0.94, "terrorize": 0.939, "violently": 0.938, "infuriated": 0.938, "@scenario_probability": 6.450157242856618e-15}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 6.450157242856618e-15]

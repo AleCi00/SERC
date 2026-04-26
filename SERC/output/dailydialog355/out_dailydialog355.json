@@ -1,0 +1,160 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hit ' em high , hit ' em low . Class of ' 93 — let's go !",
+    "occurrences": [
+      "hit",
+      "hit"
+    ],
+    "word_count": 17,
+    "stop_word_count": 1,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.334,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0834,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hi there , everyone . We hope you're having a good night !",
+    "occurrences": [
+      "hope",
+      "good"
+    ],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.312,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.289,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.266,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2833,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.172,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1465,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.594,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3243,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "32%"
+      ],
+      [
+        "anticipation",
+        "28%"
+      ],
+      [
+        "joy",
+        "28%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wasn't that football game great ! I just knew we'd win !",
+    "occurrences": [
+      "football",
+      "win"
+    ],
+    "word_count": 12,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.938,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1042,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.954,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2171,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "21%"
+      ],
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The night is young , folks . Get some food and mingle with those faces from yesterday .",
+    "occurrences": [
+      "food"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0258,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.336,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0336,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Later we'll let you know who the King and Queen of the Reunion will be .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But for now , the band is playing the songs from our senior year . Get out on that dance floor !",
+    "occurrences": [
+      "dance"
+    ],
+    "word_count": 21,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.09,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.109,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.718,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0718,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

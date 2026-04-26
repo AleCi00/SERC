@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I need to get my high speed internet installed ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You'll need to make an appointment ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Could I do that right now , please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What day would you like us to do the installation ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is Friday good ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We're only available at 3"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You can't come any earlier than that ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm sorry . That's the only available time ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you available this Saturday ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . Anytime on Saturday will be fine ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How does 11"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We can do it . See you then ."
+  }
+]

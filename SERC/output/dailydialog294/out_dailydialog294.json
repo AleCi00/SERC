@@ -1,0 +1,103 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Would you check the engine , please ? It is knocking .",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . Do you want to have the car washed ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , please . When can you get it done ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You can pick it up in half an hour . By the way , how are you going to pay , cash or credit ?",
+    "occurrences": [
+      "pay",
+      "cash",
+      "credit"
+    ],
+    "word_count": 23,
+    "stop_word_count": 13,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.039,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0039,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.93,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.093,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.062,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0062,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0648,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.36,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.136,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "13%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "By credit .",
+    "occurrences": [
+      "credit"
+    ],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.258,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "25%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How long have you been in England ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "For almost two years ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Almost two years ? Your English is very good ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you . But there's still a lot for me to learn ."
+  }
+]

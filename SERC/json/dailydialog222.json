@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "May I take your order ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I'd like a cup of onion soup ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And what would you like after that ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'd like the roast chicken , please ."
+  }
+]

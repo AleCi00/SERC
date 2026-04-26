@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "Giulia",
+    "text": "During the vacation I realized that I didn't feel like writing to you okay? I didn't feel like responding to your messages when I saw them. in general in recent months everything that wasn't included in your range of acceptance caused me hours of discussions where you bombarded me with messages even in not very nice tones. I didn't feel 100% like I had my own space. because I couldn't go out with Bea and with Kiki. I couldn't make up doing a walk alone in Padua, everything I said to others I automatically had to tell you, everything I did with others, everything I said to the psychologist. You always expected to be my only priority, but for me life doesn't work like that anymore Pippo. You've given me so much and we've spent beautiful moments together, but certain situations I just can't stand anymore and they've made the love I feel for you decrease",
+    "occurrences": [
+      "vacation",
+      "like",
+      "like",
+      "general",
+      "acceptance",
+      "like",
+      "alone",
+      "expected",
+      "life",
+      "like",
+      "beautiful",
+      "together",
+      "love"
+    ],
+    "word_count": 143,
+    "stop_word_count": 65,
+    "occurrences_count": 13,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.257,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0161,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.988,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0383,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.6,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0077,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 3.749,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0481,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,270 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Did you pack this bag yourself ? Has it been out of your possession at any time before checking-in ?",
+    "occurrences": [
+      "possession",
+      "time"
+    ],
+    "word_count": 21,
+    "stop_word_count": 14,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.206,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0294,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0737,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0257,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.058,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "fear",
+        "5%"
+      ],
+      [
+        "anger",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I packed it myself , and it hasn ’ t been out of my possession .",
+    "occurrences": [
+      "possession"
+    ],
+    "word_count": 15,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.206,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0412,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.036,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0812,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "8%"
+      ],
+      [
+        "anger",
+        "4%"
+      ],
+      [
+        "disgust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you bringing in any plants or animal products ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Our sniffer dog seems to disagree . Do you mind if we look in your suitcase ?",
+    "occurrences": [
+      "disagree",
+      "mind"
+    ],
+    "word_count": 17,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.389,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0432,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0096,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "4%"
+      ],
+      [
+        "disgust",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not at all . Go right ahead .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What ’ s this sir ?",
+    "occurrences": [
+      "sir"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1483,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s traditional Chinese Medicine . I mix it with hot water like tea . Sorry . I forgot about it .",
+    "occurrences": [
+      "hot",
+      "like",
+      "tea"
+    ],
+    "word_count": 21,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.529,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0407,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0145,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0372,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "4%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What are these red things sir ?",
+    "occurrences": [
+      "sir"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1113,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh no ! I forgot about those too ! Those are Chinese sausages for my Aunt Lily .",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m sorry sir , but you can ’ t take any of this into the country . We will also have to check your carry-on . Please step this way . Don ’ t ’ be nervous ; we ’ ll just look through it briefly and then",
+    "occurrences": [
+      "sir",
+      "don",
+      "nervous"
+    ],
+    "word_count": 50,
+    "stop_word_count": 28,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.602,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0274,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0213,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.718,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0326,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi Melissa , are you going home this weekend ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , not this weekend . I have too much work to do ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where do your parents live ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My father lives in Washington DC ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How about your mother ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My mother died two years ago ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , I am sorry to hear that . Is your father still working ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , he's retired ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have any family here ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , two of my cousins live here and my aunt and uncle live about 30 miles from here ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have any brothers or sisters ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I have two brothers who live in New York and a sister who lives in Boston ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you see them a lot ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not as much as I'd like to . Usually just on holidays like Thanksgiving and Christmas ."
+  }
+]

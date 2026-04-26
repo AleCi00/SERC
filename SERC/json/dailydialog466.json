@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can I have the window seat over there ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sorry , sir . That table has been booked ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , in that case , this table is the only choice ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Actually you can have a window seat if you don't mind a ten-minute wait ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "There is no need . Thanks ."
+  }
+]

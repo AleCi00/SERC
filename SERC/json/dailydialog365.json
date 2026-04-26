@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "A :: You must be Wily . It's nice to meet you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "B :: Nice to meet you , Mr . Wilson ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A :: Tim , please . Please be seated ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "B :: Thank you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A :: So , Wily , you have been with IBM for two years , ready for change ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "B :: Well , I think I'm ready for new challenges ."
+  }
+]

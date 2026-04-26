@@ -1,0 +1,387 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What were you and Richard talking about earlier ? It looked intense .",
+    "occurrences": [
+      "intense"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0755,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0365,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.279,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0465,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1028,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0663,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "10%"
+      ],
+      [
+        "anger",
+        "7%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , Richard said something to me that I didn't appreciate .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , no . I know how insensitive he can be . What has he done now ?",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He asked me how long it took me to learn English .",
+    "occurrences": [
+      "long"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0812,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But , you were born and raised in California !",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , but I get that sometimes . It doesn't matter how many generations my family has lived in the U . S . , we'll always be foreigners in their eyes .",
+    "occurrences": [
+      "matter",
+      "family"
+    ],
+    "word_count": 29,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0294,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0281,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ],
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What a racist ! How can you stand working with the guy ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You know , Richard isn't such a bad guy . He made the comment out of ignorance , not malice .",
+    "occurrences": [
+      "bad",
+      "malice"
+    ],
+    "word_count": 18,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.305,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1305,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0391,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.0,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0422,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "13%"
+      ],
+      [
+        "fear",
+        "10%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "So , what did you say when he asked you how long it took you to learn English ?",
+    "occurrences": [
+      "long"
+    ],
+    "word_count": 17,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0677,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I told him 28 years . And , he knows I'm 28 years old since I just celebrated my birthday last week . He was puzzled for a minute , and then he got it .",
+    "occurrences": [
+      "celebrated",
+      "birthday"
+    ],
+    "word_count": 33,
+    "stop_word_count": 15,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.274,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0708,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.55,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0861,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0273,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "surprise",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you sure he really got the message ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , I'm pretty sure since I then asked him how long it took him to learn English .",
+    "occurrences": [
+      "pretty",
+      "long"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.82,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0911,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0521,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0408,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's hilarious ! What did he say ?",
+    "occurrences": [
+      "hilarious"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.344,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2688,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.922,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1844,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "26%"
+      ],
+      [
+        "surprise",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He said , ' 36 years , ' and we both laughed about it . He apologized and now , it's all good .",
+    "occurrences": [
+      "good"
+    ],
+    "word_count": 21,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0383,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0219,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0617,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm glad . I bet he won't make that mistake again .",
+    "occurrences": [
+      "glad",
+      "wont",
+      "mistake"
+    ],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.825,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1031,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.781,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0976,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.039,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ],
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

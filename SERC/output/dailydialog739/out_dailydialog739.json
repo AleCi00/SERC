@@ -1,0 +1,170 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "They ’ ll do the operation for you this Friday .",
+    "occurrences": [
+      "operation"
+    ],
+    "word_count": 10,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0887,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1483,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "14%"
+      ],
+      [
+        "fear",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But Saturday is my birthday .",
+    "occurrences": [
+      "birthday"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3165,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.691,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3455,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.246,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "34%"
+      ],
+      [
+        "anticipation",
+        "31%"
+      ],
+      [
+        "surprise",
+        "24%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think it ’ s important to do now . We can have a birthday party for you when you come out of the hospital .",
+    "occurrences": [
+      "important",
+      "birthday",
+      "party",
+      "hospital"
+    ],
+    "word_count": 26,
+    "stop_word_count": 17,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.456,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1618,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.164,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1293,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "16%"
+      ],
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But it won ’ t be on my birthday .",
+    "occurrences": [
+      "birthday"
+    ],
+    "word_count": 10,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.211,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.691,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2303,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.164,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "23%"
+      ],
+      [
+        "anticipation",
+        "21%"
+      ],
+      [
+        "surprise",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But your health is more important . Believe me !",
+    "occurrences": [
+      "health",
+      "important"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.493,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0986,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1266,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "joy",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

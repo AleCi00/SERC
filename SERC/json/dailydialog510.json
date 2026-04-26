@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Will you be voting ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can ’ t wait to vote ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Who are you voting for ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The person I ’ m voting for is the best ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you like about him ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He is very intelligent ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You think so ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That ’ s right . Plus , I agree with his policies ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m glad to hear that you are so excited ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m voting for the next President ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m sure he will be ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m going to make sure and vote ."
+  }
+]

@@ -1,0 +1,44 @@
+Title: disgust-trust
+
+Head Concept Name: disgust
+Modifier Concept Name: trust
+
+head, -honor
+
+modifier, -cannibalism
+modifier, -molestation
+modifier, -rape
+
+T(modifier), truthfulness, 0.906
+T(modifier), trusted, 0.883
+T(modifier), trustworthy, 0.867
+T(modifier), honor, 0.844
+T(modifier), honesty, 0.844
+T(modifier), honest, 0.844
+T(modifier), truth, 0.844
+T(modifier), truthful, 0.836
+T(modifier), trusting, 0.836
+T(modifier), brotherhood, 0.82
+T(modifier), entrust, 0.812
+T(modifier), committed, 0.805
+T(modifier), loyalty, 0.805
+T(modifier), integrity, 0.805
+
+T(head), cannibalism, 0.953
+T(head), mutilation, 0.93
+T(head), molestation, 0.914
+T(head), incest, 0.914
+T(head), rape, 0.906
+T(head), gonorrhea, 0.906
+T(head), cannibal, 0.898
+T(head), rot, 0.891
+T(head), corpse, 0.883
+T(head), massacre, 0.883
+T(head), excrement, 0.883
+T(head), barf, 0.875
+T(head), slaughter, 0.875
+T(head), slaughterhouse, 0.867
+
+
+Result: {"truthfulness": 0.906, "trusted": 0.883, "trustworthy": 0.867, "mutilation": 0.93, "incest": 0.914, "gonorrhea": 0.906, "cannibal": 0.898, "rot": 0.891, "corpse": 0.883, "massacre": 0.883, "excrement": 0.883, "barf": 0.875, "slaughter": 0.875, "slaughterhouse": 0.867, "@scenario_probability": 2.966068225164834e-11}
+Scenario: [1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2.966068225164834e-11]

@@ -1,0 +1,175 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Honey , I ’ ll be right back !",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Where are you going ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I told you already ! I ’ m going to get my nails done .",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Again ? You just went last week ! You spend more time at the nail salon than you do here at home ! Honestly , why do you need a manicure every week ?",
+    "occurrences": [
+      "time",
+      "home",
+      "manicure"
+    ],
+    "word_count": 33,
+    "stop_word_count": 16,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.032,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0607,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.462,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , first of all , I like to pamper myself , and my nails look great . You should come with me !",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 20,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0484,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why ? I don ’ t want to have nail polish or anything like that !",
+    "occurrences": [
+      "don",
+      "like"
+    ],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.514,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1893,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "They don ’ t only paint my nails ! The manicurist will remove my cuticles , file my nails , and apply at least nails coats of nail polish !",
+    "occurrences": [
+      "don",
+      "remove"
+    ],
+    "word_count": 28,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.351,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0219,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0205,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0176,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.546,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0341,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anger",
+        "2%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , sounds like something I should definitely do .",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0807,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

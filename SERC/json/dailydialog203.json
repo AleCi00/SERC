@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello . I bought a China dress in your shop this morning ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I bought it one size up by mistake ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , did you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I wonder if you can change it to one size down ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , of course.Will you come with the receipt ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Then I'll come to your place later in the evening , and how late is your shop open ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Until 8 o'clock , ma'am . We are looking forward to seeing you ."
+  }
+]

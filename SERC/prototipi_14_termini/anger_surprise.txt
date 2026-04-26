@@ -1,0 +1,41 @@
+Title: anger-surprise
+
+Head Concept Name: anger
+Modifier Concept Name: surprise
+
+
+modifier, -anticipation
+
+T(modifier), surprise, 0.93
+T(modifier), explode, 0.906
+T(modifier), flabbergast, 0.906
+T(modifier), explosion, 0.898
+T(modifier), ambush, 0.883
+T(modifier), explosive, 0.883
+T(modifier), eruption, 0.883
+T(modifier), surprisingly, 0.875
+T(modifier), startle, 0.875
+T(modifier), shockingly, 0.875
+T(modifier), frighten, 0.875
+T(modifier), surprised, 0.867
+T(modifier), frightened, 0.867
+T(modifier), surprising, 0.867
+
+T(head), outraged, 0.964
+T(head), brutality, 0.959
+T(head), hatred, 0.953
+T(head), hateful, 0.94
+T(head), terrorize, 0.939
+T(head), violently, 0.938
+T(head), infuriated, 0.938
+T(head), furious, 0.929
+T(head), furiously, 0.927
+T(head), enraged, 0.927
+T(head), screwyou, 0.924
+T(head), murderer, 0.922
+T(head), fury, 0.922
+T(head), execution, 0.917
+
+
+Result: {"surprise": 0.93, "outraged": 0.964, "brutality": 0.959, "hatred": 0.953, "hateful": 0.94, "terrorize": 0.939, "violently": 0.938, "infuriated": 0.938, "furious": 0.929, "furiously": 0.927, "enraged": 0.927, "screwyou": 0.924, "murderer": 0.922, "fury": 0.922, "@scenario_probability": 2.74578254584156e-12}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 2.74578254584156e-12]

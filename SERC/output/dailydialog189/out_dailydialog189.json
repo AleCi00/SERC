@@ -1,0 +1,124 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I am calling to ask about the position of an usher .",
+    "occurrences": [
+      "usher"
+    ],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0782,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Anything you would like to know ?",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What qualities do you expect the applicants to have ?",
+    "occurrences": [
+      "qualities",
+      "expect"
+    ],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.742,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1855,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.148,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.037,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2735,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "27%"
+      ],
+      [
+        "anticipation",
+        "18%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We expect the usher girl to be good-looking , no less than 165 centimeters high , and love smiling .",
+    "occurrences": [
+      "expect",
+      "usher",
+      "good",
+      "less",
+      "love",
+      "smiling"
+    ],
+    "word_count": 19,
+    "stop_word_count": 7,
+    "occurrences_count": 6,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.125,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.167,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0139,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.203,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1836,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0306,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.243,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1869,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "18%"
+      ],
+      [
+        "joy",
+        "18%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I had a big argument with david yesterday . I hope he ’ s not still mad at me ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What did you argue about ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "He borrowed some money from me and I needed it back . He said he didn ’ t have the money yet ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , he should pay you back . It ’ s only fair ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , but I got angry with him too quickly . He probably thought that I mistrusted him . I shouldn ’ t have got angry ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Did you lend him a lot of money ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not much . I had to pay an unexpected bill , so I needed the money back ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , talk to him about it next time you see him . He probably feels as bad about it as you do . Close friends sometimes have disagreements . It ’ s nothing unusual . Neither of you said anything really nasty , did you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , we didn ’ t . I guess you ’ re right . We should patch things up ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Of course you should . You wouldn ’ t want a silly argument to ruin a long friendship , would you ?"
+  }
+]

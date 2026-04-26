@@ -1,0 +1,435 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good afternoon ! Can I help you ?",
+    "occurrences": [
+      "good",
+      "help"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1532,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0406,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2188,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0876,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.234,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2468,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "24%"
+      ],
+      [
+        "joy",
+        "21%"
+      ],
+      [
+        "anticipation",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Could you show me where the Chinesc-style clothing is located ? I want to buy a silk coat .",
+    "occurrences": [
+      "show"
+    ],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.032,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "This way , please . Here they are . They're all handmade .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , they look nice . May I try that black one on ?",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Of course . The fitting room is right over there .",
+    "occurrences": [
+      "fitting"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0742,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.043,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0677,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you have a medium in the same color ? This one is a little tight .",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "l'm sorry . All the black of that size are sold out . Would you like a red one ?",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 20,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . Let me try it on . What do you think ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , that suits you very well . Besides it is believed in China that the red color brings happiness and good luck .",
+    "occurrences": [
+      "believed",
+      "happiness",
+      "good",
+      "luck"
+    ],
+    "word_count": 22,
+    "stop_word_count": 9,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.618,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1245,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.015,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.155,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0559,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.305,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1004,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "fear-joy": 0.984,
+    "fear-joy_computed": 0.0757,
+    "surprise-joy": 0.984,
+    "surprise-joy_computed": 0.0757,
+    "anger-joy": 0.984,
+    "anger-joy_computed": 0.0757,
+    "anticipation-joy": 0.984,
+    "anticipation-joy_computed": 0.0757,
+    "joy-surprise": 0.984,
+    "joy-surprise_computed": 0.0757,
+    "trust-joy": 0.984,
+    "trust-joy_computed": 0.0757,
+    "disgust-joy": 0.984,
+    "disgust-joy_computed": 0.0757,
+    "joy-anger": 0.984,
+    "joy-anger_computed": 0.0757,
+    "joy-anticipation": 0.984,
+    "joy-anticipation_computed": 0.0757,
+    "joy-trust": 0.984,
+    "joy-trust_computed": 0.0757,
+    "joy-fear": 0.984,
+    "joy-fear_computed": 0.0757,
+    "joy-disgust": 0.984,
+    "joy-disgust_computed": 0.0757,
+    "main_emotion": [
+      [
+        "joy",
+        "15%"
+      ],
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "fear-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anger",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anticipation",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-disgust",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-fear",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-surprise",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-trust",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "trust-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Really ? I'II take it and I'm leaving here tomorrow . Is it possible for you to send one in black to me by mail when you get it in ?",
+    "occurrences": [
+      "leaving",
+      "tomorrow",
+      "mail"
+    ],
+    "word_count": 31,
+    "stop_word_count": 17,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.109,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0792,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.019,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Our pleasure . Please fill out this form , leaving your address and telephone number .",
+    "occurrences": [
+      "pleasure",
+      "fill",
+      "leaving"
+    ],
+    "word_count": 15,
+    "stop_word_count": 5,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.803,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0803,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0266,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.32,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.032,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks . How much would that come to ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let me see ...",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

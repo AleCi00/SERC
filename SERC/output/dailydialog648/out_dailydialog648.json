@@ -1,0 +1,377 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "what's wrong , Jerry ? You look so upset .",
+    "occurrences": [
+      "upset"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.439,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0732,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0937,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "9%"
+      ],
+      [
+        "anger",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "to be honest , I was just dumped .",
+    "occurrences": [
+      "honest"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.087,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.029,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.055,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0183,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.047,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0157,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.303,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.101,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.062,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0207,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2813,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "anticipation-trust": 0.844,
+    "anticipation-trust_computed": 0.2813,
+    "trust-anticipation": 0.844,
+    "trust-anticipation_computed": 0.2813,
+    "main_emotion": [
+      [
+        "trust",
+        "28%"
+      ],
+      [
+        "anticipation-trust",
+        "28%"
+      ],
+      [
+        "trust-anticipation",
+        "28%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "honest",
+            "score": 0.844
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "honest",
+            "score": 0.844
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker1",
+    "text": "oh , I'm sorry to hear that . You can go on a holiday to cheer you up .",
+    "occurrences": [
+      "holiday",
+      "cheer"
+    ],
+    "word_count": 18,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.203,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1504,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.609,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2011,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0674,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0684,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "20%"
+      ],
+      [
+        "anticipation",
+        "15%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "no , thanks . I'm not in the mood for traveling .",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "come on . A trip will do you good . Are you doing anything this weekend ?",
+    "occurrences": [
+      "trip",
+      "good",
+      "weekend"
+    ],
+    "word_count": 17,
+    "stop_word_count": 9,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0479,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.988,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1235,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0771,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ],
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "surprise",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I was planning on doing a lot of wallowing .",
+    "occurrences": [
+      "planning"
+    ],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1308,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1542,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "15%"
+      ],
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "well , my friends and I are planning on going to Shangri-La on Saturday . Do you want to come with us ?",
+    "occurrences": [
+      "friends",
+      "planning"
+    ],
+    "word_count": 19,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0581,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0556,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0686,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "where is that ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "not very far from here . We'll fly . It's about one and a half hours .",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "what's there to see ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "there is a large canyon , vast grasslands , ancient forests and mountain lakes .",
+    "occurrences": [
+      "mountain"
+    ],
+    "word_count": 13,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0278,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "oh , sounds nice .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "yes , the scenery there is breathtaking . I have some pictures at home . You can come over and take a look if you like .",
+    "occurrences": [
+      "scenery",
+      "breathtaking",
+      "home",
+      "like"
+    ],
+    "word_count": 26,
+    "stop_word_count": 14,
+    "occurrences_count": 4,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.74,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.145,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "14%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "ok . Then I can make up my mind .",
+    "occurrences": [
+      "mind"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0172,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

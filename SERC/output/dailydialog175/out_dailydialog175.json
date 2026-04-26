@@ -1,0 +1,551 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can you tell that I ’ m excited ?",
+    "occurrences": [
+      "excited"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.859,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2147,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.818,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2045,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1562,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1133,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "anticipation-anger": 0.859,
+    "anticipation-anger_computed": 0.2147,
+    "surprise-anticipation": 0.859,
+    "surprise-anticipation_computed": 0.2147,
+    "anticipation-trust": 0.859,
+    "anticipation-trust_computed": 0.2147,
+    "anticipation-joy": 0.859,
+    "anticipation-joy_computed": 0.2147,
+    "anticipation-surprise": 0.859,
+    "anticipation-surprise_computed": 0.2147,
+    "anticipation-disgust": 0.859,
+    "anticipation-disgust_computed": 0.2147,
+    "anticipation-sadness": 0.859,
+    "anticipation-sadness_computed": 0.2147,
+    "anticipation-fear": 0.859,
+    "anticipation-fear_computed": 0.2147,
+    "trust-anticipation": 0.859,
+    "trust-anticipation_computed": 0.2147,
+    "main_emotion": [
+      [
+        "anticipation",
+        "21%"
+      ],
+      [
+        "anticipation-anger",
+        "21%"
+      ],
+      [
+        "surprise-anticipation",
+        "21%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-anger",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-disgust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-sadness",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-surprise",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What are you excited about ?",
+    "occurrences": [
+      "excited"
+    ],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.859,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.4295,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.818,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.409,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3125,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2265,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "anticipation-anger": 0.859,
+    "anticipation-anger_computed": 0.4295,
+    "surprise-anticipation": 0.859,
+    "surprise-anticipation_computed": 0.4295,
+    "anticipation-trust": 0.859,
+    "anticipation-trust_computed": 0.4295,
+    "anticipation-joy": 0.859,
+    "anticipation-joy_computed": 0.4295,
+    "anticipation-surprise": 0.859,
+    "anticipation-surprise_computed": 0.4295,
+    "anticipation-disgust": 0.859,
+    "anticipation-disgust_computed": 0.4295,
+    "anticipation-sadness": 0.859,
+    "anticipation-sadness_computed": 0.4295,
+    "anticipation-fear": 0.859,
+    "anticipation-fear_computed": 0.4295,
+    "trust-anticipation": 0.859,
+    "trust-anticipation_computed": 0.4295,
+    "main_emotion": [
+      [
+        "anticipation",
+        "42%"
+      ],
+      [
+        "anticipation-anger",
+        "42%"
+      ],
+      [
+        "surprise-anticipation",
+        "42%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-anger",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-disgust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-sadness",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-surprise",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I voted today .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Was this your first time ?",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.172,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "17%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I just turned 18 a month ago .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You ’ re lucky .",
+    "occurrences": [
+      "lucky"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.721,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2403,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1797,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "24%"
+      ],
+      [
+        "surprise",
+        "17%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you mean ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Because you turned 18 in an election year .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I didn ’ t even think of that .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You didn ’ t ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I really didn ’ t , but I ’ m still excited .",
+    "occurrences": [
+      "excited"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.859,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1432,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.818,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1363,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1042,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0755,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "anticipation-anger": 0.859,
+    "anticipation-anger_computed": 0.1432,
+    "surprise-anticipation": 0.859,
+    "surprise-anticipation_computed": 0.1432,
+    "anticipation-trust": 0.859,
+    "anticipation-trust_computed": 0.1432,
+    "anticipation-joy": 0.859,
+    "anticipation-joy_computed": 0.1432,
+    "anticipation-surprise": 0.859,
+    "anticipation-surprise_computed": 0.1432,
+    "anticipation-disgust": 0.859,
+    "anticipation-disgust_computed": 0.1432,
+    "anticipation-sadness": 0.859,
+    "anticipation-sadness_computed": 0.1432,
+    "anticipation-fear": 0.859,
+    "anticipation-fear_computed": 0.1432,
+    "trust-anticipation": 0.859,
+    "trust-anticipation_computed": 0.1432,
+    "main_emotion": [
+      [
+        "anticipation",
+        "14%"
+      ],
+      [
+        "anticipation-anger",
+        "14%"
+      ],
+      [
+        "surprise-anticipation",
+        "14%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-anger",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-disgust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-sadness",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-surprise",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You should be , because you ’ re a part of history .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

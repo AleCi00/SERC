@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you have a package tour to Hollywood ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , here is the table , which plans do you like best ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The seven-days trip shall be fine . How much is this tour ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "$ 300 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We will take the trip . Could you give us a pamphlet ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here you are ."
+  }
+]

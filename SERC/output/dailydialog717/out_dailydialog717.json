@@ -1,0 +1,99 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How many cleaning ladies does your company hire ?",
+    "occurrences": [
+      "hire"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0782,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0338,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0807,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We have two cleaning ladies . But both of them have received little education .",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Most cleaning ladies are illiterate . But some of them do a very nice job .",
+    "occurrences": [
+      "illiterate"
+    ],
+    "word_count": 16,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But I actually dislike another lady . She is more capable and seems to have ideas of her own . But the trouble is she is a backseat driver with some of us . She would tell you what to do and where to put things .",
+    "occurrences": [
+      "dislike"
+    ],
+    "word_count": 46,
+    "stop_word_count": 27,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0247,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0214,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "2%"
+      ],
+      [
+        "disgust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

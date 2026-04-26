@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Who gave my dog this cooked chicken bone ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I did . Why ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Didn't you know dogs shouldn't eat cooked chicken bones because they're bad for their stomachs ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , I didn't . I'm sorry . It won't happen again ."
+  }
+]

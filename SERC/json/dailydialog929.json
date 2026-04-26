@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me . Do you have the time ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My watch is a few minutes fast . It's about six forty , I think ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is it ? Oh , no . The concert will begin in twenty minutes . Are we too late to get there ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If we start now , we can make it by taxi ."
+  }
+]

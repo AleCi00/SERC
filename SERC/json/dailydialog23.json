@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Tell me a little bit about yourself , please ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My name is Dunlin and I live in Beijing . I was born in 1980 . I will graduate from Peking University this July . I have majored in accounting ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you tell me something about your family ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "There are three in my family , my parents and myself . My father is a teacher and my mother is a worker ."
+  }
+]

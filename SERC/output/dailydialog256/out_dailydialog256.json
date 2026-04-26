@@ -1,0 +1,274 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning , Angela , how have you been lately ?",
+    "occurrences": [
+      "good",
+      "morning"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0958,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1993,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0548,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1542,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "19%"
+      ],
+      [
+        "trust",
+        "15%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Morning , Michael . I ’ Ve been very busy lately . One of our other vendors is going out of business and I ’ Ve been searching for a suitable replacement .",
+    "occurrences": [
+      "morning"
+    ],
+    "word_count": 28,
+    "stop_word_count": 13,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0167,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , rest assured that you can count on us to be here for the long run , sitdown.Coffee ?",
+    "occurrences": [
+      "rest",
+      "assured",
+      "count",
+      "long",
+      "run"
+    ],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0451,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0278,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0521,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.055,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1172,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thanks . I ’ Ve been trying to cut down on the caffeine .",
+    "occurrences": [
+      "down"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0401,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Haha , I could never do that . I ’ d be a zombie if I didn ’ t have my morning coffee fix . Let ’ s get down to business then .",
+    "occurrences": [
+      "morning",
+      "coffee",
+      "down"
+    ],
+    "word_count": 31,
+    "stop_word_count": 15,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.583,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0364,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0176,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I ’ Ve come to talk with you about ordering the eight megapixel cameras for our new methone . The demand for phone cameras is growing , and Pear has been falling behind in the market .",
+    "occurrences": [
+      "demand",
+      "falling"
+    ],
+    "word_count": 36,
+    "stop_word_count": 16,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.485,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0243,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0211,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "2%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That ’ s great ! I ’ m glad to hear that Pear has finally jumped on the bandwagon . Right now our contract is for the five megapixel cameras . Is Pear still interested in having those ?",
+    "occurrences": [
+      "glad",
+      "finally",
+      "interested"
+    ],
+    "word_count": 37,
+    "stop_word_count": 18,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.106,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0582,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0107,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.938,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0494,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.114,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.006,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0238,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , we ’ re changing all the cameras to eight megapixels . We were hoping that by making your company our sole supplier for cameras we could negotiate a better deal .",
+    "occurrences": [
+      "negotiate",
+      "deal"
+    ],
+    "word_count": 32,
+    "stop_word_count": 15,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.402,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0236,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0184,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.227,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0134,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.836,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0492,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Surely . Let ’ s get started by drafting a new contract .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

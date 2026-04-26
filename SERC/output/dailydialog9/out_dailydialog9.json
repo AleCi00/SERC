@@ -1,0 +1,305 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "My dear , what's for supper ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Red cooked carp and rape with fresh mushrooms .",
+    "occurrences": [
+      "rape"
+    ],
+    "word_count": 9,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.894,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1277,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1294,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.87,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1243,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.875,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "disgust-anticipation": 0.906,
+    "disgust-anticipation_computed": 0.1294,
+    "surprise-disgust": 0.906,
+    "surprise-disgust_computed": 0.1294,
+    "disgust-surprise": 0.906,
+    "disgust-surprise_computed": 0.1294,
+    "anticipation-disgust": 0.906,
+    "anticipation-disgust_computed": 0.1294,
+    "main_emotion": [
+      [
+        "disgust",
+        "12%"
+      ],
+      [
+        "disgust-anticipation",
+        "12%"
+      ],
+      [
+        "surprise-disgust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-disgust",
+        "matched_words": [
+          {
+            "word": "rape",
+            "score": 0.906
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-anticipation",
+        "matched_words": [
+          {
+            "word": "rape",
+            "score": 0.906
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-surprise",
+        "matched_words": [
+          {
+            "word": "rape",
+            "score": 0.906
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-disgust",
+        "matched_words": [
+          {
+            "word": "rape",
+            "score": 0.906
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What about soup ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sour-peppery soup .",
+    "occurrences": [
+      "sour"
+    ],
+    "word_count": 4,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1035,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "disgust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Which condiment do you use for ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'll use ginger , garlic scallion , hot pepper and vinegar .",
+    "occurrences": [
+      "ill",
+      "hot"
+    ],
+    "word_count": 10,
+    "stop_word_count": 1,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.862,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0958,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.069,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.066,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "9%"
+      ],
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "sadness",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Very good , need I help you ?",
+    "occurrences": [
+      "good",
+      "help"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0958,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0508,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1368,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0548,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1542,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "15%"
+      ],
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , don't need , I can do myself .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks . I can watch TV now .",
+    "occurrences": [
+      "watch"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1046,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0376,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ],
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But you must cook that dinner next time .",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Okay , I'll do it next time .",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.129,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

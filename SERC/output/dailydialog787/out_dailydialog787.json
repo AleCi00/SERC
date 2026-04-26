@@ -1,0 +1,266 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Well , how did you enjoy your seaside trip ?",
+    "occurrences": [
+      "enjoy",
+      "trip"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1156,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1624,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0562,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "16%"
+      ],
+      [
+        "anticipation",
+        "11%"
+      ],
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It was funny .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Tell me about it , will you ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , we drove through the valley on our way there in the morning . It was a magnificent sight .",
+    "occurrences": [
+      "morning",
+      "magnificent"
+    ],
+    "word_count": 20,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.059,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.109,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1232,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.508,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0564,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0651,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Did you stop at the big waterfall for pictures ?",
+    "occurrences": [
+      "waterfall"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0906,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure , we wouldn't miss it for anything . After that , we took a short cut to the park . There was very little traffic , so we got there in less than an hour .",
+    "occurrences": [
+      "miss",
+      "less"
+    ],
+    "word_count": 34,
+    "stop_word_count": 18,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.167,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0104,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.379,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0237,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "2%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You were lucky then . What did you do after that ?",
+    "occurrences": [
+      "lucky"
+    ],
+    "word_count": 12,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.721,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2403,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1797,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "24%"
+      ],
+      [
+        "surprise",
+        "17%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We went for a swim in the sea . That was the best part of the day . Just look at my nice tan .",
+    "occurrences": [
+      "swim",
+      "tan"
+    ],
+    "word_count": 25,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0104,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0345,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "So you must have had a busy and enjoyable day yesterday .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , you're right . And I was so tired that I fell asleep on the way back . My arms are still stiff from the swim yesterday .",
+    "occurrences": [
+      "fell",
+      "swim"
+    ],
+    "word_count": 26,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0078,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0171,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0283,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

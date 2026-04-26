@@ -1,0 +1,355 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Will you be voting ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can ’ t wait to vote .",
+    "occurrences": [
+      "wait",
+      "vote"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.045,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0112,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.07,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2675,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0585,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.031,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0077,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1388,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "26%"
+      ],
+      [
+        "trust",
+        "13%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Who are you voting for ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The person I ’ m voting for is the best .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you like about him ?",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 7,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.242,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "24%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He is very intelligent .",
+    "occurrences": [
+      "intelligent"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.336,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "33%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You think so ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That ’ s right . Plus , I agree with his policies .",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m glad to hear that you are so excited .",
+    "occurrences": [
+      "glad",
+      "excited"
+    ],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.395,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.279,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.599,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3198,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0906,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "anticipation-anger": 0.859,
+    "anticipation-anger_computed": 0.1718,
+    "surprise-anticipation": 0.859,
+    "surprise-anticipation_computed": 0.1718,
+    "anticipation-trust": 0.859,
+    "anticipation-trust_computed": 0.1718,
+    "anticipation-joy": 0.859,
+    "anticipation-joy_computed": 0.1718,
+    "anticipation-surprise": 0.859,
+    "anticipation-surprise_computed": 0.1718,
+    "anticipation-disgust": 0.859,
+    "anticipation-disgust_computed": 0.1718,
+    "anticipation-sadness": 0.859,
+    "anticipation-sadness_computed": 0.1718,
+    "anticipation-fear": 0.859,
+    "anticipation-fear_computed": 0.1718,
+    "trust-anticipation": 0.859,
+    "trust-anticipation_computed": 0.1718,
+    "main_emotion": [
+      [
+        "joy",
+        "31%"
+      ],
+      [
+        "anticipation",
+        "27%"
+      ],
+      [
+        "anticipation-anger",
+        "17%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-anger",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-disgust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-sadness",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-surprise",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m voting for the next President .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m sure he will be .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m going to make sure and vote .",
+    "occurrences": [
+      "vote"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.045,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0075,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0912,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.039,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.031,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0052,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0208,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0925,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Why are you so quiet ?",
+    "occurrences": [
+      "quiet"
+    ],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.094,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.094,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.047,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My girlfriend just broke up with me .",
+    "occurrences": [
+      "broke"
+    ],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.146,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1613,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "16%"
+      ],
+      [
+        "fear",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You must feel terrible now .",
+    "occurrences": [
+      "terrible"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.172,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1405,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1485,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1445,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "17%"
+      ],
+      [
+        "fear",
+        "14%"
+      ],
+      [
+        "sadness",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I remember my first break up . It was the worst feeling in the world . I was crying everyday for three months . And slowly , it got better . I know you'll feel better too .",
+    "occurrences": [
+      "break",
+      "feeling",
+      "crying",
+      "youll"
+    ],
+    "word_count": 37,
+    "stop_word_count": 15,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.147,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0067,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0252,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0064,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0149,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.515,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0234,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.953,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0433,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.82,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0373,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.846,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0385,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You've been through this too ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah . I remember it very clearly . The pain makes it easy to remember . I know you're really hurting right now , but you know many people experience break ups .",
+    "occurrences": [
+      "pain",
+      "hurting",
+      "experience",
+      "break"
+    ],
+    "word_count": 32,
+    "stop_word_count": 10,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.712,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0324,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0575,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0241,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.344,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0611,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.021,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "6%"
+      ],
+      [
+        "fear",
+        "5%"
+      ],
+      [
+        "anger",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But it hurts too much .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I know it's painful , but it's only temporary . After the pain goes away , you'll find other girls .",
+    "occurrences": [
+      "painful",
+      "pain",
+      "youll"
+    ],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.426,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0387,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0483,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.438,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1307,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.469,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1335,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0298,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "13%"
+      ],
+      [
+        "fear",
+        "13%"
+      ],
+      [
+        "disgust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What if I don't want to find another girl ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You'll change your mind . Look at everyone in the world . They all break up and move on . The faster you understand this , the quicker you will recover .",
+    "occurrences": [
+      "youll",
+      "change",
+      "mind",
+      "break"
+    ],
+    "word_count": 31,
+    "stop_word_count": 15,
+    "occurrences_count": 4,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0054,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.198,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0124,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.156,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0097,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0288,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0205,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "2%"
+      ],
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You're right .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I also know you must still have strong feelings for her , but try to think of all the bad things . You know she didn't treat you that well . Is that the person you want to spend the rest of your life with ?",
+    "occurrences": [
+      "strong",
+      "bad",
+      "treat",
+      "rest",
+      "life"
+    ],
+    "word_count": 45,
+    "stop_word_count": 23,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.628,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0285,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0235,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0213,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0213,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.436,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0653,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.498,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0226,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0142,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.984,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0447,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anger",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah . Thanks for the talk .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'll give you a call later . We should hang out . It's good to be around people .",
+    "occurrences": [
+      "ill",
+      "good"
+    ],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0303,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0348,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0447,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0565,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0497,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.054,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0199,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0561,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "5%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ok . I'll talk to you later .",
+    "occurrences": [
+      "ill"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0555,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.082,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1035,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.099,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "10%"
+      ],
+      [
+        "sadness",
+        "9%"
+      ],
+      [
+        "disgust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

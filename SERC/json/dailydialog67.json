@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good day ! Welcome to Lincoln Bank , how may we assist you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hello . I need to find out if a Receipt of Proceeds has arrived . I'm from Felix Wasserman Associates ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks . Have you got the L / C number ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's NX567822100007 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hang on a tick and I'll check for you . I'm sorry ; we have no record of that arriving ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK , thanks for checking . Could you give me a ring when it arrives , please ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No problem . I'll be in touch as soon as it comes in ."
+  }
+]

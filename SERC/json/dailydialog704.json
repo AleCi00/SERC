@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How about eating out for a drink with me tonight ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Tonight ? I'm afraid I can't . I've promised Mark to go to the gym . Can we make it tomorrow ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No problem . Let's say 6:30 p . m . at the Royal Restaurant , OK ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All right . See you tomorrow night ."
+  }
+]

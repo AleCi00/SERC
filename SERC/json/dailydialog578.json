@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Office Supplies , Inc . Robert speaking , may I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hi , Robert . This is Janet Reese calling from American Advertising . We placed an order with you about a week ago ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , Ms . Reese . I remember , you spoke with me . Is there a problem ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , it still hasn ’ t gotten here , and my boss is pretty angry about it ."
+  }
+]

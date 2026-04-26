@@ -1,0 +1,310 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I don ’ t want you to be worried , but our son has some bad habits now . He says painful words everyday .",
+    "occurrences": [
+      "don",
+      "worried",
+      "bad",
+      "painful",
+      "words"
+    ],
+    "word_count": 24,
+    "stop_word_count": 12,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.941,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0784,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.922,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0768,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.685,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1404,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.793,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1494,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0228,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "14%"
+      ],
+      [
+        "fear",
+        "14%"
+      ],
+      [
+        "anger",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What words ? Can you tell me ?",
+    "occurrences": [
+      "words"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.062,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0155,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "He says kick mommy , beat mommy , don ’ t want mommy , very quickly if I do something that he doesn ’ t like . You know , if I wash his face or change his clothes , things like that .",
+    "occurrences": [
+      "kick",
+      "don",
+      "like",
+      "change",
+      "like"
+    ],
+    "word_count": 37,
+    "stop_word_count": 16,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.667,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0318,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.198,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0094,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.241,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0591,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "anger",
+        "3%"
+      ],
+      [
+        "fear",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Honey , I don ’ t know what to tell you . Of course Tony is a young child . But do not underestimate his ability to learn and reason .",
+    "occurrences": [
+      "don",
+      "child",
+      "underestimate"
+    ],
+    "word_count": 28,
+    "stop_word_count": 14,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0374,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.466,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0333,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0346,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0195,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , but sometimes he is just not reasonable .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I suggest you treat him with patience , affection , and respect . If he needs to do something , like go to bed , or be washed , etc . , please guide or help him to get it done , but lead him with gentleness .",
+    "occurrences": [
+      "suggest",
+      "treat",
+      "patience",
+      "affection",
+      "respect",
+      "like",
+      "guide",
+      "help"
+    ],
+    "word_count": 41,
+    "stop_word_count": 19,
+    "occurrences_count": 8,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.175,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.008,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.376,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0035,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0135,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.676,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0762,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.076,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0035,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0142,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 3.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1644,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "16%"
+      ],
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It ’ s easy to say , but I will try .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Motivate Tony to cooperate by rewarding his good behavior . Do not emphasize punishment for bad moods , etc . Do not threaten him with punishment if he resists the actions you desire .",
+    "occurrences": [
+      "rewarding",
+      "good",
+      "emphasize",
+      "punishment",
+      "bad",
+      "threaten",
+      "punishment",
+      "desire"
+    ],
+    "word_count": 32,
+    "stop_word_count": 14,
+    "occurrences_count": 8,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 2.365,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1314,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.867,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0482,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.173,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0652,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 2.421,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1345,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.773,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0985,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0234,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0122,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.055,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0586,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "13%"
+      ],
+      [
+        "anger",
+        "13%"
+      ],
+      [
+        "joy",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I know my parents sometimes threaten to punish him . But this doesn ’ t work , instead he picks up another bad habit .",
+    "occurrences": [
+      "threaten",
+      "punish",
+      "bad"
+    ],
+    "word_count": 24,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.271,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0908,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0346,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0279,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.64,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1171,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0301,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "11%"
+      ],
+      [
+        "anger",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

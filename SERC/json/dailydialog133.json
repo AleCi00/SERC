@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Please tell me something about your insurance background ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I majored in international banking at college so I took many insurance courses . And I worked at an insurance company for my graduation field work ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why do you want to be an insurance agent ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I care about people and I know the importance of insurance ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have any work experience in promotion ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I do . I have worked as a salesman for P & G Company Ltd ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do people respond well to you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I'm good with people ."
+  }
+]

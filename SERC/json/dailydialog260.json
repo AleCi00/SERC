@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How much is it all together ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me see . The bell-bottom pants are $ 90 and the coat is $ 120 . It comes to $ 210 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is it possible for you to reduce the price ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am sorry . It's a one-price shop ."
+  }
+]

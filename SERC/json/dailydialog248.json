@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , this is room 1205 . Our message lamp is flashing ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hold on a minute , please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am sorry to have kept you waiting . Mr . Johns needs a telephone call from you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you bring the message to my room ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm afraid we have nobody available at the moment ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Then I'll come down and pick up the message immediately ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK , we wait for you ."
+  }
+]

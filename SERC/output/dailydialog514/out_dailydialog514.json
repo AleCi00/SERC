@@ -1,0 +1,107 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I am sorry to have kept all of you waiting . I was delayed by something urgent .",
+    "occurrences": [
+      "waiting",
+      "urgent"
+    ],
+    "word_count": 18,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.391,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1739,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.591,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0739,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0869,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "17%"
+      ],
+      [
+        "surprise",
+        "8%"
+      ],
+      [
+        "fear",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You are not late , Mr . Thomas . There're still 15 minutes to go . Mr . White has just called you .",
+    "occurrences": [
+      "late"
+    ],
+    "word_count": 22,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0083,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What did he say ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He said there was a traffic jam , but he is coming .",
+    "occurrences": [
+      "coming"
+    ],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1266,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "He shouldn't drive his car . He should come here by bus .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

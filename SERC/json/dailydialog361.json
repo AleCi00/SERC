@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m going to be moving out soon ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You still have time on your lease ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "There ’ s no way that I can stay here ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That ’ s not going to be all right ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don ’ t understand why ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m going to have to keep your deposit"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why can ’ t I have it back ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Because you ’ re leaving before your lease is over ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You have to give it back to me ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You ’ re not going to get it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But I ’ m not able to live here anymore ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can ’ t help you with that ."
+  }
+]

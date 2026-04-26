@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I should tell you that I'm checking out in about 30 minutes ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm ready when you are , sir ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Very good ! Now , it's still morning here in New York ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You are so right , sir . The clock just struck nine ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm going to spend some time exploring the city . What can I do with my luggage ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sir , right here we have a storage site . Its only $ 5 an hour , but you need to leave a deposit ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A deposit ? Isn't my luggage a deposit ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm sorry , sir , but it isn't . Your MasterCard or VISA will take care of things nicely ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Okay . Let me think about this ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Okay , sir . But don't take too long . You only have 30 minutes ."
+  }
+]

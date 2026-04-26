@@ -1,0 +1,563 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Honey , do you have a second ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure ! Are you okay ? You seem a bit worried.What ’ s on your mind ?",
+    "occurrences": [
+      "worried",
+      "mind"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0086,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.466,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0466,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0621,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "6%"
+      ],
+      [
+        "fear",
+        "4%"
+      ],
+      [
+        "disgust",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We need to talk .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Okay ...",
+    "occurrences": [],
+    "word_count": 1,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ Ve been thinking , and well , I think we need to start seeing other people .",
+    "occurrences": [
+      "start"
+    ],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0833,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0382,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What ? Why ? I mean , we ’ Ve had our ups and downs , and we have the occasional disagreement , but we ’ re happy together , aren ’ t we ?",
+    "occurrences": [
+      "occasional",
+      "disagreement",
+      "happy",
+      "together"
+    ],
+    "word_count": 30,
+    "stop_word_count": 17,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.348,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0268,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0427,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.182,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0909,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0337,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.024,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0468,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That ’ s just it , I ’ m not happy anymore , Tim . It ’ s not you , it ’ s me . I know that I can be hard to deal with , and you are a great guy ! You are the type of guy that any woman would kill for !",
+    "occurrences": [
+      "happy",
+      "deal",
+      "kill"
+    ],
+    "word_count": 50,
+    "stop_word_count": 30,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.957,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0479,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.924,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0962,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.055,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0797,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.227,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0114,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.0,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.05,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "fear-joy": 1.924,
+    "fear-joy_computed": 0.0962,
+    "surprise-fear": 1.924,
+    "surprise-fear_computed": 0.0962,
+    "fear-surprise": 1.924,
+    "fear-surprise_computed": 0.0962,
+    "fear-anticipation": 1.924,
+    "fear-anticipation_computed": 0.0962,
+    "fear-sadness": 1.924,
+    "fear-sadness_computed": 0.0962,
+    "trust-fear": 1.924,
+    "trust-fear_computed": 0.0962,
+    "anger-fear": 1.924,
+    "anger-fear_computed": 0.0962,
+    "fear-disgust": 1.924,
+    "fear-disgust_computed": 0.0962,
+    "fear-trust": 1.924,
+    "fear-trust_computed": 0.0962,
+    "fear-anger": 1.924,
+    "fear-anger_computed": 0.0962,
+    "sadness-fear": 1.924,
+    "sadness-fear_computed": 0.0962,
+    "disgust-fear": 1.924,
+    "disgust-fear_computed": 0.0962,
+    "anticipation-fear": 1.924,
+    "anticipation-fear_computed": 0.0962,
+    "joy-fear": 1.924,
+    "joy-fear_computed": 0.0962,
+    "main_emotion": [
+      [
+        "fear",
+        "9%"
+      ],
+      [
+        "fear-joy",
+        "9%"
+      ],
+      [
+        "surprise-fear",
+        "9%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anger",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anticipation",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-disgust",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-joy",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-sadness",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-surprise",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-trust",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "joy-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "sadness-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "trust-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "So , what are you saying ? You ’ re breaking up with me because I ’ m perfect ?",
+    "occurrences": [
+      "perfect"
+    ],
+    "word_count": 18,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0636,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1027,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.077,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Tim , you are too good for me . You deserve someone who can make you smile and make you happy the way that you made me happy . Oh , I could say that I ’ ll be all you need , but that would be a lie . I know I ’ d only hurt you , I know I ’ d only make you cry .",
+    "occurrences": [
+      "good",
+      "deserve",
+      "smile",
+      "happy",
+      "happy",
+      "lie",
+      "hurt",
+      "cry"
+    ],
+    "word_count": 60,
+    "stop_word_count": 31,
+    "occurrences_count": 8,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.085,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0374,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.095,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0722,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0153,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0237,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.873,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0991,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 2.023,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0698,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.336,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0116,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.929,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.101,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Baby , come on . Don ’ t do this to me ! Whatever it is , we can work it out . Just give me another chance ! I know that we can get through this , but we gotta stick together ! Don ’ t leave me .",
+    "occurrences": [
+      "baby",
+      "don",
+      "chance",
+      "together",
+      "don",
+      "leave"
+    ],
+    "word_count": 47,
+    "stop_word_count": 26,
+    "occurrences_count": 6,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.288,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0613,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.266,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0603,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.819,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.039,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "surprise",
+        "6%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I can ’ t , Tim . I hope someday you can find some way to understand I ’ m only doing this for you . I don ’ t really wanna go but , deep in my heart I know this is the kindest thing to do .",
+    "occurrences": [
+      "hope",
+      "someday",
+      "don",
+      "heart"
+    ],
+    "word_count": 44,
+    "stop_word_count": 25,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0407,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.133,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0596,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0193,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.336,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Laura ...",
+    "occurrences": [],
+    "word_count": 1,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Here are your keys . I ’ ll send my sister to pick up the rest of my things next week . I ’ m sorry , Tim . I wish you all the best , and I hope that one day we can meet again . I ’ ll always love you . Goodbye .",
+    "occurrences": [
+      "rest",
+      "hope",
+      "love",
+      "goodbye"
+    ],
+    "word_count": 52,
+    "stop_word_count": 25,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0286,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.883,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0697,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0139,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0136,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.438,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0533,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

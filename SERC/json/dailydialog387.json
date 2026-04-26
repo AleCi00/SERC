@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I don't believe we've met ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , I don't think we have ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "My name is Gao Run ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How do you do ? My name is James Green ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Here's my name card ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "And here's mine ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's nice to finally meet you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "And I'm glad to meet you , too ."
+  }
+]

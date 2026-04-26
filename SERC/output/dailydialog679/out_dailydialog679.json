@@ -1,0 +1,323 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What do you think of this one ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Eh , so so .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And this one ? Too flashy ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Nah , not too flashy .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hug ! And this sweater from my aunt ? Isn ’ t it hideous ?",
+    "occurrences": [
+      "hug",
+      "aunt",
+      "hideous"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.084,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0801,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.344,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.168,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.084,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.507,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1884,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "18%"
+      ],
+      [
+        "joy",
+        "16%"
+      ],
+      [
+        "disgust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I guess .",
+    "occurrences": [
+      "guess"
+    ],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.199,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "19%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you even listening ? I ’ m trying to have a conversation with you .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "And I ’ m trying to watch the game , but you ’ re yapping on about your new clothes !",
+    "occurrences": [
+      "watch"
+    ],
+    "word_count": 19,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0581,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0209,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well I have to decide which gifts to keep and which to exchange for better ones when I go to the Boxing Day sales this afternoon !",
+    "occurrences": [
+      "gifts",
+      "exchange"
+    ],
+    "word_count": 23,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0995,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0824,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well could you do me the favor of making this quick ? It ’ s the third quarter and you ’ Ve been blabbering on since the first !",
+    "occurrences": [
+      "favor"
+    ],
+    "word_count": 28,
+    "stop_word_count": 14,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.348,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0249,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , your precious game . You watch the same game every year , and each year your beloved hometown team loses by at least three goals !",
+    "occurrences": [
+      "precious",
+      "watch",
+      "team",
+      "goals"
+    ],
+    "word_count": 26,
+    "stop_word_count": 9,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.039,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0611,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0111,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.62,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0953,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.195,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0115,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0781,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh no you didn ’ t . You didn ’ t just insult the Sals-bury Seals , did you ? Why don ’ t you just . just go and return all of those stupid clothes and not come back until the sales are over ?",
+    "occurrences": [
+      "insult",
+      "bury",
+      "don"
+    ],
+    "word_count": 44,
+    "stop_word_count": 27,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.603,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0355,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.393,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0231,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.265,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0744,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0317,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0161,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "anger",
+        "3%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I might just ! Enjoy your stupid game !",
+    "occurrences": [
+      "enjoy"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.156,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1927,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.624,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2707,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1613,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "27%"
+      ],
+      [
+        "anticipation",
+        "19%"
+      ],
+      [
+        "trust",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

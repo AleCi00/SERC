@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "We are just going round the corner for a drink . Won't you join us ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I'd like to , but I am not sure I have time ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , come on ! Just a quick one !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All right , just a quick one ."
+  }
+]

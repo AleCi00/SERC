@@ -1,0 +1,97 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm very sorry , sir . My car has broken down .",
+    "occurrences": [
+      "sir",
+      "broken",
+      "down"
+    ],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0513,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0759,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.875,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0636,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "12%"
+      ],
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sorry to hear that . Can we do anything about it ?",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm afraid not .",
+    "occurrences": [
+      "afraid"
+    ],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2813,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "28%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Then I have to call another taxi , or I'll be late .",
+    "occurrences": [
+      "late"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.025,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

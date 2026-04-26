@@ -1,0 +1,119 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Mr . Crandall , I ’ m sorry , but I really don ’ t see the value in doing this entire project over from scratch . It would take a lot of work .",
+    "occurrences": [
+      "don"
+    ],
+    "word_count": 31,
+    "stop_word_count": 13,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0152,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That ’ s certainly true . But , that ’ s what this job is all about , Maria . There's no doubt that this project is unacceptable .",
+    "occurrences": [
+      "true",
+      "doubt",
+      "unacceptable"
+    ],
+    "word_count": 26,
+    "stop_word_count": 14,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0208,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0273,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.687,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0573,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.992,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0827,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I agree . But I think that we can handle the problem by making a few major changes . I ’ d appreciate it if you would give me a chance .",
+    "occurrences": [
+      "problem",
+      "chance"
+    ],
+    "word_count": 31,
+    "stop_word_count": 16,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0177,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0292,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0344,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "surprise",
+        "3%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All right , Maria . I ’ ll give you until tomorrow at 4:00 to produce a satisfactory piece of work , but otherwise , you ’ ll have to re-do it .",
+    "occurrences": [
+      "tomorrow"
+    ],
+    "word_count": 30,
+    "stop_word_count": 17,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0498,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

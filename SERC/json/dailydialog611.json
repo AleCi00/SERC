@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Check out these wheels !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You bought a compact car ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , I borrowed it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me guess , from Sarah . It looks like something she would drive ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You guessed right . Besides , the color violet is a little girly for me ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I love it . It's so festive ! And where did you get that cup ? It's got the same logo ."
+  }
+]

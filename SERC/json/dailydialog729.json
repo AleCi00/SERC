@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Mary and Tom are breaking up ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's unbelievable ! They are only married for one month . Then who is at fault ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Mary said she couldn't put up with Tom , for he fell in love with another woman ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you think they'll become reconciled ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , I don't think so . She said she would rather be single than cope with an unhappy marriage ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What a shame ! Their marriage is really a mistake ."
+  }
+]

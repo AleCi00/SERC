@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Let ’ s play a game !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK ! How about Scrabble ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , no , a friend of mine taught me this really fun game . I ’ m going to describe someone ’ s face , and you guess who it is !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let ’ s see . He has a roman nose , bushy eyebrows and dimples !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Our cousin Pete ! My turn ! She has a pointy nose , sunken eyes and a mole on her chin !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Aunt Rose ! That mole is so huge ! OK , my turn . He has a crooked nose and full lips . He has quite a few freckles and an oval face . Oh , he is also bald !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Your future husband !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not funny ."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How may I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m having a problem ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What problem are you having ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "There have been charges made on my debit card that I didn ’ t make ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have the statement for your card ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here it is ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What are the charges you ’ re referring to ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The last four charges on the page ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m afraid we ’ re going to have to investigate these charges ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How long will an investigation take ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I honestly don ’ t know , but we will freeze payment on these charges ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That sounds absolutely fantastic ."
+  }
+]

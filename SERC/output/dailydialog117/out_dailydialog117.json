@@ -1,0 +1,153 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , look at all those new buildings going up ! Mr . Zhang , the traffic is pretty smooth . But we were told the roads from the airport to downtown were quite crowded and traffic jams could be as long as half an hour .",
+    "occurrences": [
+      "pretty",
+      "airport",
+      "long"
+    ],
+    "word_count": 45,
+    "stop_word_count": 19,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.32,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0508,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.018,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0141,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "joy",
+        "1%"
+      ],
+      [
+        "trust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , they were . But it has already past . The traffic from the airport to downtown has been relieved after the completion of Yan'an Aerial Road .",
+    "occurrences": [
+      "airport",
+      "relieved",
+      "completion"
+    ],
+    "word_count": 26,
+    "stop_word_count": 15,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.969,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0881,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.194,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1085,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We've never expected that Shanghai is such a big metropolis , same as New York city . David , would it be a good idea to rent a car here ? I've got an international driver's license with a pretty good record in the States .",
+    "occurrences": [
+      "expected",
+      "good",
+      "pretty",
+      "good"
+    ],
+    "word_count": 40,
+    "stop_word_count": 17,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.742,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0757,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.563,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.068,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.019,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.601,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0696,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's wonderful . OK . I'll remember that . But I have to warn you that you must drive very carefully in the downtown area , for there're no separate lanes for motor vehicles and bicycles in some places , and still quite a few people don't take road regulations seriously .",
+    "occurrences": [
+      "wonderful",
+      "ill",
+      "warn"
+    ],
+    "word_count": 49,
+    "stop_word_count": 19,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0111,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0182,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0164,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.074,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0358,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.863,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0288,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0198,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.025,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.93,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.031,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "3%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello.this is Susan ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hello , I ’ m Mark . I ’ m just wondering if you are free this weekend"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I think So ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good . I was thinking that I ’ d like to invite you to watch a movie . I can meet you at the cinema gate ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What ’ s the time ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Six thirty , tonight ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , I ’ m sorry I can ’ t because I have to do some housework.You can ask Jenny to go with you"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All right.Maybe next time I can go with you.Bye !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Good bye !"
+  }
+]

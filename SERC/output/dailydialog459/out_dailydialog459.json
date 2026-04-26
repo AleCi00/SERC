@@ -1,0 +1,255 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You have a lovely house , Jack .",
+    "occurrences": [
+      "lovely"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.185,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2397,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.009,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.003,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.06,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1953,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "23%"
+      ],
+      [
+        "trust",
+        "19%"
+      ],
+      [
+        "anticipation",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you . But a number of things have been going wrong lately .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's too bad . What problems are you having .",
+    "occurrences": [
+      "bad"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0906,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0782,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.075,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0844,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "9%"
+      ],
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "disgust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , the whole house needs re-painting for starters . The carpet in the living room is worn out , and I'd like to put in new wall-to-wall carpeting . Last week , I had to call the plumber to fix the toilet . Anyway , all par for the course when you own a house , I guess . I think I am going to hire an interior decorator to look the place over .",
+    "occurrences": [
+      "living",
+      "worn",
+      "like",
+      "toilet",
+      "guess",
+      "hire",
+      "interior"
+    ],
+    "word_count": 71,
+    "stop_word_count": 32,
+    "occurrences_count": 7,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.012,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0174,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.515,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0132,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0124,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0102,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.288,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.033,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "disgust",
+        "1%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I've studied home decoration as a hobby . Could I make some suggestions ?",
+    "occurrences": [
+      "home",
+      "hobby"
+    ],
+    "word_count": 13,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.887,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0887,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Go right ahead .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , I think a crystal chandelier would look great in your living room , and maybe some new drapes for the windows . Also , a grandfather clock would look great in the den . Perhaps you could buy some potted plants for the dining room",
+    "occurrences": [
+      "living",
+      "grandfather",
+      "clock"
+    ],
+    "word_count": 43,
+    "stop_word_count": 14,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0129,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0108,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0234,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wow , you really do have a talent for this , Alice . Thanks for the suggestions .",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You are welcome , Jack . Glad to be of help .",
+    "occurrences": [
+      "glad",
+      "help"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.536,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1072,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0406,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.781,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1562,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "15%"
+      ],
+      [
+        "anticipation",
+        "10%"
+      ],
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

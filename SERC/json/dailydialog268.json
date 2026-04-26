@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It ’ s so great to be here ! I ’ m so excited to help you and my daughter with your new home !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We ’ re glad that you ’ re here . Would you like a tour of the house ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That ’ d be great , but could I have a cup of tea first ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure , I ’ ll just go put the kettle on . Why don ’ t you have a seat on the sofa and I ’ ll go take care of things in the kitchen ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That would be lovely , thanks ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you take milk or sugar with your tea ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ ll take a little milk , but no sugar , please . Make sure you let the tea steep a few minutes before you take the tea bag out of the cup ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ok . What do you think about our living room ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , I do like the mantelpiece and the coffee table , but I don ’ t really care for curtains . Did you get them at a yard sale ? They look ancient ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My parents gave them to us as a house warming gift ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh dear . Well , I suppose they will do for now . do you ever dust in here ? It seems a bit dusty in here ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Your daughter usually does the dusting , and I do the vacuuming ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I see . Well , I can help with the chores while I ’ m here . You two could probably use my help ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That ’ s very nice of you to offer . Here ’ s your tea . Be careful , it ’ s still quite hot ."
+  }
+]

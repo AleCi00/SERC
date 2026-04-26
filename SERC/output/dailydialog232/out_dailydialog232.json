@@ -1,0 +1,140 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Is there anything else , apart from the Credit Rating and Debt to Asset Ratio ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "There is the Balance of Net Liabilities . This must not exceed its net assets and no business loss can be shown during the past two years .",
+    "occurrences": [
+      "exceed",
+      "loss"
+    ],
+    "word_count": 25,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.324,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.027,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0449,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0482,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.348,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.029,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0573,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "5%"
+      ],
+      [
+        "fear",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Right , OK . That , again , shouldn't be a problem .",
+    "occurrences": [
+      "problem"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0443,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.073,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "And the total ratio of return on assets should not be lower than the average , for that particular industry , for the first two quarters of the year .",
+    "occurrences": [
+      "lower"
+    ],
+    "word_count": 28,
+    "stop_word_count": 15,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , as far as I can tell , we qualify .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Of course we will need proof , originals and duplicate of everything . As soon as you bring in the proof and we assess it , it should be very quick indeed .",
+    "occurrences": [
+      "proof",
+      "proof"
+    ],
+    "word_count": 31,
+    "stop_word_count": 17,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.406,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1004,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

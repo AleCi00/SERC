@@ -1,0 +1,127 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Well , known , Jim , I'm ... I'm pretty much in favour of your computers , I think computers teach kids to think , because they require logical thoughts .",
+    "occurrences": [
+      "pretty",
+      "teach"
+    ],
+    "word_count": 23,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0259,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.681,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0426,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0078,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.984,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0615,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But I ... I don't agree with thatbecause computers weaken kids'ability to thinkbecause kids don't learn basic skills .",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you mean ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They can't spell , they can't add , they can't subtract , they even don't remember any more . that's because they rely on gadgets .",
+    "occurrences": [
+      "rely"
+    ],
+    "word_count": 23,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0463,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's not the gadgets . Creating programmes is stimulate thoughts . It engages their imagination and sharpen their mind .",
+    "occurrences": [
+      "imagination",
+      "sharpen",
+      "mind"
+    ],
+    "word_count": 20,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.288,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0222,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0372,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0066,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0108,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0337,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anger",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

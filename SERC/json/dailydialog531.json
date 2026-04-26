@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Is there anything wrong ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m worried about my daughter . She can ’ t decide about college ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don ’ t worry . That ’ s just a part of being a teenager ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don ’ t mind that . But she disagrees with me about everything ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You should encourage her to make up her mind by herself . You shouldn ’ t affect her decision ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But I just want to give her some tips ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , she can make her own decisions ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I guess you are right ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Believe me . Everything will be ok ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I hope so ."
+  }
+]

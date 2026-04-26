@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello ! How do I get more amenities ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm sorry , sir . I'm not sure I understand ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm talking about the free stuff , like soap and shampoo ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I see . So , you're saying that you've already run out of your amenities ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , no . I've got plenty left ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Now I'm confused again ! What is the problem ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What am I going to do about souvenirs ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I get it ! You want souvenirs !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I've got enough soap for my use , but no extra soap for souvenirs ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sir , our souvenir shop carries all those items , and as a guest you get a discount ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Please ! Free souvenirs are the only true souvenirs ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I understand completely , sir . Housekeeping will bring you souvenirs in just a moment ."
+  }
+]

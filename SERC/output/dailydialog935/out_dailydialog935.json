@@ -1,0 +1,201 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "For the 100th anniversary of the opening of the library we are going to have a party .",
+    "occurrences": [
+      "party"
+    ],
+    "word_count": 18,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.765,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1093,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's a wonderful way to celebrate this grand old library !",
+    "occurrences": [
+      "wonderful",
+      "celebrate"
+    ],
+    "word_count": 11,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 3.414,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.4267,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1133,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.25,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1562,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "42%"
+      ],
+      [
+        "trust",
+        "15%"
+      ],
+      [
+        "surprise",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I hoped you would be willing to brainstorm with me for party ideas .",
+    "occurrences": [
+      "party"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.765,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1093,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That is right up my alley . You say party and I'm there .",
+    "occurrences": [
+      "party"
+    ],
+    "word_count": 14,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.765,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1275,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Perfect . It will be open to the public and we anticipate roughly about five to seven hundred people .",
+    "occurrences": [
+      "perfect",
+      "public",
+      "anticipate"
+    ],
+    "word_count": 20,
+    "stop_word_count": 9,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.64,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1491,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0654,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.049,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "anticipation-trust": 0.82,
+    "anticipation-trust_computed": 0.0745,
+    "trust-anticipation": 0.82,
+    "trust-anticipation_computed": 0.0745,
+    "main_emotion": [
+      [
+        "anticipation",
+        "14%"
+      ],
+      [
+        "anticipation-trust",
+        "7%"
+      ],
+      [
+        "trust-anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "anticipate",
+            "score": 0.82
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "anticipate",
+            "score": 0.82
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Will it be an all day event ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . And we checked with the city and we have permission to use the park adjacent to the library .",
+    "occurrences": [],
+    "word_count": 21,
+    "stop_word_count": 11,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That was quick thinking .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

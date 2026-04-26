@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi Jim . Do you have a minute ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure , what ’ s up ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Some of us are going to start a soccer team . Would you like to join us ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don ’ t know anything about it . Soccer isn ’ t as popular in my country as it is here ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That ’ s all right . We ’ ll teach you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is it anything like American football ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not very much . It ’ s something like hockey , except that you use a big ball and no stick ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ ll come down and watch you play some day , and see what it ’ s like ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Good idea . I think you ’ ll like it if you give it a chance ."
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , this is Liu Juan speaking . Is that Mr . Brown ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , this isn't ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Could you please get him on the phone ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . Wait a minute ."
+  }
+]

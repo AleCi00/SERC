@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , could you give me change for a dollar ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'll see what I have . What do you need it for ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I want to get cigarettes ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You can use quarters , dimes and nickels ."
+  }
+]

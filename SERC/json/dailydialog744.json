@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I feel like going for a drink , it's been a long day ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Great idea ! Peter , I could use the drink ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How about the new bar across the road ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sounds good . The food there is fantastic too ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I agree , I had lunch there last week ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Excellent ! That sounds like a plan ."
+  }
+]

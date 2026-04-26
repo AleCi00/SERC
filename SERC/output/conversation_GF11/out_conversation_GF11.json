@@ -1,0 +1,998 @@
+[
+  {
+    "speaker": "Giulia",
+    "text": "But I don't want very romantic things!! I dumped you! I don't want romance!",
+    "occurrences": [
+      "romantic",
+      "romance"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.594,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1992,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.031,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0039,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.279,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2849,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0361,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1855,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "28%"
+      ],
+      [
+        "anticipation",
+        "19%"
+      ],
+      [
+        "trust",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "I just want my freedoms",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "You should feel like a person who doesn't have behavior suitable for the situation, namely who continues to treat his ex as a girlfriend",
+    "occurrences": [
+      "like",
+      "treat"
+    ],
+    "word_count": 24,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.175,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0146,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.043,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0065,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.094,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0078,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.529,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0441,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.076,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0063,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.026,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0755,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "you're still a bit invasive, that if I tell you that it bothers me that you touch me and you touch me, and then you go on to argue that it's right.",
+    "occurrences": [
+      "argue"
+    ],
+    "word_count": 31,
+    "stop_word_count": 20,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.734,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0667,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "ARE YOU KIDDING",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "You must have a heart as black as coal",
+    "occurrences": [
+      "heart"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1368,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "You're truly a horrible person if you can even think of treating me like a mediocre friend!",
+    "occurrences": [
+      "horrible",
+      "like",
+      "friend"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.484,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1484,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.312,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1312,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.468,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1468,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.471,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0471,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.718,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1718,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "17%"
+      ],
+      [
+        "anger",
+        "14%"
+      ],
+      [
+        "fear",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "Why I'm going to kill myself",
+    "occurrences": [
+      "kill"
+    ],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.962,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.481,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3985,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "fear-joy": 0.962,
+    "fear-joy_computed": 0.481,
+    "surprise-fear": 0.962,
+    "surprise-fear_computed": 0.481,
+    "fear-surprise": 0.962,
+    "fear-surprise_computed": 0.481,
+    "fear-anticipation": 0.962,
+    "fear-anticipation_computed": 0.481,
+    "fear-sadness": 0.962,
+    "fear-sadness_computed": 0.481,
+    "trust-fear": 0.962,
+    "trust-fear_computed": 0.481,
+    "anger-fear": 0.962,
+    "anger-fear_computed": 0.481,
+    "fear-disgust": 0.962,
+    "fear-disgust_computed": 0.481,
+    "fear-trust": 0.962,
+    "fear-trust_computed": 0.481,
+    "fear-anger": 0.962,
+    "fear-anger_computed": 0.481,
+    "sadness-fear": 0.962,
+    "sadness-fear_computed": 0.481,
+    "disgust-fear": 0.962,
+    "disgust-fear_computed": 0.481,
+    "anticipation-fear": 0.962,
+    "anticipation-fear_computed": 0.481,
+    "joy-fear": 0.962,
+    "joy-fear_computed": 0.481,
+    "main_emotion": [
+      [
+        "fear",
+        "48%"
+      ],
+      [
+        "fear-joy",
+        "48%"
+      ],
+      [
+        "surprise-fear",
+        "48%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anger",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anticipation",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-disgust",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-joy",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-sadness",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-surprise",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-trust",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "joy-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "sadness-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "trust-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I don't believe in life anymore. in people in love in anything",
+    "occurrences": [
+      "life",
+      "love"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.266,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1809,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1083,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "18%"
+      ],
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I'm going to kill myself, either you're a shitty person or I have to kill myself?",
+    "occurrences": [
+      "kill",
+      "shitty",
+      "kill"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.924,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2405,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 2.25,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2812,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "fear-joy": 0.962,
+    "fear-joy_computed": 0.1202,
+    "surprise-fear": 0.962,
+    "surprise-fear_computed": 0.1202,
+    "fear-surprise": 0.962,
+    "fear-surprise_computed": 0.1202,
+    "fear-anticipation": 0.962,
+    "fear-anticipation_computed": 0.1202,
+    "fear-sadness": 0.962,
+    "fear-sadness_computed": 0.1202,
+    "trust-fear": 0.962,
+    "trust-fear_computed": 0.1202,
+    "anger-fear": 0.962,
+    "anger-fear_computed": 0.1202,
+    "fear-disgust": 0.962,
+    "fear-disgust_computed": 0.1202,
+    "fear-trust": 0.962,
+    "fear-trust_computed": 0.1202,
+    "fear-anger": 0.962,
+    "fear-anger_computed": 0.1202,
+    "sadness-fear": 0.962,
+    "sadness-fear_computed": 0.1202,
+    "disgust-fear": 0.962,
+    "disgust-fear_computed": 0.1202,
+    "anticipation-fear": 0.962,
+    "anticipation-fear_computed": 0.1202,
+    "joy-fear": 0.962,
+    "joy-fear_computed": 0.1202,
+    "main_emotion": [
+      [
+        "sadness",
+        "28%"
+      ],
+      [
+        "fear",
+        "24%"
+      ],
+      [
+        "fear-joy",
+        "12%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anger",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anticipation",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-disgust",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-joy",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-sadness",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-surprise",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-trust",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "joy-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "sadness-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "trust-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Do as you want, but stop touching me when we see each other",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I only stop touching you if you also start treating me differently",
+    "occurrences": [
+      "start",
+      "differently"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1068,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "surprise",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I mean. You might as well tell me to kill myself",
+    "occurrences": [
+      "kill"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.962,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1924,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1594,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "fear-joy": 0.962,
+    "fear-joy_computed": 0.1924,
+    "surprise-fear": 0.962,
+    "surprise-fear_computed": 0.1924,
+    "fear-surprise": 0.962,
+    "fear-surprise_computed": 0.1924,
+    "fear-anticipation": 0.962,
+    "fear-anticipation_computed": 0.1924,
+    "fear-sadness": 0.962,
+    "fear-sadness_computed": 0.1924,
+    "trust-fear": 0.962,
+    "trust-fear_computed": 0.1924,
+    "anger-fear": 0.962,
+    "anger-fear_computed": 0.1924,
+    "fear-disgust": 0.962,
+    "fear-disgust_computed": 0.1924,
+    "fear-trust": 0.962,
+    "fear-trust_computed": 0.1924,
+    "fear-anger": 0.962,
+    "fear-anger_computed": 0.1924,
+    "sadness-fear": 0.962,
+    "sadness-fear_computed": 0.1924,
+    "disgust-fear": 0.962,
+    "disgust-fear_computed": 0.1924,
+    "anticipation-fear": 0.962,
+    "anticipation-fear_computed": 0.1924,
+    "joy-fear": 0.962,
+    "joy-fear_computed": 0.1924,
+    "main_emotion": [
+      [
+        "fear",
+        "19%"
+      ],
+      [
+        "fear-joy",
+        "19%"
+      ],
+      [
+        "surprise-fear",
+        "19%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anger",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anticipation",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-disgust",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-joy",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-sadness",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-surprise",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-trust",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "joy-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "sadness-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "trust-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "Filippo",
+    "text": "Look I was almost about to do it recently and I'm not joking, I also wrote half a letter if you're interested",
+    "occurrences": [
+      "letter",
+      "interested"
+    ],
+    "word_count": 20,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0484,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0078,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.114,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0114,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ],
+      [
+        "disgust",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Do you think that by telling me you're killing yourself I'll get back with you?",
+    "occurrences": [
+      "killing"
+    ],
+    "word_count": 15,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.893,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1488,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.151,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1353,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "15%"
+      ],
+      [
+        "anger",
+        "14%"
+      ],
+      [
+        "sadness",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Is that why you repeat it to me every day with so much malice?",
+    "occurrences": [
+      "malice"
+    ],
+    "word_count": 14,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.852,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1704,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "17%"
+      ],
+      [
+        "fear",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "If I were you I would evaluate the real priorities because you only have one life idiot. Talk about it with someone and solve the thing because it's scary and there's absolutely nothing triumphant to wave around to everyone about it",
+    "occurrences": [
+      "real",
+      "life",
+      "idiot",
+      "scary",
+      "triumphant"
+    ],
+    "word_count": 39,
+    "stop_word_count": 20,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0329,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0259,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.345,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0708,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.258,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0662,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "So how come you tell me multiple times a day and you only mentioned it to the psychologist? Who could be the only real person who can help you with this thing",
+    "occurrences": [
+      "real",
+      "help"
+    ],
+    "word_count": 32,
+    "stop_word_count": 20,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0169,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0534,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,41 @@
+Title: fear-disgust
+
+Head Concept Name: fear
+Modifier Concept Name: disgust
+
+
+modifier, -honor
+
+T(modifier), cannibalism, 0.953
+T(modifier), mutilation, 0.93
+T(modifier), molestation, 0.914
+T(modifier), incest, 0.914
+T(modifier), rape, 0.906
+T(modifier), gonorrhea, 0.906
+T(modifier), cannibal, 0.898
+T(modifier), rot, 0.891
+T(modifier), corpse, 0.883
+T(modifier), massacre, 0.883
+T(modifier), excrement, 0.883
+T(modifier), barf, 0.875
+T(modifier), slaughter, 0.875
+T(modifier), slaughterhouse, 0.867
+
+T(head), torture, 0.984
+T(head), terrorist, 0.972
+T(head), terrorists, 0.969
+T(head), horrific, 0.969
+T(head), terrorism, 0.969
+T(head), suicidebombing, 0.967
+T(head), kill, 0.962
+T(head), homicidal, 0.959
+T(head), catastrophe, 0.953
+T(head), annihilate, 0.953
+T(head), murderer, 0.953
+T(head), terror, 0.953
+T(head), dying, 0.948
+T(head), war, 0.942
+
+
+Result: {"cannibalism": 0.953, "torture": 0.984, "terrorist": 0.972, "terrorists": 0.969, "horrific": 0.969, "terrorism": 0.969, "suicidebombing": 0.967, "kill": 0.962, "homicidal": 0.959, "catastrophe": 0.953, "annihilate": 0.953, "murderer": 0.953, "terror": 0.953, "dying": 0.948, "@scenario_probability": 5.68015587137575e-13}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 5.68015587137575e-13]

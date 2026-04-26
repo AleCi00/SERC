@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What date will our field trip be on ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The science field trip is next Monday at 8 o'clock in the morning . Do you want to make note of that on your calendar ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I will make note of that ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Next Monday is December 2nd . The buses will leave at 8 , but we must begin loading at 7"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I will be there half an hour early ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You might want to tell whoever is picking you up that you will return on December 8th . Do you have a ride ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , someone is picking me up ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "To get back to campus by 8"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not at the moment — maybe later , though ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All of the extra information that you need is on the bulletin board in the hallway . See you on Monday !"
+  }
+]

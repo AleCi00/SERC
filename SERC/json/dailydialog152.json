@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Are these the clothes you want to have washed ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . When can I get them back ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , if they are collected right now , you can get them back tonight ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's fine . By the way , please have that suit dry cleaned ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK . Please fill in the form first ."
+  }
+]

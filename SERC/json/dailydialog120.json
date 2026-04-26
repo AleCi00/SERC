@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Come on ! It's time to go !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wait a minute ! Just hold your horses ! What's your hurry , anyway ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , I've got to stop and get gas in the car , first ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That won't take long ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , it won't if there no line at the pump ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I'm not quite ready ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'll give you five more minutes , then I'm going on without you !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You wouldn't do a thing like that !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , yes , I would !"
+  }
+]

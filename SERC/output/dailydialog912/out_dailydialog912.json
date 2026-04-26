@@ -1,0 +1,65 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Nice day , isn't it ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It sure is .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's a good day for a picnic .",
+    "occurrences": [
+      "good",
+      "picnic"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.985,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2462,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.941,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2353,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0742,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.992,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.248,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "24%"
+      ],
+      [
+        "anticipation",
+        "24%"
+      ],
+      [
+        "joy",
+        "23%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

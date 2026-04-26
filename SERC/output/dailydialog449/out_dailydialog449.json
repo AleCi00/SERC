@@ -1,0 +1,109 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Let me tell you some more . The interest is settled on the 20th of the last month in each quarter , It's paid quarterly . Of course it also needs to be settled if you cancel the account .",
+    "occurrences": [
+      "cancel",
+      "account"
+    ],
+    "word_count": 39,
+    "stop_word_count": 20,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0123,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0275,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Miao Ping , in your opinion , should we go for the Type A or Type B Account ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , the Type B Account is very restricted . If your aim is to use the account the same way as your use your Settlement Account , I would recommend the Type A Account for you .",
+    "occurrences": [
+      "account",
+      "recommend"
+    ],
+    "word_count": 27,
+    "stop_word_count": 16,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.132,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1029,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks for your time . I'll go and discuss everything with my partner and I'll be back later .",
+    "occurrences": [
+      "time",
+      "ill",
+      "partner"
+    ],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0303,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0447,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0565,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0303,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.054,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "5%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

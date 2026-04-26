@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey Kevin , what are you doing here ? Don't you usually spend Tuesday nights at home studying ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I needed to get out of the house . My parents just went ballistic over something my older sister told them ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What did she tell them ? Is she dropping out of college ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Nothing that serious . She finally told them that she moved out of the dormitory a few months ago and has been living with her boyfriend ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And your parents took it badly ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's putting it mildly . My father started shouting at my sister and my mother just glared at her ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Ouch , that sounds bad . What did your sister do ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "She started arguing back to my dad that how much she loves her boyfriend , how they're in love and it's not hurting anybody , and so on . My dad said she's too young to do this , and that she should move out right away ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How long has your sister been with her boyfriend ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Three years . They've been dating since freshman year . They're even talking about marriage ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Really ? Then I guess living together would be a good idea ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What do you mean ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , these days too many people are getting divorced . If they live together , then at least they're finding out if they're really compatible or not ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I guess so . Better to find out now than after you're married , when it's harder to get out ."
+  }
+]

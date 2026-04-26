@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good evening . Welcome to Cherry's . Do you have a reservation ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , we don't ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How many of you , please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Six , including two kids ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm afraid all the big tables are taken ."
+  }
+]

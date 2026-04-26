@@ -1,0 +1,95 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "After the financial crisis , many industries are in incredibly cloudy situations . How do you think about our company ?",
+    "occurrences": [
+      "crisis",
+      "cloudy"
+    ],
+    "word_count": 20,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0696,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0213,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The outlook in the future is very positive . Because we have been in this field for hundreds of years and we know how to survive this crisis safely .",
+    "occurrences": [
+      "positive",
+      "crisis"
+    ],
+    "word_count": 30,
+    "stop_word_count": 18,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0638,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.761,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0634,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "As the department I am applying for is expanding , I would like to contribute by effort .",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Great . Welcome to our company .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You still have not given me those files I ’ Ve asked you for .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m sorry , Mr . Myers . I ’ Ve just been so busy today .",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I really don ’ t want to hear your excuses , Janet . We ’ re running a busy office here . You ’ re going to have to keep up .",
+    "occurrences": [
+      "don",
+      "running"
+    ],
+    "word_count": 30,
+    "stop_word_count": 15,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0172,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0182,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "1%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You ’ re right , sir . I apologize . I ’ ll get those files for you now .",
+    "occurrences": [
+      "sir",
+      "apologize"
+    ],
+    "word_count": 19,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.37,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.037,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.922,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0922,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

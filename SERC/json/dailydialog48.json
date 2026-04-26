@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Room service.What can I do for you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This is room 2012 . Where is my laundry ? You promised to send to me this morning ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , let me check for you . I am sorry , sir . They mistook your order as a normal one.Actualty it's an express laundry , is that right ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I ordered the express service ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sir , we are terribly sorry for that.We will refund the charge and send your laundry to your room 3 hours later . Is that all right ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's fine ."
+  }
+]

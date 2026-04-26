@@ -1,0 +1,278 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "... so , I said , let ’ s take a break.And since that night , I ’ Ve been waiting for him to call , but I still haven ’ t heard from him . You don ’ t think he ’ s seeing someone else , do you ?",
+    "occurrences": [
+      "break",
+      "waiting",
+      "haven",
+      "don"
+    ],
+    "word_count": 41,
+    "stop_word_count": 20,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.664,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0316,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0067,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.156,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0074,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.022,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.89,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0424,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "surprise",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Come on , don ’ t be so dramatic ! I ’ m sure everything is going to work out just fine .",
+    "occurrences": [
+      "don"
+    ],
+    "word_count": 22,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.546,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0496,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You think so ? Oh , no ! How can he do this to me ? I ’ m sure he ’ s cheating on me ! Why else wouldn ’ t he call ?",
+    "occurrences": [],
+    "word_count": 34,
+    "stop_word_count": 20,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But , you two are on a break . Theoretically he can do whatever he likes .",
+    "occurrences": [
+      "break"
+    ],
+    "word_count": 16,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.156,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0223,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0659,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "6%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "He ’ s the love of my life ! I ’ Ve really messed this up .",
+    "occurrences": [
+      "love",
+      "life"
+    ],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.532,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3165,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1895,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "31%"
+      ],
+      [
+        "trust",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Come on , hon . Pull yourself together . It ’ s going to be alright .",
+    "occurrences": [
+      "together"
+    ],
+    "word_count": 16,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.394,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0394,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But I ... I still love him ! And it ’ s all my fault ! I can ’ t believe how immature and selfish I was being . I mean , he is a firefighter , it ’ s not like he can just leave someone in a burning building and meet me for dinner . I ’ Ve totally messed this up !",
+    "occurrences": [
+      "love",
+      "fault",
+      "immature",
+      "selfish",
+      "like",
+      "leave"
+    ],
+    "word_count": 59,
+    "stop_word_count": 33,
+    "occurrences_count": 6,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.018,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.32,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0123,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0174,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.656,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0637,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.14,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.009,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.0,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0769,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You know what , Veronica , I think you should make the first step . I ’ m sure he ’ ll forgive you ...",
+    "occurrences": [
+      "forgive"
+    ],
+    "word_count": 20,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , this is not gonna happen ! I ... I ’ Ve ruined everything ...",
+    "occurrences": [
+      "happen",
+      "ruined"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.545,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0908,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1613,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0885,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0833,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.697,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1162,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "16%"
+      ],
+      [
+        "sadness",
+        "11%"
+      ],
+      [
+        "anger",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "do you hear something ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

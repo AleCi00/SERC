@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good afternoon . I've brought the extra blanket you asked for ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , thank you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is there anything I can do for you now ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I'm rather tired and want to go to bed early . Please make the bed ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Certainly , sir ."
+  }
+]

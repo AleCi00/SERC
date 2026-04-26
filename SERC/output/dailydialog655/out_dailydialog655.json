@@ -1,0 +1,115 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "My friend Jean is very beautiful .",
+    "occurrences": [
+      "friend",
+      "beautiful"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.252,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.4173,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.25,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "41%"
+      ],
+      [
+        "trust",
+        "25%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What's her figure ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Perfect , and I like her charming eyes too .",
+    "occurrences": [
+      "perfect",
+      "like"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.089,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1438,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.023,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2046,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "20%"
+      ],
+      [
+        "joy",
+        "14%"
+      ],
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What's the color of her eyes ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Dark blue .",
+    "occurrences": [
+      "dark",
+      "blue"
+    ],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.945,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.315,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "31%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

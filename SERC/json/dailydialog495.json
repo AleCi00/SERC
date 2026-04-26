@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , I'm George . I'll be your waiter this evening . Are you ready to order or do you need a few more minutes ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm ready now . I'd like the roast chicken and a side order of corn ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And would you like an appetizer before your meal ? The soup of the day is our delicious tomato soup ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'll pass on the soup , but I'd like a garden salad ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Can I get you anything to drink ? :"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I'd like a glass of iced tea ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Okay . I'll be back in a minute with your drink and salad ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you ."
+  }
+]

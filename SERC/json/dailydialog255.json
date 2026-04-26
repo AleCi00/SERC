@@ -1,0 +1,62 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What seems to be the trouble , Mr . Brown ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm in pretty bad shape , Dr . Ford ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , in what way ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No appetite , always on edge , and I can't sleep well ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Did you lose any weight ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I have lost quite a few pounds since last month ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "When was the last time you had a check-up ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "About two month ago ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let me take your blood pressure . You look anemic ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , Mr . Brown , I'm happy to say it's nothing serious ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You're just a little run-down from overwork ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What am I supposed to do ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think all you need is just a vacation ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Try to get outdoors more and be sure to get more rest ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you , doctor . I'll do as you say ."
+  }
+]

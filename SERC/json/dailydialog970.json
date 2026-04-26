@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You're not looking happy . What's the matter ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , nothing special . I'm just a bit tired ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "With the job ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "With everything , with everybody , with all this !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A good suggestion for you . You need a holiday ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It wasn't always like this , you know ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you mean ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I mean . We always do the same thing . There's no variety in our lives ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You need a holiday . That's what's the matter ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Certainly , perhaps ."
+  }
+]

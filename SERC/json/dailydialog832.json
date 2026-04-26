@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'd like to invite you to dinner tonight , do you think have time ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you for your inition . I'm free tonight ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Which kind of food do you like , chinese food , western food or sea food ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I prefer sea food ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "ok . I'll pick up your hotel at 6 thirty pm ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's fine . I'll be waiting for you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "See you later ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "bye ."
+  }
+]

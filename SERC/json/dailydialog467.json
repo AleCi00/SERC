@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm hungry ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "So am I ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where should we go eat today ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How about we go eat in the cafeteria ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I never bought food from the cafeteria ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You haven't ? They have a lot of good stuff ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do they have ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They sell everything ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , I want Chinese food ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I've gotten chow mein from there before ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I guess we can eat there then ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Trust me , the food isn't half bad ."
+  }
+]

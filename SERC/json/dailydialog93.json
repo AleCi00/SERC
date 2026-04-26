@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I'm in a bit of a rush . Could I have a piece of apple pie please ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Certainly . Would you like it with ice cream ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thanks ."
+  }
+]

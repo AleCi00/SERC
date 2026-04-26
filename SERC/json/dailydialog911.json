@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Bessie ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hello , Jack.Happy birthday !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "My birthday ? I forgot it , Thank you for remembering my birthday ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'd like to offer you my congratulations on your birthday and best wishes for your future happiness , good health and continued success . I've asked the Fairy Flowers to send you a bunch of flowers . I hope you'll like them ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks a lot . I'm so touched ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Now let me sing \" Happy birthday \" for you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you very much ."
+  }
+]

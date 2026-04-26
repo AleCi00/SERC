@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You received a letter in the mail ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Give it here ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Who ’ s the letter from ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think it ’ s my acceptance letter from NYU ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I want to know what it says ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They didn ’ t accept me ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you serious ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s the truth ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you okay ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I really wanted to get into NYU ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I am really sorry to hear that ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s okay . I ’ m still waiting to hear from UCLA anyway ."
+  }
+]

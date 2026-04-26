@@ -1,0 +1,269 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey Nick , what are you up to ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not much , just heading over to the shooting range . You wanna come ?",
+    "occurrences": [
+      "shooting"
+    ],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.667,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0834,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1015,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "10%"
+      ],
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "anger",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Seriously ? You mean to fire a real weapon ? I don ’ t know man .",
+    "occurrences": [
+      "fire",
+      "real",
+      "don"
+    ],
+    "word_count": 17,
+    "stop_word_count": 6,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.636,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0578,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.914,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0831,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "fear",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , it will be fun ! I have a 9mm pistol that is really easy to shoot . I also have a revolver that ’ s really fun too ! They have big targets at the range that we could use to practice and improve your aim .",
+    "occurrences": [
+      "fun",
+      "shoot",
+      "revolver",
+      "fun",
+      "improve"
+    ],
+    "word_count": 48,
+    "stop_word_count": 24,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.828,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0762,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.701,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1125,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 2.078,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0866,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 3.516,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1465,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0377,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0205,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "14%"
+      ],
+      [
+        "anticipation",
+        "11%"
+      ],
+      [
+        "fear",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah that would be cool ! Maybe I can also have a try at other weapons like a machine gun or a shotgun ! Maybe even a rocket launcher or an anti tank missile ! Or what about a flame thrower !",
+    "occurrences": [
+      "like",
+      "machine",
+      "gun",
+      "rocket",
+      "missile"
+    ],
+    "word_count": 41,
+    "stop_word_count": 17,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.652,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0688,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 2.936,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1223,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.546,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0644,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "12%"
+      ],
+      [
+        "anger",
+        "6%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Whoa , take it easy there Rambo . Don ’ t get carried away . These weapons are not toys , and you must first learn how to handle them properly . There are basic rules that you must abide by in order to be safe . For example , never handle a weapon that you haven ’ t inspected yourself . Always make sure there isn ’ t anything in the chamber , and never put your finger on the trigger unless you are ready to shoot !",
+    "occurrences": [
+      "don",
+      "abide",
+      "safe",
+      "haven",
+      "ready",
+      "shoot"
+    ],
+    "word_count": 84,
+    "stop_word_count": 39,
+    "occurrences_count": 6,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.344,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0299,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.367,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0304,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.468,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0326,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0094,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.562,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0347,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "fear",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wow , I didn ’ t know ! It always looks so cool and easy in the movies !",
+    "occurrences": [
+      "movies"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.786,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0786,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The reality is different you know , running and firing a weapon is a lot harder than in the movies ! So are you ready ?",
+    "occurrences": [
+      "running",
+      "movies",
+      "ready"
+    ],
+    "word_count": 25,
+    "stop_word_count": 13,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.302,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1085,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let ’ s do it !",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

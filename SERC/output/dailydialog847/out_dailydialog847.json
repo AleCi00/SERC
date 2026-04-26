@@ -1,0 +1,174 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I met a girl in elevator this morning . She works in a company upstairs . She said she envied the casual way we dress for work . She complained about the dress rule in her company . It requires everyone to wear formal clothes from Monday to Friday .",
+    "occurrences": [
+      "morning",
+      "rule",
+      "wear"
+    ],
+    "word_count": 48,
+    "stop_word_count": 21,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.007,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0093,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0281,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "joy",
+        "0%"
+      ],
+      [
+        "fear",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I was wondering where those people with professional attire come from . Now , I know the answer .",
+    "occurrences": [
+      "professional"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.068,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You know , in a sense , a suits and ties are compulsory for male employees even in July , and no jewelry allowed for most of the female employees . Even the reasonable male leaf is returning the rule , isn ’ t that strict ?",
+    "occurrences": [
+      "leaf",
+      "rule"
+    ],
+    "word_count": 42,
+    "stop_word_count": 20,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0085,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.065,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.003,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0195,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "1%"
+      ],
+      [
+        "fear",
+        "0%"
+      ],
+      [
+        "joy",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "To some extent , it is . Anyway , whether they like it or not , they do give people a very good impression .",
+    "occurrences": [
+      "like",
+      "good"
+    ],
+    "word_count": 22,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0383,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0219,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.101,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1101,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But it is unjust to judge a book by its cover . If they ’ re not happy or comfortable with their clothes , they can be less productive .",
+    "occurrences": [
+      "unjust",
+      "judge",
+      "cover",
+      "happy",
+      "less"
+    ],
+    "word_count": 29,
+    "stop_word_count": 17,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.53,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0442,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0463,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.167,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0139,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.788,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0657,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.562,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1302,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "13%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

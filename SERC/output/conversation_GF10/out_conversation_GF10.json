@@ -1,0 +1,190 @@
+[
+  {
+    "speaker": "Giulia",
+    "text": "Pippo you touched me continuously without me wanting it, even at night while I was sleeping you tried. You complained for two hours because I didn't want to fuck with you and you planned the entire vacation in Milan to make sure we fucked. Yesterday I didn't want to hug you and you punched me?!?",
+    "occurrences": [
+      "wanting",
+      "vacation",
+      "hug",
+      "punched"
+    ],
+    "word_count": 51,
+    "stop_word_count": 25,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.803,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0309,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0267,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.219,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.28,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0108,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0201,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anger",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Pippo since when do you punch to attract attention. There was malice in that punch and it hurt me. I didn't say anything because there were others but a similar thing had already happened...",
+    "occurrences": [
+      "punch",
+      "malice",
+      "punch",
+      "hurt"
+    ],
+    "word_count": 34,
+    "stop_word_count": 18,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 2.839,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1774,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 2.473,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1546,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.47,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0919,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.078,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0674,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "17%"
+      ],
+      [
+        "fear",
+        "15%"
+      ],
+      [
+        "sadness",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "it wasn't a punch as a joke Pippo, you did it with malice and with the intent to hurt me",
+    "occurrences": [
+      "punch",
+      "malice",
+      "hurt"
+    ],
+    "word_count": 19,
+    "stop_word_count": 13,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 2.126,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3543,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.893,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3155,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.079,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1798,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0898,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "35%"
+      ],
+      [
+        "fear",
+        "31%"
+      ],
+      [
+        "sadness",
+        "17%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "It was intentionally strong Pippo",
+    "occurrences": [
+      "strong"
+    ],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.281,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "28%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "You came to tell me that I disgust you and you wanted to leave just because I don't want to fuck with you anymore, you kept taking my soul away with the fact that for you we'll get back together, you said that for you the reasons on the list don't count... can I also take distance after an evening like yesterday's?",
+    "occurrences": [
+      "disgust",
+      "leave",
+      "soul",
+      "fact",
+      "together",
+      "count",
+      "like"
+    ],
+    "word_count": 59,
+    "stop_word_count": 30,
+    "occurrences_count": 7,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.602,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0208,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0248,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.014,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.795,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0274,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.859,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0296,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0081,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0566,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

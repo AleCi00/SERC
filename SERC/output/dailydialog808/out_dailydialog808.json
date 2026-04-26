@@ -1,0 +1,361 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Valerie ! Hi ! Wow how are you ? It ’ s been such a long time !",
+    "occurrences": [
+      "long",
+      "time"
+    ],
+    "word_count": 18,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.844,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1844,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Darlene ! Indeed , it ’ s been a while ! How have you been ? Wow , you look amazing ! I love what you ’ Ve done with your hair !",
+    "occurrences": [
+      "love"
+    ],
+    "word_count": 30,
+    "stop_word_count": 15,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.656,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1104,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1011,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Really ? Thanks ! I went to that hair salon that you told me about , but enough about me ! Look at you ! You haven ’ t aged a day since the last time I saw you ! What is your secret !",
+    "occurrences": [
+      "haven",
+      "time",
+      "secret"
+    ],
+    "word_count": 43,
+    "stop_word_count": 21,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.032,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.844,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0838,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ha ha , come on ! Well , I ’ Ve been watching what I eat , and working out three times a week . By the way , I heard your son recently graduated !",
+    "occurrences": [],
+    "word_count": 28,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , my little Paul is finally a doctor . They grow up so fast you know .",
+    "occurrences": [
+      "finally",
+      "doctor",
+      "grow"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.125,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0139,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.399,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0443,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.033,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1762,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "17%"
+      ],
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He is such a handsome guy . He gets his looks from his mother of course !",
+    "occurrences": [
+      "mother"
+    ],
+    "word_count": 17,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1015,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.824,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.103,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.032,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.004,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.406,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1757,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "17%"
+      ],
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you ! What about your daughter , Pamela ? I heard she has passed the bar exam and married recently .",
+    "occurrences": [
+      "daughter",
+      "exam"
+    ],
+    "word_count": 20,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0326,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0497,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh yes . She had a beautiful wedding in Cozumel Mexico and we all attended .",
+    "occurrences": [
+      "beautiful",
+      "wedding"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.422,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2031,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "20%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Such a lovely girl . I hope my Paul is lucky enough to find a girl like that someday !",
+    "occurrences": [
+      "lovely",
+      "hope",
+      "lucky",
+      "like",
+      "someday"
+    ],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.101,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.191,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 3.333,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.303,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.009,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0008,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.992,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1811,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 3.68,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3345,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "33%"
+      ],
+      [
+        "joy",
+        "30%"
+      ],
+      [
+        "anticipation",
+        "19%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But of course ! Well , it ’ s been great talking to you , but I have to get going .",
+    "occurrences": [],
+    "word_count": 19,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Same here ! We will catch up soon , maybe over coffee !",
+    "occurrences": [
+      "catch",
+      "coffee"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.666,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.111,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.32,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0533,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "surprise",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That would be great ! Give me a call !",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "See you soon ! Bye ! Egg ... I can ’ t stand that woman or her obnoxious daughter .",
+    "occurrences": [
+      "bye",
+      "obnoxious",
+      "daughter"
+    ],
+    "word_count": 19,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.043,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0365,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0456,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0338,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "anger",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning , sir . May I see your passport ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , of course . Here it is ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you . Are all these yours ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , some of them are my friend's . Do you want her passport , too ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , please . Do you have any carry-on items ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you want me to put it on the belt , too ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , please . Would you please open this big suitcase ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . Just a moment . It's just some clothes and toiletries ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK . Do you have anything to declare ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think there is nothing ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Any fresh food , live plants , or animals ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , no . None of that ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you . You may lock up your suitcase . Here are your passports ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks a lot ."
+  }
+]

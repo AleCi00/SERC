@@ -1,0 +1,318 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey , did you hear about Jessica's party this weekend ?",
+    "occurrences": [
+      "party",
+      "weekend"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.206,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2412,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "24%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , but I'm still waiting for my invitation .",
+    "occurrences": [
+      "waiting",
+      "invitation"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.328,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2656,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0282,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "26%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh really ? She gave me mine earlier today .",
+    "occurrences": [
+      "mine"
+    ],
+    "word_count": 10,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0371,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , she'll probably just give me my invitation later on today .",
+    "occurrences": [
+      "shell",
+      "invitation"
+    ],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0293,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.664,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.083,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0215,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.045,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0056,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.211,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0264,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "anger",
+        "2%"
+      ],
+      [
+        "surprise",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , so are you planning on going ?",
+    "occurrences": [
+      "planning"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1308,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1542,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "15%"
+      ],
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think so . It sounds like it's going to be a lot of fun .",
+    "occurrences": [
+      "like",
+      "fun"
+    ],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.788,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0985,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It really does , I can't wait .",
+    "occurrences": [
+      "wait"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1308,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What time does the party start ?",
+    "occurrences": [
+      "time",
+      "party",
+      "start"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.266,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3165,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.765,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1913,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "31%"
+      ],
+      [
+        "joy",
+        "19%"
+      ],
+      [
+        "surprise",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It starts at 8 o'clock .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , well , how many people has she given invites to so far ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm not sure , but I don't think she's given out that many .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , hopefully she'll give me my invite later on today .",
+    "occurrences": [
+      "shell",
+      "invite"
+    ],
+    "word_count": 11,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0293,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.57,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0712,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0215,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.457,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0571,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.045,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0056,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0596,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0537,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "surprise",
+        "5%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

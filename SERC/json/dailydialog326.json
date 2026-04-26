@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Is this a duty-free shop ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , sir . What can I do for you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I want to buy some specialties . Can you recommend me some ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . I strongly advise you to buy a bottle of perfume and a lighter ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Fine . They look nice . I will take both of them ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "May I have a look at your passport , please ?"
+  }
+]

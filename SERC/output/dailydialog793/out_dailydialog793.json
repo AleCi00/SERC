@@ -1,0 +1,285 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you like watching the Winter Olympic Games ?",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1613,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Of course . It's the tradition game in winter , and with good reason . Don't you like watching it ?",
+    "occurrences": [
+      "good",
+      "like"
+    ],
+    "word_count": 20,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0319,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0456,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0182,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.101,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0917,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Of course I do . I love it . All the games are exciting and the competitors are respectable .",
+    "occurrences": [
+      "love",
+      "exciting",
+      "respectable"
+    ],
+    "word_count": 19,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0886,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.681,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1868,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0747,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.531,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1701,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "18%"
+      ],
+      [
+        "trust",
+        "17%"
+      ],
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's true . For various reasons , it takes more to hold a fierce game for Winter Olympics than it does for Summer Olympics . You know , the low temperature may cause many problems .",
+    "occurrences": [
+      "true",
+      "fierce"
+    ],
+    "word_count": 30,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0451,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0196,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0261,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0182,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.789,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "4%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah . What's the difference between the Winter Olympics and the Summer Olympics ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "When the Olympic Games started in modern times , only summer events were included . When it grew popular , there came the Winter Olympic Games , which includes a variety of winter sports .",
+    "occurrences": [
+      "summer",
+      "popular"
+    ],
+    "word_count": 27,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.591,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0394,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0265,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I see . Then , what's your favorite winter sport ?",
+    "occurrences": [
+      "favorite"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0983,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0691,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Figure skating . In my eye , nothing beats it .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Then you must know Shen Due and Hao Hongbo .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I didn't expect you to know them . But yes , I love them not only because of many medals they've won , but also because of many medals they've won , but also because of their spirits .",
+    "occurrences": [
+      "expect",
+      "love",
+      "spirits"
+    ],
+    "word_count": 35,
+    "stop_word_count": 18,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.273,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0749,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.203,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0708,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0331,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.235,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0726,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You should go to talk with May . She is a big fan of them too .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

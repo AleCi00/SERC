@@ -1,0 +1,40 @@
+Title: anger-fear
+
+Head Concept Name: anger
+Modifier Concept Name: fear
+
+
+
+T(modifier), torture, 0.984
+T(modifier), terrorist, 0.972
+T(modifier), terrorists, 0.969
+T(modifier), horrific, 0.969
+T(modifier), terrorism, 0.969
+T(modifier), suicidebombing, 0.967
+T(modifier), kill, 0.962
+T(modifier), homicidal, 0.959
+T(modifier), catastrophe, 0.953
+T(modifier), annihilate, 0.953
+T(modifier), murderer, 0.953
+T(modifier), terror, 0.953
+T(modifier), dying, 0.948
+T(modifier), war, 0.942
+
+T(head), outraged, 0.964
+T(head), brutality, 0.959
+T(head), hatred, 0.953
+T(head), hateful, 0.94
+T(head), terrorize, 0.939
+T(head), violently, 0.938
+T(head), infuriated, 0.938
+T(head), furious, 0.929
+T(head), furiously, 0.927
+T(head), enraged, 0.927
+T(head), screwyou, 0.924
+T(head), murderer, 0.922
+T(head), fury, 0.922
+T(head), execution, 0.917
+
+
+Result: {"torture": 0.984, "terrorist": 0.972, "terrorists": 0.969, "horrific": 0.969, "terrorism": 0.969, "suicidebombing": 0.967, "kill": 0.962, "homicidal": 0.959, "annihilate": 0.953, "murderer": 0.953, "terror": 0.953, "outraged": 0.964, "brutality": 0.959, "hatred": 0.953, "@scenario_probability": 1.7143469138149839e-15}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1.7143469138149839e-15]

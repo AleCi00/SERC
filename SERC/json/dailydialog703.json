@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How ’ s it going ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m fine . Thank you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you need anything ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I need you to help me ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What can I do for you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am looking for an article in a newspaper ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Did you check the periodicals ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I didn ’ t even bother to think of that ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ ll show you where to find your article ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I get lost in this library ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It ’ s right this way ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks a lot for your help ."
+  }
+]

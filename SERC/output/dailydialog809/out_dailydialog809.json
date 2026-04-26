@@ -1,0 +1,245 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Did you already take the history exam ?",
+    "occurrences": [
+      "exam"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0718,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah . It was hard . When do you take it ?",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I take it tomorrow morning . There is so much material that I dont know what to emphasize on . What types of questions did you get ?",
+    "occurrences": [
+      "tomorrow",
+      "morning",
+      "emphasize"
+    ],
+    "word_count": 27,
+    "stop_word_count": 13,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0463,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0179,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Mostly on the civil war . You should also study the impact Martin Luther King Jr . had on American society .",
+    "occurrences": [
+      "war"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.942,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0942,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What about Abraham Lincoln ? Did you get any questions about him ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I only had 1 question about him . But you might get more . I dont know if he will have the same exam or not .",
+    "occurrences": [
+      "exam"
+    ],
+    "word_count": 27,
+    "stop_word_count": 17,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0359,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hopefully he will use the same exam , cause Im going to spend most of my time studying the civil war . It is a huge section and that is what he lectured the most on in class .",
+    "occurrences": [
+      "exam",
+      "time",
+      "war"
+    ],
+    "word_count": 37,
+    "stop_word_count": 21,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0323,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.301,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0813,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If you cant study everything , then that is probably the best way to go .",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Aright . Thanks for the info . I gotta go to the library now .",
+    "occurrences": [
+      "info"
+    ],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0556,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good luck .",
+    "occurrences": [
+      "good",
+      "luck"
+    ],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.977,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3257,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.031,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3437,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2423,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2057,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "34%"
+      ],
+      [
+        "anticipation",
+        "32%"
+      ],
+      [
+        "surprise",
+        "24%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks . See ya .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

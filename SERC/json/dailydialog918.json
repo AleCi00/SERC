@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How many languages can you speak ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can speak French and German ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How well can you speak them ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can speak German quite well , but I can't speak French very well ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Can you help me to translate these sentences into German now ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , but I'll be able to tomorrow ."
+  }
+]

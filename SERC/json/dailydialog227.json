@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'd like to withdraw some money from my account ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can I see your passbook and the withdrawal slip , please ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me just make sure . You want to withdraw one thousand dollars ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's right ."
+  }
+]

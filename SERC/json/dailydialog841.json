@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It's too hot to read ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We'd better go out for a walk ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Which season do you like best ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Spring ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How about summer ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I dislike it most ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Because the hottest season is summer in a year ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But sometimes summer is more charming than the other seasons ."
+  }
+]

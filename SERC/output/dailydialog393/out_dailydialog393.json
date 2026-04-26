@@ -1,0 +1,155 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Could you do me a favor and proofread my resume before I send it out to the human resources department ?",
+    "occurrences": [
+      "favor",
+      "resources"
+    ],
+    "word_count": 20,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.636,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0707,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0478,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure , let me take a look ... Personal Information , Education , Experience , Training ... I think you should add another section for language . You speak three languages , so you might as well put that on your resume .",
+    "occurrences": [
+      "personal"
+    ],
+    "word_count": 32,
+    "stop_word_count": 13,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0263,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But languages don't have anything to do with engineering . Shouldn't everything I put on my resume have something to do with my field ?",
+    "occurrences": [],
+    "word_count": 24,
+    "stop_word_count": 12,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not necessarily . I think people would be impressed by your language abilities . It says something about your level of intellect and experience . Also , I think human resources directors want to see more of a well-rounded person in a resume .",
+    "occurrences": [
+      "necessarily",
+      "level",
+      "experience",
+      "resources"
+    ],
+    "word_count": 43,
+    "stop_word_count": 16,
+    "occurrences_count": 4,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.663,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0246,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.344,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0498,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's just a piece of paper , you think that they can tell if I am a well-rounded person by looking at it ?",
+    "occurrences": [],
+    "word_count": 23,
+    "stop_word_count": 14,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , you're right , the resume is limited in how much it can tell someone about a person . That's why job interviews are important to let people know the real you that they can't see from a piece of paper . But resumes can be helpful in explaining things and giving a good impression to a potential employer .",
+    "occurrences": [
+      "limited",
+      "important",
+      "real",
+      "helpful",
+      "giving",
+      "good"
+    ],
+    "word_count": 59,
+    "stop_word_count": 26,
+    "occurrences_count": 6,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.292,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0088,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0116,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.438,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0436,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.167,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0051,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0066,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.493,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0755,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

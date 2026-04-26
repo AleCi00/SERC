@@ -1,0 +1,387 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey , Blake ! Are you still listening to Mozart ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes.Do you like it ?",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1613,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's great . and I ' Ve heard that listening to Mozart can make you more intelligent .",
+    "occurrences": [
+      "intelligent"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.084,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Really ? I've never heard that before . I just like it .",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is classical music your favorite ?",
+    "occurrences": [
+      "classical",
+      "music",
+      "favorite"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.325,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3312,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.004,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.121,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "33%"
+      ],
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "sadness",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . What about you ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I Like pop music best . Classical music is a bit too heavy for me . I can't get fully relaxed in it .",
+    "occurrences": [
+      "pop",
+      "music",
+      "classical",
+      "music",
+      "fully",
+      "relaxed"
+    ],
+    "word_count": 23,
+    "stop_word_count": 9,
+    "occurrences_count": 6,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.61,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.115,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.032,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0023,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.508,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0363,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0369,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Pop music doesn't have any depth for me .",
+    "occurrences": [
+      "pop",
+      "music",
+      "depth"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1062,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0032,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.508,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1016,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "surprise",
+        "10%"
+      ],
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , that's why I can enjoy myself in it .",
+    "occurrences": [
+      "enjoy"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1445,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.203,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.121,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "20%"
+      ],
+      [
+        "anticipation",
+        "14%"
+      ],
+      [
+        "trust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Did you always like pop music .",
+    "occurrences": [
+      "like",
+      "pop",
+      "music"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1062,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0032,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.508,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1016,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "surprise",
+        "10%"
+      ],
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think so , since I was in primary school . How long have you been interested in classical music .",
+    "occurrences": [
+      "school",
+      "long",
+      "interested",
+      "classical",
+      "music"
+    ],
+    "word_count": 19,
+    "stop_word_count": 9,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0406,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0078,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.637,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0637,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.13,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.013,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0531,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I didn't like it at all until I started to learn violin when I was eight . From then on . classical music has been an important part of my life .",
+    "occurrences": [
+      "like",
+      "classical",
+      "music",
+      "important",
+      "life"
+    ],
+    "word_count": 30,
+    "stop_word_count": 16,
+    "occurrences_count": 5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.075,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0768,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0011,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.117,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0798,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "sadness",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "oh , I didn't know you can play the violin . Do you still play .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sometimes , but these days I'm often too busy .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

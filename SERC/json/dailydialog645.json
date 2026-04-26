@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "The weather is terrible ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah . It's been raining a lot these days ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I have been watching a lot of videos at home because of the constant rain ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Have you heard when it's supposed to get better ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I saw the weather report , and it's going to rain for the next eight days ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That sucks so much . What are we going to do ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm getting pretty bored . We should do something despite the rain ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm with you . What do you have in mind ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I haven't been to the Mall in a long time . Let's go there ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That sounds good . They have a movie theatre there , so if we get bored , we can watch a movie ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Great . I'll stop by your place now ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ok . Don't forget to bring your umbrella . The rain can start up again anytime ."
+  }
+]

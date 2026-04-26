@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Lin's office supplies . How may I direct your call ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Marry Lin please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure , just a moment . ... I'm sorry no one answer the phone ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All right , could I leave a message ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Certainly !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Please ask her to call John ."
+  }
+]

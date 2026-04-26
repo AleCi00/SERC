@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "May I know where you are going ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I want to go to Beijing Hotel ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry . You are going in the wrong direction ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh no ! What shall I do ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don't worry . You can get off at the next stop and go across the street through the overpass . The bus stop is right there ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you very much ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "My pleasure ."
+  }
+]

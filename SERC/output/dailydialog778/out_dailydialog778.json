@@ -1,0 +1,101 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What did he say ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He said he would tell us the secret of becoming a successful man .",
+    "occurrences": [
+      "secret",
+      "successful"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0521,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.606,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0673,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.953,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1059,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It ’ s too good to be true ! If I were there , I would ask him if he himself was a successful man .",
+    "occurrences": [
+      "good",
+      "true",
+      "successful"
+    ],
+    "word_count": 23,
+    "stop_word_count": 14,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.235,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1372,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.356,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2618,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0487,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 3.46,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3844,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "38%"
+      ],
+      [
+        "joy",
+        "26%"
+      ],
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Nobody would drive him up a wall by asking him such a question , you know .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

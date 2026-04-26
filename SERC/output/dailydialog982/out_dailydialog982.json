@@ -1,0 +1,43 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Tim's always bothering me .",
+    "occurrences": [
+      "bothering"
+    ],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.435,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1087,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "10%"
+      ],
+      [
+        "anger",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just tell him off .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

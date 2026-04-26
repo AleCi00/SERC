@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Come in , come in , what can I do for you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Professor Donald , are you giving your advanced geology course again next semester ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I am applying on it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I wonder if I could enroll in it . I know it is a graduate course and I ' m a junior , but ..."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Aren't you a bit young ? I have a lot of qualified seniors to take the course and they usually have a hard time keeping up ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I know , but geology of the American west is my major interest and I have done a large reading in the field ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , if you think you are ready , I'll let you enroll ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , thanks , professor Donald . This is really very nice of you ."
+  }
+]

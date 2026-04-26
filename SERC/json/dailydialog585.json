@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Where are you going , Jane ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm going to the hospital to see Susan ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I saw her yesterday.She was a little better ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Must I catch a number 7 bus to get there ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , you needn't . A number 13 bus will also take you to the hospital ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Number 13 buses run much more frequently , don't they ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . I caught a number 7 bus yesterday , and they said I had taken a wrong bus ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you , Henry . I'll get a number 13 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But number 13 buses leave from the center of town.You ' ll have to walk two miles to catch one ."
+  }
+]

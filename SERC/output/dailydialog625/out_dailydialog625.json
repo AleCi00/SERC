@@ -1,0 +1,175 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Everything is now . I'm kind of sick of it .",
+    "occurrences": [
+      "kind",
+      "sick"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0963,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1035,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0885,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1068,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "disgust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Each ring has 3 small diamonds inside the band .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oooh ! One for each of the zeros in 2000 ! Wow !",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Stop making fun of me .",
+    "occurrences": [
+      "fun"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1405,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.788,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.197,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "19%"
+      ],
+      [
+        "anticipation",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "So find a guy to marry and you can get one !",
+    "occurrences": [
+      "marry"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.188,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.198,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.352,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2253,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0807,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.188,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.198,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "22%"
+      ],
+      [
+        "anticipation",
+        "19%"
+      ],
+      [
+        "trust",
+        "19%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don't need a guy to buy a wedding ring !",
+    "occurrences": [
+      "wedding"
+    ],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.282,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1831,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , I see . You're going to wear one and pretend you're married to try to attract guys .",
+    "occurrences": [
+      "wear"
+    ],
+    "word_count": 18,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0234,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

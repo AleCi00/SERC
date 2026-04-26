@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good afternoon , sir . Have you made a reservation ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am afraid not . Are there any vacant tables ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't think so . You have to wait for about 10 minutes ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's all right ."
+  }
+]

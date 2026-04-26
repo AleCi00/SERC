@@ -1,0 +1,44 @@
+Title: trust-surprise
+
+Head Concept Name: trust
+Modifier Concept Name: surprise
+
+head, -cannibalism
+head, -molestation
+head, -rape
+
+modifier, -anticipation
+
+T(modifier), surprise, 0.93
+T(modifier), explode, 0.906
+T(modifier), flabbergast, 0.906
+T(modifier), explosion, 0.898
+T(modifier), ambush, 0.883
+T(modifier), explosive, 0.883
+T(modifier), eruption, 0.883
+T(modifier), surprisingly, 0.875
+T(modifier), startle, 0.875
+T(modifier), shockingly, 0.875
+T(modifier), frighten, 0.875
+T(modifier), surprised, 0.867
+T(modifier), frightened, 0.867
+T(modifier), surprising, 0.867
+
+T(head), truthfulness, 0.906
+T(head), trusted, 0.883
+T(head), trustworthy, 0.867
+T(head), honor, 0.844
+T(head), honesty, 0.844
+T(head), honest, 0.844
+T(head), truth, 0.844
+T(head), truthful, 0.836
+T(head), trusting, 0.836
+T(head), brotherhood, 0.82
+T(head), entrust, 0.812
+T(head), committed, 0.805
+T(head), loyalty, 0.805
+T(head), integrity, 0.805
+
+
+Result: {"surprise": 0.93, "explode": 0.906, "flabbergast": 0.906, "explosion": 0.898, "ambush": 0.883, "explosive": 0.883, "eruption": 0.883, "surprisingly": 0.875, "startle": 0.875, "shockingly": 0.875, "frighten": 0.875, "truthfulness": 0.906, "trusted": 0.883, "trustworthy": 0.867, "@scenario_probability": 1.804318503958356e-10}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1.804318503958356e-10]

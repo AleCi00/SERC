@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "May I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Give me a Big Mac , a small order of French fries and a medium Coke ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You'll need to wait a few minutes for the fries . They are still in the fryer ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's fine ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Your total comes to $ 7 ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here's a twenty . Could you give me some more napkins ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure . Your cash back is $ 13 . And we'll bring out your fries in two minutes ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks ."
+  }
+]

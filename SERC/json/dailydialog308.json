@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Dave , there's something I want to talk to you about ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Zina , why are you whispering ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I've been talking to WebTracker . I'm thinking of jumping ship ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What ? Are you serious ? You'd defect to our archrival ! ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Keep your voice down . We'll talk more later . Right now I need to see Vince ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We definitely have to talk , Zina . And watch your back . Elvin is still mad about his nose ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK , but don't tell anyone what I said ."
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can I help you ?",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1015,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I'm in a bit of a rush . Could I have a piece of apple pie please ?",
+    "occurrences": [
+      "rush"
+    ],
+    "word_count": 18,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0281,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Certainly . Would you like it with ice cream ?",
+    "occurrences": [
+      "like",
+      "cream"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.039,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.061,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0087,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0201,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0691,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "surprise",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thanks .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

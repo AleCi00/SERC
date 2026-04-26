@@ -1,0 +1,123 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Here is the fish counter . Look at the lobsters and crabs . Shall we have some ?",
+    "occurrences": [],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm allergic to these things , you know .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sorry , I forgot . I don ’ t like seafood , neither .",
+    "occurrences": [
+      "don",
+      "like"
+    ],
+    "word_count": 11,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.757,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0946,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let ’ s go over there and get some milk , a couple dozen eggs and some orange juice .",
+    "occurrences": [],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let's get frozen juice . It is really good . We ’ Ve got enough food . Let ’ s go over to the check-out stand .",
+    "occurrences": [
+      "good",
+      "food"
+    ],
+    "word_count": 27,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0202,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.805,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0424,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0115,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.953,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0502,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . But just let me pick up a bottle of cooking wine and oil as we go by .",
+    "occurrences": [
+      "wine"
+    ],
+    "word_count": 20,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0125,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

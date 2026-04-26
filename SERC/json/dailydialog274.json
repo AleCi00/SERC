@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How's Jimmy today ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Better , thank you , doctor ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Can I see him please , Mrs Williams ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Certainly , doctor . Come upstairs ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You look very well , Jimmy . You are better now , but you mustn't get up yet.You must stay in bed for another two days.The boy mustn't go to school yet , Mrs Williams . And he mustn't eat rich food ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Does he have a temperature , doctor ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , he doesn ’ t ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Must he stay in bed ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . He must remain in bed for another two days . He can get up for about two hours each day , but you must keep the room warm . Where's Mr Williams this evening ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He's in bed , doctor . Can you see him , please ? He has a bad cold , too !"
+  }
+]

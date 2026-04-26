@@ -1,0 +1,385 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey Kevin , what are you doing here ? Don't you usually spend Tuesday nights at home studying ?",
+    "occurrences": [
+      "home"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.559,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0621,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I needed to get out of the house . My parents just went ballistic over something my older sister told them .",
+    "occurrences": [],
+    "word_count": 22,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What did she tell them ? Is she dropping out of college ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Nothing that serious . She finally told them that she moved out of the dormitory a few months ago and has been living with her boyfriend .",
+    "occurrences": [
+      "finally",
+      "living",
+      "boyfriend"
+    ],
+    "word_count": 27,
+    "stop_word_count": 15,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.57,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0475,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0104,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.949,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0791,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0247,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0377,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And your parents took it badly ?",
+    "occurrences": [
+      "badly"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.455,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1138,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's putting it mildly . My father started shouting at my sister and my mother just glared at her .",
+    "occurrences": [
+      "father",
+      "mother"
+    ],
+    "word_count": 20,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0369,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.412,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0375,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0015,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.289,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1172,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Ouch , that sounds bad . What did your sister do ?",
+    "occurrences": [
+      "bad"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0755,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0652,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "7%"
+      ],
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "disgust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "She started arguing back to my dad that how much she loves her boyfriend , how they're in love and it's not hurting anybody , and so on . My dad said she's too young to do this , and that she should move out right away .",
+    "occurrences": [
+      "boyfriend",
+      "love",
+      "hurting"
+    ],
+    "word_count": 45,
+    "stop_word_count": 25,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.712,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0356,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0336,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.308,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0654,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0379,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anger",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How long has your sister been with her boyfriend ?",
+    "occurrences": [
+      "long",
+      "boyfriend"
+    ],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1015,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.48,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.12,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Three years . They've been dating since freshman year . They're even talking about marriage .",
+    "occurrences": [
+      "marriage"
+    ],
+    "word_count": 16,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.514,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0367,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0496,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Really ? Then I guess living together would be a good idea .",
+    "occurrences": [
+      "guess",
+      "living",
+      "together",
+      "good"
+    ],
+    "word_count": 12,
+    "stop_word_count": 3,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0426,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.253,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1392,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0686,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0686,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "surprise",
+        "6%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What do you mean ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , these days too many people are getting divorced . If they live together , then at least they're finding out if they're really compatible or not .",
+    "occurrences": [
+      "live",
+      "together"
+    ],
+    "word_count": 27,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.8,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.05,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I guess so . Better to find out now than after you're married , when it's harder to get out .",
+    "occurrences": [
+      "guess"
+    ],
+    "word_count": 20,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0442,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

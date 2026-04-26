@@ -1,0 +1,485 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It ’ s so great to be here ! I ’ m so excited to help you and my daughter with your new home !",
+    "occurrences": [
+      "excited",
+      "help",
+      "daughter",
+      "home"
+    ],
+    "word_count": 25,
+    "stop_word_count": 15,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.718,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1718,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0406,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 3.848,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3848,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.25,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0906,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "anticipation-anger": 1.718,
+    "anticipation-anger_computed": 0.1718,
+    "surprise-anticipation": 1.718,
+    "surprise-anticipation_computed": 0.1718,
+    "anticipation-trust": 1.718,
+    "anticipation-trust_computed": 0.1718,
+    "anticipation-joy": 1.718,
+    "anticipation-joy_computed": 0.1718,
+    "anticipation-surprise": 1.718,
+    "anticipation-surprise_computed": 0.1718,
+    "anticipation-disgust": 1.718,
+    "anticipation-disgust_computed": 0.1718,
+    "anticipation-sadness": 1.718,
+    "anticipation-sadness_computed": 0.1718,
+    "anticipation-fear": 1.718,
+    "anticipation-fear_computed": 0.1718,
+    "trust-anticipation": 1.718,
+    "trust-anticipation_computed": 0.1718,
+    "main_emotion": [
+      [
+        "joy",
+        "38%"
+      ],
+      [
+        "anticipation",
+        "17%"
+      ],
+      [
+        "anticipation-anger",
+        "17%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-anger",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-disgust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-sadness",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-surprise",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We ’ re glad that you ’ re here . Would you like a tour of the house ?",
+    "occurrences": [
+      "glad",
+      "like"
+    ],
+    "word_count": 19,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.536,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0596,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.781,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0868,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That ’ d be great , but could I have a cup of tea first ?",
+    "occurrences": [
+      "tea"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0269,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure , I ’ ll just go put the kettle on . Why don ’ t you have a seat on the sofa and I ’ ll go take care of things in the kitchen .",
+    "occurrences": [
+      "don"
+    ],
+    "word_count": 33,
+    "stop_word_count": 17,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0171,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That would be lovely , thanks .",
+    "occurrences": [
+      "lovely"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1388,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1797,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.009,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0022,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.045,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1465,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "17%"
+      ],
+      [
+        "trust",
+        "14%"
+      ],
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you take milk or sugar with your tea ?",
+    "occurrences": [
+      "tea"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0376,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ ll take a little milk , but no sugar , please . Make sure you let the tea steep a few minutes before you take the tea bag out of the cup .",
+    "occurrences": [
+      "tea",
+      "tea"
+    ],
+    "word_count": 33,
+    "stop_word_count": 15,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.376,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0209,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ok . What do you think about our living room ?",
+    "occurrences": [
+      "living"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.052,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , I do like the mantelpiece and the coffee table , but I don ’ t really care for curtains . Did you get them at a yard sale ? They look ancient .",
+    "occurrences": [
+      "like",
+      "coffee",
+      "don"
+    ],
+    "word_count": 31,
+    "stop_word_count": 14,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0196,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.757,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0445,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My parents gave them to us as a house warming gift .",
+    "occurrences": [
+      "gift"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0893,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0781,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0614,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "surprise",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh dear . Well , I suppose they will do for now . do you ever dust in here ? It seems a bit dusty in here .",
+    "occurrences": [],
+    "word_count": 26,
+    "stop_word_count": 13,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Your daughter usually does the dusting , and I do the vacuuming .",
+    "occurrences": [
+      "daughter"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1094,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I see . Well , I can help with the chores while I ’ m here . You two could probably use my help .",
+    "occurrences": [
+      "help",
+      "help"
+    ],
+    "word_count": 22,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That ’ s very nice of you to offer . Here ’ s your tea . Be careful , it ’ s still quite hot .",
+    "occurrences": [
+      "tea",
+      "careful",
+      "hot"
+    ],
+    "word_count": 25,
+    "stop_word_count": 12,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.529,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0407,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0145,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0445,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anger",
+        "4%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

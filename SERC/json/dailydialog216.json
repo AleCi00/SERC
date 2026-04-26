@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you need a guide ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , we are just looking for one . What's the charge per day ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's $ 20 . If you are staying for more than 3 days in the city , the charge is $ 16 per day ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's reasonable ."
+  }
+]

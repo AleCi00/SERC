@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You seem to very busy these days . What are you doing ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am swapped with work after 10 - day holiday ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where did you spend your holiday ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I went to Paris ."
+  }
+]

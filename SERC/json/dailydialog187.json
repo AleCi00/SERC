@@ -1,0 +1,14 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I have to check out now . My name is Ruth Carson . Can I have my bill , please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , it's $ 167 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you ."
+  }
+]

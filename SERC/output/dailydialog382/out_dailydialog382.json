@@ -1,0 +1,124 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I was surprised to see how few people you have on-site . You provide a wide range of goods and services but have a very small workforce .",
+    "occurrences": [
+      "surprised",
+      "provide"
+    ],
+    "word_count": 29,
+    "stop_word_count": 16,
+    "occurrences_count": 2,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.867,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0667,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0421,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "surprise-anticipation": 0.867,
+    "surprise-anticipation_computed": 0.0667,
+    "anticipation-surprise": 0.867,
+    "anticipation-surprise_computed": 0.0667,
+    "main_emotion": [
+      [
+        "surprise",
+        "6%"
+      ],
+      [
+        "surprise-anticipation",
+        "6%"
+      ],
+      [
+        "anticipation-surprise",
+        "6%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-surprise",
+        "matched_words": [
+          {
+            "word": "surprised",
+            "score": 0.867
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anticipation",
+        "matched_words": [
+          {
+            "word": "surprised",
+            "score": 0.867
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It depends on the time of year . At peak times we hire in casual workers to help with packing and dispatch . We also contract out certain services all year round , for example , cleaning . We run a very tight operation !",
+    "occurrences": [
+      "time",
+      "hire",
+      "help",
+      "run",
+      "operation"
+    ],
+    "word_count": 43,
+    "stop_word_count": 17,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.985,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0379,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.235,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0475,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0078,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.374,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0528,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "fear",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you handle the recruiting yourselves ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sometimes we use a local employment agency . It depends on the job .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

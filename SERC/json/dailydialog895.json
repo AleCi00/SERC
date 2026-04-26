@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good afternoon !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good afternoon ! Sit down , please.How are you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm very well , thank you.How are you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Very well too , thank you very much.Isn ' t it a lovely day ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , it's beautiful , but it's also very hot ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What's the weather like in your country ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Mm ... It's quite warm now ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where do you live ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "In London.Where do you live ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Here.Near this school ."
+  }
+]

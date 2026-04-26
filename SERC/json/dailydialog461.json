@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you have sport shirts for ladies ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "There are different types . Which one do you like best ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think the red one fits me well . Can I try it on ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Surely , of course ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where is the fitting room ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's there , near the mirror ."
+  }
+]

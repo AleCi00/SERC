@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What ’ s the Mountaineering Club doing this weekend ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We are going to climb a cliff on the Colorado River ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How hard is the climb ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It is a very difficult climb because there are not many places to put your hands and feet ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What did you do last week ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We rappelled down the side of 300 - foot cliff . It was very exciting ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wow ! That sounds like a lot of fun . I ’ m sorry I missed it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , you should come this weekend . I think you could do the climb ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , I will . See you then !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "O . K . See you ."
+  }
+]

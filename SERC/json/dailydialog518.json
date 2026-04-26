@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I have to get to Chicago by tomorrow and you're telling me that there are no flights ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm very sorry , sir . I could put you on a waiting list , but you would be wise to check out other means of travel ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You mean like a bus ? Have you ever traveled for ten hours on a bus before ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I have not sir . But I do have a number for a very comfortable bus that goes to Chicago every hour from here ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Alright , give me the number . But put me on that waiting list as well ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here is the number , and your name is on the waiting list ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How many people are on the waiting list right now ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Right now I show that there are 176 people on the list . And you are number 176 ."
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Where to , ma'am ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The Grand Hotel ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The Grand Hotel ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes.Do you know where it is ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , Madam . I don't think I do ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's the 11th Avenue , Park Street ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , yes . I know where it is ."
+  }
+]

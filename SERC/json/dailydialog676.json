@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you watch a lot of TV ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not really . I could take it or leave it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not me . I have to have my TV and watch whatever comes on ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How can you do that ?"
+  }
+]

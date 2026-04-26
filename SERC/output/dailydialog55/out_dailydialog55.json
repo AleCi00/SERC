@@ -1,0 +1,290 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Look at the show on TV . I am watching a food show at a very famous seafood restaurant . I really want to eat at that restaurant . I am a seafood lover .",
+    "occurrences": [
+      "show",
+      "food",
+      "show",
+      "lover"
+    ],
+    "word_count": 35,
+    "stop_word_count": 16,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0296,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.977,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0514,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.517,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0798,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Speaking of seafood , my mouth is watering . Let's go to the seafood restaurant in our neighborhood .",
+    "occurrences": [
+      "mouth",
+      "neighborhood"
+    ],
+    "word_count": 18,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0242,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "surprise",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sound great . Let's go !",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Look at the crystal clear fridge . You can see so many kinds of seafood in it . They all look very fresh and delicious .",
+    "occurrences": [
+      "delicious"
+    ],
+    "word_count": 26,
+    "stop_word_count": 12,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.579,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0414,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "True . I would like to have some salmon sashimi and a roast salmon head .",
+    "occurrences": [
+      "true",
+      "like"
+    ],
+    "word_count": 16,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1273,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You sound like a seafood expert . I would like to have some stir-fried squids and steamed shrimps .",
+    "occurrences": [
+      "like",
+      "expert",
+      "like"
+    ],
+    "word_count": 20,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.632,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1255,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You are not too bad as well . I also want to have a steamed lobster . It is really taste like heaven .",
+    "occurrences": [
+      "bad",
+      "like",
+      "heaven"
+    ],
+    "word_count": 24,
+    "stop_word_count": 11,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0348,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0301,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0288,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.721,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0555,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0325,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0372,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anger",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let's go into the restaurant and find a table to order some food .",
+    "occurrences": [
+      "food"
+    ],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0323,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.336,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.042,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wait . Let me tell the lady what we would like to order in front of the seafood fridge first .",
+    "occurrences": [
+      "wait",
+      "like"
+    ],
+    "word_count": 21,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0402,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0372,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . I will wait for you inside the restaurant",
+    "occurrences": [
+      "wait"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1046,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you think we should try some deep fried oysters ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

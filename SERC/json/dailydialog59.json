@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I have a cell phone in my car . Now it's probably on the floor on the passenger side.Why don't you get it for me , and then I can call the police ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Alright ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It doesn't work . It looks like it's broken . I need to get to a hospital . You should drive me there ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , yeah ? It's better if we make a police report first . Then you can go to the hospital ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Damn it ! I'm injured here . We could wait all day for the police ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , you'll just have to wait . I'm not going to move my car until the police arrive . I'll go into one of those houses over there and use their phone . Don't worry . You'll get to the hospital in time ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It really hurts ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , maybe it does.But if you're going to drive like you did just now , you will have to get used to a little physical pain . You know what I mean ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "To hell with you . The accident was your fault ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm afraid it wasn't . And when the police get here , you will also see that it wasn't . But enough of this bickering . I'm going to go find a phone.Don ' t move that arm while I'm gone . Alright ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "To hell with you ."
+  }
+]

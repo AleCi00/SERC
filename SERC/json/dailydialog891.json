@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Scientists have found a second solar system in the universe ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What's the second solar system ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's just a system like ours , with a star and a number of planets going around it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is this good news or bad news ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's exciting news ! If we find a second solar system , we might find a second earth !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You mean with people on it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes ! Isn't that exciting ?"
+  }
+]

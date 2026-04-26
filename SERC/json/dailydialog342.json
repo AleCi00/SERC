@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Thank your for calling World Airline . What can I do for you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I need to book a plane ticket to London ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Round-trip or one-way ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "One-way ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What date would you like to fly ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Saturday , July 25 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How many people will be traveling ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just one adult ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Which class ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Economy , please . Economy class is the cheapest , right ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Right . Ok , the fare is $ 700 ."
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning . Vane Theater , at your service ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hello . I'm thinking about watching a Chinese traditional opera with a foreign girl . What's on this weekend ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , there will be charity performance on Saturday night . And also , there will be a solo concert by an opera star on Sunday night ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's a good thing that I have choices here . Can you tell me about the one on Saturday ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure . It's to raise money for the homeless ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What about the performance itself ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , it's a reserved opera named The Monkey Creates Havoc in Heaven ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wow , a story about the clever Monkey King . It's a classic and children's favorite ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It surely is . And the cast is really the best ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wonderful ! How much is the ticket ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The price varies according to the seats . 300 for the front , 200 for the middle , and 50 for the back ."
+  }
+]

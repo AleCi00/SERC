@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What do you think I should do , doctor ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why don't you try Chinese herbal medicine ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is it useful for me ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You have to try at least ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK . Thanks a lot ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's nothing ."
+  }
+]

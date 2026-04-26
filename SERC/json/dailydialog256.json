@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning , Angela , how have you been lately ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Morning , Michael . I ’ Ve been very busy lately . One of our other vendors is going out of business and I ’ Ve been searching for a suitable replacement ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , rest assured that you can count on us to be here for the long run , sitdown.Coffee ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thanks . I ’ Ve been trying to cut down on the caffeine ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Haha , I could never do that . I ’ d be a zombie if I didn ’ t have my morning coffee fix . Let ’ s get down to business then ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I ’ Ve come to talk with you about ordering the eight megapixel cameras for our new methone . The demand for phone cameras is growing , and Pear has been falling behind in the market ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That ’ s great ! I ’ m glad to hear that Pear has finally jumped on the bandwagon . Right now our contract is for the five megapixel cameras . Is Pear still interested in having those ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , we ’ re changing all the cameras to eight megapixels . We were hoping that by making your company our sole supplier for cameras we could negotiate a better deal ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Surely . Let ’ s get started by drafting a new contract ."
+  }
+]

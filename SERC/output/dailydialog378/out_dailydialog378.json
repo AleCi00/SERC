@@ -1,0 +1,213 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Have you seen this news article ? Apparently an organization has made a list to name the new seven wonders of the world and people could vote for them online .",
+    "occurrences": [
+      "organization",
+      "vote"
+    ],
+    "word_count": 31,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.045,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0025,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.39,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0217,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.031,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0017,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0139,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.071,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0595,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wow , that's really interesting . So who won ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , the Great Wall of China , the Taj Mahal in India .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I've been there ! It really is an amazing work of architecture and art . The entire complex is made of white marble and in the interior of the tomb , the walls are covered with gems and emeralds !",
+    "occurrences": [
+      "architecture",
+      "art",
+      "interior",
+      "tomb"
+    ],
+    "word_count": 39,
+    "stop_word_count": 19,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0196,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0043,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0117,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0281,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0086,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.859,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.043,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Cool ! Also amongst the winners is Petra , in Jordan , Mach Pitch in Peru and the pyramid in Chichenitza in Mexico .",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wait a minute ! It also says that the Christ Re-deemer statue in Brazil and the Colosseum in Rome are wonders . I would love to go to Italy and see the Colosseum , stand in the middle like a gladiator !",
+    "occurrences": [
+      "wait",
+      "love",
+      "like",
+      "gladiator"
+    ],
+    "word_count": 35,
+    "stop_word_count": 17,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.046,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0581,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0364,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.046,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.726,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0959,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , let's see if we can find some cheap airfare and we can go towards the end of the year .",
+    "occurrences": [],
+    "word_count": 21,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good idea !",
+    "occurrences": [
+      "good"
+    ],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2553,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3647,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.146,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.234,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.4113,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "41%"
+      ],
+      [
+        "joy",
+        "36%"
+      ],
+      [
+        "anticipation",
+        "25%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

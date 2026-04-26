@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'd like to speak Dr.Johnson ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sorry , but he's not in . May I take a message for you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "This is Robert Jordan.Would you ask him to call me back , please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK , I'll tell him ."
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'd like to withdraw some money from my account .",
+    "occurrences": [
+      "like",
+      "withdraw",
+      "money",
+      "account"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.074,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0123,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0977,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0885,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0338,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.366,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2277,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "22%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "joy",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can I see your passbook and the withdrawal slip , please ?",
+    "occurrences": [
+      "slip"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0768,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me just make sure . You want to withdraw one thousand dollars ?",
+    "occurrences": [
+      "withdraw"
+    ],
+    "word_count": 14,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0375,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's right .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Are you going to vote ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Of course ! Are you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I plan to , but what day is the election ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You should know that ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Can you just tell me ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The election is this Tuesday ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you serious ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m not kidding ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It ’ s a good thing I asked you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That should ’ Ve been something you knew already ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I couldn ’ t remember ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Whatever . Just make sure you go vote ."
+  }
+]

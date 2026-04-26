@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm just calling to see if you have made any decision about the position ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sorry , we haven't made the decision at all ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have any idea when you might arrive at a decision ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We will let you know probably next Monday . I hope to give you a positive reply ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm willing to wait until you have come to a decision ."
+  }
+]

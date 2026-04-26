@@ -1,0 +1,161 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey Mel ! Are you up for some tennis today ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sorry , I can ’ t ! I have to go to work , pick up Jake and Maddie from school , and make them an afternoon snack , then take Jake to soccer practice and Maddie to dance class .",
+    "occurrences": [
+      "school",
+      "dance"
+    ],
+    "word_count": 32,
+    "stop_word_count": 16,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.545,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0341,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.89,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0556,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You sound exhausted . Maybe you should hire a nanny to help you out ! She can pick the kids up and take them to their after-school activities . She can also help you do some household chores , and run so",
+    "occurrences": [
+      "exhausted",
+      "hire",
+      "help",
+      "school",
+      "help",
+      "run"
+    ],
+    "word_count": 42,
+    "stop_word_count": 23,
+    "occurrences_count": 6,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.938,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0494,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.859,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0452,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0214,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0206,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.499,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0789,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I don ’ t know ... it ’ s hard to find the right nanny . You have to consider her previous work experience , the responsibilities you give her , and how she interacts with the kids . I would love to have",
+    "occurrences": [
+      "don",
+      "experience",
+      "love"
+    ],
+    "word_count": 41,
+    "stop_word_count": 21,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.203,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0601,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.031,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0516,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think you should definitely consider it ! This way you won ’ t have to juggle such a busy schedule , and you ’ ll still get to spend time with the kids in the evenings . I can refer you this great",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 43,
+    "stop_word_count": 24,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0272,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , that ’ s great . Thanks Grace . Can you give me her number ? I ’ ll talk it over with Dan and give her a call tomorrow . Maybe this way I won ’ t be so tired every day , and Dan and I might even get to go",
+    "occurrences": [
+      "tomorrow"
+    ],
+    "word_count": 47,
+    "stop_word_count": 22,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0259,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

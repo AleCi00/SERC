@@ -1,0 +1,43 @@
+Title: fear-trust
+
+Head Concept Name: fear
+Modifier Concept Name: trust
+
+
+modifier, -cannibalism
+modifier, -molestation
+modifier, -rape
+
+T(modifier), truthfulness, 0.906
+T(modifier), trusted, 0.883
+T(modifier), trustworthy, 0.867
+T(modifier), honor, 0.844
+T(modifier), honesty, 0.844
+T(modifier), honest, 0.844
+T(modifier), truth, 0.844
+T(modifier), truthful, 0.836
+T(modifier), trusting, 0.836
+T(modifier), brotherhood, 0.82
+T(modifier), entrust, 0.812
+T(modifier), committed, 0.805
+T(modifier), loyalty, 0.805
+T(modifier), integrity, 0.805
+
+T(head), torture, 0.984
+T(head), terrorist, 0.972
+T(head), terrorists, 0.969
+T(head), horrific, 0.969
+T(head), terrorism, 0.969
+T(head), suicidebombing, 0.967
+T(head), kill, 0.962
+T(head), homicidal, 0.959
+T(head), catastrophe, 0.953
+T(head), annihilate, 0.953
+T(head), murderer, 0.953
+T(head), terror, 0.953
+T(head), dying, 0.948
+T(head), war, 0.942
+
+
+Result: {"truthfulness": 0.906, "torture": 0.984, "terrorist": 0.972, "terrorists": 0.969, "horrific": 0.969, "terrorism": 0.969, "suicidebombing": 0.967, "kill": 0.962, "homicidal": 0.959, "catastrophe": 0.953, "annihilate": 0.953, "murderer": 0.953, "terror": 0.953, "dying": 0.948, "@scenario_probability": 1.9840232611319754e-10}
+Scenario: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1.9840232611319754e-10]

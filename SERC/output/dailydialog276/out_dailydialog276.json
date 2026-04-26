@@ -1,0 +1,350 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "This looks wonderful , Madame Culot .",
+    "occurrences": [
+      "wonderful"
+    ],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.863,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2877,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.151,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2083,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "28%"
+      ],
+      [
+        "trust",
+        "20%"
+      ],
+      [
+        "surprise",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , it's very nice . All our foreign visitors enjoy it . The food is wonderfully well-prepared . Let me know if you need any help with the menu .",
+    "occurrences": [
+      "enjoy",
+      "food",
+      "wonderfully",
+      "prepared",
+      "help"
+    ],
+    "word_count": 31,
+    "stop_word_count": 13,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.016,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0564,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0113,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.914,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1063,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0191,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.523,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0846,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you . Mmm . Can you tell me about the terrine ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . A terrine is a kind of meat pate . It's meat turned into a paste . It sounds horrible but it's actually really good .",
+    "occurrences": [
+      "kind",
+      "horrible",
+      "good"
+    ],
+    "word_count": 27,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.742,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0436,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0225,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0386,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.734,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0432,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.168,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0687,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0129,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.258,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.074,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "anger",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Mmm . Maybe another time .",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 6,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You could try the ravioli . They are rather like your Chinese dumplings , and the sauce is delicious .",
+    "occurrences": [
+      "like",
+      "delicious"
+    ],
+    "word_count": 18,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.579,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0579,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0484,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sounds good . I think I'll have the lamb for my main course . What does it come with ?",
+    "occurrences": [
+      "good",
+      "lamb"
+    ],
+    "word_count": 20,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0383,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0766,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0219,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1094,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , you can have fries-French fries-or simple boiled potatoes .",
+    "occurrences": [
+      "simple"
+    ],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0201,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'll have the potatoes . What are you having ?",
+    "occurrences": [
+      "ill"
+    ],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0833,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.123,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1552,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1485,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "15%"
+      ],
+      [
+        "sadness",
+        "14%"
+      ],
+      [
+        "disgust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm having my usual . I like the fish here . Would you like some wine ?",
+    "occurrences": [
+      "usual",
+      "like",
+      "like",
+      "wine"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 4,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0125,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.413,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1413,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "14%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , yes . That would be lovely .",
+    "occurrences": [
+      "lovely"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0925,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1198,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.009,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0015,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.03,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0977,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

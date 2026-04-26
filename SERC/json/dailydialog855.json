@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Helen , did you hear I ’ m having a party ? Next Saturday in my place ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I may have something on that day , but thanks for inviting me ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , drop by if you can ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I will , do you want me to bring anything ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , just bring yourself . I hope to see you there ."
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It's time for bed ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But I'm not sleepy , Mum . Can I stay and watch more TV ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's already half past eleven . You have school tomorrow . You'll sleepy all tomorrow , if you don't sleep well tonight ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I know . But I promise I won't be sleepy tomorrow . I work really hard ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don't you have the exams coming up soon ? I'm sure you could spend more time preparing for those ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I nearly forgot the exams ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You do well in maths , but your history is not good enough . Am I right ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , I guess so . Maybe I can go to sleep now and get up early to review the lessons tomorrow ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "An excellent idea . Work now and play later ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I know you're right . School is more important than TV . Can I watch one more show , then go to bed ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , now it's bedtime ."
+  }
+]

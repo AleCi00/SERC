@@ -1,0 +1,269 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , could you help me pick out a lotion ?",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0338,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure , what is the problem ?",
+    "occurrences": [
+      "problem"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0887,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.146,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "14%"
+      ],
+      [
+        "fear",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I got poison oak while hiking , and I need something to help me with the itching .",
+    "occurrences": [
+      "poison",
+      "hiking",
+      "help"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.697,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0774,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0729,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.0,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1111,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.283,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0314,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0747,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "11%"
+      ],
+      [
+        "anger",
+        "7%"
+      ],
+      [
+        "sadness",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can suggest a product called Techne that comes in a lotion or cream .",
+    "occurrences": [
+      "suggest",
+      "cream"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.039,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.061,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0087,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0201,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0503,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "surprise",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Which do you prefer ?",
+    "occurrences": [
+      "prefer"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2345,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "23%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hikers tell me that the cream is best because it stays on longer .",
+    "occurrences": [
+      "cream"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.039,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.061,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0087,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0201,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "surprise",
+        "2%"
+      ],
+      [
+        "joy",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is there anything else I can do to help with the itching ?",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0406,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You can take an antihistamine .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you so much for all of the information .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You are welcome . Please feel free to ask me a question any time you need help .",
+    "occurrences": [
+      "free",
+      "time",
+      "help"
+    ],
+    "word_count": 18,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0185,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.544,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0495,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

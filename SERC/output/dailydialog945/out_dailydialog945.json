@@ -1,0 +1,355 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey , May , look , Is that the the poster of the movie we saw yesterday ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , that's right . That's the poster of the The Witch .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "May , I really regret watching it with you last night .",
+    "occurrences": [
+      "regret"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0893,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Did it scare you ?",
+    "occurrences": [
+      "scare"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.588,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.294,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2345,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.422,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3985,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "42%"
+      ],
+      [
+        "surprise",
+        "39%"
+      ],
+      [
+        "anger",
+        "29%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Of course not . I just thought the movie was ... boring .",
+    "occurrences": [
+      "thought"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.069,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Boring ? Come on , you clutched to my arm all the time .",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0737,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , I admit . The ghosts were scary .",
+    "occurrences": [
+      "admit",
+      "scary"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1277,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0937,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "12%"
+      ],
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I like scary movies .",
+    "occurrences": [
+      "like",
+      "scary",
+      "movies"
+    ],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1915,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.393,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0983,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.121,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "19%"
+      ],
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "joy",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's Gucci's influence . I love science fiction movies !",
+    "occurrences": [
+      "love",
+      "movies"
+    ],
+    "word_count": 10,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.442,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3053,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1895,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "30%"
+      ],
+      [
+        "trust",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Of course you do . They are silly stories just for little kids like you .",
+    "occurrences": [
+      "silly",
+      "like"
+    ],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0645,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don't call me kid . I am a grownup .",
+    "occurrences": [
+      "kid"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.515,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0858,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you dare watch scary movies with me tonight ?",
+    "occurrences": [
+      "dare",
+      "watch",
+      "scary",
+      "movies"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.093,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1822,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.954,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.159,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.393,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0655,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.043,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "18%"
+      ],
+      [
+        "fear",
+        "15%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Of course ! I can watch them without you !",
+    "occurrences": [
+      "watch"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.046,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2092,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.376,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0752,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "20%"
+      ],
+      [
+        "fear",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , really ?",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

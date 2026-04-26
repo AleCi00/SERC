@@ -1,0 +1,306 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I hate to go outside .",
+    "occurrences": [
+      "hate"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.207,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1737,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.121,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.164,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "20%"
+      ],
+      [
+        "disgust",
+        "17%"
+      ],
+      [
+        "sadness",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Me too .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why do you hate to go outside ?",
+    "occurrences": [
+      "hate"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.207,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1737,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.121,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.164,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "20%"
+      ],
+      [
+        "disgust",
+        "17%"
+      ],
+      [
+        "sadness",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I meet too many jerks .",
+    "occurrences": [
+      "jerks"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.515,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1288,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I agree .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This city is full of jerks .",
+    "occurrences": [
+      "full",
+      "jerks"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.515,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1288,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "12%"
+      ],
+      [
+        "joy",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Rude people are everywhere .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But what can you do ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You can yell at them .",
+    "occurrences": [
+      "yell"
+    ],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.661,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3305,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3475,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "34%"
+      ],
+      [
+        "anger",
+        "33%"
+      ],
+      [
+        "fear",
+        "21%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "And they will yell back at you .",
+    "occurrences": [
+      "yell"
+    ],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.661,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.146,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2317,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "23%"
+      ],
+      [
+        "anger",
+        "22%"
+      ],
+      [
+        "fear",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yelling doesn't do any good .",
+    "occurrences": [
+      "yelling",
+      "good"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.788,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.197,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0958,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1368,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0548,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1542,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "19%"
+      ],
+      [
+        "trust",
+        "15%"
+      ],
+      [
+        "joy",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No . The best thing to do is just stay home .",
+    "occurrences": [
+      "home"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.559,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0932,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

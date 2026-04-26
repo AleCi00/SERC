@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How is your new dormitory ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's very nice . There are only four people , and those girls are very kind and friendly ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , do you all major in the same subject ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , the other three girls major in a computer science , and they can help me a lot with the computer operating ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's great !"
+  }
+]

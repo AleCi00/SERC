@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I didn ’ t receive an unemployment check this week and need to know why ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Did you mail us your last Continued Claim Form ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I am afraid that I forgot to send it in ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We cannot pay you unless you turn that form in every two weeks ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is it too late to mail the Continued Claim Form in now ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It can ’ t be more than fourteen days late for us to accept it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I will mail it in a little early next time to avoid this problem ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You can ’ t possibly know in advance how much you will be working . If you mail it in too soon , we will reject it !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Will my paycheck arrive late because I messed up on my form ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Your check will be arriving late , but the next one will come right on time ."
+  }
+]

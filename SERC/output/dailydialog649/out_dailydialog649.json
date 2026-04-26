@@ -1,0 +1,112 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Did you have any kind of punishment in your life and studies ?",
+    "occurrences": [
+      "kind",
+      "punishment",
+      "life"
+    ],
+    "word_count": 13,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1094,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0782,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1312,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.059,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2118,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1282,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "21%"
+      ],
+      [
+        "fear",
+        "13%"
+      ],
+      [
+        "trust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , just once .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What was the reason ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I once played truant when I was in college because I intended to organize a donation activity for the disaster-hit areas in Sichuan .",
+    "occurrences": [
+      "intended",
+      "disaster",
+      "hit"
+    ],
+    "word_count": 22,
+    "stop_word_count": 11,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.388,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1262,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.602,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.508,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0462,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.875,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0795,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0689,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0738,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0426,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "12%"
+      ],
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "surprise",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

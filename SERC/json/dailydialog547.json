@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How's the bride-to-be ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Tired and stressed . This wedding is giving me a headache ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Just relax . With me as your maid of honor , everything will be fine !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm worried that everything will be chaotic !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hey ! I'm the tour guide . I'll take care of the Taiwanese guests ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You're going to have to tell them what to do in church , what everything means ..."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I will . Don't worry !"
+  }
+]

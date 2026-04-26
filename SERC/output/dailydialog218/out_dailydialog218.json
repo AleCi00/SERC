@@ -1,0 +1,197 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Lucy , I ’ d like to fix the light in the corridor , it keeps flashing , which drives me crazy . Would you like to help me with the ladder ?",
+    "occurrences": [
+      "like",
+      "light",
+      "crazy",
+      "like",
+      "help"
+    ],
+    "word_count": 29,
+    "stop_word_count": 13,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.722,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0451,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0186,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.368,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.023,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "fear",
+        "4%"
+      ],
+      [
+        "anger",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Monica , wait a moment . I think we ’ d better call the repair man to do it .",
+    "occurrences": [
+      "wait"
+    ],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0475,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think I can handle it by myself .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ d like you to have a look at the safety manual of our company .",
+    "occurrences": [
+      "like",
+      "manual"
+    ],
+    "word_count": 17,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.851,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1216,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I see . If I got hurt when fixing the light , even during office hours , I wouldn ’ t get compensation from our company since repairing is not my responsibility .",
+    "occurrences": [
+      "hurt",
+      "light"
+    ],
+    "word_count": 29,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.561,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.033,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0405,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0175,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0405,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "4%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "anger",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Other company rules also need your attention .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Like this one ? Never wear loose clothes or hair when operating the shredder.Yeah , thank you for telling me .",
+    "occurrences": [
+      "like",
+      "wear"
+    ],
+    "word_count": 20,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Don ’ t mention it .",
+    "occurrences": [
+      "don"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.091,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

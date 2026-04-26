@@ -1,0 +1,310 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "hi , Bob , I am so glad that you came .",
+    "occurrences": [
+      "glad"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.536,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.134,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.781,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1953,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "19%"
+      ],
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "of course I'd come . I couldn't think of a better chance to see all my old friends .",
+    "occurrences": [
+      "chance",
+      "friends"
+    ],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0455,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "4%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "yeah . It's hard to believe that it's been ten years since graduation . It feels just yesterday we collected our diplomas .",
+    "occurrences": [
+      "graduation"
+    ],
+    "word_count": 23,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0452,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0056,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0301,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0129,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0374,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "how time flies . But hey , how are things going with you ?",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0737,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "oh , where to start ? There have been ups and downs . I'm still trying to find my place in this world . It's only recently that I've been able to start settling down . How about you ? You still with Jenn",
+    "occurrences": [
+      "start",
+      "start",
+      "down"
+    ],
+    "word_count": 42,
+    "stop_word_count": 22,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.075,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0141,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0344,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "yeah , Jenny and I got married right after graduation . It was tough the first years trying to make ends meet . I was supporting us both while she continued her studies . But now things are getting better",
+    "occurrences": [
+      "graduation",
+      "tough",
+      "supporting"
+    ],
+    "word_count": 37,
+    "stop_word_count": 15,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0288,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0035,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0192,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.212,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0096,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0082,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.187,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.054,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "oh , that sounds wonderful . I have always known you two would make it . I hope I can keep in better contact with you guys . I don't want us to drift apart again .",
+    "occurrences": [
+      "wonderful",
+      "hope"
+    ],
+    "word_count": 35,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0351,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.449,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0659,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.82,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0373,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.305,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0593,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "definitely ! Actually , we just moved into a new place . There's a house-warming party this Saturday , if you are free ? I know Jenny would love to see you again and it should be a good party .",
+    "occurrences": [
+      "party",
+      "free",
+      "love",
+      "good",
+      "party"
+    ],
+    "word_count": 38,
+    "stop_word_count": 18,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0192,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 3.449,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1725,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0109,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.375,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0688,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "17%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "sounds great ! I'll be there .",
+    "occurrences": [
+      "ill"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0666,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0984,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1242,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1188,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "12%"
+      ],
+      [
+        "sadness",
+        "11%"
+      ],
+      [
+        "disgust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

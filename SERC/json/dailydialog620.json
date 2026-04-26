@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Bob !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Anne ! I haven't seen you for ages.How ' Ve you been ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Fine , just fine.And you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not bad.It really is great to see you again.Where have you been ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Guangzhou . I've got a cousin there ."
+  }
+]

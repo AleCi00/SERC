@@ -1,0 +1,14 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Thank you for lending me the book ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . But it's a very difficult one , you need to have a dictionary at your elbow ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But I'm not used to looking up every new word when I'm reading a novel . I only look up the most necessary ones ."
+  }
+]

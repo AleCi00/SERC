@@ -1,0 +1,129 @@
+[
+  {
+    "speaker": "Filippo",
+    "text": "You know it's not fair and you can't accept something like this",
+    "occurrences": [
+      "accept",
+      "like"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.148,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1913,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "19%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I can't bear something like this",
+    "occurrences": [
+      "bear",
+      "like"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0665,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.524,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.131,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.121,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "13%"
+      ],
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "anger",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "No fuck it's not fair that you go out with Kiki like this getting away with it as if nothing happened, you're ruining everything and we'll always fight now and I'll be very bad etc... it's not fair",
+    "occurrences": [
+      "like",
+      "fight",
+      "bad"
+    ],
+    "word_count": 37,
+    "stop_word_count": 20,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.12,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0659,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.023,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0644,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0248,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0285,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "6%"
+      ],
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I'M WILLING TO DO ANYTHING AS LONG AS YOU DON'T GO OUT WITH KIKI",
+    "occurrences": [
+      "long",
+      "don"
+    ],
+    "word_count": 14,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1624,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.546,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1092,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "16%"
+      ],
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Welcome to the company . We are conducting a survey of new employees to find out what influenced them to choose our company .",
+    "occurrences": [],
+    "word_count": 24,
+    "stop_word_count": 12,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's easy . It was your office ergonomics that decided me .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You're kidding ! Something as simple as that ?",
+    "occurrences": [
+      "simple"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0235,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . It is very important to me . My mother worked in offices for twenty years , and she finally had carpal tunnel syndrome . I have been reading about repetitive stress injuries , and I know that t",
+    "occurrences": [
+      "important",
+      "mother",
+      "finally",
+      "stress"
+    ],
+    "word_count": 37,
+    "stop_word_count": 18,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.976,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0514,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0066,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.439,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0231,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.569,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0299,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0008,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.789,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0942,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , there has been a lot of research into RSI's . Something so simple as proper chair height can prevent injuries . Tell me , did anything else influence your decision ?",
+    "occurrences": [
+      "simple",
+      "prevent"
+    ],
+    "word_count": 31,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0066,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0074,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "0%"
+      ],
+      [
+        "fear",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I noticed that you have professional training and team-building days . I like the idea of working for a company that invests in its staff .",
+    "occurrences": [
+      "professional",
+      "team",
+      "like"
+    ],
+    "word_count": 27,
+    "stop_word_count": 12,
+    "occurrences_count": 3,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.828,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1219,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , welcome to the team .",
+    "occurrences": [
+      "team"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.664,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.166,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Is the right counter to check in for this flight ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , it is . Please put your luggage on this scale ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK . Is the plane on schedule ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , it is . How many pieces of hand luggage do you have ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Two ."
+  }
+]

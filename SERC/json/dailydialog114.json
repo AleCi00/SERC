@@ -1,0 +1,82 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I would like to buy a Walkman . Can you tell me about the models you have ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , we have a lot of models here.Did you want to listen to CD's or cassettes or the radio ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Mostly cassette tapes ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Alright . There are several models you may want to look at.This Kreng portable cassette player is very good ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Kreng ? I've never heard of that company ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's a German company.This unit has auto-reverse , recording capability , and an AM / FM radio band.It also has a built-in microphone ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I suppose I don't want that one then . I don't like auto-reverse . It breaks too easily ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Really ? Have you had an auto-reverse break before ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , twice now . I think it's too high-tech , and so it's the first part that breaks ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hmm . You know , the problem might be dust . Did you clean the unit often ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well . No , I didn't clean it.But still , I only had the last one two months , and it broke . I don't trust auto-reverse ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Alright . Well . We have many units without auto-reverse.Here is a good unit . Very reliable.It has an AM / FM band , built-in microphone , recording capability , and no auto-reverse ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How much is it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "This one sells for $ 39.99 ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can I test it out ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Of course ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It sounds great . I'll take it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Fine . I think you'll be happy with it . It's a very good unit . Very reliable . I'll go get you a new one in a box . I will be back in just a moment ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks ."
+  }
+]

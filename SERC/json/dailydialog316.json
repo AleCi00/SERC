@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "John , I was looking through some magazines for ideas about where we might go on vacation this year ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I've already told my buddy , Mark , that I am going hunting with him in Alaska ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You can't be serious !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hey , I've always gone hunting or fishing on vacation . I am sorry that bothers you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "After a year together , I thought it pretty safe to assume that we would automatically spend our vacation together ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Says who ? I don't think that is necessarily the case ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You know , now that I think about it , I really don't have much more to say to you at all !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Whatever you say !"
+  }
+]

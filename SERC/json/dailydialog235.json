@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "May I see your passport , please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Certainly . Here it is ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You are here on business , I think ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's right . A German company has invited me for business talks ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How long will you be staying ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just two weeks ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How many pieces of baggage have you got ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Only one . In this case , I have a camera ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you intend to take it out on your departure ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I do ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "According to the regulations , the camera you've brought along for personal use can be passed for the time being duty free , but you will have to take it out with you when you leave the country ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I will ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well . Have a pleasant stay in Germany ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you ."
+  }
+]

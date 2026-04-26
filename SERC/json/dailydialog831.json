@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Would you care to join for the picnic tomorrow ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Much to my regret , I'll have to meet my girlfriend at the airport then ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We'd like to invite you for our dress party tomorrow evening , are you free ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Much as we'd like to , but we've booked up already for that time ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What a pity ! You can't join us ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "So sorry . Next time we'll go , thanks anyway ."
+  }
+]

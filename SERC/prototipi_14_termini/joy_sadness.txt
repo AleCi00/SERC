@@ -1,0 +1,43 @@
+Title: joy-sadness
+
+Head Concept Name: joy
+Modifier Concept Name: sadness
+
+head, -holocaust
+
+modifier, -happiness
+modifier, -jubilant
+
+T(modifier), mourning, 0.969
+T(modifier), heartbreaking, 0.969
+T(modifier), tragic, 0.961
+T(modifier), holocaust, 0.953
+T(modifier), suicidal, 0.941
+T(modifier), misery, 0.938
+T(modifier), massacre, 0.931
+T(modifier), euthanasia, 0.927
+T(modifier), depression, 0.925
+T(modifier), grieving, 0.922
+T(modifier), bereavement, 0.922
+T(modifier), fatal, 0.922
+T(modifier), bereaved, 0.92
+T(modifier), devastation, 0.917
+
+T(head), happiest, 0.986
+T(head), happiness, 0.984
+T(head), bliss, 0.971
+T(head), celebrating, 0.97
+T(head), jubilant, 0.969
+T(head), ecstatic, 0.954
+T(head), elation, 0.944
+T(head), beaming, 0.938
+T(head), bestdayever, 0.938
+T(head), loveee, 0.932
+T(head), celebratio, 0.929
+T(head), awesomeness, 0.926
+T(head), joy, 0.924
+T(head), joyous, 0.922
+
+
+Result: {"mourning": 0.969, "heartbreaking": 0.969, "tragic": 0.961, "suicidal": 0.941, "misery": 0.938, "massacre": 0.931, "happiest": 0.986, "bliss": 0.971, "celebrating": 0.97, "ecstatic": 0.954, "elation": 0.944, "beaming": 0.938, "bestdayever": 0.938, "loveee": 0.932, "@scenario_probability": 6.369960372308495e-16}
+Scenario: [1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 6.369960372308495e-16]

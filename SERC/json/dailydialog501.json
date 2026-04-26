@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , Ellen . That outfit looks terrific !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks , Jim . I didn ’ t think guys paid attention to stuff like that ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , we just don ’ t usually admit it !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , thanks for the compliment anyway !"
+  }
+]

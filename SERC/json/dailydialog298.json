@@ -1,0 +1,14 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Please fill in the arrival card and sign the register ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All right . Which room shall I have ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Room 202 , but I'm afraid we have to ask for a deposit of $ 200 ."
+  }
+]

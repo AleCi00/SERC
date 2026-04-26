@@ -1,0 +1,232 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , I made a reservation for a mid-size vehicle . The name is Jimmy Fox .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m sorry , we have no mid-size available at the moment .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don ’ t understand , I made a reservation , do you have my reservation ?",
+    "occurrences": [
+      "don"
+    ],
+    "word_count": 14,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0455,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , we do , unfortunately we ran out of cars .",
+    "occurrences": [
+      "unfortunately"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1454,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But the reservation keeps the car here . That ’ s why you have the reservation .",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I know why we have reservations .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don ’ t think you do.If you did , I ’ d have a car.See , you know how to take the reservation , you just don ’ t know how to hold the reservation and that ’ s really the most important part of the reservation , the holding . Anybody can just take them .",
+    "occurrences": [
+      "don",
+      "don",
+      "important"
+    ],
+    "word_count": 53,
+    "stop_word_count": 32,
+    "occurrences_count": 3,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.179,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0561,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But we do have a compact or an SUV if you ’ d like .",
+    "occurrences": [
+      "compact",
+      "like"
+    ],
+    "word_count": 15,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.914,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1828,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Fine . I ’ ll take the compact .",
+    "occurrences": [
+      "compact"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0717,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Alright . We have a blue Ford Focus for you , Mr . Fox . Would you like insurance ?",
+    "occurrences": [
+      "blue",
+      "like"
+    ],
+    "word_count": 16,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.4,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.04,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0484,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , you better give me the insurance , because I am gonna beat the hell out of this car .",
+    "occurrences": [
+      "hell"
+    ],
+    "word_count": 18,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.853,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0948,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0756,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.86,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0956,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.7,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0778,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "9%"
+      ],
+      [
+        "anger",
+        "9%"
+      ],
+      [
+        "sadness",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Nancy , nice to see you .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Nice to see you , too . I heard you are a staff of Nokia company .",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I ’ m satisfied with this job .",
+    "occurrences": [
+      "satisfied"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Congratulations . What did you do during the interview ?",
+    "occurrences": [
+      "interview"
+    ],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.045,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Pay more attention to the external expressions , because they are important for the first impression . Good manner and style of conversation can let other feel your good self-cultivation . Good gestures and mien can let other feel very comfortable .",
+    "occurrences": [
+      "pay",
+      "important",
+      "good",
+      "good",
+      "good"
+    ],
+    "word_count": 42,
+    "stop_word_count": 17,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.61,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0644,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.883,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0753,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.657,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0263,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.914,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1166,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How can I have the good external expressions ?",
+    "occurrences": [
+      "good"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0958,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1368,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0548,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1542,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "15%"
+      ],
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don ’ t worry about that . You just pay more attention to the details of people ’ s action in life , and you will know how to transfer information by their body language .",
+    "occurrences": [
+      "don",
+      "worry",
+      "pay",
+      "life"
+    ],
+    "word_count": 35,
+    "stop_word_count": 19,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.953,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0596,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0361,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0425,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0401,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0439,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

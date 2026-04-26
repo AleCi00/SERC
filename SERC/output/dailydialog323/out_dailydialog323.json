@@ -1,0 +1,176 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , 332440 .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh hello , Sally . This is Dave Thomson here . Could I speak to Jim please ?",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm afraid he's not in at the moment Dave . He went out about an hour ago and he's not back yet .",
+    "occurrences": [
+      "afraid"
+    ],
+    "word_count": 22,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Any idea when he might be back ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , he shouldn't be long . He said he was just going to get some paint . But I wouldn't be surprised if he's stopped off at the pub on the way back .",
+    "occurrences": [
+      "long",
+      "surprised"
+    ],
+    "word_count": 33,
+    "stop_word_count": 16,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0239,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.867,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.051,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "surprise-anticipation": 0.867,
+    "surprise-anticipation_computed": 0.051,
+    "anticipation-surprise": 0.867,
+    "anticipation-surprise_computed": 0.051,
+    "main_emotion": [
+      [
+        "surprise",
+        "5%"
+      ],
+      [
+        "surprise-anticipation",
+        "5%"
+      ],
+      [
+        "anticipation-surprise",
+        "5%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-surprise",
+        "matched_words": [
+          {
+            "word": "surprised",
+            "score": 0.867
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anticipation",
+        "matched_words": [
+          {
+            "word": "surprised",
+            "score": 0.867
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . well , tell him I've called , will you , and I'll try again later .",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "All right . Goodbye , Dave .",
+    "occurrences": [
+      "goodbye"
+    ],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks then Sally . Goodbye .",
+    "occurrences": [
+      "goodbye"
+    ],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

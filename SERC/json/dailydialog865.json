@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Matthew ? Hi !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Steve ! Haven't seen you in ages ! How long's it been ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's got to be almost a year now ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How have you been ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm pretty good . I've been looking for a place to live recently . My lease runs out next month and I don't want to renew it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , I remember the neighborhood . Have you found a place yet ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not yet . But I am still looking through the classifieds . Wish me luck ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , maybe I can help . Remember my neighbor ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Mrs . Thou ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , her daughter's having a baby , so she's moving in with her to help out . I think if you are interested , you can come over and have a look ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Great . It's a lovely neighborhood . And it would be nice to be neighbors again . It would be just like the old days !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'll ask Mrs . Thou when she's available to show the apartment and let you know . Has your number changed ?"
+  }
+]

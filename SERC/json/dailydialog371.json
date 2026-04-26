@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you want some dessert ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thank you . Check , please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wait a moment . I will calculate it for you . Your bill comes to $ 36 ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here are $ 40 . Keep the change . That's my tip for you ."
+  }
+]

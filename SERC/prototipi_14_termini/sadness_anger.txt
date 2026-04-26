@@ -1,0 +1,42 @@
+Title: sadness-anger
+
+Head Concept Name: sadness
+Modifier Concept Name: anger
+
+head, -happiness
+head, -jubilant
+
+
+T(modifier), outraged, 0.964
+T(modifier), brutality, 0.959
+T(modifier), hatred, 0.953
+T(modifier), hateful, 0.94
+T(modifier), terrorize, 0.939
+T(modifier), violently, 0.938
+T(modifier), infuriated, 0.938
+T(modifier), furious, 0.929
+T(modifier), furiously, 0.927
+T(modifier), enraged, 0.927
+T(modifier), screwyou, 0.924
+T(modifier), murderer, 0.922
+T(modifier), fury, 0.922
+T(modifier), execution, 0.917
+
+T(head), mourning, 0.969
+T(head), heartbreaking, 0.969
+T(head), tragic, 0.961
+T(head), holocaust, 0.953
+T(head), suicidal, 0.941
+T(head), misery, 0.938
+T(head), massacre, 0.931
+T(head), euthanasia, 0.927
+T(head), depression, 0.925
+T(head), grieving, 0.922
+T(head), bereavement, 0.922
+T(head), fatal, 0.922
+T(head), bereaved, 0.92
+T(head), devastation, 0.917
+
+
+Result: {"outraged": 0.964, "brutality": 0.959, "hatred": 0.953, "hateful": 0.94, "terrorize": 0.939, "violently": 0.938, "infuriated": 0.938, "mourning": 0.969, "heartbreaking": 0.969, "tragic": 0.961, "holocaust": 0.953, "suicidal": 0.941, "misery": 0.938, "massacre": 0.931, "@scenario_probability": 1.2111965343204583e-14}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1.2111965343204583e-14]

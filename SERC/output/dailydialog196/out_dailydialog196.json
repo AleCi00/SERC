@@ -1,0 +1,315 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How are you wedding plans going ?",
+    "occurrences": [
+      "wedding"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1603,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Very well . We started organizing everything early to avoid a last minute rush to get things done . The only thing that isn ’ t ready yet is my wedding dress .",
+    "occurrences": [
+      "avoid",
+      "rush",
+      "ready",
+      "wedding"
+    ],
+    "word_count": 33,
+    "stop_word_count": 12,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0238,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.009,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0275,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0305,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "fear",
+        "2%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "When will that be ready ?",
+    "occurrences": [
+      "ready"
+    ],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.25,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "25%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The dressmakers said that is would be ready in two weeks .",
+    "occurrences": [
+      "ready"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0714,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You ’ re getting married in three weeks . So that should be ok . So , you ’ Ve prepared the church , catering , transport , hotel-everything .",
+    "occurrences": [
+      "prepared",
+      "church"
+    ],
+    "word_count": 26,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0151,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.195,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0747,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . We ’ Ve taken care of all of that . We decided not to get married in a church though . Neither of us is very religious .",
+    "occurrences": [
+      "church"
+    ],
+    "word_count": 29,
+    "stop_word_count": 13,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0195,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0151,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0307,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Which hotel will the reception be held at ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The palace hotel they ’ re taking care of the catering , including the wedding cake . I ’ m sure they ’ ll do a good job .",
+    "occurrences": [
+      "wedding",
+      "good"
+    ],
+    "word_count": 28,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0239,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.188,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0743,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0137,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0386,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , yes . It ’ s and excellent hotel . A friend of mine had her wedding reception there and said it was perfect , though very expensive .",
+    "occurrences": [
+      "excellent",
+      "friend",
+      "mine",
+      "wedding",
+      "perfect"
+    ],
+    "word_count": 28,
+    "stop_word_count": 12,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0278,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.94,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1837,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.945,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1216,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "18%"
+      ],
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . It will be expensive , but we think it will be worth it . It gives us great peace of mind to know that our reception is in the hands of experienced people .",
+    "occurrences": [
+      "peace",
+      "mind",
+      "experienced"
+    ],
+    "word_count": 35,
+    "stop_word_count": 18,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0253,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0051,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.576,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0339,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.204,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0708,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think you make the right decision .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

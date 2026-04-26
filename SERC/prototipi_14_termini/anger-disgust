@@ -1,0 +1,41 @@
+Title: anger-disgust
+
+Head Concept Name: anger
+Modifier Concept Name: disgust
+
+
+modifier, -honor
+
+T(modifier), cannibalism, 0.953
+T(modifier), mutilation, 0.93
+T(modifier), molestation, 0.914
+T(modifier), incest, 0.914
+T(modifier), rape, 0.906
+T(modifier), gonorrhea, 0.906
+T(modifier), cannibal, 0.898
+T(modifier), rot, 0.891
+T(modifier), corpse, 0.883
+T(modifier), massacre, 0.883
+T(modifier), excrement, 0.883
+T(modifier), barf, 0.875
+T(modifier), slaughter, 0.875
+T(modifier), slaughterhouse, 0.867
+
+T(head), outraged, 0.964
+T(head), brutality, 0.959
+T(head), hatred, 0.953
+T(head), hateful, 0.94
+T(head), terrorize, 0.939
+T(head), violently, 0.938
+T(head), infuriated, 0.938
+T(head), furious, 0.929
+T(head), furiously, 0.927
+T(head), enraged, 0.927
+T(head), screwyou, 0.924
+T(head), murderer, 0.922
+T(head), fury, 0.922
+T(head), execution, 0.917
+
+
+Result: {"cannibalism": 0.953, "mutilation": 0.93, "outraged": 0.964, "brutality": 0.959, "hatred": 0.953, "hateful": 0.94, "terrorize": 0.939, "violently": 0.938, "infuriated": 0.938, "furious": 0.929, "furiously": 0.927, "enraged": 0.927, "screwyou": 0.924, "fury": 0.922, "@scenario_probability": 6.456881480341263e-13}
+Scenario: [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 6.456881480341263e-13]

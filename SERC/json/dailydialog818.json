@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me . Do you study Chinese at this university ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I do . But my characters are very bad ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It takes a long time to learn Chinese writing ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Are you Chinese by birth ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I am . I am from Guangzhou . I am here to study international relations ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How do you like it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I like it so far . But my English still needs work ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I want to study Mandarin and public relations ."
+  }
+]

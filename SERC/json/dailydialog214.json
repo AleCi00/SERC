@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry , but I don't think this damage is our fault ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What do you mean ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It looks like the shipping company did this ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We'd better take it up with them , in that case ."
+  }
+]

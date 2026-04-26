@@ -1,0 +1,406 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Did you watch the final last night ? My favorite singer won !",
+    "occurrences": [
+      "watch",
+      "favorite"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0654,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0235,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.376,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.172,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.121,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "17%"
+      ],
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I love him too . He not only sings well but also shows perseverance when he encounters difficulties in the contest .",
+    "occurrences": [
+      "love",
+      "difficulties"
+    ],
+    "word_count": 22,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.069,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.421,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0351,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0632,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , he got booted after his initial performance in the audition , but he did not give up . He then tried at another two auditions .",
+    "occurrences": [
+      "audition",
+      "auditions"
+    ],
+    "word_count": 26,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0325,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He had barely survived the third audition and finally got a chance to advance in the contest . Fortunately , in the third audition , he has won popularity among the audience . And that's when I started to notice him .",
+    "occurrences": [
+      "audition",
+      "finally",
+      "chance",
+      "advance",
+      "audition",
+      "popularity",
+      "audience"
+    ],
+    "word_count": 39,
+    "stop_word_count": 18,
+    "occurrences_count": 7,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.622,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0772,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.006,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0238,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.532,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0253,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.188,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0566,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.945,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.045,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "surprise",
+        "5%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Me too .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Before he made the top three , I was so nervous . I just fear that he might be knocked out .",
+    "occurrences": [
+      "top",
+      "nervous",
+      "fear"
+    ],
+    "word_count": 20,
+    "stop_word_count": 11,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0556,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.0,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1111,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.297,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1441,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0521,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "14%"
+      ],
+      [
+        "anticipation",
+        "11%"
+      ],
+      [
+        "anger",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , there're so many excellent candidates out there . Who knows which one will make it to the final ?",
+    "occurrences": [
+      "excellent"
+    ],
+    "word_count": 20,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0738,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0596,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Absolutely . That's why when he entered the final , I was so excited .",
+    "occurrences": [
+      "excited"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.859,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1227,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.818,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1169,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0893,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0647,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "anticipation-anger": 0.859,
+    "anticipation-anger_computed": 0.1227,
+    "surprise-anticipation": 0.859,
+    "surprise-anticipation_computed": 0.1227,
+    "anticipation-trust": 0.859,
+    "anticipation-trust_computed": 0.1227,
+    "anticipation-joy": 0.859,
+    "anticipation-joy_computed": 0.1227,
+    "anticipation-surprise": 0.859,
+    "anticipation-surprise_computed": 0.1227,
+    "anticipation-disgust": 0.859,
+    "anticipation-disgust_computed": 0.1227,
+    "anticipation-sadness": 0.859,
+    "anticipation-sadness_computed": 0.1227,
+    "anticipation-fear": 0.859,
+    "anticipation-fear_computed": 0.1227,
+    "trust-anticipation": 0.859,
+    "trust-anticipation_computed": 0.1227,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "anticipation-anger",
+        "12%"
+      ],
+      [
+        "surprise-anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-anger",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-disgust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-sadness",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-surprise",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker1",
+    "text": "He really did a great job in the finale , especially in the PK round . He performed so well that the majority of the audience cast their votes for him .",
+    "occurrences": [
+      "majority",
+      "audience"
+    ],
+    "word_count": 31,
+    "stop_word_count": 16,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.357,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0238,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.073,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0049,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.539,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0359,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "joy",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "And the host announced that he won it all !",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

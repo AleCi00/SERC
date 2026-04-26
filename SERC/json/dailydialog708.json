@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm too tired now . I've already worked for 12 hours overtime !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "God ! Don't you think they should get you an assistant ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , they were supposed to , but so far nobody's turned up , and I have to do the work alone . This is the first break I've had all day ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They're really running you into the ground . Why don't you ask for some time off ? You could take a long weekend and have a good rest ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm afraid I can't before I finish this project ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You'd better pay more attention to your health ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I will , thanks for your concern ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You're welcome ."
+  }
+]

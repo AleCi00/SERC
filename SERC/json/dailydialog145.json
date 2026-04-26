@@ -1,0 +1,14 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I have a stomachache ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , you'd better lie down now . You need a good rest ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "All right . I'll do that ."
+  }
+]

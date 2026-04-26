@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you really have to work today ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I'm afraid so ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But you'll miss out on the football game ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh . Well , it can't be helped ."
+  }
+]

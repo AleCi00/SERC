@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey , you look great ! how's everything ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , you know what ? I've been going to the club regularly . The training really pays off . Now I am in a good shape and I know more about how to keep fit ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Really ? tell me about it . I haven't gone to the club for a long time . I am too busy with work ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's important to do proper exercises ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You're right . Too much or too little won't do any good ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The trainer tells me , besides regular sports activities , I should also have a healthy and balanced diet ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sounds reasonable ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We should eat more vegetables instead of junk food to stay energetic ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And fruits !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Surely it is . Getting enough sleep is also crucial for fitness ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I've heard that . Does your trainer tell you anything about keeping fit ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , he advises me to stay in a good mood . That can also help one to keep sound physical health ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think if you follow your trainer's advice , you'll be on the right track ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You bet it !"
+  }
+]

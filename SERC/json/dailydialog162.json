@@ -1,0 +1,62 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning , can I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I want to American breakfast with fried eggs sunny side up ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What kind of juice do you prefer , sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Breakfast juice and please make my coffee very strong ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , sir . American breakfast with fried eggs sunny side up . Breakfast juice and black coffee . And my correct , sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , that ’ s right ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is there anything else , sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , that ’ s all ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Good morning , sir . I ’ Ve got breakfast your ordered ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just put it on the table please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you need anything else , sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thanks . Oh , yes , could I have some juice for the mini bar ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What kind of juice do you like sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Tomato or orange juice , please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , sir . I ’ ll get them for you right away . Would you please sign this bill first ? Thank you , sir ."
+  }
+]

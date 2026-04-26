@@ -1,0 +1,176 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Are you going to buy a bicycle ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m thinking about it . How much is it ?",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "¥ 350 .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , dear . It ’ s too expensive . Can you give me a better price ?",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Your discount is already included . Normally we charge ¥ 400 , but now we can give you a special price . This is our sale period .",
+    "occurrences": [
+      "special"
+    ],
+    "word_count": 27,
+    "stop_word_count": 12,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.574,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0383,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s still too much . Can ’ t you make it any cheaper than that ?",
+    "occurrences": [],
+    "word_count": 18,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sorry , but this is the best price . You can ’ t get it any cheaper than here .",
+    "occurrences": [],
+    "word_count": 19,
+    "stop_word_count": 11,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I see . Can I pay by traveler ’ s checks ?",
+    "occurrences": [
+      "pay"
+    ],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0659,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0346,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0614,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm afraid you can ’ t . You ’ re welcome to pay in cash .",
+    "occurrences": [
+      "afraid",
+      "pay",
+      "cash"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.039,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0043,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.93,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1033,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1007,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.072,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ],
+      [
+        "fear",
+        "10%"
+      ],
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

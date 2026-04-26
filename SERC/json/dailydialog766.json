@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Have you found a new job yet ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , not yet . I ’ m still looking . I ’ Ve been doing some work through a temp-agency though ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What kind of work ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m temping at a pharmaceutic company ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you do there ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Mostly office work - filing and so on ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How long is the assignment ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Till the end of the month ."
+  }
+]

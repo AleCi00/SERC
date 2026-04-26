@@ -1,0 +1,109 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Morning , Zina . Just wanted to say thanks again !",
+    "occurrences": [
+      "morning"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hi , Vince . Thanks for stopping by . How's the work coming along for the online auction ?",
+    "occurrences": [
+      "coming",
+      "auction"
+    ],
+    "word_count": 17,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.172,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0977,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , yeah . I'm glad you mentioned that . I think we need to hire somebody new to manage it .",
+    "occurrences": [
+      "glad",
+      "hire",
+      "manage"
+    ],
+    "word_count": 21,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.005,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0718,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.984,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.945,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0675,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can't Elvin handle it ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think he's got too much on his plate .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

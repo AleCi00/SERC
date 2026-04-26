@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Have you ever gotten a parking ticket ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I've never gotten one . Have you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I got a ticket yesterday ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Really ? What did you get one for ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I parked in the red zone ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why did you do that ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I needed to get something really quick ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Where did you park at ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "At my apartment building ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Don't you have your own parking spot ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I needed to be fast ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That was very lazy of you ."
+  }
+]

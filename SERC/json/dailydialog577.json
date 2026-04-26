@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , I scheduled an appointment with Dr . Smith , and I can ’ t make it on that day ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What day was your appointment on ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "My appointment was on Monday ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What time had you chosen ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It was for 10"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am looking at your appointment right now . What day would you prefer ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I would prefer next Thursday ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What time would be best for you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I want to come in at 2"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am writing you down for that time . We look forward to seeing you ."
+  }
+]

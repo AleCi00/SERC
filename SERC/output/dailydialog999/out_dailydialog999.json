@@ -1,0 +1,116 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Jenny , what's wrong with you ? Why do you keep weeping like that ?",
+    "occurrences": [
+      "weeping",
+      "like"
+    ],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.896,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.112,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "11%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Mary told me that she had seen you with John last night . I got to know the fact that you are playing the field .",
+    "occurrences": [
+      "fact"
+    ],
+    "word_count": 25,
+    "stop_word_count": 13,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0606,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Honey , cross my heart , I'v never looked at another woman since the first day I set my eyes on you ! Believe me , that's the truth .",
+    "occurrences": [
+      "cross",
+      "heart",
+      "truth"
+    ],
+    "word_count": 26,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.561,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0113,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0304,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.156,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0087,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "anticipation-trust": 0.844,
+    "anticipation-trust_computed": 0.0469,
+    "trust-anticipation": 0.844,
+    "trust-anticipation_computed": 0.0469,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation-trust",
+        "4%"
+      ],
+      [
+        "trust-anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "truth",
+            "score": 0.844
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "truth",
+            "score": 0.844
+          }
+        ]
+      }
+    ]
+  }
+]

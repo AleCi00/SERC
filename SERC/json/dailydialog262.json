@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Are you finished ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes.May I have some more beer ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , sure . I'll be back in a minute.Thank you for waiting . Here it is.Did you enjoy your meal ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , the meal was very delicious and I enjoyed very much . I'm full ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is that so ? I'm glad you enjoyed it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "By the way , Miss.Where is the toilet ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Toilets are in the rear . I'm afraid all the toilets are fully occupied at the moment ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What ?"
+  }
+]

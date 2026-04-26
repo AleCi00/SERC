@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Would you come to spend the weekend with us ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I ’ m afraid I can ’ t . I ’ Ve had a date already ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That ’ s too bad ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "May be some other time ."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What are you listening to ? Is that Beethoven or Mozart ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's Beethoven . Do you like it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think Beethoven's music is incredible . I've heard that listening to it can make you more intelligent , too . Do you believe that ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don't know about that , but I do think that it helps people relax ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What other kind of music do you listen to ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Actually , I mostly just listen classical music . What about you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "To be honest , I think classical music is too complicated for me ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What kind of music do you prefer then ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I like pop music . Do you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not really . I don't think pop music has much depth ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I see what you mean . I think that's way I like it so much ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How long have you been in to pop music , then ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I've always been into it . Have you always liked classical music ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not really . When I was little , we didn't really listen to music at all ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "So , how did you become interested in it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , when I was about 10 years old , I started playing the piano . I think that's how it all started ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you still play piano ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , it's one of my hobbies ."
+  }
+]

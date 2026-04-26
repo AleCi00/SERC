@@ -1,0 +1,243 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Tom . Where are you heading for ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am going to a movie theater . You know there is a new action film produced by Hollywood . A thriller , really .",
+    "occurrences": [],
+    "word_count": 23,
+    "stop_word_count": 10,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Another terror film ? There is too much terror and violence in the films . Do you like seeing such a picture ?",
+    "occurrences": [
+      "terror",
+      "terror",
+      "violence",
+      "like"
+    ],
+    "word_count": 23,
+    "stop_word_count": 10,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.742,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0571,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 2.718,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2091,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.712,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0548,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0372,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "surprise-fear": 0.953,
+    "surprise-fear_computed": 0.0733,
+    "fear-surprise": 0.953,
+    "fear-surprise_computed": 0.0733,
+    "fear-anticipation": 0.953,
+    "fear-anticipation_computed": 0.0733,
+    "fear-sadness": 0.953,
+    "fear-sadness_computed": 0.0733,
+    "trust-fear": 0.953,
+    "trust-fear_computed": 0.0733,
+    "anger-fear": 0.953,
+    "anger-fear_computed": 0.0733,
+    "fear-disgust": 0.953,
+    "fear-disgust_computed": 0.0733,
+    "fear-trust": 0.953,
+    "fear-trust_computed": 0.0733,
+    "fear-anger": 0.953,
+    "fear-anger_computed": 0.0733,
+    "sadness-fear": 0.953,
+    "sadness-fear_computed": 0.0733,
+    "disgust-fear": 0.953,
+    "disgust-fear_computed": 0.0733,
+    "anticipation-fear": 0.953,
+    "anticipation-fear_computed": 0.0733,
+    "main_emotion": [
+      [
+        "fear",
+        "20%"
+      ],
+      [
+        "surprise-fear",
+        "7%"
+      ],
+      [
+        "fear-surprise",
+        "7%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-fear",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-fear",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anger",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anticipation",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "fear-disgust",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "fear-sadness",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "fear-surprise",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "fear-trust",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "sadness-fear",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-fear",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "trust-fear",
+        "matched_words": [
+          {
+            "word": "terror",
+            "score": 0.953
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don't really like seeing bloody frames , but I appreciate the lifelike frames simulated with the highly skillful special effects .",
+    "occurrences": [
+      "like",
+      "bloody",
+      "skillful",
+      "special"
+    ],
+    "word_count": 20,
+    "stop_word_count": 5,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.781,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0521,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.037,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.781,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0521,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.574,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0383,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.806,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0537,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.179,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0786,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ],
+      [
+        "anger",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you like cooking ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I love it . I really enjoy creating a meal from various ingredients and watching my friends enjoy it.It gives me a real sense of satisfaction.Do you enjoy cooking ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don ’ t like it.It takes up too much time and I really hate having it clean up after the meal . I can ’ t stand doing the washing up , drying up and putting all the dishes and cutlery away ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You can ask the guests for help . My guests usually insist on doing the washing up . I just have to remind them where everything goes ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "So what kinds of dishes do you usually make ? I know you like Italian food ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Italian , Indian and chinese . I ’ Ve only recently started cooking chinese meals and I need some more practice ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you find it hard to get ingredients for Chinese food ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not at all.You can find most of them in supermarkets.The ingredients are usually the same as in Western food.The way that the food is prepared is the big difference , not the ingredients ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How long does it take you to cook a meal for 5 or 6 people ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Obviously , it depends on what I ’ m cooking.But I ’ d say it generally takes about one and a half hours ."
+  }
+]

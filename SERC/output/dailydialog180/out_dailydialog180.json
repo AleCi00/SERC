@@ -1,0 +1,62 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Don't worry , your baby is in my home .",
+    "occurrences": [
+      "worry",
+      "baby",
+      "home"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0984,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1156,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.059,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2118,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1282,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "21%"
+      ],
+      [
+        "sadness",
+        "12%"
+      ],
+      [
+        "fear",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How can I ever thank you ? I owe you a big favor .",
+    "occurrences": [
+      "favor"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.348,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0497,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

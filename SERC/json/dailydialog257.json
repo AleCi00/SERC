@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can I get my dress today ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You have ordered a red dress , is that right ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . Is that available now ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , here you are . Try it in front of the mirror ."
+  }
+]

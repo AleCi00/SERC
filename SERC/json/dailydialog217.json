@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Aren't you Jim Green ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , that's right ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I believe we met at a concert last year . I'm Taylor ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , yes . I remember ."
+  }
+]

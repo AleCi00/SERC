@@ -1,0 +1,227 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me Miao Li . Could you tell me who Jackie Chan is ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Certainly . Jackie Chan is a very famous movie star in Hong Kong . His Chinese name is Cheng Long .",
+    "occurrences": [
+      "star"
+    ],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0521,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0451,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0434,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Ha , I know Cheng Long a lot , he has made 40 films since 1976 . And at that time he was promoted as the new Bruce Lee . But I'm not familiar with his English name .",
+    "occurrences": [
+      "time",
+      "familiar"
+    ],
+    "word_count": 31,
+    "stop_word_count": 15,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0323,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.041,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . Then tell me what else you know .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Some movie stars measure their worth by how many millions of dollars they make . Do you know how Jackie Chan measures his worth ?",
+    "occurrences": [
+      "measure"
+    ],
+    "word_count": 23,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0397,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He measures his worth by how many of his bones he has fractured while executing his film , incredible stunts . By the way , can you count the breaks ?",
+    "occurrences": [
+      "incredible",
+      "count"
+    ],
+    "word_count": 29,
+    "stop_word_count": 15,
+    "occurrences_count": 2,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0491,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0307,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "4%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure . His skull , his eyes , his nose , three times , his jaw , his shoul-der , is chest , two fingers , a knee . As he said ' Everything from the top of my head to the bottom of my feet ! '",
+    "occurrences": [
+      "nose",
+      "top",
+      "bottom"
+    ],
+    "word_count": 40,
+    "stop_word_count": 17,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.796,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0346,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0078,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.446,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0194,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.938,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0408,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Indeed you know much about him .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "This is because he is the action-movie incarnate or action-star extraordinaire around the world .",
+    "occurrences": [
+      "star"
+    ],
+    "word_count": 17,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0521,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0451,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0434,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

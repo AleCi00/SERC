@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I need to buy some flowers for my wife ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Perhaps you'd be interested in red roses ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What would the roses cost me ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They're only $ 20 a dozen ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I like the sound of that ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , that is today's sale price ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A dozen will be fine ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is there anything else you'd like to get ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , thank you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "These roses should make your wife very happy ."
+  }
+]

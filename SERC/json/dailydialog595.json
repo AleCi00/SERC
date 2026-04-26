@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How did you find your apartment ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You can check on the bulletin boards at school for local housing ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What if I need a roommate ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "There are websites that can hook you up with a roommate ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How much do apartments cost around here ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It depends on what you want . Do you want a one - or two-bedroom apartment ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I just need a one-bedroom apartment ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That will probably cost you around twelve hundred dollars a month ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you come with me to look at apartments ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I would be happy to look at apartments with you ."
+  }
+]

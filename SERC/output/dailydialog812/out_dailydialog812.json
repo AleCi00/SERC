@@ -1,0 +1,122 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It was really hard for our parents to save money when they were young .",
+    "occurrences": [
+      "save",
+      "money"
+    ],
+    "word_count": 15,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.074,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0106,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0837,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.731,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1044,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.029,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.921,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1316,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "13%"
+      ],
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Most people were living form hand to mouth . How could they ?",
+    "occurrences": [
+      "living",
+      "mouth"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.039,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0215,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "surprise",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah . They simply had no extra money to save up or for other things .",
+    "occurrences": [
+      "money",
+      "save"
+    ],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.074,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0092,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0732,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.731,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0914,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0254,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.921,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1151,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Fortunately , things are changing these years .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

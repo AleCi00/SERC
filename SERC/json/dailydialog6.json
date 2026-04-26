@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "how long will it take us to drive to London ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think it ’ s a distance of 180 kilometers from here to London , so it should be a two-hour drive on the motorway ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "that ’ s unless there is a traffic jam . It could take three hours ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "you ’ re right . We will be able to travel at high speeds at the beginning and end of the journey , because we will be in built-up areas ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "so , shall we allow three hours to cover the distance ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "ok . You haven ’ t seen my company car , have you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "no . let me take a look ... it ’ s longer than my car ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think it ’ s over five meters long . I can ’ t remember exactly . It has a maximum speed of over 200 kilometers an hour ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "wow ! That ’ s fast ! I don ’ t think we will be traveling that fast on the motorway ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "we can ’ t . if we went that fast , we would break the speed limit ."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What do you think of doctor Thomson ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I feel confident of his ability to cure my daughter's disease ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How can you be so sure ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can tell form the way he spoke to us ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Never believe his words ."
+  }
+]

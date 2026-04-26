@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Could I have some fish ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Certainly . And what vegetables would you like ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , spinach , I think ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Fine , And what about something to drink ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Just a beer , please ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good . Thank you.sir ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you like to have some more beer ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thanks . I ' Ve had enough . I'll have my bill , please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Of course . Please wait a moment . I'll go and get it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you ."
+  }
+]

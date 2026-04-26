@@ -1,0 +1,141 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I think Yoga might be suitable for me .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why ?",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Because it doesn't require a lot of energy and thus easy to keep up .",
+    "occurrences": [
+      "energy"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0527,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But I see people sweat a lot doing Yoga too .",
+    "occurrences": [
+      "sweat"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0438,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't know . I just need to try it once . I'm in urgent need of some exercise to lose some weight .",
+    "occurrences": [
+      "urgent",
+      "exercise",
+      "lose",
+      "weight"
+    ],
+    "word_count": 24,
+    "stop_word_count": 11,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.261,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0201,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.985,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0758,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0361,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.95,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0731,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0282,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.65,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.05,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.195,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0919,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0222,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "surprise",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "fear",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You should try swimming then . It helps you to keep fit .",
+    "occurrences": [
+      "fit"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0357,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

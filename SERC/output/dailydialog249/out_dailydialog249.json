@@ -1,0 +1,493 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "guess what ? I've got great news !",
+    "occurrences": [
+      "guess"
+    ],
+    "word_count": 8,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0569,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "what is it ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "well , you know how I've been working at the Economist as a proof-reader , right ?",
+    "occurrences": [
+      "proof"
+    ],
+    "word_count": 15,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1004,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "yes .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "well , the editor-in-chief heard that I had experience as an editor at another magadize and asked me if I was interested in becoming an assistant editor for him .",
+    "occurrences": [
+      "experience",
+      "interested"
+    ],
+    "word_count": 29,
+    "stop_word_count": 15,
+    "occurrences_count": 2,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0056,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0268,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.114,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0081,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ],
+      [
+        "sadness",
+        "0%"
+      ],
+      [
+        "disgust",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "really ? That's fantastic ! Will you get a chance to do any writing ?",
+    "occurrences": [
+      "chance"
+    ],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0573,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "she said that the columnist for the literary criticism column would be going on pregnancy leave soon and that I could be in charge of the column until she came back .",
+    "occurrences": [
+      "criticism",
+      "pregnancy",
+      "leave"
+    ],
+    "word_count": 31,
+    "stop_word_count": 15,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.318,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0199,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.164,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0103,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0508,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0146,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0146,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "5%"
+      ],
+      [
+        "anger",
+        "1%"
+      ],
+      [
+        "surprise",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "wow ! That's really great news . How often does the magazine come out ?",
+    "occurrences": [],
+    "word_count": 15,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "it's a monthly magazine , but my column will be shared with another columnist so my articles will be due fortnightly .",
+    "occurrences": [],
+    "word_count": 21,
+    "stop_word_count": 11,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "are you looking forward to doing more editing work ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "yes , but I'm even more excited about getting my thoughts published again !",
+    "occurrences": [
+      "excited"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.718,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2454,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.636,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2337,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.25,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1786,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1294,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "anticipation-anger": 1.718,
+    "anticipation-anger_computed": 0.2454,
+    "surprise-anticipation": 1.718,
+    "surprise-anticipation_computed": 0.2454,
+    "anticipation-trust": 1.718,
+    "anticipation-trust_computed": 0.2454,
+    "anticipation-joy": 1.718,
+    "anticipation-joy_computed": 0.2454,
+    "anticipation-surprise": 1.718,
+    "anticipation-surprise_computed": 0.2454,
+    "anticipation-disgust": 1.718,
+    "anticipation-disgust_computed": 0.2454,
+    "anticipation-sadness": 1.718,
+    "anticipation-sadness_computed": 0.2454,
+    "anticipation-fear": 1.718,
+    "anticipation-fear_computed": 0.2454,
+    "trust-anticipation": 1.718,
+    "trust-anticipation_computed": 0.2454,
+    "main_emotion": [
+      [
+        "anticipation",
+        "24%"
+      ],
+      [
+        "anticipation-anger",
+        "24%"
+      ],
+      [
+        "surprise-anticipation",
+        "24%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-anger",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-disgust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-sadness",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-surprise",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "do you have any order forms here so that I can get a subscription to the magazine ?",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 11,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't have any with me , but I think I could manage to bring a free copy home for you .",
+    "occurrences": [
+      "manage",
+      "free",
+      "home"
+    ],
+    "word_count": 19,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.103,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1226,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0512,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm really looking forward to reading your column .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "me , too . Do you want to go out to celebrate my good news ?",
+    "occurrences": [
+      "celebrate",
+      "good"
+    ],
+    "word_count": 15,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.391,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1987,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0881,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "19%"
+      ],
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "sure , where would you like to go ?",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "perhaps we could go to the library festival that's going on at the local bookshop .",
+    "occurrences": [
+      "festival"
+    ],
+    "word_count": 16,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0562,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0266,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "surprise",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

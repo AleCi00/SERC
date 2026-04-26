@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hello , Is that Stefan ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry , but I'm afraid you've dialed the wrong number.There is no Stefan here ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Really ? Are you sure ? I called before and he was there ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . I'm sure . You have the wrong number . I have used this number for more than 20 years ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That can't be true . I remember the number clearly . Is your number 1199886 ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , it isn't . It's 1199866 . It seems that you have misdialed ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I'm sorry I bothered you . I'm really sorry ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It doesn't matter . It happens to everyone ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sorry again for bothering you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's all right ."
+  }
+]

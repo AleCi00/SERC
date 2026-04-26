@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Could I have my bill , please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Certainly , sir ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm afraid there's been a mistake ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm sorry , sir . What seems to be the trouble ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I believe you have charged me twice for the same thing . Look , the figure of 6.5 dollar appears here , then again here ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'll just go and check it for you , sir ."
+  }
+]

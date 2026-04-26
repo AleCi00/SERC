@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you remember what the ratings of movies stand for ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , G stands for General Audiences , PG means Parental Guidance suggested , R is restricted to audiences under 18 and X means explicit content ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Does anyone pay any attention to those ratings anymore ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Remember when we were kids ? Theaters wouldn't let kids in to PG moves without a parent ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I remember that I never saw an X moves even displayed ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Now with video rentals it's all a personal matter ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yea , I never see theaters turn people away for their age anymore either ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Now we have to make a choice about what we will see and what we won't ."
+  }
+]

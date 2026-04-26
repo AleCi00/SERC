@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm a little nervous ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Don't worry . You'll be fine . First of all , put on your seat belt . Adjust the mirrors ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You don't think I'll need the seat belt , do you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Of course not . But it's a good habit to put it on every time you drive ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Just in case , right ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Right . Hold the steering wheel with your hands at ten o'clock and two o'clock ."
+  }
+]

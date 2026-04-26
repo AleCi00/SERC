@@ -1,0 +1,2078 @@
+[
+  {
+    "speaker": "Giulia",
+    "text": "Pippo, I don't give a fuck about writing more to the guy than to you ok? I would just like you to stop being so heavy and constantly putting me what to do or what not to do, ok? I love you, I see you, I write to you, ok? I just lose the desire, when you impose things on me. So start focusing on your life and you'll see that then everything comes back to being better",
+    "occurrences": [
+      "like",
+      "constantly",
+      "love",
+      "lose",
+      "desire",
+      "start",
+      "life",
+      "youll"
+    ],
+    "word_count": 75,
+    "stop_word_count": 44,
+    "occurrences_count": 8,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.261,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0084,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0242,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0081,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0126,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.75,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0565,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.509,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0164,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0235,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.187,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0705,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "I do whatever the fuck I want, if I want, ok? You're nobody to tell me what to do and what not to do",
+    "occurrences": [],
+    "word_count": 22,
+    "stop_word_count": 14,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Moreover, yes there's you, Pippo; but you spent the last... four days breaking my balls with your complaints, ok?",
+    "occurrences": [],
+    "word_count": 19,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "Me breaking balls? But do you read the messages you send yourself? But do you look at how you treat me, like a criminal, I mean we can't talk about things... about this and that that becomes complicated, when we've always talked about this and that. I don't, I mean I don't do anything, I just want to talk about this and that, and tell each other things.",
+    "occurrences": [
+      "treat",
+      "like",
+      "criminal"
+    ],
+    "word_count": 64,
+    "stop_word_count": 38,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.889,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0342,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0198,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0213,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.86,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0331,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.529,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0203,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.076,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0029,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.012,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0348,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anger",
+        "3%"
+      ],
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "No Pippo ok? It scares me because I know how you're made, I know what you've done certain times, what you've said certain times and so honestly telling you now and instead of something that you, in general don't want me to do, scares me to tell you, ok? Because I know you could show up... that you could do... anything... that if you don't show up there at the moment it could also be that afterwards you come looking for me after breakfast is over and honestly I don't want these things, ok? I want to be able to be calm, sometimes you scare me",
+    "occurrences": [
+      "scares",
+      "general",
+      "scares",
+      "show",
+      "show",
+      "breakfast",
+      "calm",
+      "scare"
+    ],
+    "word_count": 101,
+    "stop_word_count": 53,
+    "occurrences_count": 8,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.588,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0122,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0098,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 2.164,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0451,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.636,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0132,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0166,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.079,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0225,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "4%"
+      ],
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "surprise",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "I think that in any case even if I don't tell you the bar where we were, it doesn't change anything for you. Did breakfast pass? Yes. Did you live it? No. So it doesn't change you if I went to one bar or another, ok? Except because it could be useful to you next time, which I wouldn't want, so that's why I don't feel like telling you",
+    "occurrences": [
+      "case",
+      "change",
+      "breakfast",
+      "live",
+      "change",
+      "time",
+      "like"
+    ],
+    "word_count": 65,
+    "stop_word_count": 33,
+    "occurrences_count": 7,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0161,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.49,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0153,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0203,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.228,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0071,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0151,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "If it ever happens once, ever once, before or after breakfast or during that I show up, I'll give you credit forever, but it's never happened... I mean... if now I have to be prosecuted... I mean... for two phrases I said, I have to be branded for life, I mean... it's very heavy... for both... because we can't get this idea out of our heads, please? It's better for both, I... how do you say fuck... I swear it to you basically... please you too be a little more calm towards me",
+    "occurrences": [
+      "breakfast",
+      "show",
+      "credit",
+      "life",
+      "swear",
+      "calm"
+    ],
+    "word_count": 87,
+    "stop_word_count": 53,
+    "occurrences_count": 6,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.074,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0316,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.196,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0352,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "And seriously, you loved me deeply we lived everything together, we had a relationship that with no one else we've ever had, we were... very well together and now we're still, you know it too that we're... perfect as, as characters together, that we're good, we get along... why can't we, just a moment... be at peace, be calm, support each other as always. Until two weeks ago we, despite... I mean... anyway we sent each other hearts, we said nice things to each other, we spent things together... and everything was fine... we were happy, calm... it's true, I'm not making it up, please, but think for a moment about what, what I told you, because it's true",
+    "occurrences": [
+      "loved",
+      "together",
+      "relationship",
+      "together",
+      "perfect",
+      "together",
+      "good",
+      "peace",
+      "calm",
+      "hearts",
+      "together",
+      "happy",
+      "calm",
+      "true",
+      "true"
+    ],
+    "word_count": 118,
+    "stop_word_count": 66,
+    "occurrences_count": 15,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.813,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0349,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 7.648,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1471,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0042,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 4.601,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0885,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "14%"
+      ],
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "A second thing. I don't want them, I mean,.. I don't, I didn't say anything about, that you had these two breakfasts, ok? I didn't make problems, etc., I don't, I don't, I mean... I told you that I was trying to make peace with my heart, obviously it makes me feel bad but, uhm, I didn't do I mean, I did... more, uhm... discussions about not knowing and that you didn't tell me but that then you did it itself, Not, no, I mean, I don't... I didn't say anything, I wasn't heavy etc... even though my heart really hurts, so I only ask you to... be a little good with me as always",
+    "occurrences": [
+      "peace",
+      "heart",
+      "bad",
+      "heart",
+      "good"
+    ],
+    "word_count": 101,
+    "stop_word_count": 48,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0085,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.813,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0153,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0074,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0071,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.217,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0418,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.008,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0041,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.219,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.023,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "Okay, okay, don't tell me then, if today you really don't want to, I mean... don't tell me, let's stay like this, I mean, we can't even talk about this and that anymore, let's stay like this in... bad with each other, which is the worst thing that, we don't deserve and we're not made like this, I mean, I don't know. At least then tell me something I mean... just the discussions you had... did you like this breakfast, I don't know is, it lasted long, how long were you together? And... what did you talk about, what did you say? What did she say, I don't know",
+    "occurrences": [
+      "like",
+      "like",
+      "bad",
+      "deserve",
+      "like",
+      "like",
+      "breakfast",
+      "long",
+      "long",
+      "together"
+    ],
+    "word_count": 102,
+    "stop_word_count": 52,
+    "occurrences_count": 10,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.629,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0126,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0283,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0078,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0075,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.636,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0127,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0084,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.452,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.049,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I literally talked to her for two minutes on the phone and.., and I only told her that, uhm...I saw that she was pissed off that, with Bea and that... I had also understood the problem.. because... I feel it too mainly... more than everyone... because for me it's really a much more important thing since I feel bad in general and my life is all going to hell, I don't, there's not one thing that's right, and so I told her that, I feel bad because it's not like last year and I don't like this... feeling excluded like this from the new group. And....and that's it.. we didn't say much else actually, almost nothing",
+    "occurrences": [
+      "pissed",
+      "problem",
+      "important",
+      "bad",
+      "general",
+      "life",
+      "hell",
+      "bad",
+      "like",
+      "like",
+      "feeling",
+      "excluded",
+      "like"
+    ],
+    "word_count": 110,
+    "stop_word_count": 57,
+    "occurrences_count": 13,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 2.8,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0528,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.555,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0105,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.931,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0364,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 2.204,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0416,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.015,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 2.763,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0521,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0068,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.978,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0562,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "anger",
+        "5%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Pippo, you really like putting yourself in the victim's role, ok? But you've also done serious things, because if I every time I had to meet up with Bea and with Kiki, when you were pissed black as a beast you told me eh, where are you going, where are you meeting, no, but I'll show up there, no but I'll show up here, I'll ruin everything for you, I'll ruin you and fuck off and I'll show up too and I'll ruin all the breakfast for you like this more than once, ok? You can't expect that now, if you insistently ask me where we met for breakfast and I don't feel like telling you because anyway it's a superfluous element, I can't have some doubts about the fact that you actually next time could actually show up where I am, You never did it, it's true, but, uhm, you, you threatened many times, you told me many times that, uhm, you would be able to show up there, so Pippo, the trust isn't my fault if I don't have it, you made me lose it. You made me lose it also, with all these control mechanisms on me that you're putting in place, with the fact that you watch when I go to sleep, with the fact that you watch how much time I'm online and ask me if I'm writing to someone based on how much time I'm online. They're all obsessive methods that you put into practice to control me and they scare me Pippo, they scare me and it makes me say that I don't trust anymore, because I'm scared of how you behave, ok? So you're not, you're not the victim of the situation. ok? Because you do such scary things that in my opinion you don't even realize. And in any case, it's not that in a moment of impulsivity, momentary anger you said it Pippo, you always behave like this. Every time I mention going out with Bea or with Kiki there hasn't been once when you weren't in, in a mental state, uhm, calm, ok? So I don't know what you could do, ok? So certain things I prefer to keep to myself and it's right like this, because anyway, for you, they don't change anything. If I had a pistachio brioche. Are you happy. Good",
+    "occurrences": [
+      "like",
+      "time",
+      "pissed",
+      "beast",
+      "show",
+      "show",
+      "ruin",
+      "ruin",
+      "show",
+      "ruin",
+      "breakfast",
+      "like",
+      "expect",
+      "breakfast",
+      "like",
+      "doubts",
+      "fact",
+      "time",
+      "show",
+      "true",
+      "show",
+      "trust",
+      "fault",
+      "lose",
+      "lose",
+      "fact",
+      "watch",
+      "fact",
+      "watch",
+      "time",
+      "time",
+      "scare",
+      "scare",
+      "trust",
+      "scared",
+      "victim",
+      "scary",
+      "case",
+      "anger",
+      "like",
+      "time",
+      "mental",
+      "calm",
+      "prefer",
+      "like",
+      "change",
+      "happy",
+      "good"
+    ],
+    "word_count": 375,
+    "stop_word_count": 212,
+    "occurrences_count": 48,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 4.293,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0263,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 7.026,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0431,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0031,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 8.918,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.541,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 4.323,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0265,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 2.727,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0167,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 11.104,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0681,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "fear",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Pippo, it's not the specific thing, it's true you never showed up, but you constantly control me, you don't realize, you control me and.. mhmm... a couple of times 100% you made sure to be found where I was without me telling you like, I'm at the stop or I'm \"at whatever\" ok? Mhmm, you watch, what, what I do, you want to know every single thing I do, it's \"who are you writing to\" and this here, this there, what time are you meeting. It's none of your business, ok? There are things I want to keep to myself because I'm scared of what you could do with that information! Period and stop",
+    "occurrences": [
+      "true",
+      "constantly",
+      "found",
+      "like",
+      "watch",
+      "time",
+      "scared"
+    ],
+    "word_count": 103,
+    "stop_word_count": 60,
+    "occurrences_count": 7,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.039,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0242,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.656,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0385,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0136,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.374,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0552,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "fear",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "Okay, ok, but very brief complaints.. two phrases maybe... And then about Kiki she hadn't even said anything actually that you were meeting. But you can't expect that there are no complaints and I encourage you to go and stuff like that, I mean, I can't do it, I feel very bad, ok? Mhh, that I don't, you can't give me blame because I Can't do it just that, if they're a complaint only",
+    "occurrences": [
+      "expect",
+      "encourage",
+      "like",
+      "bad",
+      "blame",
+      "complaint"
+    ],
+    "word_count": 67,
+    "stop_word_count": 35,
+    "occurrences_count": 6,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.422,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0444,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.742,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0232,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0239,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0117,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0132,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.148,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0046,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0496,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anger",
+        "4%"
+      ],
+      [
+        "disgust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "But it's not true! You're also playing your good part because... until two weeks ago I said \"I feel bad\", you said \"oh little potato, do you want to come study at my place\" or \"what's wrong\", now I tell you \"I feel bad\"... \"ah well keep it to yourself\", or you say \"eh, well, manage on your own, I won't say good night to you anymore', like this, instead of helping me, I mean... it's all like this, even now, mhh. instead of trying to make peace a little, tell each other things, you always put yourself on the defensive, on the, or...on the surliness like this. But in your opinion is it easy... I mean if you, collaborated a little, it's not that I'm the only one ruining everything, etc.",
+    "occurrences": [
+      "true",
+      "good",
+      "manage",
+      "wont",
+      "good",
+      "like",
+      "like",
+      "peace",
+      "like"
+    ],
+    "word_count": 103,
+    "stop_word_count": 54,
+    "occurrences_count": 9,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.485,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0303,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.998,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0408,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0089,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 4.538,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0926,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "But what, I never did anything with the information, what do I do with it because we share the, the things, our lives, this and that, we talk about everything, we know things, and... I mean mhmm... I mean, also the fact of... writing to the new guy, I mean it's a thing that needs to be said, that is shared between us for the relationship we have, etc. the news so important and these things here... the... I....don't control anyone, I just wanted goodnight before sleeping.... and I want to know your life well, as I want you to know mine well... I mean, that to share our information, help each other, etc. and be well together",
+    "occurrences": [
+      "share",
+      "fact",
+      "relationship",
+      "important",
+      "life",
+      "mine",
+      "share",
+      "help",
+      "together"
+    ],
+    "word_count": 113,
+    "stop_word_count": 63,
+    "occurrences_count": 9,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.89,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0178,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0041,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.519,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0504,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 3.188,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0638,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Pippo, literally, I'm behaving, based on, the serious things you do... like before it was going, in quotes, all well, ok? Beyond the fact that anyway I was looking after you too much and I'm getting a bit fed up because I also have to move forward with my things, ok? But literally, one day, I didn't give you goodnight, wow, the, end of the world, this one who wakes up at four o'clock only To. write me messages, To ask me if I went out, it made me think \"ok, this guy is a bit sick, I'd better take away goodnight because he bases himself only on what I do\" Ok, so I took away goodnight only because, Pippo I understood that you depend too much on that thing and it's a very serious thing and then yesterday you came to tell me: \"ah, but who are you writing to, ah, but you're online, who, are you talking to? But did you hear someone?\" things like that only because you control how much time I'm online and how much of that time is dedicated to writing to you and how much not, ok? Control mechanism: sick this one too. And so, of course I take it away from you, Pippo, you're obsessed Lord! You're a psychopath! What should I do? Let you...let you tell me when to do what and control me? I honestly don't find it correct, ok? So I'm only behaving as a consequence of how you behave. If you behave like shit like a psychopath, I behave consequently distancing you, distancing myself Pippo, because you're starting to scare me",
+    "occurrences": [
+      "like",
+      "quotes",
+      "fact",
+      "depend",
+      "like",
+      "time",
+      "time",
+      "sick",
+      "like",
+      "shit",
+      "like",
+      "scare"
+    ],
+    "word_count": 218,
+    "stop_word_count": 114,
+    "occurrences_count": 12,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.161,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0112,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.884,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0181,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.398,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0134,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0081,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.294,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0028,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0051,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0077,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 3.257,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ],
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "But it's not true about goodnight, I told you that I went to sleep, uhm... earlier, it's that I woke up because I was worried... because usually we always write it to each other! And maybe you had gone away, etc., it makes... I mean... I'm anyway used to going to bed with us giving each other goodnight, it makes me... feel strange... going there without, I have more difficulty sleeping, who knows how to say... mhmm... and then sorry...it's not true, it only happened yesterday, because by chance because... you answered me very little yesterday... I was desperate, I had nothing to do... and because I felt precisely that there was something wrong, that there was something strange, in fact I was right!.. But because anyway it's a thing that I should have known this, that you're writing to a guy, sorry, I mean you should have told me... And anyway they're not, I mean, they're not, they're not serious things at all, sorry. I mean it wasn't... anything that, I didn't cause you any damage or, did you any harm...",
+    "occurrences": [
+      "true",
+      "worried",
+      "gone",
+      "giving",
+      "strange",
+      "difficulty",
+      "true",
+      "chance",
+      "strange",
+      "fact",
+      "damage",
+      "harm"
+    ],
+    "word_count": 171,
+    "stop_word_count": 93,
+    "occurrences_count": 12,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.957,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0123,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.005,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.419,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0182,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.125,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0144,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 2.152,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0276,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.47,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0188,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 3.032,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0389,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ],
+      [
+        "surprise",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "But stop saying that it's not true, I've always been the same I haven't done anything much, I asked you a lot of times what, who you're writing to, even without, watching you just because I saw two, two minutes in passing that you were online, because, like this, I want to know things about you, they're, I mean, because we tell each other everything, etc., I stay updated on your life, on your acquaintances, on what, we do basically, mhmm, that's all, I mean, even without watching, with, just because I feel like it I would ask you, it's not that I'm watching",
+    "occurrences": [
+      "true",
+      "like",
+      "life",
+      "like"
+    ],
+    "word_count": 95,
+    "stop_word_count": 48,
+    "occurrences_count": 4,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0163,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.757,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0374,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Not \"what should I do\" Pippo, What does it change for you? That I come to Padua for breakfast at, at eight thirty, nine thirty or ten thirty? What does it change you if I went to Manzato or whatever the fuck other place I know, ok? It doesn't change you anything, ok? So if I tell you that for once I don't feel like telling you, I don't tell you and that's it!",
+    "occurrences": [
+      "change",
+      "breakfast",
+      "change",
+      "change",
+      "like"
+    ],
+    "word_count": 60,
+    "stop_word_count": 32,
+    "occurrences_count": 5,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0212,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0086,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0173,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "2%"
+      ],
+      [
+        "trust",
+        "1%"
+      ],
+      [
+        "joy",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "Okay, but it's not the fact that you can't tell me this time, ok, it doesn't matter anyway it's interesting because we talk about anything, I mean they're things that anyway, you say.. you bring up discussions out of nowhere... to... just say, where, when and... to also understand, like this.. how it went you were there a lot etc., or.. little, basically, stuff like this, If you don't want to tell me this time well, ok, but for a reason why you don't want... I mean it's heavy that it's recurring or that it happens again often, because otherwise it's asking everything, also what you ate for lunch or... are you home, I mean everything, everything becomes more difficult, got it? I'll do without it too, today, of this information ok, but, mhmm, I wasn't only referring to what I want to know today like this, where you went, in general a bit...",
+    "occurrences": [
+      "fact",
+      "time",
+      "matter",
+      "like",
+      "like",
+      "time",
+      "recurring",
+      "home",
+      "difficult",
+      "ill",
+      "like",
+      "general"
+    ],
+    "word_count": 149,
+    "stop_word_count": 76,
+    "occurrences_count": 12,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0046,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.032,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0141,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0067,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.339,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0183,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.559,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0077,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0081,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 3.031,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0415,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "fear",
+        "1%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Pippo, but, eh, I'll decide if they're serious things or not serious things for me, honestly the fact that a person comes to check when I'm online, ok, so it means that you're there all the time watching my profile, when the writing appears, when it disappears ok? online, ok? It seems like a thing... crazy to me, psychopathic, ok? And so if for you it's not a serious thing. for me it can very well be Pippo. because for me, for me it is. Ok? It's crazy! And anyway it's not the first time it happens and that you did it only yesterday because it had been a while since we wrote to each other. Even a few days before you dumped me, you had done it.... got it? And it had been one of the alarms for which I had said \"no, whatever this one isn't there with his head anymore\", ok? So, mhmm. it's not that you can justify yourself by saying \"no, it never happened\", Pippo, these things you're doing now, that I'm complaining about, you were doing them before too, with the difference that before we were together and that therefore, it wasn't permissible for you to do them, but at least it gave me an excuse, now we're not together so my business, it's my business",
+    "occurrences": [
+      "fact",
+      "time",
+      "like",
+      "crazy",
+      "crazy",
+      "time",
+      "together",
+      "together"
+    ],
+    "word_count": 206,
+    "stop_word_count": 135,
+    "occurrences_count": 8,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.0,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0141,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.032,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0145,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.038,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0146,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.788,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0111,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.736,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0104,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.211,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0171,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "1%"
+      ],
+      [
+        "fear",
+        "1%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "In fact I don't feel like telling you Pippo, honestly I don't feel like telling you who I'm writing to every single moment I write to someone, Never in my life man! It's my business! You're a friend, I don't give a shit! What do I have to make you part of every single movement, passage, thing I do in my life, are you crazy! Live yours, Christ",
+    "occurrences": [
+      "fact",
+      "like",
+      "like",
+      "life",
+      "friend",
+      "shit",
+      "life",
+      "crazy",
+      "live"
+    ],
+    "word_count": 59,
+    "stop_word_count": 25,
+    "occurrences_count": 9,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.073,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0316,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.82,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0241,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.519,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0153,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.191,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0644,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.368,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0108,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.445,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0719,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "anger",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "You're talking like I was watching your phone etc., or watching when you're online etc., I mean now that I wrote you, two messages... I mean, just a moment of the day I said, now I'll write to her, because. usually at this time she and I write to each other, we write to each other. Who knows, it's three twenty, at this time usually... she takes the train and we write to each other. I'm going to write her a message to hear how it's going, I write how it's going, I write two three other messages about my business and I look at four messages. it takes me four minutes to write them... I see that in these four minutes, uhm... while I was writing them, meanwhile while I was writing to you I see that you were online, while I was writing to you that then you didn't answer... and so I say... she must be writing to someone else because she's not answering me and. if, in these five minutes that I wrote to you... and after that... I just got this instinct that ..already from the fact that you had lunch with... some guys on Monday etc. and that you hadn't talked about it, then... mhmm... I find it quite, how do you say, possible as a thing and so I came out to ask you... just to... because it made me... a bit.. like this, anxiety etc. and curiosity",
+    "occurrences": [
+      "like",
+      "time",
+      "time",
+      "fact",
+      "like",
+      "anxiety",
+      "curiosity"
+    ],
+    "word_count": 229,
+    "stop_word_count": 133,
+    "occurrences_count": 7,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0036,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.196,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0229,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0062,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0052,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.005,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.695,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0177,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "trust",
+        "1%"
+      ],
+      [
+        "fear",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Okay Pippo! But it's not like I can tell you all the single things I do, all the people I write to. Lord! I write to people that... there is! I've never told you about them! Why should I come to do it now! Tell you now... you send me messages and that's it! Close the phone, what do you have to wait for me to answer you after half a minute? Okay! And anyway it's not normal if even a person doesn't answer you right away and you notice they're on-line to go there and ask them \"... ah who are you writing to?!\", it's my business!!! I don't go ask my friends who they're writing to, they take half a day to answer me, Are you out of your melon?!",
+    "occurrences": [
+      "like",
+      "lord",
+      "wait",
+      "friends"
+    ],
+    "word_count": 121,
+    "stop_word_count": 70,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0103,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0025,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0159,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.929,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0182,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "1%"
+      ],
+      [
+        "joy",
+        "1%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I was anxious! I had nothing to do, and then it wasn't to ask you in general who you were writing to, it was only about this anxiety that it was.. that I felt it was a, a new guy, a new boy that you had never written to and that it was, eh, eh, writing.., not like this randomly, I mean like, uhm, to see each other, stuff like this, it makes me anxious, it scares me ok? It's not right, I don't find it right either!",
+    "occurrences": [
+      "anxious",
+      "general",
+      "anxiety",
+      "like",
+      "randomly",
+      "like",
+      "like",
+      "anxious",
+      "scares"
+    ],
+    "word_count": 85,
+    "stop_word_count": 51,
+    "occurrences_count": 9,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0101,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.891,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0556,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 2.29,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0674,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0147,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0172,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.827,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0537,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "But it's not true Pippo! But every single time I talked to Laura, to Giulia,.. who knows, to my friends to teacher Raffaella, things like that specifically maybe I even told you about them after two weeks okay!... You can't expect to know everything about a person! I talked to my grandmother, I came to tell you.. are you crazy?! Pippo you'll never find a person who will merge their life with you... even more so now that I dumped you okay?.... What do you want to demand from me?!",
+    "occurrences": [
+      "true",
+      "time",
+      "friends",
+      "teacher",
+      "like",
+      "expect",
+      "crazy",
+      "youll",
+      "merge",
+      "life",
+      "demand"
+    ],
+    "word_count": 83,
+    "stop_word_count": 43,
+    "occurrences_count": 11,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.985,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0246,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.539,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0635,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.519,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.013,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.594,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0399,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.368,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0092,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.296,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0074,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 4.469,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1117,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Are you stupid?! But Pippo why wasn't I writing to new guys while I was with you okay?!... But, even more so now that we broke up it's not something that concerns you okay?!... I'll tell you when I want to let you know... it's not that you have to check if I'm on-line or not... and. and that's the reason... but tell me",
+    "occurrences": [
+      "broke",
+      "ill"
+    ],
+    "word_count": 61,
+    "stop_word_count": 40,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0159,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0234,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.059,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0504,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.078,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0513,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "5%"
+      ],
+      [
+        "fear",
+        "5%"
+      ],
+      [
+        "disgust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "But it's not right, if you have a bit of respect and love for me, we're still recent etc., we love each other, we're connected, we're two little potatoes... how can you think of... starting to date another guy etc., what ridiculous person you are",
+    "occurrences": [
+      "respect",
+      "love",
+      "love",
+      "date",
+      "ridiculous"
+    ],
+    "word_count": 45,
+    "stop_word_count": 25,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0144,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0219,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0176,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.266,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1133,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ],
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "But it's not right, come on, if you have a bit of respect and love for me... I mean, I'm still part of your heart etc., uhm.... we still love each other, how can you only, only three months have passed precisely we're still in the middle of our usual life, others, think of being interested in someone else and starting, you had said you were concentrating alone, that you were staying, alone and yourself, eh, for your life\"",
+    "occurrences": [
+      "respect",
+      "love",
+      "heart",
+      "love",
+      "usual",
+      "life",
+      "interested",
+      "alone",
+      "alone",
+      "life"
+    ],
+    "word_count": 79,
+    "stop_word_count": 45,
+    "occurrences_count": 10,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0129,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0023,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 3.579,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1053,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.314,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0386,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.711,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0797,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "No it's very different... it's that I feel bad, I feel bad okay?!... and I need to... to be, that you stay close, stay close to feel better... because you make me feel good... with you I feel incredibly good and we're happy.. and even just talking to you about anything.... there, it makes us feel good, it makes me feel good, it's something that gives me so much and makes me happy and I need it...",
+    "occurrences": [
+      "bad",
+      "bad",
+      "good",
+      "good",
+      "happy",
+      "good",
+      "good",
+      "happy"
+    ],
+    "word_count": 72,
+    "stop_word_count": 36,
+    "occurrences_count": 8,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0252,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.642,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0734,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.782,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0217,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0208,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 3.764,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1046,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0234,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.876,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0243,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 3.686,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1024,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "There now it seems to me you're accusing me of doing who knows what, of being, I don't know... of doing who knows..., behaviors but it seems to me I had precisely banal attitudes that there, of having made banal reasonings that quite a few people would do.. that's all.. there I mean precisely it was: Monday you went to lunch with these new guys and I didn't, I mean, there were two new guys you had never told me about... and from there I also asked you would they be that could please you and you answered me badly uhm... and I say there, I make the reasoning eh, that there could be something underneath otherwise she would answer me calmly.. I ask you to tell me precisely how the people are and you tell me about everything except them etc. eh... so after you saw each other also the first thing that comes to mind to ask you is if you started writing to these, I mean with these who knows... some of these... and that's how it went... what happened this no I don't... that I'm watching if she's on-line or stuff like that... etc., on the contrary..",
+    "occurrences": [
+      "accusing",
+      "badly",
+      "mind",
+      "like"
+    ],
+    "word_count": 191,
+    "stop_word_count": 109,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.779,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0095,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.001,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0059,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.455,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0055,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0059,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "0%"
+      ],
+      [
+        "fear",
+        "0%"
+      ],
+      [
+        "trust",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Boh! Everyone has their own times okay?!.. You it's obvious that you haven't gotten over the thing yet, I got over the thing as soon as I dumped you in the sense.. uhm... I love you but I mean not say being interested in other guys... that now that we're not together anymore... three months have passed, three months is a lot, okay?!.. to you it seems little because you're still under like caviar... but three months is a lot... okay?. So, I mean, I in fact can do whatever I want.. I don't owe you anything anymore...",
+    "occurrences": [
+      "obvious",
+      "love",
+      "interested",
+      "together",
+      "like",
+      "fact"
+    ],
+    "word_count": 92,
+    "stop_word_count": 45,
+    "occurrences_count": 6,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0017,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.222,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.026,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.114,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0024,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.508,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0534,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "joy",
+        "2%"
+      ],
+      [
+        "sadness",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I'm not still under like a caviar, what are you saying?!.. I simply want to maintain the best friendship with you, the same relationship and I don't want it to be ruined interfered with and anyway, anyway we have I mean we were the first thing for each other, we were the most important people for both, we lived everything I mean, three months are still few got it. and yes, staying updated because you share things with the best friend right?",
+    "occurrences": [
+      "like",
+      "friendship",
+      "relationship",
+      "ruined",
+      "important",
+      "share",
+      "friend"
+    ],
+    "word_count": 79,
+    "stop_word_count": 42,
+    "occurrences_count": 7,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.545,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0147,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.012,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0144,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0135,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.014,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0544,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.697,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0188,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 3.836,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1037,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Okay Pippo uhm alright... hearing from me makes you feel good, but it's obvious that. Pippo, you're not doing anything for yourself and you're concentrating only on me because otherwise you wouldn't have all this time to dedicate to me, if you were also doing things for yourself you wouldn't have it the time to dedicate to me! I'm telling you! Maybe you would still write to me but you would write to me half the time and you would be interested in half the things I do okay?! It's that as long as you don't do shit for yourself Pippo I believe that you don't have anything to concentrate on except me!",
+    "occurrences": [
+      "hearing",
+      "good",
+      "obvious",
+      "time",
+      "time",
+      "time",
+      "interested",
+      "long",
+      "shit"
+    ],
+    "word_count": 109,
+    "stop_word_count": 64,
+    "occurrences_count": 9,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.146,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0255,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 3.259,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0724,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.718,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0382,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.156,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0035,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0122,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.114,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0025,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0049,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.156,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0257,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "disgust",
+        "3%"
+      ],
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I've always done a lot of things too... in this year and a half I've always been very busy, but not and even when I had many things to do anyway, for me an important thing was to write to you, sometimes I even gave priority, because it made me happy, it made me feel good, more than many other things... that I do for myself. And anyway one doesn't exclude the other",
+    "occurrences": [
+      "important",
+      "happy",
+      "good"
+    ],
+    "word_count": 70,
+    "stop_word_count": 39,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.938,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0303,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.335,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0431,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0071,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.859,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.06,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "But don't you feel a bit ridiculous?! don't you realize that in a best friendship you don't act like the psychopaths you do with me?!... Pippo, literally uhm.. practically you don't do anything except ask me what I do during the day, this isn't a best friendship, okay, it's wanting something you can't have anymore",
+    "occurrences": [
+      "ridiculous",
+      "friendship",
+      "like",
+      "friendship",
+      "wanting"
+    ],
+    "word_count": 54,
+    "stop_word_count": 25,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.01,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0121,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.182,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0408,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.202,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.007,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.938,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0668,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Let's do this: next time you go to your psychologist you tell him about the fact that I took away \"goodnight\", the fact that I took away last access... last access... and you explain to him where the thing came from and let's see what he answers you and let's see what he tells you, okay?!... If it's not permissible that I can do what I want if I want",
+    "occurrences": [
+      "time",
+      "fact",
+      "fact",
+      "explain"
+    ],
+    "word_count": 64,
+    "stop_word_count": 35,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0178,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.852,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0639,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "It seems completely correct to me that I can complain that you don't want to give me goodnight anymore and you're at risk that you go write to another guy, I mean it seems like a thing... very violent!... I mean towards me",
+    "occurrences": [
+      "complain",
+      "risk",
+      "like",
+      "violent"
+    ],
+    "word_count": 41,
+    "stop_word_count": 19,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.313,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0597,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0263,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.711,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0323,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.374,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.509,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0231,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0295,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.022,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "anger",
+        "5%"
+      ],
+      [
+        "disgust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Common sense?! You come to talk to me about common sense?! Pippo I've been staying close to you for three months, three long months okay in which there were in every single moment when you felt bad even if I shouldn't have been there okay! There wasn't a person who agreed with me doing it staying so close to you.... but since you were alone like a dog and you were very bad Pippo, I cared about being there because I didn't want you to be worse and you come to talk to me about common sense now that I'm doing a completely innocent thing, that I'm deciding, making decisions for my life, with my brain, a life in which I can literally do anything without anyone coming to tell me anything, are we kidding?",
+    "occurrences": [
+      "long",
+      "bad",
+      "agreed",
+      "alone",
+      "like",
+      "bad",
+      "worse",
+      "innocent",
+      "life",
+      "life",
+      "coming"
+    ],
+    "word_count": 130,
+    "stop_word_count": 72,
+    "occurrences_count": 11,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.359,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0234,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.445,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0249,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.173,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0202,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.609,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0277,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.876,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0151,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 2.319,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.04,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.835,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0316,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "Common sense if, if I feel bad and there's a thing that makes me, feel bad that for you maybe is innocent or etc. and maybe you don't want it but you know it makes me feel bad and it makes me feel good instead the opposite, you say well let's make him feel good and let's help him and let's do this thing since it's not a big problem that's all, in this sense common sense",
+    "occurrences": [
+      "bad",
+      "bad",
+      "innocent",
+      "bad",
+      "good",
+      "good",
+      "help",
+      "problem"
+    ],
+    "word_count": 76,
+    "stop_word_count": 35,
+    "occurrences_count": 8,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.359,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0331,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0187,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.173,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0286,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.594,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0389,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0267,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.704,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0416,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0107,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.937,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0472,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "In fact it's right and nice that we continue to treat each other the same way? That it's not in the past, but that, we stay close even now... because we have to cancel everything from one day to another, etc.! I mean, uhm... it's nice that we continue to write to each other, to be together! Uhm, I mean... it's better for both I'm sure, for me a lot",
+    "occurrences": [
+      "fact",
+      "continue",
+      "treat",
+      "cancel",
+      "continue",
+      "together"
+    ],
+    "word_count": 69,
+    "stop_word_count": 42,
+    "occurrences_count": 6,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.175,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0065,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.344,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0498,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0029,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.094,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0035,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.923,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0342,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.31,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0115,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0116,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.993,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0738,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "And anyway I've always seen it as a nice gesture, affectionate, of benevolence, etc. that uhm... of affection, that helps to feel good to give each other goodnight, why of being a gesture of control?! It's not like that! It's not true! I assure you I've never done it in that way... just because I am, I woke up like this... it's also true that I make a lot of, a lot of negative thoughts, every time I think the worst, anything, obviously maybe it occurs to me to think that you went out and had an accident or, even that, sometimes it doesn't occur to me to think that someone entered your house and kidnapped you... and I'm not, I'm not making it up, certain times, maybe I'm afraid it's like this and I worry a little as you, are sweet that you worry that I come home safe and sound at night... I don't know if you still care now... you saw at \"Murrageddon\" how much I care about you... and yes, sometimes, I make these excessive thoughts... well I won't complain about goodnight anymore, okay, I won't say anything more, I hope at least that sometimes you'll write it to me anyway... because it's nice and then there's always a little heart",
+    "occurrences": [
+      "gesture",
+      "benevolence",
+      "affection",
+      "good",
+      "gesture",
+      "like",
+      "true",
+      "assure",
+      "like",
+      "true",
+      "negative",
+      "time",
+      "accident",
+      "kidnapped",
+      "afraid",
+      "like",
+      "worry",
+      "sweet",
+      "worry",
+      "home",
+      "safe",
+      "wont",
+      "complain",
+      "wont",
+      "hope",
+      "youll",
+      "heart"
+    ],
+    "word_count": 203,
+    "stop_word_count": 104,
+    "occurrences_count": 27,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0047,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 3.679,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0372,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 3.578,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0361,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 5.832,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0589,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 2.807,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0284,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.539,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0155,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 8.092,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0817,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Pippo it's that I like seeing you sometimes, chatting with you about this and that things like that, but having to always tell you what I'm doing at this moment, what are the plans for the day, who I write to, who I see, at what time, where, it's heavy got it, I don't want this thing anymore it weighs on me too much",
+    "occurrences": [
+      "like",
+      "like",
+      "time"
+    ],
+    "word_count": 60,
+    "stop_word_count": 37,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0224,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0421,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Anyway I come in peace, I have a proposal to advance to you",
+    "occurrences": [
+      "peace",
+      "advance"
+    ],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.125,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.225,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0376,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.951,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1902,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.075,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.602,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1204,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "22%"
+      ],
+      [
+        "joy",
+        "19%"
+      ],
+      [
+        "trust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Will you accompany me this weekend to the nave de vero to look for something to wear at graduation?",
+    "occurrences": [
+      "weekend",
+      "wear",
+      "graduation"
+    ],
+    "word_count": 19,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0087,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.863,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0959,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.02,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.851,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0946,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

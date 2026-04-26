@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , I ordered the well-done steak , but this one is so tough ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , sir , I think I have made a mistake . I will take it back to the kitchen right now ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think you should be more careful next time ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , sir . I'm really so sorry about that ."
+  }
+]

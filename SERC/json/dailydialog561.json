@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , I think I was supposed to call for my test results today ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If you go onto our website and put in your password , you can access your test results ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you saying that there weren ’ t any problems ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I will always have you come in for a discussion if there is a major problem ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Will I be able to read the results on the website and understand them ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , if you go there , you can see what each test is about ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How will I know what the numbers mean ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You can see your results and how they compare to the normal range ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How can I see test results from tests I have taken before ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We put all of your test results up in the same place . Just check the dates for what you need ."
+  }
+]

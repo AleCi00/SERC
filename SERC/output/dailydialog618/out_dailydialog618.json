@@ -1,0 +1,179 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Look at this newspaper article about this famous local medium . It says that she is really gifted and so popular now , that she is booked solid with appointments for the next twelve months !",
+    "occurrences": [
+      "popular"
+    ],
+    "word_count": 35,
+    "stop_word_count": 17,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0221,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You don't really believe in all that hocus pocus mumbo jumbo , do you ?",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , I have had many friends that went to a psychic and got their palms read and most of the things the psychic told her came true !",
+    "occurrences": [
+      "friends",
+      "true"
+    ],
+    "word_count": 27,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.656,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1183,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.578,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1127,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "trust",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Of course it does ! They tell you general and obvious things like that you will be successful or have a big house . I think most of the times they are just scam artists .",
+    "occurrences": [
+      "general",
+      "obvious",
+      "like",
+      "successful"
+    ],
+    "word_count": 36,
+    "stop_word_count": 20,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0293,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.606,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0379,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.046,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1279,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , historically it is a practice that many cultures share . Reading the tarot cards , in the east they would even read tea leaves ! I even heard that there are people that make you smoke a cigar , and then read your ashes .",
+    "occurrences": [
+      "share",
+      "tea",
+      "ashes"
+    ],
+    "word_count": 44,
+    "stop_word_count": 18,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.445,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0171,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.814,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.377,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0145,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0225,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All superstitious nonsense ! I would still like to go to one and see what he or she has to say , just for kicks .",
+    "occurrences": [
+      "superstitious",
+      "nonsense",
+      "like"
+    ],
+    "word_count": 25,
+    "stop_word_count": 13,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.876,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.073,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.062,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0885,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "anger",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

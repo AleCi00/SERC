@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I would like to buy a black suit ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you have any special brand in your mind ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , I never wear suit in my everyday life . I just want one to take part in my sister ’ s wedding ceremony ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I see . Have a look at this one . It ’ s very cheap because it ’ s not very durable ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "but it looks good . Let me try it on ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ok , the mirror is over there ."
+  }
+]

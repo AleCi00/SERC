@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey , how was the show ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not great . It's a kind of boring ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Really ? I heard it was supposed to be great ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , me too . But I'm disappointed ."
+  }
+]

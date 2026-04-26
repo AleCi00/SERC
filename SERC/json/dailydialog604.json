@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I can't believe how hot it is ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's not even noon yet ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That means it will get hotter ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am dying from the heat ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Turn on the air conditioner ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It doesn't work ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What happened ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don't know ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Did you call the repairman ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Of course ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "When is he coming ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He's busy . He said next week ."
+  }
+]

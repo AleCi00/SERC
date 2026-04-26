@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "We've managed to reduce our energy consumption in our factory by about 15 per cent in the last two years ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's excellent . How have you managed that ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Mainly because we've invested in a heat recovery system ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What does that mean exactly ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , we use the exhaust gases from our printing presses to provide energy to heat our dryers ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What other sources of energy do you use ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We don't use any fossil fuels . Most of our power comes from hydro-electric plants . We're hoping to use even more energy from alternative sources in the future - perhaps even wind power ."
+  }
+]

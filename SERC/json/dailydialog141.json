@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I want to buy a black suit ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Certainty.Do you want double breasted suit or single breasted suit ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I prefer single breasted suit ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What about this one ? It's a very nice 3 - piece suit ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That looks great . Do you have ties here ?"
+  }
+]

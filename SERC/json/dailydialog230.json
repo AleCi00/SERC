@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Billy , you are late again ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm sorry I'm late . I overslept . Is the manager here today ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes he ' s in his office ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I hope he didn't notice me ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don't take any chances . It'd be best if you told him and promised not to be late again . He's already mad at you for last 2 times . Any more and he might fire you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You said it . It won't happen again . Do you really think he'd fire me ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think he might . You'd better go to his office ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You are probably right . I'll go right now and apologize . I try hard not to be late but it is difficult with Beijing traffic ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Good luck !"
+  }
+]

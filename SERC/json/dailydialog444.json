@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How far do we have to go ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "About 50 miles ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The traffic is not very heavy on this high way , is it ? So I ’ m sure we ’ ll make it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , but we ’ Ve got a hurry . It will be the rush hour soon ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don ’ t worry . There ’ s plenty of time yet ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But it ’ s Friday today . This road is always jam packed during the weekend , isn ’ t it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Right ."
+  }
+]

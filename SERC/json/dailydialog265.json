@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It's especially cold when the wind is blowing ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why don't you wear a scarf ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What can wearing one do for me ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You're cold because the wind is blowing into your open collar . It's not because your jacket isn't thick enough ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "So wearing a scarf helps your body to stay warm inside your jacket ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . That's the secret to wearing a thin jacket ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You know , sometimes I can't feel my ears and fingers ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'll lend you my gloves and earmuffs until you get your own ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks , Pam . You're my lifesaver ."
+  }
+]

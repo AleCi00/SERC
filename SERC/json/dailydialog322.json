@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can you give me more details on what is included in the package ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . The coach leaves at 6:30 a . m . , in front of our office . The drive takes eight hours , with two stops to see some sights ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What about the hotel accommodations ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You'll be staying at Holiday Inn . It's a three-star hotel with two restaurants and a swimming pool ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Great . What types of things will we do at Lushun Falls ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The second day you take a four-hour city tour . In the afternoon you go on the famous boat cruise under the falls ."
+  }
+]

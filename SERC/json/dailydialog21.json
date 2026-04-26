@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Why'd you pull me over ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Are you aware that you drove through a red light ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ran a red light ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , you did ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I apologize , but I didn't realize that I did ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Weren't you taught that yellow means slow down , not speed up ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I did learn that ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "So , then why did you speed up ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't know what to tell you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm going to have to write you a ticket ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I understand ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here you go . Don't do that again ."
+  }
+]

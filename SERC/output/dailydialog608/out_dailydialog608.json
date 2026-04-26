@@ -1,0 +1,253 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Oh , Linda , you must be so excited about going to study in America .",
+    "occurrences": [
+      "excited"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.859,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1432,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.818,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1363,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1042,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0755,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "anticipation-anger": 0.859,
+    "anticipation-anger_computed": 0.1432,
+    "surprise-anticipation": 0.859,
+    "surprise-anticipation_computed": 0.1432,
+    "anticipation-trust": 0.859,
+    "anticipation-trust_computed": 0.1432,
+    "anticipation-joy": 0.859,
+    "anticipation-joy_computed": 0.1432,
+    "anticipation-surprise": 0.859,
+    "anticipation-surprise_computed": 0.1432,
+    "anticipation-disgust": 0.859,
+    "anticipation-disgust_computed": 0.1432,
+    "anticipation-sadness": 0.859,
+    "anticipation-sadness_computed": 0.1432,
+    "anticipation-fear": 0.859,
+    "anticipation-fear_computed": 0.1432,
+    "trust-anticipation": 0.859,
+    "trust-anticipation_computed": 0.1432,
+    "main_emotion": [
+      [
+        "anticipation",
+        "14%"
+      ],
+      [
+        "anticipation-anger",
+        "14%"
+      ],
+      [
+        "surprise-anticipation",
+        "14%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-anger",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-disgust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-sadness",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-surprise",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "excited",
+            "score": 0.859
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , yes , I am . I have always wanted to go to the States . I love meeting new people . And making new friends .",
+    "occurrences": [
+      "love",
+      "friends"
+    ],
+    "word_count": 24,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.083,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0474,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , I'm sure you will .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , there's one thing .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What's the matter",
+    "occurrences": [
+      "matter"
+    ],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2385,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "23%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm a little worried about my host family . You know , in the agreement I have to do some cooking for them .",
+    "occurrences": [
+      "worried",
+      "family",
+      "agreement"
+    ],
+    "word_count": 22,
+    "stop_word_count": 12,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.466,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0466,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.05,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0621,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0727,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "sadness",
+        "6%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

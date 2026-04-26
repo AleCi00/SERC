@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning , I would like to reserve a berth ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Which train do you like ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "T112 to Washington please ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "May I have your name ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's Lincoln ."
+  }
+]

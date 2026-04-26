@@ -1,0 +1,65 @@
+{
+  "speaker": [
+    "Giulia",
+    "Filippo"
+  ],
+  "total_words": 291,
+  "total_stop_words": 159,
+  "total_matches": 29,
+  "total_entries": 18,
+  "basic_emotions": {
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 4.138,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 3.9690000000000003,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.9600000000000002,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 7.940999999999999,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 6.437,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 4.846000000000001,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.242,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 6.765000000000001
+  },
+  "complex_emotions": {
+    "anger-fear": 2.886,
+    "anticipation-fear": 2.886,
+    "disgust-fear": 2.886,
+    "fear-anger": 2.886,
+    "fear-anticipation": 2.886,
+    "fear-disgust": 2.886,
+    "fear-joy": 2.886,
+    "fear-sadness": 2.886,
+    "fear-surprise": 2.886,
+    "fear-trust": 2.886,
+    "joy-fear": 2.886,
+    "sadness-fear": 2.886,
+    "surprise-fear": 2.886,
+    "trust-fear": 2.886
+  },
+  "main_emotion": [
+    "fear",
+    "trust",
+    "joy"
+  ],
+  "computed_scores": {
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.0313,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.0301,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.0148,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.0602,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.0488,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.0367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.0094,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.0513,
+    "anger-fear": 0.0219,
+    "anticipation-fear": 0.0219,
+    "disgust-fear": 0.0219,
+    "fear-anger": 0.0219,
+    "fear-anticipation": 0.0219,
+    "fear-disgust": 0.0219,
+    "fear-joy": 0.0219,
+    "fear-sadness": 0.0219,
+    "fear-surprise": 0.0219,
+    "fear-trust": 0.0219,
+    "joy-fear": 0.0219,
+    "sadness-fear": 0.0219,
+    "surprise-fear": 0.0219,
+    "trust-fear": 0.0219
+  }
+}

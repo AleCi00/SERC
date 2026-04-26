@@ -1,0 +1,364 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Amelia , could you spare a few minutes ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "sure . What do you need ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "well , I wanted to let you know that I've put in my notice .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "really ? Why ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "it's complicated . But basically it boils down to one thing . This company is downsizing and I can't continue working for a company that may let me go .",
+    "occurrences": [
+      "down",
+      "continue"
+    ],
+    "word_count": 29,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0244,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0165,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0248,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "but surely they won't fire you ! You're one of the most experienced managers here !",
+    "occurrences": [
+      "wont",
+      "fire",
+      "experienced"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0321,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.272,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1413,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.204,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1338,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "14%"
+      ],
+      [
+        "trust",
+        "13%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "well , to be honest , there's another reason . I've got a better offer .",
+    "occurrences": [
+      "honest"
+    ],
+    "word_count": 14,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.087,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0079,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.055,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.005,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.047,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0043,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.303,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0275,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.062,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0056,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0767,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "anticipation-trust": 0.844,
+    "anticipation-trust_computed": 0.0767,
+    "trust-anticipation": 0.844,
+    "trust-anticipation_computed": 0.0767,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation-trust",
+        "7%"
+      ],
+      [
+        "trust-anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "honest",
+            "score": 0.844
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "honest",
+            "score": 0.844
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker2",
+    "text": "well that's great news ! Congratulations ! Where will you be located ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "the head office is in New York , but I'll be dealing with overseas companies and flying to this side of the world from time to time .",
+    "occurrences": [
+      "flying",
+      "time",
+      "time"
+    ],
+    "word_count": 25,
+    "stop_word_count": 14,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.032,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0255,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "it'll be sad to see you go , but it sounds like you're found yourself a great opportunity .",
+    "occurrences": [
+      "sad",
+      "like",
+      "found",
+      "opportunity"
+    ],
+    "word_count": 18,
+    "stop_word_count": 7,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0589,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0235,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0767,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.088,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I have . I feel lucky . I look forward to dealing with overseas companies and at the same time having a chance to use English more .",
+    "occurrences": [
+      "lucky",
+      "time",
+      "chance"
+    ],
+    "word_count": 27,
+    "stop_word_count": 14,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0397,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.721,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0555,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.055,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0812,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "8%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm sorry to bring this up , but would it be possible for you to write me a letter of recommendation before you go ?",
+    "occurrences": [
+      "letter"
+    ],
+    "word_count": 24,
+    "stop_word_count": 14,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0484,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "of course I can . In fact , if there are other job opportunities at this new company , I'll recommend you personally .",
+    "occurrences": [
+      "fact",
+      "recommend"
+    ],
+    "word_count": 21,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.336,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1336,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "thanks . I appreciate that .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

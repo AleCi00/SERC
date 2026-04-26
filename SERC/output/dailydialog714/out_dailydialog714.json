@@ -1,0 +1,123 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Morning , Peter . Nice suit ! A new one ?",
+    "occurrences": [
+      "morning"
+    ],
+    "word_count": 9,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , yes . My wife bought it for me yesterday . Hmm , you look nice in that yellow dress . Yellow suits you really well .",
+    "occurrences": [],
+    "word_count": 26,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Maybe . Several people have suggested that I get more yellow clothes . They say the color suits me because I have a fair complexion .",
+    "occurrences": [],
+    "word_count": 24,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's right . You know , pink , green and black could also be good for you . Actually , I think that all colors are okay for a person with your complexion . It's just that different colors can give people different impressions . For example , black could make you look mature , while pink could make you look young and energetic .",
+    "occurrences": [
+      "green",
+      "good"
+    ],
+    "word_count": 59,
+    "stop_word_count": 21,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0101,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.684,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.018,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0058,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.976,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0257,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "joy",
+        "1%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you for your compliments . It sounds like you're a clothing expert .",
+    "occurrences": [
+      "like",
+      "expert"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.148,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1276,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , compared with my wife , I'm just a beginner .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

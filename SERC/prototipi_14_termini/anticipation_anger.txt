@@ -1,0 +1,41 @@
+Title: anticipation-anger
+
+Head Concept Name: anticipation
+Modifier Concept Name: anger
+
+head, -surprise
+
+
+T(modifier), outraged, 0.964
+T(modifier), brutality, 0.959
+T(modifier), hatred, 0.953
+T(modifier), hateful, 0.94
+T(modifier), terrorize, 0.939
+T(modifier), violently, 0.938
+T(modifier), infuriated, 0.938
+T(modifier), furious, 0.929
+T(modifier), furiously, 0.927
+T(modifier), enraged, 0.927
+T(modifier), screwyou, 0.924
+T(modifier), murderer, 0.922
+T(modifier), fury, 0.922
+T(modifier), execution, 0.917
+
+T(head), anticipation, 0.859
+T(head), excited, 0.859
+T(head), excitement, 0.82
+T(head), anticipate, 0.82
+T(head), eagerness, 0.812
+T(head), exciting, 0.797
+T(head), expectant, 0.789
+T(head), thrilling, 0.781
+T(head), hope, 0.773
+T(head), quest, 0.766
+T(head), countdown, 0.75
+T(head), start, 0.75
+T(head), anticipatory, 0.75
+T(head), adventure, 0.75
+
+
+Result: {"outraged": 0.964, "brutality": 0.959, "hatred": 0.953, "hateful": 0.94, "terrorize": 0.939, "violently": 0.938, "infuriated": 0.938, "furious": 0.929, "furiously": 0.927, "enraged": 0.927, "screwyou": 0.924, "murderer": 0.922, "fury": 0.922, "excited": 0.859, "@scenario_probability": 5.113452730492363e-09}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5.113452730492363e-09]

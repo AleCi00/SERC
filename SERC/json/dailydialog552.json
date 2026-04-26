@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Let's do something outdoors today ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All right . But I don't want to play tennis . We played tennis last weekend ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Okay . what do you want to do ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I want to go jogging ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "All right . That sounds like fun ."
+  }
+]

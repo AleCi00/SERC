@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Nani Book Store . How can I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , we have one copy left ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can you hold it for me ?"
+  }
+]

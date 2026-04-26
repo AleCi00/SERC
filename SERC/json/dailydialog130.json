@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Is this supply ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah . This is supply . What can I do for you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "This is Rachel in Human Resources . I need two boxes of company letterhead , one box of ball-point pens , and a box of envelopes ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All right . No problem . What ’ s your extension ?"
+  }
+]

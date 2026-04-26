@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , is that Cathy speaking ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , is that you , Allen ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , how are you doing ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not bad ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Say I've got two tickets for the concert this evening.Would you like to come with me ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure.Thank you very much ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Then I ' ll pick you up at six thirty.OK ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ok , see you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "See you ."
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I am so happy to know that the promotion campaign for our new product is very successful . We just made a record sale this season .",
+    "occurrences": [
+      "happy",
+      "successful"
+    ],
+    "word_count": 27,
+    "stop_word_count": 14,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.024,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0788,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.394,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1072,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.257,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0967,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That is very encouraging news . I heard that the marketing department has done a three months research , they sent the feedback information to the research and development center by the end of every month . That is to say , the R & D center redesigned the product twice before it was launched into the market .",
+    "occurrences": [
+      "center",
+      "center"
+    ],
+    "word_count": 55,
+    "stop_word_count": 26,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.062,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0366,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It is not an easy job . How do you like the advertisement for the new product ?",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 18,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That is the best one I have seen . I am sure our target customers , young people will love it .",
+    "occurrences": [
+      "love"
+    ],
+    "word_count": 20,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0753,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0689,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Certainly .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

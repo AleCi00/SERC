@@ -1,0 +1,82 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Ms Anderson , my name is Mike . I am Division Chief of ABC Company . Welcome to Toronto .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you . It's a pleasure to meet you .",
+    "occurrences": [
+      "pleasure"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.803,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1606,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A pleasure meeting you as well , the flowers are for you .",
+    "occurrences": [
+      "pleasure",
+      "flowers"
+    ],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.209,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2418,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "24%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you , they are beautiful .",
+    "occurrences": [
+      "beautiful"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.781,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2603,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "26%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

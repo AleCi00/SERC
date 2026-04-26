@@ -1,0 +1,38 @@
+{
+  "speaker": [
+    "Marta",
+    "Gianni",
+    "Luca",
+    "Sara"
+  ],
+  "total_words": 150,
+  "total_stop_words": 59,
+  "total_matches": 18,
+  "total_entries": 14,
+  "basic_emotions": {
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 2.8289999999999997,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 3.99,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.508,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.975,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 3.5300000000000002,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.499,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.734,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.828
+  },
+  "complex_emotions": {},
+  "main_emotion": [
+    "anticipation",
+    "joy",
+    "anger"
+  ],
+  "computed_scores": {
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.0311,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.0438,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.0056,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.0217,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.0388,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.0165,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.0081,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.0311
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "May I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I have to stay in your cry for just one day , can you suggest a short tour ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you interested in the natural landscape or the human landscape ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I would prefer the first one ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure . We have a one-day trip along the river . It's quite beautiful ."
+  }
+]

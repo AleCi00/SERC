@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I want to take a look at that home with the Open House flags out front ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What a wonderful neighborhood ! Can you find that house on our Open House list ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , that is one of the houses that we have on our list ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They always make the front yards look so great for Open Houses . Let ’ s see what the inside looks like ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I am going to go sign my name in the registry to let the listing agent know that we were here ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Signing the registry is a good idea . I think I want to see the kitchen next ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I really appreciate that the listing agent provided water on such a hot day ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I need to pick up a flyer with the information about the house on it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is the current asking price listed on the flyer ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The asking price has recently gone down to two hundred and twenty-five thousand dollars ."
+  }
+]

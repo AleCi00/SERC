@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Let's play chess ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I haven't played chess for a long time ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's all right , I'm a beginner . I've just learnt how to play ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Look , there's a chessboard . Those two men have already finished playing ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You're a very good player"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not really , but once I won a prize ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "So did I . I won a prize last week but it was a prize for beginners ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My prize was for the best player in the country . Now let's start playing chess seriously ."
+  }
+]

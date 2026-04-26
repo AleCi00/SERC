@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What time does the train for Tibet leave ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It will leave at 3:00 p . m ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "When does it arrive ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It should be due in at 7:30 a . m.tomorrow ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How much is the ticket ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's 86 coach and 175 berths"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "One berth , please ."
+  }
+]

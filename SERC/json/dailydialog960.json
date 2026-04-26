@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , what do you want for this bag ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me see . The one goes for $ 17 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you take $ 12 ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , I can ’ t let you have it for 12.How about 14 ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "13.50 ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sorry , $ 14 is the lowest I can go ."
+  }
+]

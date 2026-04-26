@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "Filippo",
+    "text": "You know that you going out with Bea and Kiki alone is one of the things that makes me feel worst and that I hate most of all, and it doesn't change for now and you know it's like this because it's already happened, and so I give up asking you not to go out with them but at least the minimum which is to meet up together afterwards doesn't require much for you to get there, that's all",
+    "occurrences": [
+      "alone",
+      "hate",
+      "change",
+      "like",
+      "together"
+    ],
+    "word_count": 75,
+    "stop_word_count": 47,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0296,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0248,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.682,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0244,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.394,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0141,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.256,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0449,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0173,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "anger",
+        "2%"
+      ],
+      [
+        "disgust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You'll never guess what I won at work today ! - Tickets to tonight's final NBA game ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Two , I hope and I hope that by telling me about them you are planning on taking me !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Of course ! And here's the best part , they are court side seats !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How in the world ! Who came up with seats like that from your company ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Some guy in the accounting department has a brother on the team !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can't beat that ! Thank you accounting guy !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The game starts at seven so we'd better hustle , it's already five ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What are we waiting for ? Let's go !"
+  }
+]

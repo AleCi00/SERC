@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , does this bus go to the new bookstore ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , you'll have to get off at the bank , and take a No . 50 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you.How much is the fare to that stop ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "One dollar ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How many stops are there ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Two stops after this one ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Could you please tell me when we get there ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "By the way , do I need a transfer again after No . 50 ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , a No . 50 will take you right there ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you ."
+  }
+]

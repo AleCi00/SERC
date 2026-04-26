@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Madam . What can we do for you today ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hi . I've been sent over from Turner Interiors . They said I need to collect some sort of L / C ? Do you have it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I certainly do . Here it is , an Export L / C from Tokyo ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It should be from Sayuri Beds . Is that right ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , it is . Sayuri Beds , Tokyo , Japan ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's what I want ! Do you need me to sign anything ? Or fill in some forms ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Just sign right here , please . That's everything you need to do ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Perfect . Thank you , goodbye !"
+  }
+]

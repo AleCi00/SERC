@@ -1,0 +1,67 @@
+{
+  "speaker": [
+    "Luca",
+    "Sara",
+    "Marta",
+    "Gianni"
+  ],
+  "total_words": 123,
+  "total_stop_words": 48,
+  "total_matches": 21,
+  "total_entries": 16,
+  "basic_emotions": {
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.0,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 5.175,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.843,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 8.789,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.0,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.422,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 5.889999999999999
+  },
+  "complex_emotions": {
+    "anger-joy": 0.986,
+    "anticipation-joy": 0.986,
+    "disgust-joy": 0.986,
+    "fear-joy": 0.986,
+    "joy-anger": 0.986,
+    "joy-anticipation": 0.986,
+    "joy-disgust": 0.986,
+    "joy-fear": 0.986,
+    "joy-sadness": 0.986,
+    "joy-surprise": 0.986,
+    "joy-trust": 0.986,
+    "sadness-joy": 0.986,
+    "surprise-joy": 0.986,
+    "trust-joy": 0.986
+  },
+  "main_emotion": [
+    "joy",
+    "trust",
+    "anticipation"
+  ],
+  "computed_scores": {
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.0,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.069,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.0033,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.0112,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.1172,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.0,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.019,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.0785,
+    "anger-joy": 0.0131,
+    "anticipation-joy": 0.0131,
+    "disgust-joy": 0.0131,
+    "fear-joy": 0.0131,
+    "joy-anger": 0.0131,
+    "joy-anticipation": 0.0131,
+    "joy-disgust": 0.0131,
+    "joy-fear": 0.0131,
+    "joy-sadness": 0.0131,
+    "joy-surprise": 0.0131,
+    "joy-trust": 0.0131,
+    "sadness-joy": 0.0131,
+    "surprise-joy": 0.0131,
+    "trust-joy": 0.0131
+  }
+}

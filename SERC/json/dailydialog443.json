@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Would you like your bags to be taken to your room ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK . I'll get the bellman to taka them up . Which bags are yours ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My luggage is in the corner over there . They are the leather suitcase , the canvass holdall and the blue backpack ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Please be careful with the suitcase , it's very heavy ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'll let the bellboy know . Don't worry , he's very strong ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "And the holdall has some fragile items inside , so please be careful with that too ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Of course ."
+  }
+]

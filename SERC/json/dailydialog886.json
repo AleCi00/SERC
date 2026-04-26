@@ -1,0 +1,54 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Lili , let ’ s take a vacation !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "George , how can we ? Vacations cost money . And this month we don ’ t have much money left after paying the rent ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , Lili , we can visit different places in the state in our van 10 . We are not going to take a plane or stay at a hotel this time . Trust me , it won ’ t cost much ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Where will we sleep , then ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "In the van ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What about other expenses ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let ’ s see . Gas , food , recreation , we won ’ t spend much . Come on . Don ’ t hesitate . We need to get out of the house once in a while . We have been working hard , haven ’ t we ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Maybe you ’ re right . When do you plan to go ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The sooner the better ! I can ’ t wait !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I don ’ t know where we ’ re going yet ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "As long as we ’ re going , you can decide where to go . I trust your judgments . I know you miss Chinese food , so we can eat at a Chinese restaurant this time ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let ’ s go to Chicago.We can have lunch in Chinatown.Then we can go to a ball game at Wrigley Field !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You have such good ideas !"
+  }
+]

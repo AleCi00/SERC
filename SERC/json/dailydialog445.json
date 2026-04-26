@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello ! I'm sorry to bother you . This is a complimentary fruit tray . Your food will be ready soon ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wow ! It's a fruit sculpture ! Your chef is a real artist !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Actually , uh , I made it myself ..."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You did ? Wow ! Where did you learn ..."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sorry , but I've gotta run . Enjoy your food , and ring the service button if you need anything else !"
+  }
+]

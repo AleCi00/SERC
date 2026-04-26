@@ -1,0 +1,425 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Nice to meet you here.How come you dropped into this company today ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My boss sent me here to take some business documents back to his office . I didn't know you were working here.What a surprise.How long have you been doing this ?",
+    "occurrences": [
+      "surprise",
+      "long"
+    ],
+    "word_count": 31,
+    "stop_word_count": 17,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.029,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0123,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0401,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.93,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0664,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "surprise-fear": 0.93,
+    "surprise-fear_computed": 0.0664,
+    "surprise-joy": 0.93,
+    "surprise-joy_computed": 0.0664,
+    "fear-surprise": 0.93,
+    "fear-surprise_computed": 0.0664,
+    "joy-surprise": 0.93,
+    "joy-surprise_computed": 0.0664,
+    "surprise-trust": 0.93,
+    "surprise-trust_computed": 0.0664,
+    "trust-surprise": 0.93,
+    "trust-surprise_computed": 0.0664,
+    "surprise-anger": 0.93,
+    "surprise-anger_computed": 0.0664,
+    "surprise-disgust": 0.93,
+    "surprise-disgust_computed": 0.0664,
+    "sadness-surprise": 0.93,
+    "sadness-surprise_computed": 0.0664,
+    "surprise-sadness": 0.93,
+    "surprise-sadness_computed": 0.0664,
+    "disgust-surprise": 0.93,
+    "disgust-surprise_computed": 0.0664,
+    "anger-surprise": 0.93,
+    "anger-surprise_computed": 0.0664,
+    "main_emotion": [
+      [
+        "surprise",
+        "6%"
+      ],
+      [
+        "surprise-fear",
+        "6%"
+      ],
+      [
+        "surprise-joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-surprise",
+        "matched_words": [
+          {
+            "word": "surprise",
+            "score": 0.93
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-surprise",
+        "matched_words": [
+          {
+            "word": "surprise",
+            "score": 0.93
+          }
+        ]
+      },
+      {
+        "emotion": "fear-surprise",
+        "matched_words": [
+          {
+            "word": "surprise",
+            "score": 0.93
+          }
+        ]
+      },
+      {
+        "emotion": "joy-surprise",
+        "matched_words": [
+          {
+            "word": "surprise",
+            "score": 0.93
+          }
+        ]
+      },
+      {
+        "emotion": "sadness-surprise",
+        "matched_words": [
+          {
+            "word": "surprise",
+            "score": 0.93
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anger",
+        "matched_words": [
+          {
+            "word": "surprise",
+            "score": 0.93
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-disgust",
+        "matched_words": [
+          {
+            "word": "surprise",
+            "score": 0.93
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-fear",
+        "matched_words": [
+          {
+            "word": "surprise",
+            "score": 0.93
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-joy",
+        "matched_words": [
+          {
+            "word": "surprise",
+            "score": 0.93
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-sadness",
+        "matched_words": [
+          {
+            "word": "surprise",
+            "score": 0.93
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-trust",
+        "matched_words": [
+          {
+            "word": "surprise",
+            "score": 0.93
+          }
+        ]
+      },
+      {
+        "emotion": "trust-surprise",
+        "matched_words": [
+          {
+            "word": "surprise",
+            "score": 0.93
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Two years or so .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That is great.Do you have to work the night shift ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , in most cases I don't have to unless there is something urgent to deal with . I work five days a week .",
+    "occurrences": [
+      "urgent",
+      "deal"
+    ],
+    "word_count": 23,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.129,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0941,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.45,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0375,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.026,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.922,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0768,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0326,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ],
+      [
+        "surprise",
+        "7%"
+      ],
+      [
+        "fear",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you enjoy work here ?",
+    "occurrences": [
+      "enjoy"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1927,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2707,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1613,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "27%"
+      ],
+      [
+        "anticipation",
+        "19%"
+      ],
+      [
+        "trust",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It is hard to say.But I've to start by working as a trainee before I really become an experienced marketing assistant.Sometimes , I am really under great pressure when it gets busy .",
+    "occurrences": [
+      "start",
+      "experienced",
+      "pressure"
+    ],
+    "word_count": 30,
+    "stop_word_count": 14,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0234,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0215,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.602,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0376,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Take it easy . I'm sure you will gain enough experience while working as a marketing assistant . I hope you haven't been given much trouble in the job .",
+    "occurrences": [
+      "gain",
+      "experience",
+      "hope"
+    ],
+    "word_count": 30,
+    "stop_word_count": 11,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.429,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0752,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.249,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0657,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0193,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.149,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0605,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Luckily not.The silent I meet are generally very friendly and have a good boss .",
+    "occurrences": [
+      "friendly",
+      "good"
+    ],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1055,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.125,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1406,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0274,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.164,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1455,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "14%"
+      ],
+      [
+        "joy",
+        "14%"
+      ],
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Glad to hear that .",
+    "occurrences": [
+      "glad"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.536,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1787,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.781,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2603,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "26%"
+      ],
+      [
+        "anticipation",
+        "17%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Did you hear about the robbery ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Did I hear about it ? I saw it happen ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you serious ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I was there ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What happened ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "A man came into the bank with a gun ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's insane ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I was so scared when I saw the gun ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Then what happened ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He took the money and tried to get away ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Did the cops show up in time ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He didn't even make it out the door ."
+  }
+]

@@ -1,0 +1,44 @@
+Title: trust-joy
+
+Head Concept Name: trust
+Modifier Concept Name: joy
+
+head, -cannibalism
+head, -molestation
+head, -rape
+
+modifier, -holocaust
+
+T(modifier), happiest, 0.986
+T(modifier), happiness, 0.984
+T(modifier), bliss, 0.971
+T(modifier), celebrating, 0.97
+T(modifier), jubilant, 0.969
+T(modifier), ecstatic, 0.954
+T(modifier), elation, 0.944
+T(modifier), beaming, 0.938
+T(modifier), bestdayever, 0.938
+T(modifier), loveee, 0.932
+T(modifier), celebratio, 0.929
+T(modifier), awesomeness, 0.926
+T(modifier), joy, 0.924
+T(modifier), joyous, 0.922
+
+T(head), truthfulness, 0.906
+T(head), trusted, 0.883
+T(head), trustworthy, 0.867
+T(head), honor, 0.844
+T(head), honesty, 0.844
+T(head), honest, 0.844
+T(head), truth, 0.844
+T(head), truthful, 0.836
+T(head), trusting, 0.836
+T(head), brotherhood, 0.82
+T(head), entrust, 0.812
+T(head), committed, 0.805
+T(head), loyalty, 0.805
+T(head), integrity, 0.805
+
+
+Result: {"happiest": 0.986, "happiness": 0.984, "bliss": 0.971, "celebrating": 0.97, "jubilant": 0.969, "ecstatic": 0.954, "elation": 0.944, "beaming": 0.938, "bestdayever": 0.938, "loveee": 0.932, "celebratio": 0.929, "awesomeness": 0.926, "joy": 0.924, "truthfulness": 0.906, "@scenario_probability": 2.2845883911749192e-10}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2.2845883911749192e-10]

@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good evening , ma'am . Table for one ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Will this table be all right ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Actually , I'd like a booth by the window if that's possible ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Certainly . How about this one ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This will be fine , thanks ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "( Handing her a menu ) Your waiter will be here in a minute to take your order ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you ."
+  }
+]

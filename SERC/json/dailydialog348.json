@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning . Thank you for the interview ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No problem . Now , do you prefer working with others or flying solo ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Actually , I enjoy both ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "So , what is most important to you in a job ? Do you need job security or professional growth and a chance to advance ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I need job security ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Would you be able to relocate ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I am open to relocating ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What are your annual salary requirements ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I need at least 75,000 per year ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ ll keep that in mind . Thank you for coming in today . We ’ ll be in touch ."
+  }
+]

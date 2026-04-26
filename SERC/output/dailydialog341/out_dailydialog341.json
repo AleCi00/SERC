@@ -1,0 +1,169 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What do you think about the equipment in our company ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We have to equip our company with a network of work stations at every office and show room as soon as possible .",
+    "occurrences": [
+      "network",
+      "show"
+    ],
+    "word_count": 23,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0241,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0293,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I also realized this issue . And office automation is essential .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Besides , Internet tends to be more essential now in the information age .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Good idea . A network of work stations is helpful for our management .",
+    "occurrences": [
+      "good",
+      "network",
+      "helpful",
+      "management"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.102,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0113,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0747,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.969,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1077,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0243,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.735,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1928,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "19%"
+      ],
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "And , to be frank , our copying machines are too slow ; our telephone system is limited in function .",
+    "occurrences": [
+      "frank",
+      "system",
+      "limited"
+    ],
+    "word_count": 19,
+    "stop_word_count": 9,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.292,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0292,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.167,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0167,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.883,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0883,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "anger",
+        "2%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You are right . The current equipment of our offices really falls behind . Next week , you can provide me a catalogue of new equipment .",
+    "occurrences": [
+      "provide"
+    ],
+    "word_count": 26,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0342,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

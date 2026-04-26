@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning . What's the matter with you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good morning , doctor . I have a terrible headache ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "All right , young man . Tell me how it got started ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yesterday I had a runny nose . Now my nose is stuffed up . I have a sore throat . And I ’ m afraid I've got a temperature . I feel terrible ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don't worry , young man . Lat me give you an examination . First let me take a look at your throat . Open your mouth and say'ah ' ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ah ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Your throat is inflamed . And your tongue is heavily coated . You have all the symptoms of influenza ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What am I supposed to do then ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A good rest is all you need , and drink more water . I'll write you a prescription ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you very much ."
+  }
+]

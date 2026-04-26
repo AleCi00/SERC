@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Where are you going ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'll accompany my wife to the hospital ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What's wrong with her ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "She is expecting ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Congratulations to you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you ."
+  }
+]

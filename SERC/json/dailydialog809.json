@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Did you already take the history exam ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah . It was hard . When do you take it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I take it tomorrow morning . There is so much material that I dont know what to emphasize on . What types of questions did you get ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Mostly on the civil war . You should also study the impact Martin Luther King Jr . had on American society ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What about Abraham Lincoln ? Did you get any questions about him ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I only had 1 question about him . But you might get more . I dont know if he will have the same exam or not ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hopefully he will use the same exam , cause Im going to spend most of my time studying the civil war . It is a huge section and that is what he lectured the most on in class ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If you cant study everything , then that is probably the best way to go ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Aright . Thanks for the info . I gotta go to the library now ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good luck ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks . See ya ."
+  }
+]

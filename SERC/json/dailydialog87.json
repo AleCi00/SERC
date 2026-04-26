@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me . Do you know where the Admiral Hotel is ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's over on Callaway Street , isn't it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , but I can't find Callaway Street ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Walk that way for about four blocks . The hotel's about two blocks north of there ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks a lot ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not at all ."
+  }
+]

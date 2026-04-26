@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , take a seat please . Let's get straight to the point . This is our contract . Please read it carefully before signing ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Since we have reached an agreement on all terms , there shouldn't be any problems for the contract ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "May we once more remind you that the contract should be canceled by one month notice ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I got it . Thanks ."
+  }
+]

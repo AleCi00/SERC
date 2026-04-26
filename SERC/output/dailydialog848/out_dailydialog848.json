@@ -1,0 +1,368 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What happened ? Why didn't he win ?",
+    "occurrences": [
+      "win"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1454,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Didn't you hear ? He was disqualified .",
+    "occurrences": [
+      "disqualified"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0656,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.227,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0454,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.435,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.087,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "anger",
+        "6%"
+      ],
+      [
+        "disgust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How did that happen ? He's so talented ! I thought he had a great chance of winning a gold medal !",
+    "occurrences": [
+      "happen",
+      "thought",
+      "chance",
+      "winning",
+      "medal"
+    ],
+    "word_count": 22,
+    "stop_word_count": 10,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 3.594,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2995,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.218,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0182,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.254,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1878,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0157,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 2.516,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2097,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.164,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "29%"
+      ],
+      [
+        "surprise",
+        "20%"
+      ],
+      [
+        "joy",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If he didn't have any drug problems , he would have won .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What ? What kind of drugs was he using ?",
+    "occurrences": [
+      "kind"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1242,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1282,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "joy",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He was taking steroids to make him stronger and faster .",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I thought that all athletes were supposed to be regularly tested for drugs .",
+    "occurrences": [
+      "thought"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0591,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They are . The only reason they didn't disqualify him until after the race is because the results from the text only came back afterwards .",
+    "occurrences": [
+      "disqualify"
+    ],
+    "word_count": 26,
+    "stop_word_count": 15,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0341,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's so disappointing . I don't know why top athletes would feel the need to take drugs .",
+    "occurrences": [
+      "disappointing",
+      "top"
+    ],
+    "word_count": 18,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0306,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0481,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0361,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don't think it's right , but I can understand why they might . Imagine how much pressure there would be to win for your country !",
+    "occurrences": [
+      "pressure",
+      "win"
+    ],
+    "word_count": 25,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0577,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.454,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1118,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "fear",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Regardless of how much pressure you're under , there's never a good reason to take drugs .",
+    "occurrences": [
+      "regardless",
+      "pressure",
+      "good"
+    ],
+    "word_count": 16,
+    "stop_word_count": 5,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0348,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0341,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0497,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0199,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.008,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0916,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I agree . Hopefully with the new regulations , fewer athletes will try to cheat with drugs .",
+    "occurrences": [
+      "cheat"
+    ],
+    "word_count": 17,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.63,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0573,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.508,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0462,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "5%"
+      ],
+      [
+        "disgust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let's hope so .",
+    "occurrences": [
+      "hope"
+    ],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2577,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1953,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1223,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2267,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "25%"
+      ],
+      [
+        "trust",
+        "22%"
+      ],
+      [
+        "joy",
+        "19%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

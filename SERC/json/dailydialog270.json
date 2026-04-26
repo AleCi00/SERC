@@ -1,0 +1,74 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good afternoon , how may I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hi , I'd like to order some flowers ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Who are they for ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They're for my Wife . Her name is Samantha ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What kind of flowers would you like ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don't know . I don't know too much about flowers . Can you recommend something ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK . What's the reason you are sending her flowers ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Today's her birthday and she told me she wants me to buy her flowers ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you know what kind of flowers she likes ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm not sure . I know I should know that , but I can't remember right now ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , they're for your wife , so I think you should give her roses ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Roses will be fine ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What color ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think red would be nice ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you want to pick them up or should we deliver them ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can you deliver them , please ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What's the address ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "241 Main street ."
+  }
+]

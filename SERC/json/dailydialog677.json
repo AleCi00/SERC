@@ -1,0 +1,66 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi . What's your name ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My name is Jung Min . What's your name ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "My name is Jessica . It's nice to meet you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . It's nice to meet you too . Are you a new student too ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No . I'm a sophomore . I take it you are a new student ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah . It's pretty exciting to be here ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Have fun while it lasts . The excitement wears off real quick . Especially after you see how much homework you get . Where are you from ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm from Korea . My parents wanted me to go to an American university , so I came here ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I have never been to Korea . I've been to Japan before , but never Korea ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why were you in Japan ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "My father thought it would be a good experience to take a vacation to a different country . He's so into learning about different cultures ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's pretty cool ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I thought it would have been more fun if I went without my parents ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , if you ever want to visit Korea , I would be happy to show you around ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks for the offer . I'll keep that in mind . Oh , the professor is coming . We'll talk more after class ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ok ."
+  }
+]

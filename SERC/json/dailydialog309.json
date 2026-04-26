@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You get your bus pass ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm not going to buy one ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You're not ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think it's a waste of money ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It actually costs less if you have a bus pass ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How is that ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You can use it however many times you need to ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is that right ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yup , and you can keep the money in your pocket ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That sounds nice ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You should go get yours ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , I think I will ."
+  }
+]

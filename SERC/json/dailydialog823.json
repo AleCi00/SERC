@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Lee , I'm going to get married next month ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good news ! And congratulations !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You are invited to my wedding ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you . I'll certainly be there ."
+  }
+]

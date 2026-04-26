@@ -1,0 +1,54 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Sarah , what did you do today ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I went shopping ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Did you buy anything ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I bought a few things ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What did you buy ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I bought this coat . Do you like it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , I like it a lot . It's very pretty . Where did you buy it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "At the mall on 5th street ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Was it expensive ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , it wasn't expensive . It was on sale for 20 dollars ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's cheap ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I know . It was a really good deal ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't think you'll need to wear it for a while . It's been really hot lately ."
+  }
+]

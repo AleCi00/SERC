@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Frank ’ s getting married , do you believe this ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is he really ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , he is . He loves the girl very much ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Who is he marring ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A girl he met on holiday in Spain , I think ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Have they set a date for the wedding ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not yet ."
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I would like to take this opportunity to welcome Monica to our company and introduce her to her department and colleagues . For all of you , we hired Monica because she is a very professional accountant and we are very happy to have her in the finance department . She has lots of working experiences as an accountant and I am sure everybody in the department can benefit from this .",
+    "occurrences": [
+      "like",
+      "opportunity",
+      "professional",
+      "accountant",
+      "happy",
+      "accountant"
+    ],
+    "word_count": 68,
+    "stop_word_count": 42,
+    "occurrences_count": 6,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.203,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0463,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.788,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0303,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1007,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hello , everybody . I am Monica and this is my first day at work . I am working in the finance department . I am very happy to meet everyone and I am looking forward to working well with all of you . I am very happy to be one of the team and I will do my best to get into the working situation as soon as possible . By the way , call me Monica . Everybody calls me so .",
+    "occurrences": [
+      "happy",
+      "happy",
+      "team",
+      "calls"
+    ],
+    "word_count": 78,
+    "stop_word_count": 43,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.524,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0435,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.576,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.045,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.241,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.064,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "In foreign trade , exporters have to adjust their product in a timely manner .",
+    "occurrences": [
+      "trade",
+      "adjust"
+    ],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.836,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1045,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How to adjust ?",
+    "occurrences": [
+      "adjust"
+    ],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1875,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "18%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Exporters must ensure that their product satisfies customers ' needs , wants and likes .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ah , some products are successful at home , but not be popular overseas .",
+    "occurrences": [
+      "successful",
+      "home",
+      "popular"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.067,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.165,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1664,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.046,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1494,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "16%"
+      ],
+      [
+        "trust",
+        "14%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's because the fashion , taste and social customs and so on vary considerably .",
+    "occurrences": [
+      "fashion"
+    ],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0333,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , sometimes the differences are great .",
+    "occurrences": [
+      "differences"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.075,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , we should be in accordance with national conditions and adjust the product .",
+    "occurrences": [
+      "adjust"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0536,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We have to ensure that the product should be attractive to guarantee sales .",
+    "occurrences": [
+      "guarantee"
+    ],
+    "word_count": 14,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.711,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1185,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

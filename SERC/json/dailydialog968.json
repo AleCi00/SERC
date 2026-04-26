@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Broadway Mall is having a big sale this weekend . You wanna go ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Don't feel like it . I'm broke ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , we can still do some window shopping , can't we ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just look around ? Ah , that's boring ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'll go myself then ."
+  }
+]

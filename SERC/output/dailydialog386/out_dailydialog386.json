@@ -1,0 +1,152 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You're really fit , Paul . Do you exercise very much ?",
+    "occurrences": [
+      "fit",
+      "exercise"
+    ],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.508,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0726,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I almost always get up very early , and I lift weights for an hour .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You're kidding !",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No . And then I often go Rollerblading .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wow ! How often do you exercise like that ?",
+    "occurrences": [
+      "exercise",
+      "like"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.043,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0807,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "About five times a week . What about you ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , I hardly ever exercise . I usually just watch TV in my free time . I guess I'm a real couch potato !",
+    "occurrences": [
+      "exercise",
+      "watch",
+      "free",
+      "time",
+      "guess",
+      "real",
+      "couch"
+    ],
+    "word_count": 23,
+    "stop_word_count": 7,
+    "occurrences_count": 7,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.039,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0649,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0118,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.802,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0501,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.12,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0075,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.796,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0498,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.282,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0801,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

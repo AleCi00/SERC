@@ -1,0 +1,78 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "how are you doing , Christopher ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "to be honest , I'm really fed up with work at the moment . I need a break !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "are you doing anything this weekend ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I have to work on Saturday all day ! I really hate my job !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "are you available on Sunday ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "yes , that's my only day off until Thursday ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "ok , well , my friends and I are planning on going to the beach on Sunday . We tend to leave around noon whenever we go anywhere , so you could still sleep in . Do you want to come with us ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "that'd be fantastic ! Which beach are you going to ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "it's a quiet beach just about an hour outside of the city ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "what should I bring with me ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "we've got plenty of inflatables , but if you want to sit on a chair , you'll have to bring your own sunlounger ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can just use my beach towel . I love lazing around in the sun ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "do you like surfing ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I've actually never tired . Do you have a surfboard ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "we've got a few . I can teach you how to surf on Sunday . It'll be fun !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can't wait ! It sounds like we're going to have a great time . How much money should I bring ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "you'll just need roughly $ 10 for food and gas money . My friend is driving , so we usually all chip in a few dollars for gas money ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "ok , where and when should I meet you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "we'll pick you up at your place at noon . Be there or be square !"
+  }
+]

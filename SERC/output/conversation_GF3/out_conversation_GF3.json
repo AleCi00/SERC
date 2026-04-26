@@ -1,0 +1,65 @@
+[
+  {
+    "speaker": "Filippo",
+    "text": "You're mean, until the other day singing \"my little potato tralalal\" and instead in reality you would go out at any cost with Maria even though you know it could cause serious consequences",
+    "occurrences": [
+      "singing"
+    ],
+    "word_count": 28,
+    "stop_word_count": 12,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.591,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0369,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "If you care about me and being happy both of us we respect promises and you avoid going out with Bea without me",
+    "occurrences": [
+      "happy",
+      "respect",
+      "promises",
+      "avoid"
+    ],
+    "word_count": 22,
+    "stop_word_count": 14,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.993,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1241,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0235,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0371,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.288,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.161,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.906,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2383,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "23%"
+      ],
+      [
+        "joy",
+        "16%"
+      ],
+      [
+        "anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

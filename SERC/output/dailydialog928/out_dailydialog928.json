@@ -1,0 +1,98 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you know Sally ?",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sally . She is a bachelor girl . She is an excellent designer . Many of the company's advertisements are her child trains .",
+    "occurrences": [
+      "sally",
+      "excellent",
+      "child"
+    ],
+    "word_count": 24,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0374,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.278,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0913,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.305,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0218,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why is she still single ? She must have a face that would stop clock .",
+    "occurrences": [
+      "clock"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , quite the other way round . She is a knock-out . She devotes much of her time to her career .",
+    "occurrences": [
+      "time",
+      "career"
+    ],
+    "word_count": 23,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.969,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0808,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "The Great Wall is a great attraction for visitors .",
+    "occurrences": [
+      "attraction"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.123,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's a man-made wonder . I've seen it many times in textbooks and it's part of my dream to visit it .",
+    "occurrences": [
+      "wonder",
+      "dream"
+    ],
+    "word_count": 23,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.09,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0838,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0402,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "surprise",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Someone claimed it was one of the two man-made wonders that could be seen on the moon .",
+    "occurrences": [],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's true .",
+    "occurrences": [
+      "true"
+    ],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1093,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.789,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.263,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "26%"
+      ],
+      [
+        "joy",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

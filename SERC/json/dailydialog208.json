@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Were you able to attend Friday night's basketball game ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I was unable to make it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You should have been there . It was intense ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is that right . Who ended up winning ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Our team was victorious ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I wish I was free that night . I'm kind of mad that I didn't go ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It was a great game ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What was the score at the end of the game ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Our team won 101-98 ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sounds like it was a close game ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's the reason it was such a great game ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The next game , I will definitely be there ."
+  }
+]

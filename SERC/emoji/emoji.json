@@ -1,0 +1,265 @@
+[
+  {
+    "emoji": "👏",
+    "meaning": "admiration",
+    "emotion": [
+      "surprise-NRC-Emotion-Intensity-Lexicon-v1",
+      "joy-NRC-Emotion-Intensity-Lexicon-v1",
+      "trust-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "😂",
+    "meaning": "amusement",
+    "emotion": [
+      "joy-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "👍",
+    "meaning": "approval",
+    "emotion": [
+      "trust-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "🤗",
+    "meaning": "kind",
+    "emotion": [
+      "joy-NRC-Emotion-Intensity-Lexicon-v1",
+      "trust-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "😍",
+    "meaning": "desire",
+    "emotion": [
+      "joy-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "🤩",
+    "meaning": "excitement",
+    "emotion": [
+      "surprise-NRC-Emotion-Intensity-Lexicon-v1",
+      "joy-NRC-Emotion-Intensity-Lexicon-v1",
+      "anticipation-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": [
+      "anticipation-trust",
+      "trust-anticipation"
+    ]
+  },
+  {
+    "emoji": "🙏",
+    "meaning": "gratitude",
+    "emotion": [
+      "joy-NRC-Emotion-Intensity-Lexicon-v1",
+      "trust-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "😀",
+    "meaning": "joy",
+    "emotion": [
+      "joy-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": [
+      "surprise-joy",
+      "anticipation-joy",
+      "joy-surprise",
+      "trust-joy",
+      "joy-anticipation",
+      "joy-trust"
+    ]
+  },
+  {
+    "emoji": "❤️",
+    "meaning": "love",
+    "emotion": [
+      "joy-NRC-Emotion-Intensity-Lexicon-v1",
+      "trust-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "✌️",
+    "meaning": "optimism",
+    "emotion": [
+      "surprise-NRC-Emotion-Intensity-Lexicon-v1",
+      "joy-NRC-Emotion-Intensity-Lexicon-v1",
+      "anticipation-NRC-Emotion-Intensity-Lexicon-v1",
+      "trust-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "😌",
+    "meaning": "pride",
+    "emotion": [
+      "joy-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "😅",
+    "meaning": "relief",
+    "emotion": [
+      "joy-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "😡",
+    "meaning": "anger",
+    "emotion": [
+      "anger-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "😠",
+    "meaning": "annoyance",
+    "emotion": [
+      "anger-NRC-Emotion-Intensity-Lexicon-v1",
+      "disgust-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "😞",
+    "meaning": "disappointment",
+    "emotion": [
+      "sadness-NRC-Emotion-Intensity-Lexicon-v1",
+      "disgust-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "👎",
+    "meaning": "disapproval",
+    "emotion": [
+      "sadness-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "🤢",
+    "meaning": "disgust",
+    "emotion": [
+      "anger-NRC-Emotion-Intensity-Lexicon-v1",
+      "fear-NRC-Emotion-Intensity-Lexicon-v1",
+      "sadness-NRC-Emotion-Intensity-Lexicon-v1",
+      "disgust-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "😳",
+    "meaning": "embarrassment",
+    "emotion": [
+      "fear-NRC-Emotion-Intensity-Lexicon-v1",
+      "surprise-NRC-Emotion-Intensity-Lexicon-v1",
+      "sadness-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "😱",
+    "meaning": "fear",
+    "emotion": [
+      "anger-NRC-Emotion-Intensity-Lexicon-v1",
+      "fear-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "😢",
+    "meaning": "grief",
+    "emotion": [
+      "sadness-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "😬",
+    "meaning": "nervousness",
+    "emotion": [
+      "fear-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "😔",
+    "meaning": "remorse",
+    "emotion": [
+      "sadness-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "😟",
+    "meaning": "sadness",
+    "emotion": [
+      "sadness-NRC-Emotion-Intensity-Lexicon-v1",
+      "trust-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "😕",
+    "meaning": "confusion",
+    "emotion": [
+      "anger-NRC-Emotion-Intensity-Lexicon-v1",
+      "fear-NRC-Emotion-Intensity-Lexicon-v1",
+      "sadness-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "🤔",
+    "meaning": "curiosity",
+    "emotion": [
+      "surprise-NRC-Emotion-Intensity-Lexicon-v1",
+      "anticipation-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "💡",
+    "meaning": "insight",
+    "emotion": [
+      "trust-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": []
+  },
+  {
+    "emoji": "😮",
+    "meaning": "surprise",
+    "emotion": [
+      "fear-NRC-Emotion-Intensity-Lexicon-v1",
+      "surprise-NRC-Emotion-Intensity-Lexicon-v1",
+      "joy-NRC-Emotion-Intensity-Lexicon-v1"
+    ],
+    "complex_emotion": [
+      "surprise-fear",
+      "surprise-joy",
+      "fear-surprise",
+      "joy-surprise",
+      "surprise-trust",
+      "trust-surprise",
+      "surprise-anger",
+      "surprise-disgust",
+      "sadness-surprise",
+      "surprise-sadness",
+      "disgust-surprise",
+      "anger-surprise"
+    ]
+  }
+]

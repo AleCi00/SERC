@@ -1,0 +1,596 @@
+[
+  {
+    "speaker": "Annie",
+    "text": "Hi Mom, I’ll be home late tonight. 🙏",
+    "occurrences": [
+      "home",
+      "late",
+      "gratitude"
+    ],
+    "word_count": 7,
+    "stop_word_count": 1,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.473,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2455,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0208,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.099,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "24%"
+      ],
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "sadness",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Mom",
+    "text": "Everything okay, love? ❤️",
+    "occurrences": [
+      "love",
+      "love"
+    ],
+    "word_count": 4,
+    "stop_word_count": 0,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.656,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.414,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.379,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "41%"
+      ],
+      [
+        "trust",
+        "37%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Annie",
+    "text": "Yeah, just a long day. A bit of tiredness, nothing big. 😴",
+    "occurrences": [
+      "long"
+    ],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0508,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Mom",
+    "text": "Make sure to eat something warm; your wellness comes first. 🤗",
+    "occurrences": [
+      "warm",
+      "wellness",
+      "kind"
+    ],
+    "word_count": 11,
+    "stop_word_count": 2,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.587,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1763,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0712,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "17%"
+      ],
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Annie",
+    "text": "I will, thanks! You’re my constant joy. 😀 ❤️",
+    "occurrences": [
+      "constant",
+      "joy",
+      "joy",
+      "love"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 4,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.676,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.446,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.313,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2188,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "surprise-joy": 0.924,
+    "surprise-joy_computed": 0.154,
+    "anticipation-joy": 0.924,
+    "anticipation-joy_computed": 0.154,
+    "joy-surprise": 0.924,
+    "joy-surprise_computed": 0.154,
+    "trust-joy": 0.924,
+    "trust-joy_computed": 0.154,
+    "joy-anticipation": 0.924,
+    "joy-anticipation_computed": 0.154,
+    "joy-trust": 0.924,
+    "joy-trust_computed": 0.154,
+    "main_emotion": [
+      [
+        "joy",
+        "44%"
+      ],
+      [
+        "trust",
+        "21%"
+      ],
+      [
+        "surprise-joy",
+        "15%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anticipation",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "emotion": "joy-surprise",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "emotion": "joy-trust",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-joy",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      },
+      {
+        "emotion": "trust-joy",
+        "matched_words": [
+          {
+            "word": "joy",
+            "score": 0.924
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "Mom",
+    "text": "Love you, sweetheart. 😍",
+    "occurrences": [
+      "love",
+      "sweetheart",
+      "desire"
+    ],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.57,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.19,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.07,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.69,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.347,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.449,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "69%"
+      ],
+      [
+        "trust",
+        "44%"
+      ],
+      [
+        "anticipation",
+        "19%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Annie",
+    "text": "Love you too. Tomorrow morning I might sleep in a little. 💤",
+    "occurrences": [
+      "love",
+      "tomorrow",
+      "morning"
+    ],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0926,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.078,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.154,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1083,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "15%"
+      ],
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Mom",
+    "text": "That’s fine. Your body needs rest after all the madness of school. 😌",
+    "occurrences": [
+      "rest",
+      "madness",
+      "school",
+      "pride"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.491,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0614,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.675,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0844,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.985,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1231,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0664,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ],
+      [
+        "fear",
+        "8%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Annie",
+    "text": "Exactly. A quiet morning sounds like happiness. 😇",
+    "occurrences": [
+      "quiet",
+      "morning",
+      "like",
+      "happiness"
+    ],
+    "word_count": 8,
+    "stop_word_count": 1,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0916,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.422,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2031,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.094,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0134,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0691,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "fear-joy": 0.984,
+    "fear-joy_computed": 0.1406,
+    "surprise-joy": 0.984,
+    "surprise-joy_computed": 0.1406,
+    "anger-joy": 0.984,
+    "anger-joy_computed": 0.1406,
+    "anticipation-joy": 0.984,
+    "anticipation-joy_computed": 0.1406,
+    "joy-surprise": 0.984,
+    "joy-surprise_computed": 0.1406,
+    "trust-joy": 0.984,
+    "trust-joy_computed": 0.1406,
+    "disgust-joy": 0.984,
+    "disgust-joy_computed": 0.1406,
+    "joy-anger": 0.984,
+    "joy-anger_computed": 0.1406,
+    "joy-anticipation": 0.984,
+    "joy-anticipation_computed": 0.1406,
+    "joy-trust": 0.984,
+    "joy-trust_computed": 0.1406,
+    "joy-fear": 0.984,
+    "joy-fear_computed": 0.1406,
+    "joy-disgust": 0.984,
+    "joy-disgust_computed": 0.1406,
+    "main_emotion": [
+      [
+        "joy",
+        "20%"
+      ],
+      [
+        "fear-joy",
+        "14%"
+      ],
+      [
+        "surprise-joy",
+        "14%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "fear-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anger",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anticipation",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-disgust",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-fear",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-surprise",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "joy-trust",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      },
+      {
+        "emotion": "trust-joy",
+        "matched_words": [
+          {
+            "word": "happiness",
+            "score": 0.984
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "Mom",
+    "text": "Take a walk if the weather is nice; a little fresh air brings freedom to the mind. ✌️",
+    "occurrences": [
+      "freedom",
+      "mind",
+      "optimism"
+    ],
+    "word_count": 18,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0568,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0078,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.264,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1149,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.336,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0305,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.359,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1235,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Annie",
+    "text": "Great idea. Maybe we can have breakfast together when I wake up. ☕🤗",
+    "occurrences": [
+      "breakfast",
+      "together"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.636,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0909,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Mom",
+    "text": "I’d love that. ❤️",
+    "occurrences": [
+      "love",
+      "love"
+    ],
+    "word_count": 4,
+    "stop_word_count": 1,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.656,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.552,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.5053,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "55%"
+      ],
+      [
+        "trust",
+        "50%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

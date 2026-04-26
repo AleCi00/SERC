@@ -1,0 +1,286 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You have been here for how long ? Four months now ?",
+    "occurrences": [
+      "long"
+    ],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0812,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , about .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you know Chinese better now ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , definitely . I remember , when I first arrived in Guangzhou , my girlfriend was haggling with a sales clerk over the price of a mobile phone .",
+    "occurrences": [
+      "mobile"
+    ],
+    "word_count": 25,
+    "stop_word_count": 11,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0246,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , yeah . Many Chinese like to bargain . It happens almost everywhere .",
+    "occurrences": [
+      "like",
+      "bargain"
+    ],
+    "word_count": 13,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.851,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0774,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I mean , I understand that . But the speed of the conversation got faster and faster , until it seemed to me that they would fight . My perception of the tone was that it was a violent shouting match . The truth was that it was a perfectly normal conversation .",
+    "occurrences": [
+      "fight",
+      "violent",
+      "truth"
+    ],
+    "word_count": 50,
+    "stop_word_count": 27,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.511,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0657,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.711,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0309,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.531,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0666,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0282,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0367,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "anticipation-trust": 0.844,
+    "anticipation-trust_computed": 0.0367,
+    "trust-anticipation": 0.844,
+    "trust-anticipation_computed": 0.0367,
+    "main_emotion": [
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "anger",
+        "6%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "truth",
+            "score": 0.844
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "truth",
+            "score": 0.844
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A shouting match ? You ’ re so funny . You must be exaggerating . I don ’ t believe it .",
+    "occurrences": [
+      "don"
+    ],
+    "word_count": 22,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0228,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am not exaggerating at all . I ’ m telling you the truth . That was how I felt at that time .",
+    "occurrences": [
+      "truth",
+      "time"
+    ],
+    "word_count": 23,
+    "stop_word_count": 14,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0573,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "anticipation-trust": 0.844,
+    "anticipation-trust_computed": 0.0938,
+    "trust-anticipation": 0.844,
+    "trust-anticipation_computed": 0.0938,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "anticipation-trust",
+        "9%"
+      ],
+      [
+        "trust-anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-trust",
+        "matched_words": [
+          {
+            "word": "truth",
+            "score": 0.844
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anticipation",
+        "matched_words": [
+          {
+            "word": "truth",
+            "score": 0.844
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , perhaps . Chinese usually don ’ t notice that sort of thing . Maybe it ’ s quite natural to us .",
+    "occurrences": [
+      "don"
+    ],
+    "word_count": 23,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0171,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , absolutely true .",
+    "occurrences": [
+      "true"
+    ],
+    "word_count": 4,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.082,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.789,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1973,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "19%"
+      ],
+      [
+        "joy",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

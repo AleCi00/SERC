@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What can I show you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you have this shirt in a small ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let me check . Yes , we have ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "May I try it on ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure . Let me help you ."
+  }
+]

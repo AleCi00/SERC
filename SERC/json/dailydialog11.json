@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Sun-set hotel . May I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I have booked a room for 24th . It's a double room ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hold on , please . Let me check it for you . Yes , you're right . You will keep it for 3 days ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , now I want to change the date from 24th to 28th ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK , that shall be arranged ."
+  }
+]

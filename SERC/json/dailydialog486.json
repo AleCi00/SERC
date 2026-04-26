@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "John ? It ’ s Susan Miller ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hi , Susan . What ’ s up ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you know where that memo about office procedures is ? I want to give my secretary a copy ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m sorry . I have no idea . I haven ’ t seen that for ages ."
+  }
+]

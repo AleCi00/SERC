@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "The plumbing in my new apartment is not working ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I need you to tell me what the problem is ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The bathroom sink is stopped up ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is the kitchen plumbing messed up also , or just the bathroom plumbing ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Just the bathroom plumbing seems to have a problem ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Did this just start happening , or has it been going on for a while ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Everything worked beautifully until a few hours ago ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Are you going to be home so I can come by and take a look at the problem ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I am not sure if I will be home later ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I will be coming by around 10 this morning . If you aren ’ t there , I ’ ll just use my key ."
+  }
+]

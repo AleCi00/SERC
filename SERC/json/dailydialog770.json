@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I prefer potatoes to eggplants ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I feel eggplants are more nutritious ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But as a matter of fact , potatoes taste better ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , that's how you see it ."
+  }
+]

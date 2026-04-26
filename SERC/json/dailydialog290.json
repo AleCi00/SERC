@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm a little rushed . Is there any quicker way to get there ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , of course . You can take a taxi ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How much will that run me ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It depends on traffic and distance , but it is reasonable ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do the drivers speak English ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Some are better than others . But , you shouldn't have a problem ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are they safe ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "For the most part , yes . If you don't feel comfortable with it , then it is best not to take one at night ."
+  }
+]

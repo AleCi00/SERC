@@ -1,0 +1,175 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What time is our connecting flight ?",
+    "occurrences": [
+      "time"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.129,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me check.Oh , oh ! It ’ s at 3:25 .",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wow , that's cutting it close ! That means we only have 25 minutes to make the connection ! What gate is it at ?",
+    "occurrences": [
+      "cutting",
+      "gate"
+    ],
+    "word_count": 24,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.97,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0746,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.704,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0542,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0745,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0649,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0318,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "7%"
+      ],
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "sadness",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s at ... gate 14 .",
+    "occurrences": [
+      "gate"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1035,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , great ! That ’ s at the other end of the terminal !",
+    "occurrences": [
+      "terminal"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.406,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2009,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.376,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1966,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "20%"
+      ],
+      [
+        "sadness",
+        "19%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK , so here ’ s the plan ; When we land , run to gate 14 !",
+    "occurrences": [
+      "plan",
+      "run",
+      "gate"
+    ],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.57,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0633,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0556,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.092,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "fear",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m be right behind ya !",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

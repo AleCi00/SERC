@@ -1,0 +1,142 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "OK , everyone . Gather around . Here are the rules . No tackling . No pushing .",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You shouldn't grab someone else's shirt . That's a foul .",
+    "occurrences": [
+      "grab",
+      "foul"
+    ],
+    "word_count": 11,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.102,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1224,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.734,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0816,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0278,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "12%"
+      ],
+      [
+        "disgust",
+        "8%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Play is stopped when the person with the ball is touched .",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You can touch them only between the shoulder and the knees .",
+    "occurrences": [
+      "shoulder"
+    ],
+    "word_count": 12,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.336,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.084,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The touchdown lines are there and there . OK , let's play !",
+    "occurrences": [
+      "lines"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.031,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0044,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Before we start , let's have a moment of silence for our fallen men .",
+    "occurrences": [
+      "start",
+      "silence"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1071,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.127,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0181,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0491,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ],
+      [
+        "surprise",
+        "4%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

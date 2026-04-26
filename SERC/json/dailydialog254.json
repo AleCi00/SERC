@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good afternoon . I'd like to speak with Tom Smith ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm afraid he's away from his desk at the moment ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you know when he will be back ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He's away on a business trip . He won't be back until some time next week ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is there some way I can get into contact with him ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The best way to reach him is by cell phone . I'll give you his number ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks . And could I have his e-mail , just in case I can't get him by phone ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . His cell phone is 09112223 33 . And his e-mail is lower case t , smith--that's one word , at , c , c , w , dot , com , dot , t , w ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you so much . Does he read his e-mails daily ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . He usually replies immediately ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Great . Thanks again . You've been very helpful ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My pleasure . I hope you get a hold of him ."
+  }
+]

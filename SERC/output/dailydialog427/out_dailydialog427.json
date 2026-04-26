@@ -1,0 +1,172 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "So what do you think of my new dress ?",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think it's great ! I really like the color , and it goes really well with your eyes . I've actually been eyeing that dress at Maxine's for a while now , but I wasn't sure I could afford ninety-five dollars for a dress at the moment .",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 46,
+    "stop_word_count": 21,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0194,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Um , ninety-five dollars ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , that's the price they were advertising it at . I was hoping it might go on sale soon . Why , how much did you pay for it ?",
+    "occurrences": [
+      "pay"
+    ],
+    "word_count": 29,
+    "stop_word_count": 15,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0329,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0173,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0307,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I bought it for one hundred and forty-five dollars at Helen's Boutique . I didn't know I could get it cheaper somewhere else .",
+    "occurrences": [],
+    "word_count": 23,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Of course ! Everything at Helen's is overpriced , and they sell things that you can find at almost every other clothing store ! Why didn't you shop around ?",
+    "occurrences": [
+      "overpriced",
+      "store"
+    ],
+    "word_count": 29,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.212,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0132,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.704,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.044,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0195,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0088,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "disgust",
+        "1%"
+      ],
+      [
+        "anger",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't know , I just saw the dress and thought about how pretty it looks and how much I wanted it . I guess I was too impulsive .",
+    "occurrences": [
+      "thought",
+      "pretty",
+      "guess"
+    ],
+    "word_count": 26,
+    "stop_word_count": 13,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0637,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0361,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0306,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.367,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0282,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

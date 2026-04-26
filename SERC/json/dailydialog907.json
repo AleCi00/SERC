@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Daisy , how are you doing ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Fine , thank you . I haven ’ t seen you for quite some time . What have you been up to recently ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I have been spending a lot of time watching movies at home , so you wouldn't have seen me . Recently , I've been obsessed with horror films ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , how can you be infatuated with horror films ? They're so scary ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , you are right I used to not watch horror films , but after seeing Silence of the Lamb with Mike last month , I fell in love with them ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's amazing . But if I were you , I wouldn't have the courage to watch the first one ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But it's really exciting ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Maybe , but I would rather watch romance , science fiction , crime or even disaster movie instead of a horror picture . I wouldn't dare sleep at night after watching one ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Basically . you'll watch any type of movie except horror ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yep ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think you should have a try someday . Maybe you'll change your mind ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Maybe . After all , I am grown up now ."
+  }
+]

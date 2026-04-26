@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Here is the draft contract , Mr . Brown . Let's discuss the clauses to see if we agree on all of them . Then I will make out an original of the contract . After that , what's left is to fill out the contract and sign our names ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's OK ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The contract is to be written in Chinese and English . Both languages are equally effective ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Fine . If you'll excuse me , I'd like to go it over first . ( After about 15 minutes ) Hmm , you've done a pretty good job . It's well prepared ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I suggest that we discuss only the clauses and points where we have different opinions just to save time ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's a good idea ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "First , let's read Clause Two about packing . It's our usual practice to ship our products in containers . That'll save time and money , but your contract stipulates the use of wooden cases . So , we'd like to have the words containers are allowed in the contract ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Agreed ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "For shipment , you know we are producing a complete set of equipment for you and it won't all be finished at one time . So would you allow us to make partial shipments ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I understand your position ."
+  }
+]

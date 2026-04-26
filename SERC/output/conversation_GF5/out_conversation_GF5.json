@@ -1,0 +1,1421 @@
+[
+  {
+    "speaker": "Filippo",
+    "text": "I WARNED YOU BEFORE",
+    "occurrences": [
+      "warned"
+    ],
+    "word_count": 4,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.14,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 1.14,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.718,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.718,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.672,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "113%"
+      ],
+      [
+        "fear",
+        "71%"
+      ],
+      [
+        "surprise",
+        "67%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I WARNED YOU FUCK",
+    "occurrences": [
+      "warned"
+    ],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.14,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.57,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.718,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.359,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.336,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "56%"
+      ],
+      [
+        "fear",
+        "35%"
+      ],
+      [
+        "surprise",
+        "33%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I TOLD YOU",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "NOT TO DISAPPEAR AGAIN LIKE THIS",
+    "occurrences": [
+      "disappear",
+      "like"
+    ],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.422,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.484,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "48%"
+      ],
+      [
+        "fear",
+        "42%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I swear I have a hatred for you right now that is becoming infinite",
+    "occurrences": [
+      "swear",
+      "hatred"
+    ],
+    "word_count": 13,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.953,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1906,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.136,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1406,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1282,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0656,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "anticipation-anger": 0.953,
+    "anticipation-anger_computed": 0.1906,
+    "sadness-anger": 0.953,
+    "sadness-anger_computed": 0.1906,
+    "anger-trust": 0.953,
+    "anger-trust_computed": 0.1906,
+    "anger-joy": 0.953,
+    "anger-joy_computed": 0.1906,
+    "trust-anger": 0.953,
+    "trust-anger_computed": 0.1906,
+    "surprise-anger": 0.953,
+    "surprise-anger_computed": 0.1906,
+    "anger-sadness": 0.953,
+    "anger-sadness_computed": 0.1906,
+    "anger-fear": 0.953,
+    "anger-fear_computed": 0.1906,
+    "anger-anticipation": 0.953,
+    "anger-anticipation_computed": 0.1906,
+    "disgust-anger": 0.953,
+    "disgust-anger_computed": 0.1906,
+    "anger-surprise": 0.953,
+    "anger-surprise_computed": 0.1906,
+    "joy-anger": 0.953,
+    "joy-anger_computed": 0.1906,
+    "main_emotion": [
+      [
+        "anger",
+        "19%"
+      ],
+      [
+        "anticipation-anger",
+        "19%"
+      ],
+      [
+        "sadness-anger",
+        "19%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-anticipation",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "anger-fear",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "anger-joy",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "anger-sadness",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "anger-surprise",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "anger-trust",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-anger",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-anger",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anger",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "sadness-anger",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anger",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anger",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "Filippo",
+    "text": "you can't treat me like this",
+    "occurrences": [
+      "treat",
+      "like"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.175,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0583,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.172,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.026,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.094,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.529,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1763,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.076,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0253,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.104,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.302,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "30%"
+      ],
+      [
+        "joy",
+        "17%"
+      ],
+      [
+        "anticipation",
+        "17%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "You're doing one of the worst things you could ever do",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "YOU'RE RUINING EVERYTHING",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I HAD GIVEN YOU A SECOND CHANCE",
+    "occurrences": [
+      "chance"
+    ],
+    "word_count": 6,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.032,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.344,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "34%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "YOU'RE DESTROYING EVERYTHING LIKE THIS",
+    "occurrences": [
+      "destroying",
+      "like"
+    ],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.688,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.422,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.688,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.468,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.367,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.242,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "42%"
+      ],
+      [
+        "fear",
+        "42%"
+      ],
+      [
+        "sadness",
+        "36%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "YOU HAVE TO ANSWER OR THERE'S NO GOING BACK",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "If you don't answer me soon I will never forget it, I'll carry a big grudge inside forever",
+    "occurrences": [
+      "grudge"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0656,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "There will be an incurable wound",
+    "occurrences": [
+      "incurable",
+      "wound"
+    ],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.015,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.5075,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.508,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.254,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.368,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.684,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.328,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.664,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "68%"
+      ],
+      [
+        "sadness",
+        "66%"
+      ],
+      [
+        "anger",
+        "50%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "You won't be the same person anymore",
+    "occurrences": [
+      "wont"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0963,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "ANSWER FUCK OR EVERYTHING WILL CHANGE FOREVER GIULIA",
+    "occurrences": [
+      "change"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.396,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.066,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "YOU HAVE TO ANSWER FUCK NOTHING WILL BE LIKE BEFORE",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.242,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "24%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "DAMNED",
+    "occurrences": [],
+    "word_count": 1,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "DAMNED YOU ARE",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "YOU'RE A HUGE BITCH",
+    "occurrences": [
+      "bitch"
+    ],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.606,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.5353,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.296,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.432,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.198,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2707,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "53%"
+      ],
+      [
+        "disgust",
+        "43%"
+      ],
+      [
+        "sadness",
+        "27%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "YOU MADE ME FEEL FOR HALF AN HOUR BEFORE AND AN HOUR AFTER",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "A HATRED AND A RAGE AND A GRUDGE THAT WILL NEVER GO AWAY",
+    "occurrences": [
+      "hatred",
+      "rage",
+      "grudge"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 5.04,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.84,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.36,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2267,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.406,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2343,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.282,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2137,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "anticipation-anger": 1.906,
+    "anticipation-anger_computed": 0.3177,
+    "sadness-anger": 1.906,
+    "sadness-anger_computed": 0.3177,
+    "anger-trust": 1.906,
+    "anger-trust_computed": 0.3177,
+    "anger-joy": 1.906,
+    "anger-joy_computed": 0.3177,
+    "trust-anger": 1.906,
+    "trust-anger_computed": 0.3177,
+    "surprise-anger": 1.906,
+    "surprise-anger_computed": 0.3177,
+    "anger-sadness": 1.906,
+    "anger-sadness_computed": 0.3177,
+    "anger-fear": 1.906,
+    "anger-fear_computed": 0.3177,
+    "anger-anticipation": 1.906,
+    "anger-anticipation_computed": 0.3177,
+    "disgust-anger": 1.906,
+    "disgust-anger_computed": 0.3177,
+    "anger-surprise": 1.906,
+    "anger-surprise_computed": 0.3177,
+    "joy-anger": 1.906,
+    "joy-anger_computed": 0.3177,
+    "main_emotion": [
+      [
+        "anger",
+        "84%"
+      ],
+      [
+        "anticipation-anger",
+        "31%"
+      ],
+      [
+        "sadness-anger",
+        "31%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-anticipation",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "anger-fear",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "anger-joy",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "anger-sadness",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "anger-surprise",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "anger-trust",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-anger",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-anger",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "joy-anger",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "sadness-anger",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anger",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      },
+      {
+        "emotion": "trust-anger",
+        "matched_words": [
+          {
+            "word": "hatred",
+            "score": 0.953
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I'LL MAKE YOU SUFFER ALL OF IT",
+    "occurrences": [
+      "ill"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.111,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.164,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.207,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.198,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "20%"
+      ],
+      [
+        "sadness",
+        "19%"
+      ],
+      [
+        "disgust",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "FUCK",
+    "occurrences": [],
+    "word_count": 1,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "BECAUSE THAT'S HOW IT WILL GO",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "You're not well Pippo",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I have no intention of living if you graduate and I don't",
+    "occurrences": [
+      "living"
+    ],
+    "word_count": 11,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.078,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "We have to graduate together. And then enroll in master's together fuck",
+    "occurrences": [
+      "together",
+      "enroll",
+      "together"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0795,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.788,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1313,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0768,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I'm not doing mechanical engineering... DON'T DO IT EITHER",
+    "occurrences": [
+      "don"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.546,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1365,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Since you only want to make me feel guilty for doing my things well... I am going to do it",
+    "occurrences": [
+      "guilty"
+    ],
+    "word_count": 20,
+    "stop_word_count": 12,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.591,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0739,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0761,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "7%"
+      ],
+      [
+        "anger",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "YOUR LIFE DEPENDS ON MINE",
+    "occurrences": [
+      "life",
+      "mine"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.47,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.49,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "49%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "GET IT IN YOUR HEAD BITCH THAT WE GRADUATE TOGETHER OR LIFE IS OVER FOR BOTH",
+    "occurrences": [
+      "bitch",
+      "together",
+      "life"
+    ],
+    "word_count": 16,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.606,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2677,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.296,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.216,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.099,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.664,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2773,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1353,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "27%"
+      ],
+      [
+        "anger",
+        "26%"
+      ],
+      [
+        "disgust",
+        "21%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "GET IT IN YOUR HEAD BECAUSE OTHERWISE WHEN THE MOMENT IS APPROACHING YOU WON'T BE READY",
+    "occurrences": [
+      "approaching",
+      "ready"
+    ],
+    "word_count": 16,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.376,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.396,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "39%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "AND I'LL PROVE TO YOU THAT IT'S OVER",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "OTHERWISE YOU DON'T BELIEVE IT",
+    "occurrences": [
+      "don"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.546,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.273,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "27%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "SO STOP THINKING ABOUT YOUR USELESS CAREER",
+    "occurrences": [
+      "career"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2265,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "22%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "BECAUSE IF MINE ENDS YOURS ISN'T WORTH ANYTHING",
+    "occurrences": [
+      "mine"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1485,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Our lives continue to be worth something even without each other Pippo",
+    "occurrences": [
+      "continue"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.069,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "No fuck",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "I'll ruin it for you",
+    "occurrences": [
+      "ill",
+      "ruin"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1665,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.246,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.346,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.673,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.25,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.625,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "67%"
+      ],
+      [
+        "sadness",
+        "62%"
+      ],
+      [
+        "disgust",
+        "24%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Thanks eh... and you say you love me... But do you realize what you're writing",
+    "occurrences": [
+      "love"
+    ],
+    "word_count": 15,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1183,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1083,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "If we don't graduate together everything will be ruined",
+    "occurrences": [
+      "together",
+      "ruined"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.545,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.109,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1062,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.394,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0788,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.697,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1394,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "13%"
+      ],
+      [
+        "anger",
+        "10%"
+      ],
+      [
+        "disgust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "okay, I don't want to, okay? It seems fair to me to be able to think about my life as well as yours. Am I asking too much? I don't think so... Your request is asking too much!",
+    "occurrences": [
+      "life"
+    ],
+    "word_count": 36,
+    "stop_word_count": 19,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0258,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Giulia",
+    "text": "Does it seem like a sensible request to make to lose exams to help you?!?! Really? I mean, would you make me graduate in January just to help you?",
+    "occurrences": [
+      "like",
+      "lose",
+      "help",
+      "help"
+    ],
+    "word_count": 28,
+    "stop_word_count": 14,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.261,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0186,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0179,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0569,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.509,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0364,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0274,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0346,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "5%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "Apart from the fact that it's very sensible, our lives go hand in hand together",
+    "occurrences": [
+      "fact",
+      "together"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.394,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0493,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0909,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "joy",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "If you want to do something you do it halfway with me",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "Filippo",
+    "text": "you live your life hand in hand with me",
+    "occurrences": [
+      "live",
+      "life"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.211,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "21%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me . What should be included in my CV ?",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Generally speaking , a CV or resume is made up of 6 parts , personal information , educational experience , practical experience , personal skills , self-evaluation and job intentions .",
+    "occurrences": [
+      "personal",
+      "educational",
+      "experience",
+      "experience",
+      "personal"
+    ],
+    "word_count": 26,
+    "stop_word_count": 6,
+    "occurrences_count": 5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0375,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0793,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What kind of personal information ?",
+    "occurrences": [
+      "kind",
+      "personal"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1552,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.141,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2853,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "28%"
+      ],
+      [
+        "joy",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Including your name , sex , date of birth , height , phone number , and so on .",
+    "occurrences": [
+      "sex",
+      "date",
+      "birth"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.429,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1588,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0226,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.419,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1577,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.875,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0972,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "15%"
+      ],
+      [
+        "joy",
+        "15%"
+      ],
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Marketing Manager ’ s Office . Can I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Mr . Smith , please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sorry , he is out ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What time do you expect him back then ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sorry , I am not sure . Can I take a message ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thanks . I will call back later ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That ’ s fine . Please call again later ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . Thank you . Goodbye ."
+  }
+]

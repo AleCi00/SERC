@@ -1,0 +1,82 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m pretty sure that Jim will turn out to be a good lawyer .",
+    "occurrences": [
+      "pretty",
+      "turn",
+      "good",
+      "lawyer"
+    ],
+    "word_count": 15,
+    "stop_word_count": 8,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0357,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1139,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.485,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0693,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.349,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0499,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.016,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1451,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.984,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1406,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "14%"
+      ],
+      [
+        "trust",
+        "14%"
+      ],
+      [
+        "anticipation",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How can you be so sure ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "He knows a lot about law and he ’ s eloquent , too .",
+    "occurrences": [
+      "law"
+    ],
+    "word_count": 13,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0912,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

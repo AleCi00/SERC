@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Are you free tomorrow night ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I am ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Shall we have dinner together ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you have a special restaurant in mind ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I do . I know a place that has excellent food ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . I'll be happy to join you ."
+  }
+]

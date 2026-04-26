@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "have you seen the new Cosmo magazine that I was reading this morning ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think I may have seen it on the kitchen table ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "you're right , thanks . There's an interesting interview with a top director about his latest film that I want to finish ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "who's the director ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "it's Martin Scorsese . You liked his film , The Departed , didn't you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "yes , it was fantastic ! Can I read the article when you're finished ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "sure . You know it has an online edition , too . You should go online to read if you want to read it now ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "that's ok . I'll wait until you're finished . Just out of curiosity , do you have a subscription for that magadize ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "no . I don't buy it regularly enough for it to be worthwhile ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "how much does the magadize cost ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "it's almost three pounds now , and I think they're going to put the price up to four pounds soon ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "that's quite expensive . Who is their target audience ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Cosmo mainly has a middle-class readership , but I think circulation will fall dramatically if the price goes up anymore ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I bet you'll still buy it , though . You wouldn't be able to live without your fashion magazine !"
+  }
+]

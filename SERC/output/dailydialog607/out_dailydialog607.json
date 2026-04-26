@@ -1,0 +1,167 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What's the weather forecast for today ?",
+    "occurrences": [
+      "forecast"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1218,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "trust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Cloudy in the morning , overcast in the afternoon .",
+    "occurrences": [
+      "cloudy",
+      "morning",
+      "overcast"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.05,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1218,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "12%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Any rain ?",
+    "occurrences": [
+      "rain"
+    ],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.163,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0815,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , but I wouldn't be surprised if it rained tomorrow .",
+    "occurrences": [
+      "surprised",
+      "tomorrow"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1296,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.867,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1734,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "surprise-anticipation": 0.867,
+    "surprise-anticipation_computed": 0.1734,
+    "anticipation-surprise": 0.867,
+    "anticipation-surprise_computed": 0.1734,
+    "main_emotion": [
+      [
+        "surprise",
+        "17%"
+      ],
+      [
+        "surprise-anticipation",
+        "17%"
+      ],
+      [
+        "anticipation-surprise",
+        "17%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anticipation-surprise",
+        "matched_words": [
+          {
+            "word": "surprised",
+            "score": 0.867
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-anticipation",
+        "matched_words": [
+          {
+            "word": "surprised",
+            "score": 0.867
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I wouldn't either . It's been looking like rain for several days .",
+    "occurrences": [
+      "like",
+      "rain"
+    ],
+    "word_count": 13,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.163,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0181,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

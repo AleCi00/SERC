@@ -1,0 +1,150 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Now , what seems to be the trouble ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's nothing serious . But I always have a headache , and I haven't slept properly for several weeks . I've also lost appetite and my eyes are burning .",
+    "occurrences": [
+      "lost"
+    ],
+    "word_count": 27,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0347,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Mm , you do look rather pale . Let me take your temperature . Would you put the thermometer under your arm , please ? Now , let me listen to your pulse . Mm , do you feel weak ?",
+    "occurrences": [
+      "pale",
+      "thermometer",
+      "weak"
+    ],
+    "word_count": 37,
+    "stop_word_count": 14,
+    "occurrences_count": 3,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0231,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.305,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0133,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "2%"
+      ],
+      [
+        "trust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I never seem to have any energy .",
+    "occurrences": [
+      "energy"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0844,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'll give you a blood test . Would you roll up your sleeve ? Just as I thought . You're anemic . You'd better pay more attention to your diet . Eat plenty of fresh fruit and vegetables and food high in protein . And don't stay up late working . Try to get more rest .",
+    "occurrences": [
+      "ill",
+      "blood",
+      "thought",
+      "pay",
+      "food",
+      "late",
+      "rest"
+    ],
+    "word_count": 56,
+    "stop_word_count": 18,
+    "occurrences_count": 7,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0088,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.875,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.023,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.492,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0129,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.146,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0302,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.969,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0255,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0189,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0202,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "3%"
+      ],
+      [
+        "joy",
+        "2%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

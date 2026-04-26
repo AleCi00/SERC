@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Have you heard of Paul ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , what ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "He's got a promotion ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You're kidding ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , they made him vicepresident in charge of sells ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I don't believe it . He is only being with the company for two years ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , it's true . The board man last thirdly and they choice Paul ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well . Good for him ."
+  }
+]

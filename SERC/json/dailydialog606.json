@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I have a complaint to make . The bill you sent me was incorrect . What's more , it isn't the first time"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I must apologize , madam . We have new computers here , you know ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don't you think it's about time you got them working properly ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I agree entirely . I assure you it won't happen again ."
+  }
+]

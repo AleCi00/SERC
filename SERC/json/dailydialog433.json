@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Shall we share a taxi ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Where are you heading now ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I want to go back to my college on the Huanghe road.It is very close to your house ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is that the university next to the Teachers ' College ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's the one ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You mean we'll share the taxi ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah.If we share the cab , it'll be cheaper.Besides that your Chinese is better than mine.The drivers usually have difficulty understanding me even though I practice my pronunciation carefully ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well.Don ' t worry about it , I will be happy to share the taxi with you ."
+  }
+]

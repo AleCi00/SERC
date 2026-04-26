@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello sir , how may I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I would like to buy some flowers , please . Something really nice ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I see , may I ask what the occasion is ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s not really an occasion , it ’ s more like I ’ m sorry ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Very well.This arrangement here is very popular among regretful husbands and boyfriends . It has a dozen long stem red roses with a couple of sunflowers and a single orchid that stands out . It includes a small teddy bear to achieve the effect of immediate forgiveness ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think I ’ m gonna need more than just a dozen red roses and a bear . What else do you recommend ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Mmm , well this is our I ’ m sorry I cheated on you package . Two dozen red roses lined with tulips , carnations and lilies . The fragrance and beauty of this flower arrangement is sure to make her forgive you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don ’ t think that ’ s gonna cut it . I need something bigger and better !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m sorry sir but , what exactly did you do ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I may have accidentally insinuated that she is getting chubbier ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Get out of my store , you jerk !"
+  }
+]

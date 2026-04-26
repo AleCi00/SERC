@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can you help me now ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , but I'll be able to tomorrow ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That'll be too late ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why don't you ask Bill if he can help ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I did , but he wasn't able to either ."
+  }
+]

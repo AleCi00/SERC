@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Brian , do you know how to speak English ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where did you learn ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I learned in college ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You speak really well ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How long have you been in the U . S . ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "3 weeks ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is your wife with you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , she just got here yesterday ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Have you been to California before ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No . I've never been there ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Have you ever been to Las Vegas ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I went there once on a business trip ."
+  }
+]

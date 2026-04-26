@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Guess who I saw just now ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Who ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "John Smith , the escaped criminal ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That bad egg , who took the low road since he was a boy ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think I must report to the cops ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ok ."
+  }
+]

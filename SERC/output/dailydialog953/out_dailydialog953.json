@@ -1,0 +1,110 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I can ’ t stand being with you anymore . I'm sick of your drinking .",
+    "occurrences": [
+      "sick"
+    ],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0722,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0664,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "disgust",
+        "7%"
+      ],
+      [
+        "sadness",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I swear never to drink again . Just give me another chance , please !",
+    "occurrences": [
+      "swear",
+      "chance"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0573,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0364,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "5%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How many chances have I given you ? I don ’ t trust you any more .",
+    "occurrences": [
+      "don",
+      "trust"
+    ],
+    "word_count": 16,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0559,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.078,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.154,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "15%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You know how hard I've tried to give up drinking ? I ’ d be lost without you . I won ’ t let you go anyway .",
+    "occurrences": [
+      "lost"
+    ],
+    "word_count": 28,
+    "stop_word_count": 13,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

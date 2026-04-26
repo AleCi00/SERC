@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What can I do for you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'd like to buy some milk powder . What would you recommend ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We have many kinds of different purpose . I wonder whom you are buying for ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My son . He is two years old ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I see , sir . This one is very good ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You may rest assured . It sells well ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "May I have a look at the introduction ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Certainly . Here it is ."
+  }
+]

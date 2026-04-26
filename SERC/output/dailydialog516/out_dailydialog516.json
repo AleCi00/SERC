@@ -1,0 +1,163 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you get the news that our company is trying to find out new tactics to test us ?",
+    "occurrences": [
+      "tactics"
+    ],
+    "word_count": 19,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0219,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0352,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I know something about it . Our company often organizes all kinds of lectures to improve our professional skills .",
+    "occurrences": [
+      "improve",
+      "professional"
+    ],
+    "word_count": 20,
+    "stop_word_count": 8,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0377,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.364,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0303,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.172,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0977,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It takes most of our weekends to listen to these boring lectures , so I can not bear it anymore . It is said that they think out some tests to check our management skills .",
+    "occurrences": [
+      "bear",
+      "management"
+    ],
+    "word_count": 34,
+    "stop_word_count": 19,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.368,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0245,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.524,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0349,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0344,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "3%"
+      ],
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "anger",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is that true ?",
+    "occurrences": [
+      "true"
+    ],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.164,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.789,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3945,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "39%"
+      ],
+      [
+        "joy",
+        "16%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Definitely !",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If that information is exact , I guess our company is willing to promote someone .",
+    "occurrences": [
+      "guess"
+    ],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0498,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

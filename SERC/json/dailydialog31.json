@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "pompous . How may I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I'd like to reserve a table for dinner ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How large a group are you expecting ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Six couples ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you like to reserve a private dining room ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That sounds like a good idea ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "All right . May I have your name , Sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My name is Ron Kollwitz ."
+  }
+]

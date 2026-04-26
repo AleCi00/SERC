@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning , everyone . Let me introduce myself to you ..."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You don't need to introduce yourself , Yang . You're famous ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , thank you very much but I thought l'd try and chair the meeting by the rule — at least for a while ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK , OK !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Now , I'd like to get things under way . The main topic on today's agenda is the development of a U . S . sales strategy for the new EBB . I'd like to hear all of your ideas , Mr . Wall , you seem in top form today . Could you start the ball rolling ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Uh , oh , sure . Well , I think we should keep in mind that the key to good sales is advertising ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , that's kind of obvious ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Give me a break , Mr Yang ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Uh , let's keep this going , shall we ?"
+  }
+]

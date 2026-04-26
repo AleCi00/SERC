@@ -1,0 +1,401 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Daisy , how are you doing ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Fine , thank you . I haven ’ t seen you for quite some time . What have you been up to recently ?",
+    "occurrences": [
+      "haven",
+      "time"
+    ],
+    "word_count": 23,
+    "stop_word_count": 13,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0617,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I have been spending a lot of time watching movies at home , so you wouldn't have seen me . Recently , I've been obsessed with horror films .",
+    "occurrences": [
+      "spending",
+      "time",
+      "movies",
+      "home",
+      "horror"
+    ],
+    "word_count": 27,
+    "stop_word_count": 13,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0536,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0369,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0469,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.923,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0659,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.249,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0892,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0514,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.742,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.053,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "anger",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , how can you be infatuated with horror films ? They're so scary .",
+    "occurrences": [
+      "horror",
+      "scary"
+    ],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.082,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.689,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2111,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0899,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.742,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0927,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "21%"
+      ],
+      [
+        "anger",
+        "9%"
+      ],
+      [
+        "surprise",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , you are right I used to not watch horror films , but after seeing Silence of the Lamb with Mike last month , I fell in love with them .",
+    "occurrences": [
+      "watch",
+      "horror",
+      "fell",
+      "love"
+    ],
+    "word_count": 24,
+    "stop_word_count": 12,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0436,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0547,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.111,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0926,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.069,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.172,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0977,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.742,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0618,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0632,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "9%"
+      ],
+      [
+        "fear",
+        "9%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's amazing . But if I were you , I wouldn't have the courage to watch the first one .",
+    "occurrences": [
+      "courage",
+      "watch"
+    ],
+    "word_count": 17,
+    "stop_word_count": 9,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0654,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0235,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.695,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0869,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But it's really exciting .",
+    "occurrences": [
+      "exciting"
+    ],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2657,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.853,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2843,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.224,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "28%"
+      ],
+      [
+        "anticipation",
+        "26%"
+      ],
+      [
+        "surprise",
+        "22%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Maybe , but I would rather watch romance , science fiction , crime or even disaster movie instead of a horror picture . I wouldn't dare sleep at night after watching one .",
+    "occurrences": [
+      "watch",
+      "romance",
+      "crime",
+      "disaster",
+      "horror",
+      "dare"
+    ],
+    "word_count": 29,
+    "stop_word_count": 7,
+    "occurrences_count": 6,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 2.143,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0974,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.687,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0767,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 1.164,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0529,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 2.736,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1244,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.779,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0354,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.477,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0671,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.843,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0838,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.742,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0337,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "12%"
+      ],
+      [
+        "anger",
+        "9%"
+      ],
+      [
+        "surprise",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Basically . you'll watch any type of movie except horror .",
+    "occurrences": [
+      "youll",
+      "watch",
+      "horror"
+    ],
+    "word_count": 11,
+    "stop_word_count": 2,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0833,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0581,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0729,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.111,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1234,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0799,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.742,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0824,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0364,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "12%"
+      ],
+      [
+        "anger",
+        "8%"
+      ],
+      [
+        "surprise",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yep .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think you should have a try someday . Maybe you'll change your mind .",
+    "occurrences": [
+      "someday",
+      "youll",
+      "change",
+      "mind"
+    ],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 4,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0096,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.198,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.022,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.711,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.079,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "fear",
+        "2%"
+      ],
+      [
+        "disgust",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Maybe . After all , I am grown up now .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How about another beer ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thanks . I've had more than enough.In fact , I must be running along ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Stay around for a while.The party is warming up ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm afraid I have to leave . I have to be up early tomorrow ."
+  }
+]

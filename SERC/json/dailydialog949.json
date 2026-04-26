@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "So Janet , do you do any sports ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I go to the gym a lot . I am a member of a gym nearby ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , how often do you go ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "About three times a week if I can ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not bad ! Do you do any other sports ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not really . I ’ d really like to try golf , though ."
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "speaker": "Filippo",
+    "text": "Listen... stop saying \"eh wake up\" \"ridiculous\" \"you need to study more and better\" and all this stuff fuck... because I would probably already be graduated in two months, but if I'm in such a shitty situation that I can't do anything, I'm depressed and in total solitude and, like, today I barely touched food and I want to kill myself from how tired I am of living and my ability to study is nothing compared to normal it's because most of it is your fault and you know it well!!",
+    "occurrences": [
+      "shitty",
+      "depressed",
+      "solitude",
+      "like",
+      "food",
+      "kill",
+      "living",
+      "fault"
+    ],
+    "word_count": 75,
+    "stop_word_count": 40,
+    "occurrences_count": 8,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.297,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0085,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 2.393,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0684,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.265,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0361,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 3.921,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.112,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.156,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.033,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "fear-joy": 1.924,
+    "fear-joy_computed": 0.055,
+    "surprise-fear": 1.924,
+    "surprise-fear_computed": 0.055,
+    "fear-surprise": 1.924,
+    "fear-surprise_computed": 0.055,
+    "fear-anticipation": 1.924,
+    "fear-anticipation_computed": 0.055,
+    "fear-sadness": 1.924,
+    "fear-sadness_computed": 0.055,
+    "trust-fear": 1.924,
+    "trust-fear_computed": 0.055,
+    "anger-fear": 1.924,
+    "anger-fear_computed": 0.055,
+    "fear-disgust": 1.924,
+    "fear-disgust_computed": 0.055,
+    "fear-trust": 1.924,
+    "fear-trust_computed": 0.055,
+    "fear-anger": 1.924,
+    "fear-anger_computed": 0.055,
+    "sadness-fear": 1.924,
+    "sadness-fear_computed": 0.055,
+    "disgust-fear": 1.924,
+    "disgust-fear_computed": 0.055,
+    "anticipation-fear": 1.924,
+    "anticipation-fear_computed": 0.055,
+    "joy-fear": 1.924,
+    "joy-fear_computed": 0.055,
+    "main_emotion": [
+      [
+        "sadness",
+        "11%"
+      ],
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "fear-joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": [
+      {
+        "emotion": "anger-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "anticipation-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "disgust-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anger",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-anticipation",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-disgust",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-joy",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-sadness",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-surprise",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "fear-trust",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "joy-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "sadness-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "surprise-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      },
+      {
+        "emotion": "trust-fear",
+        "matched_words": [
+          {
+            "word": "kill",
+            "score": 0.962
+          }
+        ]
+      }
+    ]
+  }
+]

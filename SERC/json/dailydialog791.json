@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Ann , do you have time next Monday ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , what ’ s up ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Next Monday is my birthday , and I would like you to attend my party ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wow . I'd love to ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Great !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "When and where ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Five o ’ clock that afternoon , and in my place , you know ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I know . I appreciate your invitation ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I am going to invite other guys . See you that day ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "See you ."
+  }
+]

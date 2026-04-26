@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What is your nationality ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am Chinese by birth ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where is your domicile place ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My domicile place is Hebes Province ."
+  }
+]

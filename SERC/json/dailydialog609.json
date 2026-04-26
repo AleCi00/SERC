@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What are the most popular sports in your country ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Swimming in summer and skating in winter.What ' s your favorite sport ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Jogging and bowling . Do you know how to practise Bungfu ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No I don't But l do Taijiquan or Shadow boxing.People everywhere in China usually do Taijiquan early in the morning.It can help people keep fit.It has a history of over three hundred years ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is it easy to learn ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . it is I can teach you if you like ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you . I can teach you how to bowl ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Right . Let's help each other ."
+  }
+]

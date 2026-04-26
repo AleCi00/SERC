@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I went to the tutoring service centre on campus today . And I got a job ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Congratulation . What will you do ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "They got me a part-time tutoring job , teaching an Australian businessman Chinese ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's wonderful . I want to get a part-time job too . Tell me what I should do ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's very simple actually . You can go to the service centre and have your name and job interest resisted . They will give you a call if any job comes up ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good . I'll do it ."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Is it your first time to join the sports meeting of Junior High School ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , and it's great . What are the events at the sports meeting ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Long-distance race , dash , hurdle race , relay race , standing long jump , high jump , shotput and so on ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Our neighbor , Bruce , will take part in the relay race . Let's go have a look ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK , let's go ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The competition will begin in 5 minutes , it's tense here ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wonderful , Bruce is taking the lead ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Other competitors have almost caught up with him . They are neck and neck ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Come on , Bruce . Come on , Bruce ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wow , Bruce crossed the line first ."
+  }
+]

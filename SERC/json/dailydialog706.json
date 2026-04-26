@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can you speak Japanese ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I can , but not very well ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where did you learn it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "At school . And I'm still learning it now ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How long have you been learning it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "About three years ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Can you speak any other languages ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm afraid not ."
+  }
+]

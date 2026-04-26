@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Did you watch the volleyball match last night ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Who won ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "China ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What is the score ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "China beat Brazil three to zero ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wonderful ."
+  }
+]

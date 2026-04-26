@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I hate computer games ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why ? They are fine ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Because they are too violent . Some of them are even disgusting ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Indeed there are bad games . But many of them are good ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "If boys grow up with computer games , they will surely become bad ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Come on . Things are not so bad . Boys can learn to use the computer through games ."
+  }
+]

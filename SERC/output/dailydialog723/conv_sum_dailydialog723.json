@@ -1,0 +1,36 @@
+{
+  "speaker": [
+    "speaker1",
+    "speaker2"
+  ],
+  "total_words": 90,
+  "total_stop_words": 33,
+  "total_matches": 7,
+  "total_entries": 6,
+  "basic_emotions": {
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.0,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.5620000000000003,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.0,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.446,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.02,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.7190000000000001,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.1400000000000001
+  },
+  "complex_emotions": {},
+  "main_emotion": [
+    "joy",
+    "anticipation",
+    "trust"
+  ],
+  "computed_scores": {
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.0,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.0274,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.0,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.0078,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.0354,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.0126,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.0133,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.02
+  }
+}

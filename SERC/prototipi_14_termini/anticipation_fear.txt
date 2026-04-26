@@ -1,0 +1,41 @@
+Title: anticipation-fear
+
+Head Concept Name: anticipation
+Modifier Concept Name: fear
+
+head, -surprise
+
+
+T(modifier), torture, 0.984
+T(modifier), terrorist, 0.972
+T(modifier), terrorists, 0.969
+T(modifier), horrific, 0.969
+T(modifier), terrorism, 0.969
+T(modifier), suicidebombing, 0.967
+T(modifier), kill, 0.962
+T(modifier), homicidal, 0.959
+T(modifier), catastrophe, 0.953
+T(modifier), annihilate, 0.953
+T(modifier), murderer, 0.953
+T(modifier), terror, 0.953
+T(modifier), dying, 0.948
+T(modifier), war, 0.942
+
+T(head), anticipation, 0.859
+T(head), excited, 0.859
+T(head), excitement, 0.82
+T(head), anticipate, 0.82
+T(head), eagerness, 0.812
+T(head), exciting, 0.797
+T(head), expectant, 0.789
+T(head), thrilling, 0.781
+T(head), hope, 0.773
+T(head), quest, 0.766
+T(head), countdown, 0.75
+T(head), start, 0.75
+T(head), anticipatory, 0.75
+T(head), adventure, 0.75
+
+
+Result: {"torture": 0.984, "terrorist": 0.972, "terrorists": 0.969, "horrific": 0.969, "terrorism": 0.969, "suicidebombing": 0.967, "kill": 0.962, "homicidal": 0.959, "catastrophe": 0.953, "annihilate": 0.953, "murderer": 0.953, "terror": 0.953, "dying": 0.948, "excited": 0.859, "@scenario_probability": 5.055920943945503e-09}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5.055920943945503e-09]

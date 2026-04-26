@@ -1,0 +1,14 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "The weather has been terrible this week ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , I'm worried . If it's like this tomorrow , our big outdoor party will have to be canceled ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let's hope it clears up ."
+  }
+]

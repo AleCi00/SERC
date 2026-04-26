@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "The boss announces the pay raise today , right ? How much do you think we'll get ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No idea . Your guess is as good as mine ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It better be more than last year ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , anything is better than nothing . Wait and see ."
+  }
+]

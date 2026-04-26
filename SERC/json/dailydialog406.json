@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can you tell me the best way to look for an apartment ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The local newspaper has ads for housing ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is there any way to find a roommate to share an apartment with ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sometimes you can post an advertisement saying that you need a roommate ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do landlords charge for rent ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Would you like an apartment for just yourself , or do you need it for two people ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "There are two of us , but we only need a one-bedroom apartment ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You should be able to easily find that for twelve hundred dollars a month ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I really would appreciate it if you could come look at apartments with me ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure , I ’ ll go look at apartments with you anytime you want ."
+  }
+]

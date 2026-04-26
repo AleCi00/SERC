@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Chat Test DAILY DIALOG</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background: #f4f6f8;
+            color: #333;
+        }
+        h2 {
+            text-align: center;
+            margin-bottom: 10px;
+            color: #333;
+        }
+        h3 {
+            text-align: center;
+            font-size: 14px;
+            color: #FF6B35;
+        }
+        .index-flags {
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 14px;
+        }
+        .flag-dot {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            margin-right: 4px;
+        }
+        .flag-anger { background-color: red; }
+        .flag-sadness { background-color: blue; }
+        .flag-fear { background-color: yellow; }
+
+        .conversation {
+            margin-bottom: 40px;
+            background: #fff;
+            border-radius: 10px;
+            padding: 15px 20px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+        .conversation h3 {
+            color: #007BFF;
+            border-bottom: 2px solid #007BFF;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+        }
+        .summary-box {
+            background: #e3f2fd;
+            border-radius: 8px;
+            padding: 12px 15px;
+            margin-bottom: 15px;
+        }
+        .summary-title {
+            font-weight: bold;
+            color: #1565c0;
+            margin-bottom: 8px;
+        }
+        .emotions-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 8px;
+        }
+        .emotion-tag {
+            background: #bbdefb;
+            border-radius: 6px;
+            padding: 3px 8px;
+            font-size: 13px;
+            color: #0d47a1;
+        }
+        .speaker-summary {
+            font-size: 14px;
+            color: #333;
+        }
+        .entry {
+            margin-bottom: 12px;
+            padding: 10px;
+            border-left: 4px solid #007BFF;
+            background: #fafafa;
+            border-radius: 4px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+            position: relative;
+        }
+        .speaker {
+            font-weight: bold;
+            margin-bottom: 4px;
+            color: #007BFF;
+        }
+        .text {
+            margin-left: 10px;
+            margin-bottom: 4px;
+        }
+        .main_emotion {
+            color: #007BFF;
+            font-style: italic;
+            text-align: right;
+            margin-top: 4px;
+        }
+
+        .dailydialog {
+            color: #FF6B35; /* Arancione */
+            font-style: italic;
+            text-align: right;
+            margin-top: 2px;
+            font-size: 0.9em;
+        }
+
+        .flags {
+            position: absolute;
+            top: 8px;
+            right: 10px;
+            display: flex;
+            gap: 4px;
+        }
+        .info-icon {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            background: #007BFF;
+            color: white;
+            font-size: 11px;
+            font-weight: bold;
+            cursor: help;
+            position: relative;
+        }
+
+        .tooltip {
+            visibility: hidden;
+            opacity: 0;
+            position: absolute;
+            bottom: 125%;
+            right: 0;
+            background-color: #333;
+            color: #fff;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            white-space: nowrap;
+            z-index: 1000;
+            transition: opacity 0.3s;
+            font-style: normal;
+        }
+
+        .tooltip::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            right: 10px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #333 transparent transparent transparent;
+        }
+
+        .info-icon:hover .tooltip {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        /* Flags in alto a destra dei messaggi */
+        .flags {
+            position: absolute;
+            top: 8px;
+            right: 10px;
+            display: flex;
+            gap: 4px;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Test SERC - DAILY DIALOG</h2>
+<h3>Daily dialog riconosce le emozioni del modello di Elkman</h3>
+<h3>no_emotion - anger - disgust - fear - happiness - sadness - surprise</h3>
+<div class="index-flags">
+    <span class="flag-dot flag-anger"></span> Anger
+    <span class="flag-dot flag-sadness"></span> Sadness
+    <span class="flag-dot flag-fear"></span> Fear
+</div>
+
+<div id="allConversations"></div>
+
+<script>
+    const container = document.getElementById("allConversations");
+
+    const totalConversations = 1000;
+    const basePath = "output/dailydialog";
+
+    // 🔹 File delle emozioni di daily dialog per il confronto
+    const emotionsFilePath = "dialogues/dailydialog.txt";
+
+    async function loadAllChats() {
+        // 🔹 Carica il file delle emozioni
+        let allEmotions = [];
+        try {
+            const emotionsText = await fetch(emotionsFilePath).then(r => r.text());
+            allEmotions = emotionsText.trim().split('\n').map(line => line.trim().split(/\s+/));
+        } catch (err) {
+            console.error("Errore nel caricamento del file emozioni:", err);
+        }
+
+        for (let i = 1; i <= totalConversations; i++) {
+            const convDiv = document.createElement("div");
+            convDiv.className = "conversation";
+
+            const title = document.createElement("h3");
+            title.textContent = `Conversazione ${i}`;
+            convDiv.appendChild(title);
+
+            container.appendChild(convDiv);
+
+            const paths = {
+                main: `${basePath}${i}/out_dailydialog${i}.json`,
+                summary: `${basePath}${i}/conv_sum_dailydialog${i}.json`,
+                speakers: `${basePath}${i}/speaker_out_dailydialog${i}.json`
+            };
+
+            try {
+                const [mainData, summaryData, speakerData] = await Promise.all([
+                    fetch(paths.main).then(r => r.ok ? r.json() : null),
+                    fetch(paths.summary).then(r => r.ok ? r.json() : null),
+                    fetch(paths.speakers).then(r => r.ok ? r.json() : null)
+                ]);
+
+                // Riquadro riassuntivo
+                const summaryBox = document.createElement("div");
+                summaryBox.className = "summary-box";
+
+                const emotions = summaryData?.main_emotion || [];
+                const emotionTags = emotions.map(e => `<span class="emotion-tag">${e}</span>`).join("");
+
+                const speakerLines = Array.isArray(speakerData)
+                    ? speakerData.map(s => `<div>🗣️ <strong>${s.speaker}</strong>: <em>${s.main_emotion}</em></div>`).join("")
+                    : "";
+
+                summaryBox.innerHTML = `
+                    <div class="summary-title">🌈 Emozioni principali</div>
+                    <div class="emotions-list">${emotionTags || "<i>Nessuna emozione trovata</i>"}</div>
+                    <div class="summary-title">👥 Emozioni per speaker</div>
+                    <div class="speaker-summary">${speakerLines || "<i>Nessun dato speaker</i>"}</div>
+                `;
+
+                convDiv.appendChild(summaryBox);
+
+                // 🔹 Ottieni le emozioni ground truth per questa conversazione
+                const groundTruthEmotions = allEmotions[i - 1] || [];
+
+                // Messaggi con flag
+                if (Array.isArray(mainData)) {
+                    mainData.forEach((entry, msgIndex) => {
+                        const div = document.createElement("div");
+                        div.className = "entry";
+
+                        // Flags
+                        const flagsDiv = document.createElement("div");
+                        flagsDiv.className = "flags";
+
+                        if (entry.anger) {
+                            const angerDot = document.createElement("div");
+                            angerDot.className = "flag-dot flag-anger";
+                            flagsDiv.appendChild(angerDot);
+                        }
+                        if (entry.sadness) {
+                            const sadnessDot = document.createElement("div");
+                            sadnessDot.className = "flag-dot flag-sadness";
+                            flagsDiv.appendChild(sadnessDot);
+                        }
+                        if (entry.fear) {
+                            const fearDot = document.createElement("div");
+                            fearDot.className = "flag-dot flag-fear";
+                            flagsDiv.appendChild(fearDot);
+                        }
+
+                        // 🔹 Emozione ground truth per questo messaggio
+                        const gtEmotion = groundTruthEmotions[msgIndex] || "N/A";
+
+                        // Tooltip con occurrences
+                        const occurrencesText = entry.occurrences
+                            ? `Parole emozionali: ${entry.occurrences}`
+                            : "Nessuna parola emozionale";
+
+                        // Contenuto messaggio
+                        div.innerHTML = `
+                            <div class="speaker">${entry.speaker || "???"}</div>
+                            <div class="text">${entry.text || ""}</div>
+                            <div class="main_emotion">
+                                SERC: ${entry.main_emotion || ""}
+                                <span class="info-icon">
+                                    i
+                                    <span class="tooltip">${occurrencesText}</span>
+                                </span>
+                            </div>
+                            <div class="dailydialog">Daily Dialog: ${gtEmotion}</div>
+                        `;
+
+                        div.appendChild(flagsDiv);
+
+                        convDiv.appendChild(div);
+                    });
+                } else {
+                    convDiv.innerHTML += "<p style='color:red;'>Dati non validi per questa conversazione.</p>";
+                }
+
+            } catch (err) {
+                console.error(`Errore nel caricamento di dailydialog${i}:`, err);
+                convDiv.innerHTML += `<p style="color:red;">Errore nel caricamento di dailydialog${i}</p>`;
+            }
+        }
+    }
+
+    loadAllChats();
+</script>
+
+</body>
+</html>

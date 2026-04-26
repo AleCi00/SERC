@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Have you seen the new James Bond movie ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , yes . You ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . What did you think of it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I thought it was better than the others-I really liked it . What did you think of it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I liked it , too . It was exciting , but not over the top . Do you know what I mean ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Mmm . That's what I thought too . I really liked the car chase , and the opening credit sequence was very exciting . And I always enjoy watching Pierce Brosnan ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , yes . He's brilliant . Did you like the title song ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not as much as last time , actually . What's the name of the American actor who was in the supporting role ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hum , Edward Norton , or something like that . Did you like him ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . He was excellent . They worked well together , don't you think ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't know . I think the woman was better . She provided a good love interest . Lucky James Bond !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes !"
+  }
+]

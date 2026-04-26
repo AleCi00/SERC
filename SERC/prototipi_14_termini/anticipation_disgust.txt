@@ -1,0 +1,42 @@
+Title: anticipation-disgust
+
+Head Concept Name: anticipation
+Modifier Concept Name: disgust
+
+head, -surprise
+
+modifier, -honor
+
+T(modifier), cannibalism, 0.953
+T(modifier), mutilation, 0.93
+T(modifier), molestation, 0.914
+T(modifier), incest, 0.914
+T(modifier), rape, 0.906
+T(modifier), gonorrhea, 0.906
+T(modifier), cannibal, 0.898
+T(modifier), rot, 0.891
+T(modifier), corpse, 0.883
+T(modifier), massacre, 0.883
+T(modifier), excrement, 0.883
+T(modifier), barf, 0.875
+T(modifier), slaughter, 0.875
+T(modifier), slaughterhouse, 0.867
+
+T(head), anticipation, 0.859
+T(head), excited, 0.859
+T(head), excitement, 0.82
+T(head), anticipate, 0.82
+T(head), eagerness, 0.812
+T(head), exciting, 0.797
+T(head), expectant, 0.789
+T(head), thrilling, 0.781
+T(head), hope, 0.773
+T(head), quest, 0.766
+T(head), countdown, 0.75
+T(head), start, 0.75
+T(head), anticipatory, 0.75
+T(head), adventure, 0.75
+
+
+Result: {"cannibalism": 0.953, "mutilation": 0.93, "molestation": 0.914, "incest": 0.914, "rape": 0.906, "gonorrhea": 0.906, "cannibal": 0.898, "rot": 0.891, "corpse": 0.883, "massacre": 0.883, "excrement": 0.883, "barf": 0.875, "slaughter": 0.875, "excited": 0.859, "@scenario_probability": 4.895172808127237e-09}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4.895172808127237e-09]

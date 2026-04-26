@@ -1,0 +1,93 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "John , my father isn't there at all . Are you kidding ?",
+    "occurrences": [
+      "john",
+      "father"
+    ],
+    "word_count": 12,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.586,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0977,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "disgust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Cool , fellow , what's the date today , buddy ?",
+    "occurrences": [
+      "fellow",
+      "date",
+      "buddy"
+    ],
+    "word_count": 8,
+    "stop_word_count": 1,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.336,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.048,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.771,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1101,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.047,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1496,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "14%"
+      ],
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's ... oh it's the 1st April , April Fool's Day .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You forgot all of about it , didn't you ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

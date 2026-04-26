@@ -1,0 +1,105 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'd like to make an appointment with Dr.Cooper.Could you arrange it for me ?",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 13,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0807,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes.Would tomorrow morning be all right with you ?",
+    "occurrences": [
+      "tomorrow",
+      "morning"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1296,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.05,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "joy",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sorry , I've got a meeting from nine to ten.What about Monday afternoon ?",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm afraid he's fully engaged.Could you make it another time ?",
+    "occurrences": [
+      "afraid",
+      "fully",
+      "engaged",
+      "time"
+    ],
+    "word_count": 11,
+    "stop_word_count": 2,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.157,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1286,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.652,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0724,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.141,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1268,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "trust",
+        "12%"
+      ],
+      [
+        "fear",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

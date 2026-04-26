@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "So how did I do on my driving test ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you want the truth ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Of course , I do ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , you really didn't do all that well ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How bad did I do ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "To be completely honest , you failed your test ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "There were a number of reasons ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What were they ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Basically , you just can't drive ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Can I have another try ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You can take it in a couple weeks ."
+  }
+]

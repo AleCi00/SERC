@@ -1,0 +1,92 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Ms . Montgomery ? This is Richard Thomas . I ’ m sorry to bother you at home , but I ’ Ve got a bit of a problem .",
+    "occurrences": [
+      "home",
+      "problem"
+    ],
+    "word_count": 25,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.019,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.559,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0399,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh ? What ’ s wrong ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "My daughter ’ s just banged up her knee pretty badly and I ’ m going to have to take her to the hospital . I ’ ll be about two hours late .",
+    "occurrences": [
+      "daughter",
+      "pretty",
+      "badly",
+      "hospital",
+      "late"
+    ],
+    "word_count": 33,
+    "stop_word_count": 17,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0259,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0302,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.016,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0635,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.064,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0665,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.898,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0561,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "6%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "The acting of this film is marvelous in spite of the thin plot .",
+    "occurrences": [
+      "marvelous",
+      "spite"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.6,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0857,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.824,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1177,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0714,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "anger",
+        "8%"
+      ],
+      [
+        "surprise",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm sorry for hero .",
+    "occurrences": [
+      "hero"
+    ],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1405,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.086,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.773,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1933,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "19%"
+      ],
+      [
+        "joy",
+        "14%"
+      ],
+      [
+        "anticipation",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't think there's any excuse for his acting in some parts .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Don't be too critical . We can't expect it to be perfect .",
+    "occurrences": [
+      "critical",
+      "expect",
+      "perfect"
+    ],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.187,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1696,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.835,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1193,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.148,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0211,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.016,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1451,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "16%"
+      ],
+      [
+        "trust",
+        "14%"
+      ],
+      [
+        "joy",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

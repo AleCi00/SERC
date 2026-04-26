@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What would you like for Christmas ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I would like to have that new style Gl Joe ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Have you asked Santa ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes and I've written him a letter ."
+  }
+]

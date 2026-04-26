@@ -1,0 +1,66 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "hi , Lander . What's wrong ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can hardly make ends meet these days ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "same here . I have't brought any new clothes for three months ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "my income remains the same but prices just continue to rise ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "true . The news says that there is a general increase in the price of daily necessities ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "definitely . I have to spend 300 yuan more on food every month ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "the biggest price jump is for pork , so most people have to turn to chicken ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "is that inflation ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "inflation is more than just the rising prices , I guess . But the central bank is warning about the risk of inflation ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "has the government taken some measures to curb it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "yes . The government has banned price hikes in some key industries like energy ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "but I'm afraid the price hikes will spill over from food into other areas of the economy ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "you said it . I think we should tighten our budget and cut our spending ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "how ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "for a start , we can take the public transport to work . You know , running a car is a big expense ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "sounds a good idea ."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "911 . How may I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I need to report a break-in ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "When did this break-in occur ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Last night ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Where did the break-in happen ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It happened at my house ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Was anything taken ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm not sure yet ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What makes you think there was a break-in ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My front window was busted ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'll send a squad car ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Please hurry ."
+  }
+]

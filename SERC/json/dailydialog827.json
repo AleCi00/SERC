@@ -1,0 +1,66 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "hi , Mary ! What do you like to do in your spare time ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "well , I spend a lot of time watching movies ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "what a confidence ! I always watch a lot of movies , too ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "oh really , Frank ? What kind of movies do you like ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "actually , I watch whichever movie there is , be it a comedy , a sci-fi or a suspense movie . How about you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "art films are my favorite , but thrillers are cool , too ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "really impressive . These two genres are totally different ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "sure . I enjoy both of them very much ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "how often do you go to the cinema ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "once in a while , I suppose , I usually rent movies at Movie Salon ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "movie salon ? where is that ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "it's a movie rental store in my neighborhood . I've got a membership there ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "is it good ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "yes , you can find almost all new releases there ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "really ? Maybe I shall also sign up for its membership ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "why not ?"
+  }
+]

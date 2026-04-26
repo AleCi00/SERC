@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Peter , how often do you exercise ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I swim and run every day ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Now , tell me , what do you eat ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I don't eat any meat , but I do eat fish and eggs ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you eat a lot of vegetables ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh yes , and fruit , I love fruit ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you drink ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I never drink alcohol , coffee or tea . They are very bad for you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you drink ?"
+  }
+]

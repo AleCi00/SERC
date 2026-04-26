@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Oh dear , my weight has gone up again ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am not surprised , you eat too much ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And I suppose sitting at the desk all day in the office doesn't help ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , I wouldn't think so ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I do wish I could lose weight ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , why don't you go on the diet ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I've tried diets before but they've never worked ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Perhaps you should excercise more . Why don't you go to an exercise class ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , maybe I should ."
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me . How long has it been since the business was founded ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It has been 12 years since it was founded in 1998 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "So , it has a history for more than a decade ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . And it was incorporated with other businesses in 2008 due to the global financial crisis ."
+  }
+]

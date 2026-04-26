@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good morning ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What does the paper say ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Nothing much — the same old stuff . A lot of bad news as usual ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , what ’ s the weather report ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sunny and mild today , cloudy and rainy tomorrow ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Did they find those bank robbers ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not yet . They were holding two men in Ohio , but they let them go . They weren ’ t the criminals after all ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What about the sports page ? What were the scores of last night ’ s games ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here ’ s the paper ; you can read them yourself ."
+  }
+]

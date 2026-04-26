@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , sir , what can I do for you today ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hello , I need a new suit . I have an important interview next week , so I really need to look sharp ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No problem ! We have a broad selection of suits , all tailored made so that it will fit perfectly ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Great ! I want a three piece suit , preferably made from Italian cashmere or wool ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Very well sir . Would you like to have some shirts made also ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . I ’ ll also take some silver cuff link and a pair of silk ties ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Very good . Now , if you will accompany me , we can take your measurements and choose the patterns for your suit and shirts ."
+  }
+]

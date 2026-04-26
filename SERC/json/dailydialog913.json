@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Why don't you sit down and relax , darling ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don't want to ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , come over and talk to me then ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Certainly not ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "May I turn on the TV then ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Turn on the TV for what ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "So that we can sit down together and listen to some music ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Listen to the music ? And who will cook dinner , will you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I will , but let's go to the disco after dinner ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "To a disco ? Oh , no . You know I hate it ."
+  }
+]

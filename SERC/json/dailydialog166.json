@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How many pieces of luggage would you like to check in , sir ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Three bags and a suitcase . This is my luggage to check ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have any carry-on luggage ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Put your luggage on the scale , please . Oh , your luggage is overweight ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How much is the excess baggage part charge ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Twenty-two dollars"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here you are ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "This is your voucher , and you can get your luggage back on this . Have a good trip !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you !"
+  }
+]

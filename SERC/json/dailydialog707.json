@@ -1,0 +1,14 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good afternoon , Johnson ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good afternoon , Mary . How's business ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not bad , thanks ."
+  }
+]

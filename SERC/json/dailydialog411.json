@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me . Is this where I catch the bus for the zoo ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , you can take the No . 36 bus from here , but then you have to walk about 30 minutes ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That doesn't sound too bad ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Actually , if you go to the bus stop in the next block , you can take bus 301 which will let you right off in front of the zoo ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Maybe that's what I'll do . Thanks a lot ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You're welcome ."
+  }
+]

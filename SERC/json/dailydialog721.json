@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What happened , John ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Nothing ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why do you look unhappy ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m rather disappointed at not being able to see my best friend off ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , cheer up . He ’ ll understand you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I hope so ."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you like being a doctor ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , most of the time . But , sometimes things can get difficult ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Can you tell me about it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You know , sometimes patients can get very unreasonable . They may insist they are sick when they are not ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What can you do when this happens ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not much , usually I'll just keep silent ."
+  }
+]

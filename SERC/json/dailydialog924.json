@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Tom , I won first prize in the poetry contest ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Come on ! You're pulling my leg ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Really ! Here's my trophy ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wow ! Congratulations !"
+  }
+]

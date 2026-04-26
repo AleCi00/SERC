@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Come in , come in !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hi , Gary , what happened ? I was waiting for you at the theater . Why didn ’ t you meet me there ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I thought we were supposed to meet here ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Don ’ t you know our movie starts at seven ? And we were going to meet at the theater at five to seven . Then it doesn ’ t make sense to meet at the apartment ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m sorry . We must have misunderstood each other ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why don ’ t you try to be clearer about your intentions ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You ’ re right . I am sorry . Let ’ s go and watch the movie ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s okay . I don ’ t want to go now . We ’ Ve already missed ten minutes of the movie . I don ’ t want to see a movie without watching the beginning ."
+  }
+]

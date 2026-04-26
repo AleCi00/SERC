@@ -1,0 +1,43 @@
+Title: surprise-sadness
+
+Head Concept Name: surprise
+Modifier Concept Name: sadness
+
+head, -anticipation
+
+modifier, -happiness
+modifier, -jubilant
+
+T(modifier), mourning, 0.969
+T(modifier), heartbreaking, 0.969
+T(modifier), tragic, 0.961
+T(modifier), holocaust, 0.953
+T(modifier), suicidal, 0.941
+T(modifier), misery, 0.938
+T(modifier), massacre, 0.931
+T(modifier), euthanasia, 0.927
+T(modifier), depression, 0.925
+T(modifier), grieving, 0.922
+T(modifier), bereavement, 0.922
+T(modifier), fatal, 0.922
+T(modifier), bereaved, 0.92
+T(modifier), devastation, 0.917
+
+T(head), surprise, 0.93
+T(head), explode, 0.906
+T(head), flabbergast, 0.906
+T(head), explosion, 0.898
+T(head), ambush, 0.883
+T(head), explosive, 0.883
+T(head), eruption, 0.883
+T(head), surprisingly, 0.875
+T(head), startle, 0.875
+T(head), shockingly, 0.875
+T(head), frighten, 0.875
+T(head), surprised, 0.867
+T(head), frightened, 0.867
+T(head), surprising, 0.867
+
+
+Result: {"mourning": 0.969, "heartbreaking": 0.969, "tragic": 0.961, "holocaust": 0.953, "suicidal": 0.941, "misery": 0.938, "massacre": 0.931, "euthanasia": 0.927, "depression": 0.925, "grieving": 0.922, "bereavement": 0.922, "fatal": 0.922, "bereaved": 0.92, "surprise": 0.93, "@scenario_probability": 2.7962598223944416e-12}
+Scenario: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2.7962598223944416e-12]

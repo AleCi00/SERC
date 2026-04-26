@@ -1,0 +1,115 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "So Dick , how about getting some coffee for tonight ?",
+    "occurrences": [
+      "coffee"
+    ],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.333,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0833,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Coffee ? I don ’ t honestly like that kind of stuff .",
+    "occurrences": [
+      "coffee",
+      "don",
+      "like",
+      "kind"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 4,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.954,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1192,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.398,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1748,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "17%"
+      ],
+      [
+        "joy",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Come on , you can at least try a little , besides your cigarette .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What ’ s wrong with that ? Cigarette is the thing I go crazy for .",
+    "occurrences": [
+      "crazy"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.519,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0649,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.368,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.046,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "anger",
+        "6%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not for me , Dick .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "So I'm on the fifth floor ? How come this hotel has no fourth floor .",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Four is an unlucky number here , Peter.Four sounds like death in Chinese.Hotels often have no fourth floor .",
+    "occurrences": [
+      "unlucky",
+      "like",
+      "death"
+    ],
+    "word_count": 18,
+    "stop_word_count": 6,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.777,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0647,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0332,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.89,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0742,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.171,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0976,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.431,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1193,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0482,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0403,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "11%"
+      ],
+      [
+        "fear",
+        "9%"
+      ],
+      [
+        "disgust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I see.Oh , I know what I wanted to ask.How much should I tip this guy ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "People don't usually tip here , but you can.Fifty dollars should be more enough .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

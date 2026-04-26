@@ -1,0 +1,125 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello ! I'm sorry to bother you . This is a complimentary fruit tray . Your food will be ready soon .",
+    "occurrences": [
+      "complimentary",
+      "food",
+      "ready"
+    ],
+    "word_count": 22,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0357,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0184,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.93,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0664,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Wow ! It's a fruit sculpture ! Your chef is a real artist !",
+    "occurrences": [
+      "real"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.282,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1424,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Actually , uh , I made it myself ...",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You did ? Wow ! Where did you learn ...",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sorry , but I've gotta run . Enjoy your food , and ring the service button if you need anything else !",
+    "occurrences": [
+      "run",
+      "enjoy",
+      "food",
+      "service"
+    ],
+    "word_count": 20,
+    "stop_word_count": 7,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.578,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0445,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0192,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.414,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1088,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.82,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0631,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me . I am looking for a book called Little Women , but I can't find it anywhere ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let me see . I am sorry we just have sold it out ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Will you have it later ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think so . Could I have you name , telephone number ? If we get one , I will call you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's terrific . Thank you ."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What's wrong with you , young man ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Doctor , I have a bad cough and a headache ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have a fever ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don't know , but I feel terrible ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Let me examine you . Don't worry . It's nothing serious ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you think I should lie in bed ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , stay in bed and drink a lot of water . Your fever will be gone in a day or two ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . Do you think I can play football tomorrow ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Of course not . You need a good rest ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK , I'll listen to you ."
+  }
+]

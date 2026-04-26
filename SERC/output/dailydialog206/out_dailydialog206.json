@@ -1,0 +1,64 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , take a seat please . Let's get straight to the point . This is our contract . Please read it carefully before signing .",
+    "occurrences": [],
+    "word_count": 25,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Since we have reached an agreement on all terms , there shouldn't be any problems for the contract .",
+    "occurrences": [
+      "agreement",
+      "terms"
+    ],
+    "word_count": 18,
+    "stop_word_count": 10,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.258,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1573,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "May we once more remind you that the contract should be canceled by one month notice .",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I got it . Thanks .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

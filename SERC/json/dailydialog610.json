@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "When was America discovered , Tony ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm not certain . Do you know ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "America was discovered by Christopher Columbus in 1492 ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "In a way that's right . But the Vikings travelled there long beforeColumbus . And what about the Red Indians ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "All right . Ask me a question now ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Who invented the electric light bulb ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's easy . It was invented by Edison ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Correct . Now for a harder question . Who will be the first men on Mars ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I can't answer that . But I think Mars will be visited by men before theed of this century ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ask me a question now ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "All right . What is the nearest planet to the sun ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's easy . It's .. er . Venus . NO . Pluto . No . Wait a minute . It's Anthe tip of my tongue . Oh dear , what is the nearest planet to the sun ?"
+  }
+]

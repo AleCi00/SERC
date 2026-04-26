@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you get the news that our company is trying to find out new tactics to test us ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I know something about it . Our company often organizes all kinds of lectures to improve our professional skills ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It takes most of our weekends to listen to these boring lectures , so I can not bear it anymore . It is said that they think out some tests to check our management skills ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is that true ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Definitely !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If that information is exact , I guess our company is willing to promote someone ."
+  }
+]

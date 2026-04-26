@@ -1,0 +1,81 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Is it Fred's fault ?",
+    "occurrences": [
+      "fault"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.203,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "20%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , I don't suppose he's to blame.The man in the other car made a mistake .",
+    "occurrences": [
+      "blame",
+      "mistake"
+    ],
+    "word_count": 15,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0347,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "5%"
+      ],
+      [
+        "disgust",
+        "4%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But he's equally responsible because he tried to overtake you .",
+    "occurrences": [
+      "responsible"
+    ],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.789,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1315,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

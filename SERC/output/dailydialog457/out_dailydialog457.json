@@ -1,0 +1,154 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What's your main range ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Generally speaking , we provide bikes for both gentlemen and ladies , size 19 , 21 , 23 , 25 and 27 inches . We can vary the colors according to the buyer's requirements . Here are the catalogues and the pattern books . They will give you a rough idea about our products .",
+    "occurrences": [
+      "provide",
+      "books"
+    ],
+    "word_count": 50,
+    "stop_word_count": 21,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.136,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0047,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0189,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "1%"
+      ],
+      [
+        "joy",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I am interested in your flying pigeon bicycles . I think some of these items will find a ready market in Canada . But what our customers appreciate most is a reliable product .",
+    "occurrences": [
+      "interested",
+      "flying",
+      "ready",
+      "reliable"
+    ],
+    "word_count": 33,
+    "stop_word_count": 17,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.078,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0049,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0176,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.114,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0071,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.703,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0439,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "To be reliable is the strong point of our products . As a matter of fact , it's always our practice to supply high quality goods at reasonable prices . Flying pigeon is the best of its kind at the price .",
+    "occurrences": [
+      "reliable",
+      "strong",
+      "matter",
+      "fact",
+      "flying",
+      "kind"
+    ],
+    "word_count": 41,
+    "stop_word_count": 19,
+    "occurrences_count": 6,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0128,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.621,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0282,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 3.11,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1414,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "14%"
+      ],
+      [
+        "joy",
+        "2%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Then I'd like to know your availability of the products and the terms of sales , such as mode of payment , delivery , discounts , etc .",
+    "occurrences": [
+      "like",
+      "terms",
+      "delivery"
+    ],
+    "word_count": 24,
+    "stop_word_count": 12,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.648,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.054,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.015,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0846,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

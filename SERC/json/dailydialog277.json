@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , could we have two orange juice smoothies ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Would you like those with yogurt ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure , why not ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What else would you like to add ? We highly recommend caterpillar fungus ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Caterpillar fungus ? ! What the heck is that ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s a special kind of Chinese herb . It ’ s good for you !"
+  }
+]

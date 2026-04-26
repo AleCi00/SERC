@@ -1,0 +1,111 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It's said that John's broken up .",
+    "occurrences": [
+      "broken"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1197,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.177,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.594,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.198,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "19%"
+      ],
+      [
+        "fear",
+        "17%"
+      ],
+      [
+        "anger",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Really ? But his wife has always waited on him hand and foot .",
+    "occurrences": [],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I hear that John's leading a double wife .",
+    "occurrences": [
+      "leading"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1282,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's very bad of him to cheat on a lady like his wife .",
+    "occurrences": [
+      "bad",
+      "cheat",
+      "like"
+    ],
+    "word_count": 14,
+    "stop_word_count": 8,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.083,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1805,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.899,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1498,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0807,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "18%"
+      ],
+      [
+        "disgust",
+        "14%"
+      ],
+      [
+        "trust",
+        "8%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

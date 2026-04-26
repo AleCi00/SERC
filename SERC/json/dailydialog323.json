@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , 332440 ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh hello , Sally . This is Dave Thomson here . Could I speak to Jim please ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm afraid he's not in at the moment Dave . He went out about an hour ago and he's not back yet ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Any idea when he might be back ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , he shouldn't be long . He said he was just going to get some paint . But I wouldn't be surprised if he's stopped off at the pub on the way back ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . well , tell him I've called , will you , and I'll try again later ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "All right . Goodbye , Dave ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks then Sally . Goodbye ."
+  }
+]

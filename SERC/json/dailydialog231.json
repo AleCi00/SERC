@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How much is the rent ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The rent is $ 1500 per month ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And how much is the deposit ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The deposit is $ 500 ."
+  }
+]

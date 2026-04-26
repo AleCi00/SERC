@@ -1,0 +1,133 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "So tell me , what's the difference between the Board of Directors , the CEO , and the stockholders ? They all seems ot be the same group of people to me ...",
+    "occurrences": [],
+    "word_count": 27,
+    "stop_word_count": 17,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , there's a definite difference . You know , the stockholders are the people who own the company ... they're the financial control system . Then there's the CEO — the chief executive officer . He's the hot shot , the main guy who is the boss . If there is only one person with absolute power in the organization , everyone knows that the power will go to their head . It's too dangerous . That's the reason for a Board of Directors . The board is made up of people who are experts in the industry . They could be related to the organization , but more commonly , they are independent and non-biased .",
+    "occurrences": [
+      "system",
+      "officer",
+      "hot",
+      "shot",
+      "organization",
+      "dangerous",
+      "board",
+      "related",
+      "organization",
+      "independent"
+    ],
+    "word_count": 110,
+    "stop_word_count": 53,
+    "occurrences_count": 10,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.201,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0211,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.64,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0112,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.484,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.026,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.671,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0118,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0096,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.961,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0169,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.547,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0447,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "fear",
+        "2%"
+      ],
+      [
+        "anger",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How many people are on the board of directors ?",
+    "occurrences": [
+      "board"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0468,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Usually not more than 15 , not less than 10 . They meet monthly , quarterly , or biannually to oversee an organization or company . They provide long term planing and vision , and also act as moral watchdogs rto keep the company in line .",
+    "occurrences": [
+      "less",
+      "organization",
+      "provide",
+      "long",
+      "vision",
+      "moral"
+    ],
+    "word_count": 43,
+    "stop_word_count": 16,
+    "occurrences_count": 6,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.094,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0035,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.242,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.046,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.167,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0062,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.156,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0058,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0046,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.821,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0674,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ],
+      [
+        "fear",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

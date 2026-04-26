@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You are an outgoing person , quite easy to talk with ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , my friends like to get along with me well ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have many friends ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I like to make new friends ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you usually do with them ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "We like to get together , chat and enjoy beautiful music ."
+  }
+]

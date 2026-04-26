@@ -1,0 +1,159 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry , ladies . Mr . Smith's viewing is over . It ended an hour ago .",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But we just drove across town . Can't we just go in to see him one last ...",
+    "occurrences": [],
+    "word_count": 17,
+    "stop_word_count": 8,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm afraid not . But at tomorrow's funeral , the family requested an open casket service .",
+    "occurrences": [
+      "afraid",
+      "funeral",
+      "family",
+      "casket",
+      "service"
+    ],
+    "word_count": 16,
+    "stop_word_count": 5,
+    "occurrences_count": 5,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.438,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1307,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0611,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.5,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1364,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "13%"
+      ],
+      [
+        "fear",
+        "13%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This is all too fast . He's my best friend , and now he's gone .",
+    "occurrences": [
+      "friend",
+      "gone"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.471,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0589,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0566,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.75,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "9%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry . I know it must have come as a great shock .",
+    "occurrences": [
+      "shock"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.269,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0299,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.719,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0799,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "9%"
+      ],
+      [
+        "fear",
+        "7%"
+      ],
+      [
+        "disgust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The viewing was for saying goodbye , and I didn't even get that .",
+    "occurrences": [
+      "goodbye"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0536,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

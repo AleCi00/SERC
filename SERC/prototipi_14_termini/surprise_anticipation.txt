@@ -1,0 +1,42 @@
+Title: surprise-anticipation
+
+Head Concept Name: surprise
+Modifier Concept Name: anticipation
+
+head, -anticipation
+
+modifier, -surprise
+
+T(modifier), anticipation, 0.859
+T(modifier), excited, 0.859
+T(modifier), excitement, 0.82
+T(modifier), anticipate, 0.82
+T(modifier), eagerness, 0.812
+T(modifier), exciting, 0.797
+T(modifier), expectant, 0.789
+T(modifier), thrilling, 0.781
+T(modifier), hope, 0.773
+T(modifier), quest, 0.766
+T(modifier), countdown, 0.75
+T(modifier), start, 0.75
+T(modifier), anticipatory, 0.75
+T(modifier), adventure, 0.75
+
+T(head), surprise, 0.93
+T(head), explode, 0.906
+T(head), flabbergast, 0.906
+T(head), explosion, 0.898
+T(head), ambush, 0.883
+T(head), explosive, 0.883
+T(head), eruption, 0.883
+T(head), surprisingly, 0.875
+T(head), startle, 0.875
+T(head), shockingly, 0.875
+T(head), frighten, 0.875
+T(head), surprised, 0.867
+T(head), frightened, 0.867
+T(head), surprising, 0.867
+
+
+Result: {"excited": 0.859, "explode": 0.906, "flabbergast": 0.906, "explosion": 0.898, "ambush": 0.883, "explosive": 0.883, "eruption": 0.883, "surprisingly": 0.875, "startle": 0.875, "shockingly": 0.875, "frighten": 0.875, "surprised": 0.867, "frightened": 0.867, "surprising": 0.867, "@scenario_probability": 1.9486860696965785e-09}
+Scenario: [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1.9486860696965785e-09]

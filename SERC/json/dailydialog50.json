@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me , may I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Would you please fill some gas for me ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure . Which kind of gas do you want ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Unleaded , please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK ."
+  }
+]

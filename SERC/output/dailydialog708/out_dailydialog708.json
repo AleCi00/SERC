@@ -1,0 +1,211 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm too tired now . I've already worked for 12 hours overtime !",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "God ! Don't you think they should get you an assistant ?",
+    "occurrences": [
+      "god"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1383,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0269,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.09,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1557,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.234,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1763,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "17%"
+      ],
+      [
+        "joy",
+        "15%"
+      ],
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , they were supposed to , but so far nobody's turned up , and I have to do the work alone . This is the first break I've had all day .",
+    "occurrences": [
+      "alone",
+      "break"
+    ],
+    "word_count": 29,
+    "stop_word_count": 17,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.156,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.013,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.6,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.05,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0384,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "5%"
+      ],
+      [
+        "surprise",
+        "3%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They're really running you into the ground . Why don't you ask for some time off ? You could take a long weekend and have a good rest .",
+    "occurrences": [
+      "running",
+      "ground",
+      "time",
+      "long",
+      "weekend",
+      "good",
+      "rest"
+    ],
+    "word_count": 29,
+    "stop_word_count": 13,
+    "occurrences_count": 7,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.305,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0816,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.715,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1072,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0137,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.015,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0634,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "8%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm afraid I can't before I finish this project .",
+    "occurrences": [
+      "afraid"
+    ],
+    "word_count": 8,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1407,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You'd better pay more attention to your health .",
+    "occurrences": [
+      "pay",
+      "health"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0768,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.735,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1225,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.43,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0717,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "trust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I will , thanks for your concern .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You're welcome .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Steven , I'm going abroad by plane for the first time tomorrow . Can you give me some advice ? And what should I pay attention to ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "First , you should have enough sleep to get over the jet lag before the departure . Most people will suffer from jet lag for a few days after a long flight ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I will go to bed early tonight ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you have an airsickness ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't know . But I have a carsickness ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You'd better bring some medicine for airsickness ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you ."
+  }
+]

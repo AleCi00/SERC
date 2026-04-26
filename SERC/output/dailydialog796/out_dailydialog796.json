@@ -1,0 +1,95 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm dreadfully sorry for you .",
+    "occurrences": [
+      "dreadfully"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.508,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.127,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.796,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.199,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.797,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1993,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1192,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "19%"
+      ],
+      [
+        "fear",
+        "19%"
+      ],
+      [
+        "disgust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you very much for your kindness .",
+    "occurrences": [
+      "kindness"
+    ],
+    "word_count": 8,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.606,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1515,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is there any clue ?",
+    "occurrences": [
+      "clue"
+    ],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2385,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "23%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , he left nothing .",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

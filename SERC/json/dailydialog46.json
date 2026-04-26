@@ -1,0 +1,62 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "excuse me , could you tell me which line I ’ m supposed to stand in to buy bubble wrap and to post a package ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "you can buy the bubble wrap here , but you ’ ll have to stand in line over here to post your passage ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "that ’ s a really long line . How long do you think it ’ ll take to get through all those people ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "it takes about 3 minutes per person , so it ’ ll probably be about an hour ’ s wait ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "can I buy stamps here ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "sure . How many would you like ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I need 30 for my Christmas cards ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "are you sending them abroad ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "twenty of them are going abroad to China and America ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "do you have any going anywhere in the EU ? If you do , those are less expensive ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "no ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "ok , here you go . That will be 18 pounds and seventy two pence ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "and the bubble wrap ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "that ’ s another quid ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "thanks a lot . You ’ Ve been very helpful ."
+  }
+]

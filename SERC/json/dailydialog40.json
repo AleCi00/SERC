@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , is this Professor Clark ’ s office ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This is Professor Clark speaking ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hi , this is Kalina from your morning literature class ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , what can I do for you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I had a skydiving accident over the weekend and won ’ t be able to come to school today ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "My goodness ! Are you OK ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I broke my leg , but it is healing ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How long will you be out of class ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I should be able to return by next Monday ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Fine . Well , thanks for calling and letting me know you will be absent . I hope you feel better soon ."
+  }
+]

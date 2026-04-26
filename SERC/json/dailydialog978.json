@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What do you think of Frank ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "He is all right . But I think he seems to have no back bone ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why do you say that ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Whatever things get tough , he gives in ."
+  }
+]

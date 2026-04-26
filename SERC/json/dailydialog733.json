@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I hate to go outside ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Me too ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why do you hate to go outside ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I meet too many jerks ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I agree ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This city is full of jerks ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Rude people are everywhere ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But what can you do ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You can yell at them ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "And they will yell back at you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yelling doesn't do any good ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No . The best thing to do is just stay home ."
+  }
+]

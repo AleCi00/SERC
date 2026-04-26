@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Mum , can I finish my homework later ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sorry . You know the rules ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But I want to watch TV now ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That ’ s out of the question ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Please ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not a chance ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Not even for an hour ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sorry , it ’ s impossible ."
+  }
+]

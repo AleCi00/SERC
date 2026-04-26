@@ -1,0 +1,152 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Don ’ t you agree that all the thieves should be punished by cutting off their fingers ?",
+    "occurrences": [
+      "don",
+      "punished",
+      "cutting"
+    ],
+    "word_count": 18,
+    "stop_word_count": 11,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 1.147,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1639,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.406,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.058,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.743,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1061,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 1.125,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1607,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.094,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1563,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.039,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "16%"
+      ],
+      [
+        "fear",
+        "16%"
+      ],
+      [
+        "sadness",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m afraid many people would turn thumbs down on it .",
+    "occurrences": [
+      "afraid",
+      "turn",
+      "down"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 3,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.133,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0166,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1055,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0351,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "10%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ],
+      [
+        "disgust",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Don ’ t you think in that case , there wouldn ’ t be so much stealing ?",
+    "occurrences": [
+      "don",
+      "case",
+      "stealing"
+    ],
+    "word_count": 17,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.562,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0803,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.096,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.228,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0326,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.273,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.039,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "9%"
+      ],
+      [
+        "disgust",
+        "8%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Definitely . But I think it is too fierce .",
+    "occurrences": [
+      "fierce"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1624,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0704,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0938,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "16%"
+      ],
+      [
+        "fear",
+        "9%"
+      ],
+      [
+        "disgust",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

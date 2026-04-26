@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What can I do for you , young man ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I need to rent three pairs of skates for the morning ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What sizes do you need ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "One pair of 37 , and two pairs of 21 . One for me , and the other two for two kids ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Here you are . And here are three crash helmets ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks . Well , those two kids are beginners . What should I do about their safety ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , there are a lot to do , but nothing to worry about . First , make sure they don't go far from the railings ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , yeah , maybe I should ask them just to walk along the railings ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's a good idea . And remind them to be slow at the beginning , not to run into the railings ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . Anything else ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Never go to the center of the lake . The ice there is too thin to skate on ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Got it . Thanks for reminding me . And , are there any intensive training courses ?"
+  }
+]

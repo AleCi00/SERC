@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me . Where is the way out ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , that's what I'm looking for myself ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's very confusing in here , isn't it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Absolutely . Oh , do you see a sign there ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It should be the way out ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "OK . Let's go and see ."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , Victor . How are you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I'm fine ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "So , are you going to go to class tonight ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Maybe ... but I don't think so ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Really ? What's the matter ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don't know . I'm just feeling a little sad ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Listen . Come with me to class , and after class we can go out for dinner ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Now that's a good idea . Thanks a lot , Brian . I'm feeling better already ."
+  }
+]

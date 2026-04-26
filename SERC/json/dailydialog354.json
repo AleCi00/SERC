@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Now please tell me something about your past work achievements ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "All right , madam . When I was sales manager at the Beijing Friendship Store . I succeeded in raising the yearly sales volume by 25 % and profit margins from 50 % to 80 % ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That is quite an achievement ! Do you consider it your most rewarding work experience ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don't think so . I'll create further achievement in the future ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Have you received any honors ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I got the title of \" Advance Worker \" in 2006 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have any publications ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . I wrote a thesis entitled \" On Interpersonal Relations in the Socialist Market Economy \" and it was published in China Daily ."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "May I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes . Do you exchange foreign money here ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . Our bank is authorized to deal with foreign exchange ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What kinds of currency do you change ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We can change only three kinds of currency , USD , Japanese Yen and HK Dollar in our savings office ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Could you tell me what the exchange rate for USD is today ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The buying rate is 826 . 44 yuan for 100 dollars ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I want to change some Us dollars to cover my expense here ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Please go to Counter No . 2 , the foreign exchange counter . It's over there ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you ."
+  }
+]

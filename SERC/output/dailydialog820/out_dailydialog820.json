@@ -1,0 +1,202 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You'll never guess what I won at work today ! - Tickets to tonight's final NBA game .",
+    "occurrences": [
+      "youll",
+      "guess"
+    ],
+    "word_count": 15,
+    "stop_word_count": 4,
+    "occurrences_count": 2,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.796,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0724,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0298,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "7%"
+      ],
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Two , I hope and I hope that by telling me about them you are planning on taking me !",
+    "occurrences": [
+      "hope",
+      "hope",
+      "planning"
+    ],
+    "word_count": 17,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 4.138,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.5911,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.344,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3349,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.468,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2097,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 3.954,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.5649,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "59%"
+      ],
+      [
+        "trust",
+        "56%"
+      ],
+      [
+        "joy",
+        "33%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Of course ! And here's the best part , they are court side seats !",
+    "occurrences": [
+      "court"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0442,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.984,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1093,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.568,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0631,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ],
+      [
+        "fear",
+        "6%"
+      ],
+      [
+        "anger",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How in the world ! Who came up with seats like that from your company ?",
+    "occurrences": [
+      "like"
+    ],
+    "word_count": 16,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0691,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Some guy in the accounting department has a brother on the team !",
+    "occurrences": [
+      "brother",
+      "team"
+    ],
+    "word_count": 13,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.624,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.4373,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "43%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Can't beat that ! Thank you accounting guy !",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "The game starts at seven so we'd better hustle , it's already five .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What are we waiting for ? Let's go !",
+    "occurrences": [
+      "waiting"
+    ],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.664,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1328,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0282,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "13%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

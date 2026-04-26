@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good morning , sir . Can I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Good morning . I'm interested in antiques . Do you have any ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , we have a great variety of Chinese antiques ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What do you have ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , we have some painting and some porcelain . Which do you like better ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'd like porcelain ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Good . How about the table set ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , it looks well . I like it very much ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's made in Jingdezhen ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How much is it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "One thousand eight hundred yuan ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's not expensive . I'll take it ."
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What do you think of doctor Thomson ?",
+    "occurrences": [
+      "doctor"
+    ],
+    "word_count": 7,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2137,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "21%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I feel confident of his ability to cure my daughter's disease .",
+    "occurrences": [
+      "confident",
+      "disease"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.341,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0487,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.688,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0983,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.782,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1117,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0759,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.665,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.095,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1039,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "11%"
+      ],
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "disgust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How can you be so sure ?",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can tell form the way he spoke to us .",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Never believe his words .",
+    "occurrences": [
+      "words"
+    ],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.062,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0155,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

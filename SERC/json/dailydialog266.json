@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey , could you help me try and figure out how to get ready for my job interview ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "The most important thing to do is to make sure you know the company and what services or products it provides . Do you know all about them ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I pretty much understand the company ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , after you've done your research , you have to decide whether the company is casual or formal . Have you decided what they are yet ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I've been observing them ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "When you are choosing what to wear , keep all of that in mind . Have you chosen what to wear ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I already have something to wear ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I would always be ready to go shopping with you ! Should we talk about other basics ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "OK , I am ready to think of other things ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You need to make sure you arrive on time , smile , be pleasant and friendly , look the person in the eye and answer all questions to the best of your ability . You'll do great !"
+  }
+]

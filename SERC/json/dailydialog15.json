@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you have maps of downtown area ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , here you are ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How much is it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's free of charge ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thanks so much ."
+  }
+]

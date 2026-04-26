@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Can you tell me where the pots and pans are ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Pots and pans are right over there ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , thank you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Could I interest you in our store credit card ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , thanks . I already have credit cards ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But our credit card saves you 10 percent ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's a nice discount ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Here . Let me give you an application form ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you , but I'm just browsing today ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Okay . Enjoy your browsing ."
+  }
+]

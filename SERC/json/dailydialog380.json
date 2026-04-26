@@ -1,0 +1,38 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good evening , Pizza House . This is Marty speaking.May I take your order ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Um yes . I'd like a medium pizza with pepperoni , olives , and extra cheese ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We have a two-for-one special on large pizzas.Would you like a large pizza instead ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure , that sounds good ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Great ! Would you like your second pizza to be the same as the first ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , make the second one with ham , pineapple and green peppers . Oh , and make it thin crust ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Okay , thin crust . Your total is $ 21.50 and yourorder will arrive in thirty minutes or it ’ s free !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Perfect . Thank you . Bye .."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "wait ! ! I need your address !"
+  }
+]

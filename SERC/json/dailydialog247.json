@@ -1,0 +1,66 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , Sam . I want to buy a pet . Do you have any ideas ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You really should go to Rachel's pet store ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why ? anything special there ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's more than special . You can find as many kinds of animals as you can put a name to and more ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , really ? are there any snakes ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Snakes ? there are even rodents and monkeys ! it's a world of exotic pets ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's terrific . I can't wait to check it out ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hang on . are you sure you want to keep a non-traditional pet ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why not ? it's so cool ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "But it will pose a risk to your health ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Pardon ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I mean , most reptiles carry some harmful bacteria , they are likely to cause immune system problems ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , I didn't realize that ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I don't believe it's a good choice to keep those pets , especially for families with young children ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , I should have thought of my brother's baby girl . Maybe I'll just have a dog instead of an exotic pet ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , good luck , Maria ."
+  }
+]

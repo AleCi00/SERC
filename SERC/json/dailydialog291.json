@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey Jimmy . Let's go workout later today ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . What time do you want to go ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How about at 3:30 ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That sounds good . Today we work on Legs and forearm ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Hey . I just played basketball earlier , so my legs are a little sore . Let's work out on arms and stomach today ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'm on a weekly schedule . You're messing everything up ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "C'mon . We're only switching two days . You can do legs on Friday ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Aright . I'll meet you at the gym at 3:30 then ."
+  }
+]

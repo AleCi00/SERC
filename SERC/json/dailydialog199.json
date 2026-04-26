@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "You guys are charging me $ 10 for a movie that I never ordered or saw ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let's see , sir . According to your file , you watched ' Titanic ' Monday evening ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , the wrong information is in my file . I was at a concert Monday night ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , your word overrules the file , sir . One moment , please ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I knew you'd see it my way ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sir , I deleted the $ 10 , but I had to add a $ 2 service charge to your bill ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Am I in the Twilight Zone ? You're charging me for a movie I never saw ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Please don't blame me , sir . Blame the computer programmer ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "This is highway robbery . I've got a good mind to call the police !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "If it makes you feel any better , other guests feel the same way ."
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Susan is going to get a divorce .",
+    "occurrences": [
+      "divorce"
+    ],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1032,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0766,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0968,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.623,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1246,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0796,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.133,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0266,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "12%"
+      ],
+      [
+        "anger",
+        "10%"
+      ],
+      [
+        "fear",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How do you know that ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "She told me that Peter and she has a quarrel last nigh , and she left this morning , bag and baggage .",
+    "occurrences": [
+      "quarrel",
+      "morning",
+      "baggage"
+    ],
+    "word_count": 20,
+    "stop_word_count": 11,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.781,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0868,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.25,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0278,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.391,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0434,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anger",
+        "8%"
+      ],
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "joy",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , I see . But I think you are making a fuss . They will make it up . Bet it .",
+    "occurrences": [
+      "fuss"
+    ],
+    "word_count": 20,
+    "stop_word_count": 9,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.424,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0385,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0326,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anger",
+        "3%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

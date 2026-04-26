@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey , did you hear about Jessica's party this weekend ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , but I'm still waiting for my invitation ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh really ? She gave me mine earlier today ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , she'll probably just give me my invitation later on today ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , so are you planning on going ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think so . It sounds like it's going to be a lot of fun ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It really does , I can't wait ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What time does the party start ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It starts at 8 o'clock ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , well , how many people has she given invites to so far ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm not sure , but I don't think she's given out that many ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , hopefully she'll give me my invite later on today ."
+  }
+]

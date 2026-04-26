@@ -1,0 +1,477 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , George . I'm going to have a job interview next week . Could you give me some advice ?",
+    "occurrences": [
+      "interview",
+      "advice"
+    ],
+    "word_count": 19,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0138,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0475,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "4%"
+      ],
+      [
+        "fear",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . First of all , it ’ s very important for you not to be late . Job interviewers usually don ’ t think very highly of a candidate who arrives ten minutes after the appointed time , only to explain that he could not find the place or that there was heavy traffic .",
+    "occurrences": [
+      "important",
+      "late",
+      "don",
+      "time",
+      "explain"
+    ],
+    "word_count": 54,
+    "stop_word_count": 28,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0198,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.125,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0048,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.304,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0502,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "1%"
+      ],
+      [
+        "sadness",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yeah , that's very important .",
+    "occurrences": [
+      "important"
+    ],
+    "word_count": 5,
+    "stop_word_count": 1,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1583,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "So you ’ d better explore the place the day before and at the same time , look around to see what the employees are wearing . So the next day you will arrive early for the appointment .",
+    "occurrences": [
+      "explore",
+      "time",
+      "arrive"
+    ],
+    "word_count": 38,
+    "stop_word_count": 20,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.805,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1003,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ ll try my best to make a good impression on the interviewer .",
+    "occurrences": [
+      "good",
+      "interviewer"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0479,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.172,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0215,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0684,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0274,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0771,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That ’ s right . You need to create a good image in a limited time , usually about 30 to 45 minutes .",
+    "occurrences": [
+      "create",
+      "good",
+      "limited",
+      "time"
+    ],
+    "word_count": 23,
+    "stop_word_count": 9,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.292,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0209,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.899,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0642,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.835,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0596,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.167,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0119,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0441,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "trust",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It ’ s always easier to say something than to do it .",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s not too difficult to make a good impression . For example , you should take care to appear well-groomed and modestly dressed . Avoid the extremes of a too elaborate or too casual style . This will put you on the same level as other applicants and make the interviewer consider more important qualifications .",
+    "occurrences": [
+      "difficult",
+      "good",
+      "avoid",
+      "level",
+      "interviewer",
+      "important"
+    ],
+    "word_count": 58,
+    "stop_word_count": 28,
+    "occurrences_count": 6,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.383,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0128,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.188,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0063,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0276,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0182,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0073,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.703,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0568,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "fear",
+        "2%"
+      ],
+      [
+        "joy",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "But I love wearing T-shirts and jeans .",
+    "occurrences": [
+      "love"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1656,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1516,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "16%"
+      ],
+      [
+        "trust",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I advise you not to wear a too casual style when going to an interview . Informal clothes as well as torn jeans and dirty shoes convey the impression that you are not serious about the job , or that you may be casual about your work as you are about your clothes .",
+    "occurrences": [
+      "advise",
+      "wear",
+      "interview",
+      "torn",
+      "dirty"
+    ],
+    "word_count": 53,
+    "stop_word_count": 30,
+    "occurrences_count": 5,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.727,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0316,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.18,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0078,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.71,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0309,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.898,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.039,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "3%"
+      ],
+      [
+        "disgust",
+        "3%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It ’ s a pity that I cannot afford more expensive clothes .",
+    "occurrences": [
+      "pity"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0781,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You misunderstood me . Clothes which are too colorful or too expensive suggest that you do not understand what behavior is appropriate for the job , or that you are snobbish or frivolous .",
+    "occurrences": [
+      "suggest"
+    ],
+    "word_count": 33,
+    "stop_word_count": 20,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0271,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I know what you mean . I ought to wear right clothes at the right time .",
+    "occurrences": [
+      "wear",
+      "time"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0516,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0328,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "trust",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You got it . Only in this way can you gain the respect of the interviewer and his confidence in your judgement .",
+    "occurrences": [
+      "gain",
+      "respect",
+      "interviewer",
+      "confidence",
+      "judgement"
+    ],
+    "word_count": 23,
+    "stop_word_count": 14,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.539,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.171,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.335,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1483,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.352,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2613,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "26%"
+      ],
+      [
+        "anticipation",
+        "17%"
+      ],
+      [
+        "joy",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It seems that ' clothes make the man ' .",
+    "occurrences": [],
+    "word_count": 10,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It may not be true , but the first and lasting impression of you is determined by your clothes and behavior .",
+    "occurrences": [
+      "true"
+    ],
+    "word_count": 21,
+    "stop_word_count": 12,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.328,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0364,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.789,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0877,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

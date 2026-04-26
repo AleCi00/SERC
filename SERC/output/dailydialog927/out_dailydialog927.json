@@ -1,0 +1,340 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hi , Jack , how have you been ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not very well .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why ? Looks like you're feeling very down ! What happened ?",
+    "occurrences": [
+      "like",
+      "feeling",
+      "down"
+    ],
+    "word_count": 12,
+    "stop_word_count": 4,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.294,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0367,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.11,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1388,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.282,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0352,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.656,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.082,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.718,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0897,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1133,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.718,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0897,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 2.004,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2505,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "25%"
+      ],
+      [
+        "anticipation",
+        "13%"
+      ],
+      [
+        "sadness",
+        "11%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Nothing .",
+    "occurrences": [],
+    "word_count": 2,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Come on . For a man who's feeling so , down , there're usually two reasons . Either his career is going downhill , or he has a broken heart . Since you're so successful , it must be the latter .",
+    "occurrences": [
+      "feeling",
+      "down",
+      "career",
+      "broken",
+      "heart",
+      "successful"
+    ],
+    "word_count": 38,
+    "stop_word_count": 15,
+    "occurrences_count": 6,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.506,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.022,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.477,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0642,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.141,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0061,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.859,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0373,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.512,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0657,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.047,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0455,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.166,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0507,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "anticipation",
+        "6%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , you're right . I just broke up with Jane .",
+    "occurrences": [
+      "broke"
+    ],
+    "word_count": 10,
+    "stop_word_count": 4,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.073,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0807,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "8%"
+      ],
+      [
+        "fear",
+        "7%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , I'm sorry . I thought you two were made for each ocher .",
+    "occurrences": [
+      "thought"
+    ],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0517,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , you never know . I'm ready for a commitment and want to settle down , but she says she wants to pursue her career while she's still young .",
+    "occurrences": [
+      "ready",
+      "down",
+      "pursue",
+      "career"
+    ],
+    "word_count": 29,
+    "stop_word_count": 12,
+    "occurrences_count": 4,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.953,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0561,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0165,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.398,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0234,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "5%"
+      ],
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , she is not to blame . It's always difficult to choose between career and family .",
+    "occurrences": [
+      "blame",
+      "difficult",
+      "career",
+      "family"
+    ],
+    "word_count": 17,
+    "stop_word_count": 8,
+    "occurrences_count": 4,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0503,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0417,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0399,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.5,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0556,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "anger",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Maybe you're right .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Jack , I don't know what to say to comfort you , but cheer up ! There are plenty of fish in the sea and you'll find your soul mate , your perfect match !",
+    "occurrences": [
+      "comfort",
+      "cheer",
+      "youll",
+      "soul",
+      "mate",
+      "perfect"
+    ],
+    "word_count": 31,
+    "stop_word_count": 14,
+    "occurrences_count": 6,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.358,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1387,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 4.148,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.244,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 1.078,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0634,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 3.695,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2174,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "24%"
+      ],
+      [
+        "trust",
+        "21%"
+      ],
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , but it's hard to forget her at moment . You know , we were together for almost five years . It's really hard ...",
+    "occurrences": [
+      "together"
+    ],
+    "word_count": 23,
+    "stop_word_count": 10,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.394,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0303,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

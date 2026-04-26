@@ -1,0 +1,76 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello . Can you tell me what the procedures of applying for a job are ?",
+    "occurrences": [],
+    "word_count": 16,
+    "stop_word_count": 9,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , of course . There are many steps . You can apply for the job on the Internet and then send your resume to the e-mail address of the company . And wail the feedback of the company .",
+    "occurrences": [
+      "mail",
+      "wail"
+    ],
+    "word_count": 39,
+    "stop_word_count": 20,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0243,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0238,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.672,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0354,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "3%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ],
+      [
+        "fear",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What is the qualification needed by the position ?",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 5,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You must have over 2 years'experience first .",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

@@ -1,0 +1,424 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m glad you could find time to meet with me , Mr . Johnson . I can ’ t think of a nicer environment for our meeting today , the ambiance here is lovely !",
+    "occurrences": [
+      "glad",
+      "time",
+      "lovely"
+    ],
+    "word_count": 34,
+    "stop_word_count": 16,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 2.162,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1201,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.219,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1233,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.018,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.001,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.36,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.02,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.172,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0651,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "12%"
+      ],
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No problem , if possible I always combine business with pleasure . Now , let ’ s hear more about these chocolates you ’ re offering .",
+    "occurrences": [
+      "problem",
+      "pleasure",
+      "offering"
+    ],
+    "word_count": 24,
+    "stop_word_count": 10,
+    "occurrences_count": 3,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.266,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.019,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.803,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0574,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0313,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0296,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ],
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , as you know , I have recently become the sole distributor for Grangers Gourmet Bon-bons here in the United States . They ’ re a new manufacturer and are looking to break into the luxury market . Naturally , your restaurant sprang into my mind immediately . I think your brand exemplifies many of the same traits as Grangers and serving these chocolates would really add to your reputation for providing elegant , luxurious , first class dining .",
+    "occurrences": [
+      "break",
+      "luxury",
+      "mind",
+      "immediately",
+      "providing",
+      "elegant",
+      "luxurious"
+    ],
+    "word_count": 70,
+    "stop_word_count": 30,
+    "occurrences_count": 7,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.938,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0234,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.086,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0022,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 2.432,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0608,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0115,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.961,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.024,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "2%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Mmmm , sounds interesting ... gourmet chocolates , where are they produced ? Belgium ?",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Actually , the factory is located in Scotland .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Really ? I didn ’ t think they were known for their luxury chocolate production",
+    "occurrences": [
+      "luxury",
+      "chocolate",
+      "production"
+    ],
+    "word_count": 15,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.985,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1231,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.196,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1495,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.851,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1064,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "14%"
+      ],
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "trust",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That ’ s what makes this such a fantastic opportunity ! The government is one hundred percent supportive of creating new export markets and has guaranteed a low tariff for all wholesale orders of over one thousand units . They ’ Ve also reduced the red tape involved at customs as well . Here , I brought these especially for you , try one !",
+    "occurrences": [
+      "opportunity",
+      "government",
+      "tariff"
+    ],
+    "word_count": 61,
+    "stop_word_count": 24,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.234,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0063,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.296,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.035,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.242,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0065,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.359,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0097,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "fear",
+        "0%"
+      ],
+      [
+        "disgust",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh , thanks . Mmm , hmm , creamy texture , very smooth ...",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 1,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Unique , aren ’ t they ? I bet you ’ Ve never tasted anything like it ! Quality is assured as I personally visit the factory to make sure no one ’ s cutting corners with the ingredients . Only the creme make it through inspection .",
+    "occurrences": [
+      "unique",
+      "like",
+      "assured",
+      "cutting",
+      "inspection"
+    ],
+    "word_count": 45,
+    "stop_word_count": 18,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.485,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.018,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.352,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.013,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.967,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0358,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0139,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.422,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0156,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0162,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.593,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.059,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "fear",
+        "3%"
+      ],
+      [
+        "anger",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , very interesting flavors ... Slightly spicy , very unique , that ’ s for sure . Exactly what ARE the ingredients ?",
+    "occurrences": [
+      "unique"
+    ],
+    "word_count": 20,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0312,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0365,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "surprise",
+        "3%"
+      ],
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I have it on highest authority that this traditional secret recipe has been handed down in the Granger family for generations . I ’ m sure you can keep a secret . Buttermilk , cacao beans , sugar and Haggis .",
+    "occurrences": [
+      "highest",
+      "authority",
+      "secret",
+      "down",
+      "family",
+      "secret"
+    ],
+    "word_count": 37,
+    "stop_word_count": 18,
+    "occurrences_count": 6,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.491,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0258,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.236,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0124,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.091,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0574,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.281,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0148,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.344,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0181,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.274,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0671,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Haggis ? What ’ s Haggis ?",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It ’ s a traditional Scottish delicacy , you take sheep ’ s liver , heart and lung and stuff it inside of the sheep ’ s stomach .",
+    "occurrences": [
+      "heart",
+      "stomach"
+    ],
+    "word_count": 26,
+    "stop_word_count": 11,
+    "occurrences_count": 2,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.312,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0208,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.547,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0365,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ],
+      [
+        "disgust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ah , get back to you .",
+    "occurrences": [],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Mr . Johnson ? Mr . Johnson ?",
+    "occurrences": [],
+    "word_count": 8,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

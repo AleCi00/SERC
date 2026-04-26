@@ -1,0 +1,26 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hey Rachael , what's up ? How is your day ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not bad.We have had a big meeting today , remember ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , yea . I forgot.So how did it go ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Pretty well . I think the boss liked my ideas ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Great , so what happens now ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , I have to write the proposal . I'm pretty excited about it ."
+  }
+]

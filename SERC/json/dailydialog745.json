@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , are you Chinese ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , I'm Korean . Where are you from ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm from America . Are you settling in all right ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I've already found a flat and it's quite comfortable . What about you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I live in my uncle's house . He came here ten years ago ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What do you think of the local accent here ? Has it been causing you any problems ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think it's just a matter of getting used to it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can't agree more ."
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , Personal Banking . How may I help you ?",
+    "occurrences": [
+      "help"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.203,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0406,
+    "anger": false,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "fear",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hi there . I'm calling about Personal Internet Banking , what details can you give me ?",
+    "occurrences": [],
+    "word_count": 13,
+    "stop_word_count": 6,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Personal Internet Banking is a self service financial service that is based on the Internet . It can be used by both businesses and individuals . We offer an online payment service , Personal Net Banking , which includes services such as account transfers , personal foreign exchange trading . You can also get account management services , online bill payment , for household bills like gas and electricity ...",
+    "occurrences": [
+      "personal",
+      "service",
+      "service",
+      "service",
+      "account",
+      "personal",
+      "exchange",
+      "trading",
+      "account",
+      "management",
+      "like"
+    ],
+    "word_count": 58,
+    "stop_word_count": 21,
+    "occurrences_count": 11,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.102,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0028,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0139,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 3.921,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.106,
+    "anger": true,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "joy",
+        "1%"
+      ],
+      [
+        "anger",
+        "0%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That sounds good . At the moment I spend ages queuing at the post office to pay my bills .",
+    "occurrences": [
+      "good",
+      "pay"
+    ],
+    "word_count": 19,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.844,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0703,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.789,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0658,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.219,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0182,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.047,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0872,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "anticipation",
+        "7%"
+      ],
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

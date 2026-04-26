@@ -1,0 +1,254 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Now , if I look here I see that you completed a BA in English ?",
+    "occurrences": [],
+    "word_count": 12,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , that ’ s right . After graduating from high school in New York I attended York University in the UK . My major was English , and my minor was business studies . I completed my BA in 2004 .",
+    "occurrences": [
+      "school"
+    ],
+    "word_count": 34,
+    "stop_word_count": 15,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.531,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0279,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "2%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes , I ’ m pleased to see that you also got a distinction .",
+    "occurrences": [
+      "pleased"
+    ],
+    "word_count": 13,
+    "stop_word_count": 5,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.725,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0906,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes that ’ s right . I ’ Ve always enjoyed studying . My friends say I ’ m a bit of a bookworm , but my father always pushed us to succeed academically .",
+    "occurrences": [
+      "friends",
+      "father",
+      "succeed"
+    ],
+    "word_count": 32,
+    "stop_word_count": 11,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.633,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0301,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.016,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0484,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0179,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.141,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0543,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "5%"
+      ],
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , it looks like his encouragement paid off Rebecca . So how about extracurricular activities at University ?",
+    "occurrences": [
+      "like",
+      "encouragement"
+    ],
+    "word_count": 16,
+    "stop_word_count": 7,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.545,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0606,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.484,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0538,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ],
+      [
+        "trust",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well I ’ Ve always been keen on writing , so I became the editor for the University student magazine , which I really loved . Also I volunteered for a group called Shelter , to help the homeless in York .",
+    "occurrences": [
+      "loved",
+      "help",
+      "homeless"
+    ],
+    "word_count": 31,
+    "stop_word_count": 12,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.288,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0152,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.289,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0152,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0231,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.812,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0427,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.859,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0452,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.734,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0386,
+    "anger": true,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "4%"
+      ],
+      [
+        "fear",
+        "4%"
+      ],
+      [
+        "sadness",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What did that involve ?",
+    "occurrences": [],
+    "word_count": 5,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Providing warm meals and shelter , especially in the winter months . I found it really fulfilling to be part of that group .",
+    "occurrences": [
+      "providing",
+      "warm",
+      "shelter",
+      "found",
+      "fulfilling"
+    ],
+    "word_count": 23,
+    "stop_word_count": 9,
+    "occurrences_count": 5,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.469,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0335,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.605,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1146,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1155,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "11%"
+      ],
+      [
+        "joy",
+        "11%"
+      ],
+      [
+        "anticipation",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ m sure . Okay , now let ’ s move on to your work experience , shall we ?",
+    "occurrences": [
+      "experience"
+    ],
+    "word_count": 19,
+    "stop_word_count": 8,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0341,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "3%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , okay .",
+    "occurrences": [],
+    "word_count": 3,
+    "stop_word_count": 0,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

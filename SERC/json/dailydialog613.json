@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Whew ! I had to wait for almost an hour to get to the front of the line ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You have much patience ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wow ! Your calligraphy is very beautiful . It was worth the wait !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you . Today I'm writing a kind of poem called a Chinese couplet ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What does it say ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "This is an especially famous one . It says \" May the passing days bring you health and longevity . May this season of renewal find you basked in riches . \""
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's very nice . Is it for sale ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No . I never sell my artwork ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Really ? Then what do you do with it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I give it away . Here , this one is for you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Wow ! Really ? Are you sure ? Now I'll have a lucky year !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Remember , real luck must be created ( by ) yourself , and then it cannot be given or taken away ..."
+  }
+]

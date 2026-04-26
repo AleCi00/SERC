@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I find that you spend little on handset charge every month . Have you any trick ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's simple . You can use call transfer ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Is it so simple ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . You know , we spend most of our time at home or in the office every day , so I receive handset calls with the hand-free telephone , so I need pay little for receiving calls ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's true ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Call transfer has many other advantages . When I am in places where network can't cover , such as the high building , I also use call transfer function , which transfers my calls to the hand-free telephone and I will not miss any call ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "That's all ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "In hospitals or on planes , handsets will interfere with some equip-ment , so we must close our handsets . If you set call transfer , the problem will be solved ."
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What's wrong with you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I have a sore throat and headache ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you feel tired ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , my whole body feels weak . And I really feel terrible ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry to hear that . I'll have to examine you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Ok , go ahead ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Open your mouth and show me your tongue . Say ah ... You have a bad cold . So you must stay in bed for a week ."
+  }
+]

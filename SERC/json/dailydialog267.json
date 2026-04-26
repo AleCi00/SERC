@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Is there anything I can do for you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Would you please show me that mural ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Certainly . Here you are ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It looks so beautiful . How much is it ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Four hundred yuan ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's a bit more than I wanted to pay . Can you cut the price down a bit ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry . Ours is a fixed price shop and I can assure you this is the best price you can get for a mural like this ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Maybe you are right . OK , I'll take it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , I'll have it wrapped for you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you . Here is four hundred yuan ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you . Please come again ."
+  }
+]

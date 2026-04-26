@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Sorry , stewardess . Where shall I put my bags ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You can place the smaller one in the overhead bin and put the bigger one under the seat in front of you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you very much ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Please make sure to fasten your seat belt . We are to take off ."
+  }
+]

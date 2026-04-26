@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello , is that Xiaogang Li who applied for the Solar Studio of our college ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , speaking ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I want to know whether you will come to the interview . So have you accepted offers from other companies ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , I haven't got one by now . I will go to the interview of yours ."
+  }
+]

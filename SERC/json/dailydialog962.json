@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "A :: Mr Clinton , it's nice to see you again ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Nice to see you again , too . Peter . How's your family ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A :: Very well . How's Mrs Clinton ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not bad , But she's as busy as before ."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Mary , it's good to see you !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Josh and I were just on our way back home from the beach and thought we'd drop by ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I am so glad that you decided to stop by !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , it has been a long time since we have seen you ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Mary , can I get Josh or you something to drink ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Oh no , thank you . We aren't all that thirsty ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How about a little snack then ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No , thank you , we just ate lunch a little while ago ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well then , how is your family ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Everyone is doing great . My sister finally had her baby ."
+  }
+]

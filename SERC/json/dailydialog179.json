@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Mr.James . I know that office hour is up now , but could you work during the weekend and finish the translations ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , unfortunately I have got something to do this weekend . But let me see ..."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , I'm sorry.However , if you could help me out , I'll double the pay for the hours worked ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's very kind of you.How soon do you really need them ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'll need them for the conference on Monday afternoon.Do you think it can be done by then ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I'll try ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you very much , Mr.James ."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Honey , I ’ ll be right back !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Where are you going ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I told you already ! I ’ m going to get my nails done ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Again ? You just went last week ! You spend more time at the nail salon than you do here at home ! Honestly , why do you need a manicure every week ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , first of all , I like to pamper myself , and my nails look great . You should come with me !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Why ? I don ’ t want to have nail polish or anything like that !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "They don ’ t only paint my nails ! The manicurist will remove my cuticles , file my nails , and apply at least nails coats of nail polish !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , sounds like something I should definitely do ."
+  }
+]

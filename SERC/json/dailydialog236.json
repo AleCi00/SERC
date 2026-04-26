@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Excuse me . What should be included in my CV ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Generally speaking , a CV or resume is made up of 6 parts , personal information , educational experience , practical experience , personal skills , self-evaluation and job intentions ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What kind of personal information ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Including your name , sex , date of birth , height , phone number , and so on ."
+  }
+]

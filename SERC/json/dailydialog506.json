@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Could you change these for me , please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What would you like ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Twenties and some smaller bills , please ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Anything else ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . Could you tell many balance ? Here's account number ."
+  }
+]

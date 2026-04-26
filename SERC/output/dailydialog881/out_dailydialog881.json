@@ -1,0 +1,136 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Tim ’ s smiles are interesting .",
+    "occurrences": [
+      "smiles"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.766,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1532,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "15%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , they are shy and gentle but very powerful .",
+    "occurrences": [
+      "shy",
+      "gentle",
+      "powerful"
+    ],
+    "word_count": 10,
+    "stop_word_count": 5,
+    "occurrences_count": 3,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.424,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0848,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.477,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0954,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.102,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0204,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.452,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0904,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.001,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2002,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1046,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "20%"
+      ],
+      [
+        "trust",
+        "10%"
+      ],
+      [
+        "anticipation",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "You are right . They sweep Nancy off her feet . And now she fell head over heels in love with him .",
+    "occurrences": [
+      "fell",
+      "love"
+    ],
+    "word_count": 22,
+    "stop_word_count": 12,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.828,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0828,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.453,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0453,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.758,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0758,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "8%"
+      ],
+      [
+        "trust",
+        "7%"
+      ],
+      [
+        "sadness",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How wonderful it would be if I had such smiles !",
+    "occurrences": [
+      "wonderful",
+      "smiles"
+    ],
+    "word_count": 10,
+    "stop_word_count": 6,
+    "occurrences_count": 2,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 3.258,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.8145,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2265,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.25,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.3125,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "81%"
+      ],
+      [
+        "trust",
+        "31%"
+      ],
+      [
+        "surprise",
+        "22%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

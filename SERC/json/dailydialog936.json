@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I'm so glad I bought this watch !"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Cool ! Flashy red lines !"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I think this is the coolest watch I've ever owned ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Is it waterproof ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Isn't that a silly question ? You know how much of an athlete I am ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Uh , huh ... so what kind of sports do you need a waterproof watch for ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Well , surfing , scuba diving ..."
+  }
+]

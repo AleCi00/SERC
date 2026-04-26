@@ -1,0 +1,46 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I need to stop eating such unhealthy foods ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I know what you mean . I've started eating better myself ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What foods do you eat now ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I tend to stick to fruits , vegetables , and chicken ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Those are the only things you eat ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That's basically what I eat ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Why aren't you eating anything else ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , fruits and vegetables are very healthy ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And the chicken ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It's really healthy to eat when you bake it ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I guess that does sound a lot healthier ."
+  }
+]

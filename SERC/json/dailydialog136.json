@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you have a free moment ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Sure . What do you need ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm having some trouble . How do you use this printer ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , first you have to turn this switch on ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Silly me ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Now press this button ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , and it's out of paper . Do you have any more ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Just a second . I'll go get some ."
+  }
+]

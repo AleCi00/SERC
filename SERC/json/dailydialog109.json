@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I want something sweet after dinner ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What do you have in mind ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "A dessert sounds nice ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What kind are you thinking of getting ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I want to get some pie ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "What kind of pie do you want ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I have no idea ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you want to know what kind of pie I like ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Sure , what kind do you like ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I love apple pie ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , I love apple pie too ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "There you go . Problem solved ."
+  }
+]

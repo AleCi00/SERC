@@ -1,0 +1,14 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Are you sure you can't lend me five thousand dollars ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Hmm ... I'll tell you what . I'll lend you four thousand dollars , but you have to pay me back next week ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It's a deal ."
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It seldom rains this summer .",
+    "occurrences": [
+      "summer"
+    ],
+    "word_count": 6,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.591,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1477,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "14%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yeah , some places are very short of water .",
+    "occurrences": [],
+    "word_count": 9,
+    "stop_word_count": 4,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Because of pollution and other things , our environment has become worse and worse .",
+    "occurrences": [
+      "pollution",
+      "worse",
+      "worse"
+    ],
+    "word_count": 14,
+    "stop_word_count": 7,
+    "occurrences_count": 3,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.68,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0971,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.968,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1383,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.906,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1294,
+    "anger": false,
+    "fear": true,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "fear",
+        "13%"
+      ],
+      [
+        "sadness",
+        "12%"
+      ],
+      [
+        "disgust",
+        "9%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "You see , This time I traveled to the West . When I looked out of the windows of the rain , all the lands that I could see are as dry as a bone .",
+    "occurrences": [
+      "time",
+      "rain"
+    ],
+    "word_count": 29,
+    "stop_word_count": 16,
+    "occurrences_count": 2,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.516,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0397,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.163,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0125,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "anticipation",
+        "3%"
+      ],
+      [
+        "sadness",
+        "1%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "It is serious .",
+    "occurrences": [],
+    "word_count": 4,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

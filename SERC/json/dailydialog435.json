@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "That dress is very pretty . Why don ’ t you like it ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s too loud ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "We ’ Ve been looking around for many hours.What on earth are you looking for ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Well , you know , those styles or colors don ’ t suit me ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What style do you want ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I want to buy a V-neck checked sweater , and it should be tight ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , I see.How about the color ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Quiet color ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I know a shop selling this kind of sweaters ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Really ? Let ’ s go there ."
+  }
+]

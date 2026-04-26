@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "How are you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m doing well ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How may I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Could you cancel a check for me ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What ’ s the problem ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I wrote the check out for way too much ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "How much ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I wrote the check out for $ 150 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What were you supposed to write it out for ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I was supposed to write the check out for $ 100 ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I ’ ll just cancel it for you right now ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "That ’ s great . You ’ re a lifesaver ."
+  }
+]

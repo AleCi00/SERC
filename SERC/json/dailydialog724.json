@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Do you like ethnic food ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I do ! My favorites are Mexican , Thai , and Indian ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Really ? Have you ever tried Moroccan ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I can't say that I have . What are the basic ingredients ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't know . A friend of mine said I should try it ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Do you know where a Moroccan restaurant is ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "As a matter of fact , he gave me this address ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Let's go there for lunch ! I'm up for an adventure !"
+  }
+]

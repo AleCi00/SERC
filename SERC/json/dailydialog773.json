@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What are you going to do next year ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I want to go traveling ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Do you have any where in mind ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I've been thinking about Florida ."
+  }
+]

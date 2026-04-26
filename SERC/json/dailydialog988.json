@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "What courses did you take in college ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I took a lot of courses , such as Philosophy , Logic , Ethics , Aesthetics , etc ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Which course did you like best ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I liked Aesthetics best . It is very impressive ."
+  }
+]

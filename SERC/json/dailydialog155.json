@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I want some cosmetics.Could you recommend some ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think Pond's is the best ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "And they're very dear , too ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "They're on special offer today ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oh , that's ideal ."
+  }
+]

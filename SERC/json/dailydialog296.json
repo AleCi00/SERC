@@ -1,0 +1,50 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "It ’ s nice meeting you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It ’ s nice to meet you , too ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I am happy to be speaking to a presidential candidate ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Would you like to ask me anything ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "What do you feel about gay marriage ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I think everyone has the right to love who they want ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Would you legalize gay marriage ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , I would ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Many people won ’ t like that ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I ’ m sure they won ’ t , but that ’ s my view on gay marriage ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I really like you ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I really appreciate that ."
+  }
+]

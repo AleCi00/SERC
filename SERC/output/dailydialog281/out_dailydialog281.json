@@ -1,0 +1,191 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Unfortunately , according to our regulations I have to confiscate these counterfeit notes .",
+    "occurrences": [
+      "unfortunately",
+      "confiscate"
+    ],
+    "word_count": 12,
+    "stop_word_count": 5,
+    "occurrences_count": 2,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.394,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0563,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 1.18,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1686,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "16%"
+      ],
+      [
+        "anger",
+        "5%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "So , this 500 RIB is worthless ?",
+    "occurrences": [
+      "worthless"
+    ],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.438,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1095,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1": 0.508,
+    "disgust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.127,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.609,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1522,
+    "anger": true,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "sadness",
+        "15%"
+      ],
+      [
+        "disgust",
+        "12%"
+      ],
+      [
+        "anger",
+        "10%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'm sorry but it is our regulation , so I must follow it . We will issue you with a receipt to show that the notes you presented us with are counterfeit and have been confiscated . Then , if you wish to pay in some more cash , you are free to do so .",
+    "occurrences": [
+      "follow",
+      "show",
+      "pay",
+      "cash",
+      "free"
+    ],
+    "word_count": 52,
+    "stop_word_count": 32,
+    "occurrences_count": 5,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1": 0.039,
+    "anger-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0019,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.93,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0465,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1": 0.062,
+    "fear-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0031,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.192,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0596,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.673,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0836,
+    "anger": true,
+    "fear": true,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "joy",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Right , I see . Let me give you another 500 RIB .",
+    "occurrences": [],
+    "word_count": 11,
+    "stop_word_count": 2,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Here's your Passbook back and the receipt to say we confiscated the 500 RIB worth of counterfeit notes .",
+    "occurrences": [],
+    "word_count": 18,
+    "stop_word_count": 7,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thanks . Now can I make the full deposit ?",
+    "occurrences": [
+      "full"
+    ],
+    "word_count": 9,
+    "stop_word_count": 3,
+    "occurrences_count": 1,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.375,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0625,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Yes . Please fill in a new deposit slip and we can continue .",
+    "occurrences": [
+      "fill",
+      "slip",
+      "continue"
+    ],
+    "word_count": 14,
+    "stop_word_count": 5,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.414,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.046,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.461,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0512,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.742,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0824,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "8%"
+      ],
+      [
+        "surprise",
+        "5%"
+      ],
+      [
+        "anticipation",
+        "4%"
+      ]
+    ],
+    "combined_emotions": []
+  }
+]

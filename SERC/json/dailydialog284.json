@@ -1,0 +1,42 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Good afternoon . Can I help you ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I need some remedies for an upset stomach ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Are you also suffering from pain and fever ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , and I also have the runs"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I'll give you some tablets that should make you feel better . One moment , please . Here you are . Take these tablets three times a day swallow them with water ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "When should I take them ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Take on after each meal ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "How long should I continue taking them ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Take them for two days.If your symptoms persist for more than two days , you should see a doctor Also , be sure to drink plenty of water to prevent dehydration ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Thank you for your advice ."
+  }
+]

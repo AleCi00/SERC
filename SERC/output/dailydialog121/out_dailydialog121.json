@@ -1,0 +1,111 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "I wonder if I can see your mother , little boy . Is she engaged ?",
+    "occurrences": [
+      "wonder",
+      "mother",
+      "engaged"
+    ],
+    "word_count": 14,
+    "stop_word_count": 6,
+    "occurrences_count": 3,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 1.047,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1309,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 1.67,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.2087,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1": 0.016,
+    "sadness-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.002,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1": 0.523,
+    "surprise-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0654,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 1.328,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.166,
+    "anger": false,
+    "fear": false,
+    "sadness": true,
+    "main_emotion": [
+      [
+        "joy",
+        "20%"
+      ],
+      [
+        "trust",
+        "16%"
+      ],
+      [
+        "anticipation",
+        "13%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Engaged ? She ’ s married .",
+    "occurrences": [
+      "engaged"
+    ],
+    "word_count": 7,
+    "stop_word_count": 2,
+    "occurrences_count": 1,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1": 0.641,
+    "anticipation-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1282,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1": 0.652,
+    "joy-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.1304,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.625,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.125,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "joy",
+        "13%"
+      ],
+      [
+        "anticipation",
+        "12%"
+      ],
+      [
+        "trust",
+        "12%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Johnny , I wish you ’ d stop reaching for things . Haven ’ t you a tongue ?",
+    "occurrences": [
+      "haven"
+    ],
+    "word_count": 17,
+    "stop_word_count": 7,
+    "occurrences_count": 1,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1": 0.617,
+    "trust-NRC-Emotion-Intensity-Lexicon-v1_computed": 0.0617,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [
+      [
+        "trust",
+        "6%"
+      ]
+    ],
+    "combined_emotions": []
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Yes , Mother , but my arm is longer .",
+    "occurrences": [],
+    "word_count": 7,
+    "stop_word_count": 3,
+    "occurrences_count": 0,
+    "anger": false,
+    "fear": false,
+    "sadness": false,
+    "main_emotion": [],
+    "combined_emotions": []
+  }
+]

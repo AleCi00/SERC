@@ -1,0 +1,22 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Sir what's the boarding time ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "I am sorry.The flight is late.Please go to the waiting room for further notice ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I don't want to miss my flight ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Don't worry . We will keep you well informed ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Thank you ."
+  }
+]

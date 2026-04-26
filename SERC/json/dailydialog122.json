@@ -1,0 +1,34 @@
+[
+  {
+    "speaker": "speaker1",
+    "text": "Hello ! Tomorrow I'm going to need a wake-up call ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Not a problem . What time shall we call you ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "I always hit the snooze button , so give me two calls , one at 7 and another at 7 fifteen ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "It'll be our pleasure . We'll call you at 7 and then at 7 fifteen ."
+  },
+  {
+    "speaker": "speaker1",
+    "text": "Oops , cancel that . Change the second call to 7 thirty will you , please ?"
+  },
+  {
+    "speaker": "speaker2",
+    "text": "No sooner said than done . Can I help you with anything else ?"
+  },
+  {
+    "speaker": "speaker1",
+    "text": "No , that's about it for now . Thanks ."
+  },
+  {
+    "speaker": "speaker2",
+    "text": "Okay , sir . Have a pleasant evening ."
+  }
+]
